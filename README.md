@@ -2,7 +2,7 @@
 
 ```
 # grep -m 1 model\ name /proc/cpuinfo
-model name	: AMD EPYC 7773X 64-Core Processor
+model name	: Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz
 # grep MemTotal /proc/meminfo
-MemTotal:       2100990604 kB
+MemTotal:       32731444 kB
 ```
