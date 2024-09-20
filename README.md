@@ -2,7 +2,7 @@
 
 ```
 # grep -m 1 model\ name /proc/cpuinfo
-model name	: Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz
 # grep MemTotal /proc/meminfo
-MemTotal:       32731444 kB
+MemTotal:       65805472 kB
 ```
