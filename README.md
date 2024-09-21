@@ -1,17 +1,17 @@
 # loading...
-MBSN = BDF02B9F627EDE94DA554FD3020CDD8117Z90N-R.AAC8U1
+MBSN = hidden
 ```
 NETBOOT.RU COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2020-2024
 
-	Running on Linux 6.1.0-20-amd64 x86_64
-	21 September 2024, Saturday, 15:27 (MSK)
+	Running on Linux 6.1.0-25-amd64 x86_64
+	21 September 2024, Saturday, 12:58 (UTC)
 
- Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz
- 4 core(s)
+ Intel(R) Xeon(R) Gold 6134 CPU @ 3.20GHz
+ 8 core(s)
  VMX-Virtualisation
 
- Memory size: 7.4Gi
+ Memory size: 376Gi
  Memory used: 3.9Gi
- Memory free: 2.0Gi
+ Memory free: 374Gi
 ```
-https://www.netboot.ru/rVnriC8hPx
+https://www.netboot.ru/sp0EIZFM7v
