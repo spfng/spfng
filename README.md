@@ -1,8 +1,10 @@
-# Hello World!
+# loading...
 
 ```
 # grep -m 1 model\ name /proc/cpuinfo
-model name	: Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
+model name	: Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz
 # grep MemTotal /proc/meminfo
-MemTotal:       131562640 kB
+MemTotal:        7739876 kB
 ```
+---
+https://www.defaced.ru/about/notes/$note_id
