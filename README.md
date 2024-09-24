@@ -3,16 +3,16 @@
 NETBOOT.RU COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2020-2024
 
 	Running on Linux 6.1.0-25-amd64 x86_64
-	23 September 2024, Monday, 15:47 (UTC)
+	24 September 2024, Tuesday, 03:32 (UTC)
 
- AMD EPYC 7763 64-Core Processor
- 64 core(s)
- SVM-Virtualisation
+ Intel(R) Xeon(R) CPU E5-2687W v4 @ 3.00GHz
+ 12 core(s)
+ VMX-Virtualisation
 
- Memory size: 1.0Ti
- Memory used: 9.0Gi
- Memory free: 1.0Ti
+ Memory size: 251Gi
+ Memory used: 2.8Gi
+ Memory free: 249Gi
 ```
 S/N = hidden
 
-HP-UX ioscan = https://www.netboot.ru/nMcIssiJKU
+HP-UX ioscan = https://www.netboot.ru/EBln2xTZHU
