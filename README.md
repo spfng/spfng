@@ -3,7 +3,7 @@
 NETBOOT.RU COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2020-2024
 
 	Running on Linux 6.1.0-25-amd64 x86_64
-	25 September 2024, Wednesday, 15:30 (UTC)
+	25 September 2024, Wednesday, 15:32 (UTC)
 
  Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
  20 core(s)
@@ -15,4 +15,4 @@ NETBOOT.RU COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2020-2024
 ```
 S/N = hidden
 
-HP-UX ioscan = https://www.netboot.ru/JPY4j8U1jG
+HP-UX ioscan = https://www.netboot.ru/cxro12JFQQ
