@@ -3,16 +3,16 @@
 NETBOOT.RU COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2020-2024
 
 	Running on Linux 6.1.0-25-amd64 x86_64
-	27 September 2024, Friday, 11:44 (UTC)
+	27 September 2024, Friday, 11:51 (UTC)
 
  Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz
  20 core(s)
  VMX-Virtualisation
 
  Memory size: 503Gi
- Memory used: 4.6Gi
+ Memory used: 4.5Gi
  Memory free: 501Gi
 ```
 S/N = hidden
 
-HP-UX ioscan = https://www.netboot.ru/OJtSPsujqt
+HP-UX ioscan = https://www.netboot.ru/kVNDgr4F4u
