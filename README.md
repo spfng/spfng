@@ -9,9 +9,9 @@ NETBOOT.RU COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2020-2024
  12 core(s)
  VMX-Virtualisation
 
- Memory size: 377Gi
- Memory used: 4.9Gi
- Memory free: 373Gi
+ Memory size: 755Gi
+ Memory used: 6.5Gi
+ Memory free: 751Gi
 ```
 S/N = hidden
 
