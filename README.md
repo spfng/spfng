@@ -15,4 +15,4 @@ NETBOOT.RU COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2020-2024
 ```
 S/N = hidden
 
-HP-UX ioscan = https://www.netboot.ru/FazoEuDTso
+HP-UX ioscan = https://www.netboot.ru/dB7bulBRoV
