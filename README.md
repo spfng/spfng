@@ -3,15 +3,15 @@
 NETBOOT.RU COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2020-2024
 
 	Running on Linux 6.1.0-25-amd64 x86_64
-	25 October 2024, Friday, 06:01 (UTC)
+	25 October 2024, Friday, 06:11 (UTC)
 
- Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
- 12 core(s)
+ Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
+ 22 core(s)
  VMX-Virtualisation
 
- Memory size: 377Gi
- Memory used: 4.5Gi
- Memory free: 374Gi
+ Memory size: 125Gi
+ Memory used: 3.4Gi
+ Memory free: 122Gi
 ```
 S/N = hidden
 
