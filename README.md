@@ -1,18 +1,17 @@
 # loading...
 ```
-NETBOOT.RU COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2020-2024
+NETBOOT.RU COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2024
 
 	Running on Linux 6.1.0-25-amd64 x86_64
-	26 October 2024, Saturday, 18:23 (UTC)
+	26 October 2024, Saturday, 19:15 (UTC)
 
  Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz
- 16 core(s)
+ 2 socket(s) / 16 core(s) / 64 thread(s)
  VMX-Virtualisation
 
  Memory size: 125Gi
- Memory used: 3.5Gi
- Memory free: 119Gi
-```
-S/N = hidden
+ Memory used: 3.4Gi
+ Memory free: 104Gi
 
-\# HP-UX ioscan = https://www.netboot.ru/$link
+ Signature: 346f030f65ddbf21d50561a95139ea82
+```
