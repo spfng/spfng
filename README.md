@@ -1,9 +1,9 @@
 # loading...
 ```
-NETBOOT.RU COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2024
+NETBOOT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2024
 
 	Running on Linux 6.1.0-25-amd64 x86_64
-	26 October 2024, Saturday, 19:15 (UTC)
+	26 October 2024, Saturday, 19:22 (UTC)
 
  Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz
  2 socket(s) / 16 core(s) / 64 thread(s)
