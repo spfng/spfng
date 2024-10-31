@@ -12,8 +12,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2024
  Memory size: 251Gi
  Memory used: 3.9Gi
  Memory free: 248Gi
-
-ID,filename,filesize,uploaded filename
-1,/var/www/uploads/2024/305/php2KOgj1,27571,hidden-serial-number-22982d8f27cd2f75055b4f45bcb96afe.txt
-2,/var/www/uploads/2024/305/phpAbPqE5,502421,hidden-serial-number-22982d8f27cd2f75055b4f45bcb96afe.htm
 ```
