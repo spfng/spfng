@@ -2,14 +2,16 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2024
 
-	Running on Linux 6.8.0-41-generic x86_64
-	30 October 2024, Wednesday, 18:06 (UTC)
+	Running on Linux 6.1.0-25-amd64 x86_64
+	31 October 2024, Thursday, 03:21 (UTC)
 
- QEMU Virtual CPU version 2.5+
- 1 socket(s) / 8 core(s)
- No Virtualisation
+ Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
+ 2 socket(s) / 20 core(s) / 80 thread(s)
+ VMX-Virtualisation
 
- Memory size: 125Gi
- Memory used: 24Gi
- Memory free: 94Gi
+ Memory size: 251Gi
+ Memory used: 4.0Gi
+ Memory free: 248Gi
+
+ Signature: 22982d8f27cd2f75055b4f45bcb96afe
 ```
