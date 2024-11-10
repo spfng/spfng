@@ -3,14 +3,14 @@
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2024
 
 	Running on Linux 6.1.0-25-amd64 x86_64
-	10 November 2024, Sunday, 08:56 (UTC)
+	10 November 2024, Sunday, 10:48 (UTC)
 
- AMD EPYC 7F52 16-Core Processor
- 2 socket(s) / 16 core(s)
- SVM-Virtualisation
+ Intel(R) Xeon(R) Platinum 8251 CPU @ 3.80GHz
+ 2 socket(s) / 12 core(s)
+ VMX-Virtualisation
 
- Memory size: 251Gi
- Memory used: 3.9Gi
- Memory free: 248Gi
+ Memory size: 377Gi
+ Memory used: 4.5Gi
+ Memory free: 374Gi
 
 ```
