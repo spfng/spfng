@@ -3,14 +3,14 @@
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2024
 
 	Running on Linux 6.1.0-25-amd64 x86_64
-	9 November 2024, Saturday, 13:50 (UTC)
+	10 November 2024, Sunday, 06:10 (UTC)
 
- Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+ Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz
  2 socket(s) / 16 core(s)
  VMX-Virtualisation
 
- Memory size: 377Gi
- Memory used: 4.9Gi
- Memory free: 374Gi
+ Memory size: 125Gi
+ Memory used: 3.3Gi
+ Memory free: 122Gi
 
 ```
