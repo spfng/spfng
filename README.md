@@ -3,13 +3,13 @@
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2024
 
 	Running on Linux 6.1.0-27-amd64 x86_64
-	10 October 2024, Thursday, 19:15 (UTC)
+	12 November 2024, Tuesday, 12:07 (UTC)
 
- AMD EPYC 7763 64-Core Processor
- 2 socket(s) / 64 core(s)
- SVM-Virtualisation
+ Intel(R) Xeon(R) Gold 6133 CPU @ 2.50GHz
+ 2 socket(s) / 20 core(s)
+ VMX-Virtualisation
 
- Memory size: 1.0Ti
- Memory used: 234Gi
- Memory free: 775Gi
+ Memory size: 125Gi
+ Memory used: 3.6Gi
+ Memory free: 122Gi
 ```
