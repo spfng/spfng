@@ -9,7 +9,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2024
  2 socket(s) / 64 core(s)
  SVM-Virtualisation
 
- Memory size: 251Gi
- Memory used: 5.4Gi
- Memory free: 246Gi
+ Memory size: 503Gi
+ Memory used: 6.0Gi
+ Memory free: 499Gi
 ```
