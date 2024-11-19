@@ -2,18 +2,18 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2024
 
-	HP ProLiant DL360 Gen9 
+	HPE ProLiant DL385 Gen10 
 	Running on Linux 6.1.0-27-amd64 x86_64
-	11 October 2024, Friday, 04:07 (UTC)
+	19 November 2024, Tuesday, 04:06 (UTC)
 
- Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+ AMD EPYC 7F52 16-Core Processor
  2 socket(s) * 16 core(s)
- VMX-Virtualisation
+ SVM-Virtualisation
 
- Memory size: 135G
- Memory used: 3.4G
- Memory free: 131G
+ Memory size: 270G
+ Memory used: 4.1G
+ Memory free: 267G
 
-ioscan ... https://www.floppydisk.ru/bF4P1swf0h
-drives ...
+ioscan ... https://www.floppydisk.ru/vDBSxOToVv
+drives ... sda sdb
 ```
