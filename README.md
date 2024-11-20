@@ -2,20 +2,18 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2024
 
-	ProLiant DL380 Gen9 
+	ProLiant DL385 Gen10 
 	Running on Linux 6.1.0-27-amd64 x86_64
-	20 November 2024, Wednesday, 04:32 (UTC)
+	20 November 2024, Wednesday, 11:59 (UTC)
 
- Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz
+ AMD EPYC 7F52 16-Core Processor
  2 socket(s) * 16 core(s)
- VMX-Virtualisation
+ SVM-Virtualisation
 
- Memory size: 125Gi
- Memory used: 3.2Gi
- Memory free: 122Gi
+ Memory size: 251Gi
+ Memory used: 3.8Gi
+ Memory free: 248Gi
 
-ioscan ... https://www.floppydisk.ru/W92jmwfD3I
-drives ... sda sdb sdc
- sda (52G0A0GTFQDH) ... https://www.floppydisk.ru/BewRqlC0km
- sdb (52G0A0LPFQDH) ... https://www.floppydisk.ru/kkZFZ1qAJW
+ioscan ... https://www.floppydisk.ru/U9U3vyK9vA
+drives ... sda sdb
 ```
