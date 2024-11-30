@@ -2,20 +2,18 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2024
 
-	ProLiant DL380 Gen9 
+	1288H V5 Purley
 	Running on Linux 6.1.0-27-amd64 x86_64
-	30 November 2024, Saturday, 07:43 (UTC)
+	30 November 2024, Saturday, 11:28 (UTC)
 
- Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz
- 2 socket(s) * 16 core(s)
+ Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
+ 2 socket(s) * 20 core(s)
  VMX-Virtualisation
 
- Memory size: 125Gi
- Memory used: 3.2Gi
- Memory free: 122Gi
+ Memory size: 251Gi
+ Memory used: 10Gi
+ Memory free: 242Gi
 
-ioscan ... https://www.floppydisk.ru/oj9VYPSsG8
-drives ... sda sdb sdc
- sda (52G0A0GTFQDH) ... https://www.floppydisk.ru/znKPBFD88V
- sdb (52G0A0LPFQDH) ... https://www.floppydisk.ru/IJxq2Z5KCO
+ioscan ... https://www.floppydisk.ru/vbXNIn5uMm
+drives ... sda
 ```
