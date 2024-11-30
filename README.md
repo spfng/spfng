@@ -2,18 +2,18 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2024
 
-	1288H V5 Purley
+	ProLiant DL360 Gen9 
 	Running on Linux 6.1.0-27-amd64 x86_64
-	30 November 2024, Saturday, 11:28 (UTC)
+	30 November 2024, Saturday, 11:36 (UTC)
 
- Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
- 2 socket(s) * 20 core(s)
+ Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz
+ 2 socket(s) * 14 core(s)
  VMX-Virtualisation
 
- Memory size: 251Gi
- Memory used: 10Gi
- Memory free: 242Gi
+ Memory size: 377Gi
+ Memory used: 4.5Gi
+ Memory free: 374Gi
 
-ioscan ... https://www.floppydisk.ru/vbXNIn5uMm
+ioscan ... https://www.floppydisk.ru/akJqxeEOWb
 drives ... sda
 ```
