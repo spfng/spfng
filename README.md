@@ -2,20 +2,18 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2024
 
-	PowerEdge R7525 
+	ProLiant DL380 Gen9 
 	Running on Linux 6.1.0-27-amd64 x86_64
-	10 October 2024, Thursday, 17:43 (UTC)
+	5 December 2024, Thursday, 20:30 (UTC)
 
- AMD EPYC 7773X 64-Core Processor
- 2 socket(s) * 64 core(s)
- SVM-Virtualisation
+ Intel(R) Xeon(R) CPU E5-2699 v4 @ 2.20GHz
+ 2 socket(s) * 22 core(s)
+ VMX-Virtualisation
 
- Memory size: 2.0Ti
- Memory used: 12Gi
- Memory free: 2.0Ti
+ Memory size: 503Gi
+ Memory used: 5.3Gi
+ Memory free: 500Gi
 
-ioscan ... https://www.floppydisk.ru/u0cbujUFod
-drives ... sda sdb sdc
- sda (BTYH11160NYX240J) ... https://www.floppydisk.ru/zlnA1IIF3N
- sdb (PHYH949107W7240J) ... https://www.floppydisk.ru/8royCTPX0k
+ioscan ... https://www.floppydisk.ru/ztT3QKxbpG
+drives ... sda
 ```
