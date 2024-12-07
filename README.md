@@ -14,6 +14,6 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2024
  Memory used: 11Gi
  Memory free: 2.0Ti
 
-ioscan ... https://www.floppydisk.ru/7bcA0QuWs5
+ioscan ... https://www.floppydisk.ru/gLf8IYED1n
 drives ... sda sdb
 ```
