@@ -1,4 +1,4 @@
-# Message of the Day
+# Message of the day
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
@@ -40,4 +40,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 5. Drive /dev/sde (0.00 GiB) has no serial number.
 ```
 ---
-Mon Sep  1 10:17:34 PM MSK 2025
+Mon Sep  1 10:19:04 PM MSK 2025
