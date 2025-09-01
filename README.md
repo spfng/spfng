@@ -1,4 +1,4 @@
-# Loading...
+# Message of the day
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
@@ -32,6 +32,12 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 	Interface: eno4 (ec:eb:b8:9d:10:2f)
 
 	APT: 1 updates available
+
+1. Drive /dev/sda (1676.72 GiB) 08H3A68A attached on CN7821004L
+2. Drive /dev/sdb (1676.72 GiB) 08H32VSA attached on CN7821004L
+3. Drive /dev/sdc (1676.72 GiB) 08H33KEA attached on CN7821004L
+4. Drive /dev/sdd (1676.72 GiB) 08H311PA attached on CN7821004L
+5. Drive /dev/sde (0.00 GiB) has no serial number.
 ```
 ---
-Mon Sep  1 10:13:59 PM MSK 2025
+Mon Sep  1 10:14:47 PM MSK 2025
