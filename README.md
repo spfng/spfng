@@ -2,23 +2,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 	(SN: 6CU73053DN)
+	ProLiant DL380 Gen10 	(SN: 6CU812CE19)
 	Running on Linux 6.12.38+deb13-amd64 x86_64
-	25 June 2025, Wednesday, 13:01 (UTC)
+	3 September 2025, Wednesday, 08:52 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz
-	Sockets: 1, Cores per socket: 6
+	Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+	Sockets: 2, Cores per socket: 18
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.16 0.04 0.01
+	Load Average (1m, 5m, 15m): 72.15 72.20 72.18
 
-	Memory size: 31.22 GiB
-	Memory used: 1.09 GiB
-	Memory free: 29.81 GiB
+	Memory size: 755.54 GiB
+	Memory used: 7.50 GiB
+	Memory free: 750.81 GiB
 
 	Drives:
-		Drive: /dev/sda (28.65 GiB)
-		Drive: /dev/nvme0n1 (232.89 GiB)
+		Drive: /dev/sda (0.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,31 +25,32 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (f4:03:43:3e:ef:5c)
-		IPv4: 192.168.5.133/24
+		eno1 (98:f2:b3:f3:5f:1e)
+		IPv4: 192.168.5.227/24
+		RX: 0.18 GiB, TX: 0.02 GiB
+
+		eno2 (98:f2:b3:f3:5f:1f)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (98:f2:b3:f3:5f:20)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (98:f2:b3:f3:5f:21)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno5 (48:df:37:46:f9:d8)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno6 (48:df:37:46:f9:d9)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		wg0 (00:00:00:00:00:00)
+		IPv4: 192.168.0.5/24
 		RX: 0.02 GiB, TX: 0.00 GiB
-
-		eno2 (f4:03:43:3e:ef:5d)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3 (f4:03:43:3e:ef:5e)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4 (f4:03:43:3e:ef:5f)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno49 (ec:b1:d7:7b:10:68)
-		IPv4: 169.254.25.43/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno50 (ec:b1:d7:7b:10:6c)
-		IPv4: 169.254.203.83/16
-		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (28.65 GiB) has no serial number.
-2. Drive /dev/nvme0n1 (232.89 GiB) S64BNU0TB08199X attached on 6CU73053DN
+1. Drive /dev/sda (0.00 GiB) has no serial number.
 ```
 ---
-Wed Sep  3 11:50:01 AM MSK 2025
+Wed Sep  3 11:55:01 AM MSK 2025
