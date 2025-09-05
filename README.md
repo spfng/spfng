@@ -4,17 +4,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	PowerEdge R640 	(SN: 81SZM83)
 	Running on Linux 6.12.38+deb13-amd64 x86_64
-	25 June 2025, Wednesday, 12:43 (UTC)
+	25 June 2025, Wednesday, 13:00 (UTC)
 
 	Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
 	Sockets: 2, Cores per socket: 26
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.28 0.18 0.08
+	Load Average (1m, 5m, 15m): 104.00 96.68 59.75
 
 	Memory size: 1007.49 GiB
-	Memory used: 10.46 GiB
-	Memory free: 1000.32 GiB
+	Memory used: 9.87 GiB
+	Memory free: 1000.87 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -41,7 +41,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno3 (e4:43:4b:3a:fc:ca)
 		IPv4: 192.168.1.218/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		RX: 0.03 GiB, TX: 0.00 GiB
 
 		eno4 (e4:43:4b:3a:fc:cb)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -67,4 +67,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 9. Drive /dev/nvme5n1 (2980.82 GiB) PHLN0166003G3P2BGN attached on 81SZM83
 ```
 ---
-Fri Sep  5 11:35:01 AM MSK 2025
+Fri Sep  5 11:50:02 AM MSK 2025
