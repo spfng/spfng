@@ -4,17 +4,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	PowerEdge R640 	(SN: CRC2G43)
 	Running on Linux 6.12.38+deb13-amd64 x86_64
-	5 September 2025, Friday, 12:04 (UTC)
+	5 September 2025, Friday, 12:21 (UTC)
 
 	Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
 	Sockets: 2, Cores per socket: 26
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.14 0.14 0.09
+	Load Average (1m, 5m, 15m): 104.00 99.55 66.28
 
 	Memory size: 1007.37 GiB
-	Memory used: 7.28 GiB
-	Memory free: 1003.15 GiB
+	Memory used: 7.79 GiB
+	Memory free: 1002.58 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -38,7 +38,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno3 (e4:43:4b:33:a9:fc)
 		IPv4: 192.168.1.148/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		RX: 0.04 GiB, TX: 0.00 GiB
 
 		eno4 (e4:43:4b:33:a9:fd)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -67,4 +67,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 9. Drive /dev/nvme3n1 (2980.82 GiB) PHLN016600E73P2BGN attached on CRC2G43
 ```
 ---
-Fri Sep  5 03:10:01 PM MSK 2025
+Fri Sep  5 03:25:01 PM MSK 2025
