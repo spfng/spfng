@@ -4,17 +4,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	PowerEdge R640 	(SN: 9RC2G43)
 	Running on Linux 6.12.38+deb13-amd64 x86_64
-	5 September 2025, Friday, 14:34 (UTC)
+	5 September 2025, Friday, 14:50 (UTC)
 
 	Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
 	Sockets: 2, Cores per socket: 26
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.68 0.28 0.10
+	Load Average (1m, 5m, 15m): 0.00 0.00 0.01
 
 	Memory size: 1007.37 GiB
-	Memory used: 10.57 GiB
-	Memory free: 999.96 GiB
+	Memory used: 10.19 GiB
+	Memory free: 1000.33 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -67,4 +67,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 9. Drive /dev/nvme4n1 (2980.82 GiB) PHLN0121024P3P2BGN attached on 9RC2G43
 ```
 ---
-Fri Sep  5 05:40:01 PM MSK 2025
+Fri Sep  5 05:55:01 PM MSK 2025
