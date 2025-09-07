@@ -4,13 +4,13 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	ProLiant DL380 Gen9 	(SN: 6CU74349A8)
 	Running on Linux 6.12.38+deb13-amd64 x86_64
-	7 September 2025, Sunday, 11:49 (UTC)
+	7 September 2025, Sunday, 12:06 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
 	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 32.00 32.00 31.90
+	Load Average (1m, 5m, 15m): 32.00 32.00 32.00
 
 	Memory size: 251.76 GiB
 	Memory used: 4.43 GiB
@@ -43,4 +43,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 1. Drive /dev/sda (28.65 GiB) has no serial number.
 ```
 ---
-Sun Sep  7 02:50:02 PM MSK 2025
+Sun Sep  7 03:10:01 PM MSK 2025
