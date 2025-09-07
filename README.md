@@ -2,30 +2,25 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	PowerEdge R640 	(SN: J8PWZB3)
+	ProLiant DL360 Gen9 	(SN: MXQ54208C1)
 	Running on Linux 6.12.38+deb13-amd64 x86_64
-	7 September 2025, Sunday, 06:16 (UTC)
+	7 September 2025, Sunday, 06:00 (UTC)
 
-	Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
-	Sockets: 2, Cores per socket: 26
+	Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
+	Sockets: 2, Cores per socket: 10
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.01 0.02 0.03
+	Load Average (1m, 5m, 15m): 0.95 0.50 0.23
 
-	Memory size: 1007.49 GiB
-	Memory used: 7.33 GiB
-	Memory free: 1003.35 GiB
+	Memory size: 31.26 GiB
+	Memory used: 3.30 GiB
+	Memory free: 27.74 GiB
 
 	Drives:
-		Drive: /dev/sda (28.65 GiB)
-		Drive: /dev/nvme0n1 (2980.82 GiB)
-		Drive: /dev/nvme7n1 (2980.82 GiB)
-		Drive: /dev/nvme1n1 (2980.82 GiB)
-		Drive: /dev/nvme2n1 (2980.82 GiB)
-		Drive: /dev/nvme5n1 (2980.82 GiB)
-		Drive: /dev/nvme6n1 (2980.82 GiB)
-		Drive: /dev/nvme4n1 (2980.82 GiB)
-		Drive: /dev/nvme3n1 (2980.82 GiB)
+		Drive: /dev/sda (22352.00 GiB)
+		Drive: /dev/sdb (22352.00 GiB)
+		Drive: /dev/sdc (22352.00 GiB)
+		Drive: /dev/sdd (22352.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -33,38 +28,33 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1np0 (e4:43:4b:39:fb:96)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3 (e4:43:4b:39:fb:b6)
-		IPv4: 192.168.1.151/24
+		eno1 (94:57:a5:5e:84:0c)
+		IPv4: 192.168.1.22/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2np1 (e4:43:4b:39:fb:98)
+		eno2 (94:57:a5:5e:84:0d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (e4:43:4b:39:fb:b7)
+		eno3 (94:57:a5:5e:84:0e)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens1f0np0 (e8:61:1f:49:7a:26)
-		IPv4: 169.254.113.73/16
+		eno4 (94:57:a5:5e:84:0f)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens1f1np1 (e8:61:1f:49:7a:27)
-		IPv4: 169.254.171.0/16
+		eno49 (48:df:37:11:19:24)
+		IPv4: 192.168.1.60/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno50 (48:df:37:11:19:25)
+		IPv4: 192.168.1.59/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (28.65 GiB) has no serial number.
-2. Drive /dev/nvme0n1 (2980.82 GiB) PHLN013002KS3P2BGN attached on J8PWZB3
-3. Drive /dev/nvme7n1 (2980.82 GiB) PHLN016600273P2BGN attached on J8PWZB3
-4. Drive /dev/nvme1n1 (2980.82 GiB) PHLN016600873P2BGN attached on J8PWZB3
-5. Drive /dev/nvme2n1 (2980.82 GiB) PHLN0274003D3P2BGN attached on J8PWZB3
-6. Drive /dev/nvme5n1 (2980.82 GiB) PHLN012200R43P2BGN attached on J8PWZB3
-7. Drive /dev/nvme6n1 (2980.82 GiB) PHLN027400MG3P2BGN attached on J8PWZB3
-8. Drive /dev/nvme4n1 (2980.82 GiB) PHLN013000A53P2BGN attached on J8PWZB3
-9. Drive /dev/nvme3n1 (2980.82 GiB) PHLN0130009J3P2BGN attached on J8PWZB3
+1. Drive /dev/sda (22352.00 GiB) 68GPTKRE attached on MXQ54208C1
+2. Drive /dev/sdb (22352.00 GiB) 68GPUY6E attached on MXQ54208C1
+3. Drive /dev/sdc (22352.00 GiB) 68GR2XAE attached on MXQ54208C1
+4. Drive /dev/sdd (22352.00 GiB) 68GPUYJE attached on MXQ54208C1
 ```
 ---
-Sun Sep  7 08:55:01 AM MSK 2025
+Sun Sep  7 09:05:01 AM MSK 2025
