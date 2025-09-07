@@ -2,30 +2,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	PowerEdge R640 	(SN: JFY20C3)
+	ProLiant DL380 Gen9 	(SN: 6CU74349A8)
 	Running on Linux 6.12.38+deb13-amd64 x86_64
-	7 September 2025, Sunday, 08:11 (UTC)
+	7 September 2025, Sunday, 10:25 (UTC)
 
-	Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
-	Sockets: 2, Cores per socket: 26
+	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 104.04 98.50 63.56
+	Load Average (1m, 5m, 15m): 0.78 0.45 0.18
 
-	Memory size: 1007.49 GiB
-	Memory used: 9.82 GiB
-	Memory free: 1000.90 GiB
+	Memory size: 251.76 GiB
+	Memory used: 4.24 GiB
+	Memory free: 248.32 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
-		Drive: /dev/nvme1n1 (2980.82 GiB)
-		Drive: /dev/nvme2n1 (2980.82 GiB)
-		Drive: /dev/nvme4n1 (2980.82 GiB)
-		Drive: /dev/nvme7n1 (2980.82 GiB)
-		Drive: /dev/nvme0n1 (2980.82 GiB)
-		Drive: /dev/nvme3n1 (2980.82 GiB)
-		Drive: /dev/nvme6n1 (2980.82 GiB)
-		Drive: /dev/nvme5n1 (2980.82 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -33,38 +25,22 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1np0 (e4:43:4b:33:ad:54)
+		eno1 (14:02:ec:07:47:94)
+		IPv4: 192.168.1.234/24
+		RX: 0.01 GiB, TX: 0.00 GiB
+
+		eno2 (14:02:ec:07:47:95)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (e4:43:4b:33:ad:74)
-		IPv4: 192.168.1.211/24
-		RX: 0.04 GiB, TX: 0.00 GiB
-
-		eno4 (e4:43:4b:33:ad:75)
+		eno3 (14:02:ec:07:47:96)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2np1 (e4:43:4b:33:ad:56)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens1f0np0 (e8:61:1f:49:72:fc)
-		IPv4: 169.254.94.18/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens1f1np1 (e8:61:1f:49:72:fd)
-		IPv4: 169.254.245.146/16
+		eno4 (14:02:ec:07:47:97)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
 1. Drive /dev/sda (28.65 GiB) has no serial number.
-2. Drive /dev/nvme1n1 (2980.82 GiB) PHLN012102F33P2BGN attached on JFY20C3
-3. Drive /dev/nvme2n1 (2980.82 GiB) PHLN0166000M3P2BGN attached on JFY20C3
-4. Drive /dev/nvme4n1 (2980.82 GiB) PHLN027400W93P2BGN attached on JFY20C3
-5. Drive /dev/nvme7n1 (2980.82 GiB) PHLN012102EQ3P2BGN attached on JFY20C3
-6. Drive /dev/nvme0n1 (2980.82 GiB) PHLN012101RF3P2BGN attached on JFY20C3
-7. Drive /dev/nvme3n1 (2980.82 GiB) PHLN009300WA3P2BGN attached on JFY20C3
-8. Drive /dev/nvme6n1 (2980.82 GiB) PHLN013000NF3P2BGN attached on JFY20C3
-9. Drive /dev/nvme5n1 (2980.82 GiB) PHLN013000YQ3P2BGN attached on JFY20C3
 ```
 ---
-Sun Sep  7 10:50:01 AM MSK 2025
+Sun Sep  7 01:30:01 PM MSK 2025
