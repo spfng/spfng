@@ -4,17 +4,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	PowerEdge R640 	(SN: J8PWZB3)
 	Running on Linux 6.12.38+deb13-amd64 x86_64
-	7 September 2025, Sunday, 05:59 (UTC)
+	7 September 2025, Sunday, 06:16 (UTC)
 
 	Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
 	Sockets: 2, Cores per socket: 26
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.90 0.30 0.10
+	Load Average (1m, 5m, 15m): 0.01 0.02 0.03
 
 	Memory size: 1007.49 GiB
-	Memory used: 7.44 GiB
-	Memory free: 1003.26 GiB
+	Memory used: 7.33 GiB
+	Memory free: 1003.35 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -67,4 +67,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 9. Drive /dev/nvme3n1 (2980.82 GiB) PHLN0130009J3P2BGN attached on J8PWZB3
 ```
 ---
-Sun Sep  7 08:40:01 AM MSK 2025
+Sun Sep  7 08:55:01 AM MSK 2025
