@@ -4,17 +4,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	PowerEdge R640 	(SN: JFY20C3)
 	Running on Linux 6.12.38+deb13-amd64 x86_64
-	7 September 2025, Sunday, 07:54 (UTC)
+	7 September 2025, Sunday, 08:11 (UTC)
 
 	Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
 	Sockets: 2, Cores per socket: 26
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.55 0.23 0.09
+	Load Average (1m, 5m, 15m): 104.04 98.50 63.56
 
 	Memory size: 1007.49 GiB
-	Memory used: 10.54 GiB
-	Memory free: 1000.24 GiB
+	Memory used: 9.82 GiB
+	Memory free: 1000.90 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -38,7 +38,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno3 (e4:43:4b:33:ad:74)
 		IPv4: 192.168.1.211/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		RX: 0.04 GiB, TX: 0.00 GiB
 
 		eno4 (e4:43:4b:33:ad:75)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -47,9 +47,11 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		ens1f0np0 (e8:61:1f:49:72:fc)
+		IPv4: 169.254.94.18/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		ens1f1np1 (e8:61:1f:49:72:fd)
+		IPv4: 169.254.245.146/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -65,4 +67,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 9. Drive /dev/nvme5n1 (2980.82 GiB) PHLN013000YQ3P2BGN attached on JFY20C3
 ```
 ---
-Sun Sep  7 10:35:01 AM MSK 2025
+Sun Sep  7 10:50:01 AM MSK 2025
