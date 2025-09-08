@@ -4,16 +4,16 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	ProLiant DL380 Gen9 	(SN: 6CU812D6FB)
 	Running on Linux 6.12.38+deb13-amd64 x86_64
-	8 September 2025, Monday, 19:24 (UTC)
+	8 September 2025, Monday, 19:41 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
 	Sockets: 2, Cores per socket: 14
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 56.00 53.23 34.73
+	Load Average (1m, 5m, 15m): 56.00 55.92 48.87
 
 	Memory size: 62.75 GiB
-	Memory used: 3.55 GiB
+	Memory used: 3.56 GiB
 	Memory free: 58.98 GiB
 
 	No drives attached.
@@ -26,7 +26,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno1 (ec:eb:b8:89:5d:4c)
 		IPv4: 192.168.1.150/24
-		RX: 0.04 GiB, TX: 0.00 GiB
+		RX: 0.05 GiB, TX: 0.00 GiB
 
 		eno2 (ec:eb:b8:89:5d:4d)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -42,4 +42,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 No drives found.
 ```
 ---
-Mon Sep  8 10:30:01 PM MSK 2025
+Mon Sep  8 10:45:01 PM MSK 2025
