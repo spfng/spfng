@@ -4,20 +4,21 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	ProLiant DL360 Gen10 	(SN: CN7821004T)
 	Running on Linux 6.12.38+deb13-amd64 x86_64
-	8 September 2025, Monday, 23:17 (UTC)
+	9 September 2025, Tuesday, 01:53 (UTC)
 
 	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
 	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 32.00 32.01 32.00
+	Load Average (1m, 5m, 15m): 0.38 0.13 0.04
 
 	Memory size: 251.56 GiB
-	Memory used: 4.42 GiB
-	Memory free: 247.88 GiB
+	Memory used: 2.47 GiB
+	Memory free: 249.71 GiB
 
 	Drives:
-		Drive: /dev/sdg (0.00 GiB)
+		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sdb (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,7 +28,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno1 (ec:eb:b8:9d:00:10)
 		IPv4: 192.168.1.56/24
-		RX: 0.20 GiB, TX: 0.03 GiB
+		RX: 0.01 GiB, TX: 0.00 GiB
 
 		eno2 (ec:eb:b8:9d:00:11)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -38,13 +39,14 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		eno4 (ec:eb:b8:9d:00:13)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		enp1s0f4u4 (3e:f5:ce:4b:df:d7)
+		enp1s0f4u4 (82:0e:7f:56:4f:ea)
 		IPv4: 16.1.15.2/30
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sdg (0.00 GiB) has no serial number.
+1. Drive /dev/sda (0.00 GiB) has no serial number.
+2. Drive /dev/sdb (28.65 GiB) has no serial number.
 ```
 ---
-Mon Sep  8 06:00:01 PM MSK 2025
+Mon Sep  8 08:00:01 PM MSK 2025
