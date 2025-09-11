@@ -4,7 +4,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	PowerEdge R7525 	(SN: 2DSH053)
 	Running on Linux 6.12.38+deb13-amd64 x86_64
-	25 June 2025, Wednesday, 16:20 (UTC)
+	25 June 2025, Wednesday, 16:37 (UTC)
 
 	AMD EPYC 7773X 64-Core Processor
 	Sockets: 2, Cores per socket: 64
@@ -13,8 +13,8 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 	Load Average (1m, 5m, 15m): 256.00 256.00 256.00
 
 	Memory size: 503.44 GiB
-	Memory used: 6.56 GiB
-	Memory free: 498.42 GiB
+	Memory used: 6.55 GiB
+	Memory free: 498.43 GiB
 
 	Drives:
 		Drive: /dev/sda (223.51 GiB)
@@ -28,7 +28,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno8303 (f4:02:70:b8:b3:2c)
 		IPv4: 192.168.1.47/24
-		RX: 0.23 GiB, TX: 0.02 GiB
+		RX: 0.25 GiB, TX: 0.03 GiB
 
 		eno8403 (f4:02:70:b8:b3:2d)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -45,4 +45,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 2. Drive /dev/sdb (28.65 GiB) has no serial number.
 ```
 ---
-Thu Sep 11 03:00:01 AM MSK 2025
+Thu Sep 11 03:15:01 AM MSK 2025
