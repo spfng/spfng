@@ -4,17 +4,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	ProLiant DL380 Gen10 	(SN: SGH938STQ8)
 	Running on Linux 6.12.38+deb13-amd64 x86_64
-	12 September 2025, Friday, 18:47 (UTC)
+	12 September 2025, Friday, 19:04 (UTC)
 
 	Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
 	Sockets: 2, Cores per socket: 12
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.10 0.03 0.03
+	Load Average (1m, 5m, 15m): 0.01 0.03 0.00
 
 	Memory size: 377.55 GiB
-	Memory used: 5.45 GiB
-	Memory free: 373.35 GiB
+	Memory used: 5.53 GiB
+	Memory free: 373.26 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -28,7 +28,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno1 (08:f1:ea:f9:aa:3e)
 		IPv4: 192.168.5.253/24
-		RX: 0.04 GiB, TX: 0.00 GiB
+		RX: 0.06 GiB, TX: 0.01 GiB
 
 		eno2 (08:f1:ea:f9:aa:3f)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -44,7 +44,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		wg0 (00:00:00:00:00:00)
 		IPv4: 192.168.0.5/24
-		RX: 0.03 GiB, TX: 0.00 GiB
+		RX: 0.04 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
@@ -52,4 +52,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 2. Drive /dev/sdb (28.65 GiB) has no serial number.
 ```
 ---
-Fri Sep 12 09:45:01 PM MSK 2025
+Fri Sep 12 10:00:01 PM MSK 2025
