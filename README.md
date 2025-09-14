@@ -2,25 +2,25 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 	(SN: MXQ633014C)
+	ProLiant DL360 Gen9 	(SN: MXQ54109KT)
 	Running on Linux 6.12.38+deb13-amd64 x86_64
-	25 June 2025, Wednesday, 13:15 (UTC)
+	14 September 2025, Sunday, 19:23 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
 	Sockets: 2, Cores per socket: 22
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.00 0.00 0.00
+	Load Average (1m, 5m, 15m): 1.07 0.49 0.19
 
 	Memory size: 125.75 GiB
-	Memory used: 4.13 GiB
-	Memory free: 121.78 GiB
+	Memory used: 4.32 GiB
+	Memory free: 121.59 GiB
 
 	Drives:
-		Drive: /dev/sda (465.76 GiB)
-		Drive: /dev/sdb (465.76 GiB)
-		Drive: /dev/sdc (465.76 GiB)
-		Drive: /dev/sdd (465.76 GiB)
+		Drive: /dev/sda (931.51 GiB)
+		Drive: /dev/sdb (931.51 GiB)
+		Drive: /dev/sdc (931.51 GiB)
+		Drive: /dev/sdd (931.51 GiB)
 		Drive: /dev/sde (28.65 GiB)
 
 	Network Interfaces:
@@ -29,34 +29,32 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (1c:98:ec:15:05:e8)
-		IPv4: 192.168.5.43/24
-		RX: 0.05 GiB, TX: 0.00 GiB
+		eno1 (3c:a8:2a:0b:39:e0)
+		IPv4: 192.168.1.35/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (1c:98:ec:15:05:e9)
+		eno2 (3c:a8:2a:0b:39:e1)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (1c:98:ec:15:05:ea)
+		eno3 (3c:a8:2a:0b:39:e2)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (1c:98:ec:15:05:eb)
+		eno4 (3c:a8:2a:0b:39:e3)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno49 (5c:b9:01:94:93:90)
-		IPv4: 169.254.12.199/16
+		eno49 (5c:b9:01:8d:c3:40)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno50 (5c:b9:01:94:93:91)
-		IPv4: 169.254.125.222/16
+		eno50 (5c:b9:01:8d:c3:41)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (465.76 GiB) WMAYP0P95DT4 attached on MXQ633014C
-2. Drive /dev/sdb (465.76 GiB) WMAYP0P44ZVC attached on MXQ633014C
-3. Drive /dev/sdc (465.76 GiB) WMAYP0P7MJ93 attached on MXQ633014C
-4. Drive /dev/sdd (465.76 GiB) WMAYP0P7K8A7 attached on MXQ633014C
+1. Drive /dev/sda (931.51 GiB) 18A3K0CXFE0F attached on MXQ54109KT
+2. Drive /dev/sdb (931.51 GiB) 18A3K0CVFE0F attached on MXQ54109KT
+3. Drive /dev/sdc (931.51 GiB) 18A3K0CKFE0F attached on MXQ54109KT
+4. Drive /dev/sdd (931.51 GiB) 18A3K0CUFE0F attached on MXQ54109KT
 5. Drive /dev/sde (28.65 GiB) has no serial number.
 ```
 ---
-Sun Sep 14 09:40:01 PM MSK 2025
+Sun Sep 14 10:15:01 PM MSK 2025
