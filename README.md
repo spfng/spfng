@@ -4,17 +4,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	PowerEdge R6515 	(SN: 44JQB93)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	10 August 2025, Sunday, 14:06 (UTC)
+	10 August 2025, Sunday, 14:05 (UTC)
 
 	AMD EPYC 7773X 64-Core Processor
 	Sockets: 1, Cores per socket: 64
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.94 0.46 0.18
+	Load Average (1m, 5m, 15m): 0.47 0.15 0.05
 
-	Memory size: 251.17 GiB
-	Memory used: 5.82 GiB
-	Memory free: 246.61 GiB
+	Memory size: 125.26 GiB
+	Memory used: 3.38 GiB
+	Memory free: 122.19 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -38,9 +38,12 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		ens1f1np1 (2c:ea:7f:67:13:80)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
+		enp65s0np0 (70:10:6f:a2:73:9c)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
 	APT: 1 updates available
 
 1. Drive /dev/sda (28.65 GiB) has no serial number.
 ```
 ---
-Mon Sep 15 06:00:01 PM MSK 2025
+Mon Sep 15 06:25:01 PM MSK 2025
