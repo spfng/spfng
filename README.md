@@ -4,17 +4,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	PowerEdge R730xd 	(SN: 4M9GDB2)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	16 September 2025, Tuesday, 08:52 (UTC)
+	16 September 2025, Tuesday, 09:04 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz
 	Sockets: 2, Cores per socket: 10
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.58 0.20 0.07
+	Load Average (1m, 5m, 15m): 0.95 0.45 0.17
 
 	Memory size: 251.79 GiB
-	Memory used: 3.09 GiB
-	Memory free: 249.49 GiB
+	Memory used: 5.16 GiB
+	Memory free: 247.48 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -38,4 +38,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 1. Drive /dev/sda (28.65 GiB) has no serial number.
 ```
 ---
-Tue Sep 16 11:55:01 AM MSK 2025
+Tue Sep 16 12:05:01 PM MSK 2025
