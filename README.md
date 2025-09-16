@@ -2,24 +2,34 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	PowerEdge R6515 	(SN: 44JQB93)
+	ProLiant DL380 Gen9 	(SN: 6CU801VF9Y)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	10 August 2025, Sunday, 14:05 (UTC)
+	16 September 2025, Tuesday, 06:12 (UTC)
 
-	AMD EPYC 7773X 64-Core Processor
-	Sockets: 1, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
+	Sockets: 2, Cores per socket: 10
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.80 0.34 0.12
+	Load Average (1m, 5m, 15m): 1.12 0.45 0.17
 
-	Memory size: 125.26 GiB
-	Memory used: 5.32 GiB
-	Memory free: 120.41 GiB
+	Memory size: 31.26 GiB
+	Memory used: 3.32 GiB
+	Memory free: 27.84 GiB
 
 	Drives:
-		Drive: /dev/sda (894.25 GiB)
-		Drive: /dev/sdb (119.04 GiB)
-		Drive: /dev/sdc (28.65 GiB)
+		Drive: /dev/sda (931.51 GiB)
+		Drive: /dev/sdb (465.76 GiB)
+		Drive: /dev/sdc (931.51 GiB)
+		Drive: /dev/sdd (931.51 GiB)
+		Drive: /dev/sde (16764.00 GiB)
+		Drive: /dev/sdf (16764.00 GiB)
+		Drive: /dev/sdg (16764.00 GiB)
+		Drive: /dev/sdh (16764.00 GiB)
+		Drive: /dev/sdi (931.51 GiB)
+		Drive: /dev/sdj (465.76 GiB)
+		Drive: /dev/sdk (465.76 GiB)
+		Drive: /dev/sdl (465.76 GiB)
+		Drive: /dev/sdm (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,27 +37,34 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (2c:ea:7f:f9:30:d8)
-		IPv4: 192.168.5.12/24
+		eno1 (94:57:a5:54:3f:b4)
+		IPv4: 192.168.5.94/24
 		RX: 0.04 GiB, TX: 0.00 GiB
 
-		ens1f0np0 (2c:ea:7f:67:13:7f)
+		eno2 (94:57:a5:54:3f:b5)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8403 (2c:ea:7f:f9:30:d9)
+		eno3 (94:57:a5:54:3f:b6)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens1f1np1 (2c:ea:7f:67:13:80)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		enp65s0np0 (70:10:6f:a2:73:9c)
+		eno4 (94:57:a5:54:3f:b7)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (894.25 GiB) S37KNX0JA07565 attached on 44JQB93
-2. Drive /dev/sdb (119.04 GiB) has no serial number.
-3. Drive /dev/sdc (28.65 GiB) has no serial number.
+1. Drive /dev/sda (931.51 GiB) 18A3K0CXFE0F attached on 6CU801VF9Y
+2. Drive /dev/sdb (465.76 GiB) WMAYP0P44ZVC attached on 6CU801VF9Y
+3. Drive /dev/sdc (931.51 GiB) 18A3K0CUFE0F attached on 6CU801VF9Y
+4. Drive /dev/sdd (931.51 GiB) 18A3K0CVFE0F attached on 6CU801VF9Y
+5. Drive /dev/sde (16764.00 GiB) 5240A17AFQDH attached on 6CU801VF9Y
+6. Drive /dev/sdf (16764.00 GiB) 52G0A0BHFQDH attached on 6CU801VF9Y
+7. Drive /dev/sdg (16764.00 GiB) 52G0A0KTFQDH attached on 6CU801VF9Y
+8. Drive /dev/sdh (16764.00 GiB) 52G0A0TFFQDH attached on 6CU801VF9Y
+9. Drive /dev/sdi (931.51 GiB) 18A3K0CKFE0F attached on 6CU801VF9Y
+10. Drive /dev/sdj (465.76 GiB) WMAYP0P95DT4 attached on 6CU801VF9Y
+11. Drive /dev/sdk (465.76 GiB) WMAYP0P7MJ93 attached on 6CU801VF9Y
+12. Drive /dev/sdl (465.76 GiB) WMAYP0P7K8A7 attached on 6CU801VF9Y
+13. Drive /dev/sdm (28.65 GiB) has no serial number.
 ```
 ---
-Tue Sep 16 08:25:01 AM MSK 2025
+Tue Sep 16 09:15:01 AM MSK 2025
