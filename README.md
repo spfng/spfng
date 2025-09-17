@@ -4,17 +4,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	ProLiant DL380 Gen9 	(SN: 6CU638WCSK)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	17 September 2025, Wednesday, 14:34 (UTC)
+	17 September 2025, Wednesday, 14:51 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2637 v4 @ 3.50GHz
 	Sockets: 1, Cores per socket: 4
 	No Virtualisation
 
-	Load Average (1m, 5m, 15m): 4.00 3.88 2.71
+	Load Average (1m, 5m, 15m): 4.00 4.00 3.61
 
 	Memory size: 125.68 GiB
-	Memory used: 3.69 GiB
-	Memory free: 122.49 GiB
+	Memory used: 3.66 GiB
+	Memory free: 122.52 GiB
 
 	Drives:
 		Drive: /dev/sda (13039.00 GiB)
@@ -37,7 +37,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno1 (94:18:82:0b:22:f8)
 		IPv4: 192.168.5.85/24
-		RX: 0.07 GiB, TX: 0.00 GiB
+		RX: 0.08 GiB, TX: 0.00 GiB
 
 		eno2 (94:18:82:0b:22:f9)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -63,4 +63,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 11. Drive /dev/sdk (13039.00 GiB) 9MGHR25U attached on 6CU638WCSK
 ```
 ---
-Wed Sep 17 05:35:01 PM MSK 2025
+Wed Sep 17 05:55:02 PM MSK 2025
