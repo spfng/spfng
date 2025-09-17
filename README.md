@@ -4,17 +4,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	ProLiant DL380 Gen9 	(SN: 6CU638WCSK)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	17 September 2025, Wednesday, 14:17 (UTC)
+	17 September 2025, Wednesday, 14:34 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2637 v4 @ 3.50GHz
 	Sockets: 1, Cores per socket: 4
 	No Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.07 0.45 0.17
+	Load Average (1m, 5m, 15m): 4.00 3.88 2.71
 
 	Memory size: 125.68 GiB
-	Memory used: 3.96 GiB
-	Memory free: 122.31 GiB
+	Memory used: 3.69 GiB
+	Memory free: 122.49 GiB
 
 	Drives:
 		Drive: /dev/sda (13039.00 GiB)
@@ -28,7 +28,6 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		Drive: /dev/sdi (13039.00 GiB)
 		Drive: /dev/sdj (13039.00 GiB)
 		Drive: /dev/sdk (13039.00 GiB)
-		Drive: /dev/sdl (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -38,7 +37,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno1 (94:18:82:0b:22:f8)
 		IPv4: 192.168.5.85/24
-		RX: 0.04 GiB, TX: 0.00 GiB
+		RX: 0.07 GiB, TX: 0.00 GiB
 
 		eno2 (94:18:82:0b:22:f9)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -62,7 +61,6 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 9. Drive /dev/sdi (13039.00 GiB) Y5JUB23C attached on 6CU638WCSK
 10. Drive /dev/sdj (13039.00 GiB) 9MGHRJ3U attached on 6CU638WCSK
 11. Drive /dev/sdk (13039.00 GiB) 9MGHR25U attached on 6CU638WCSK
-12. Drive /dev/sdl (28.65 GiB) has no serial number.
 ```
 ---
-Wed Sep 17 05:20:01 PM MSK 2025
+Wed Sep 17 05:35:01 PM MSK 2025
