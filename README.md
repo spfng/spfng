@@ -2,22 +2,33 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	PowerEdge R730xd 	(SN: 4M9GDB2)
+	ProLiant DL380 Gen9 	(SN: 6CU638WCSK)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	16 September 2025, Tuesday, 09:04 (UTC)
+	17 September 2025, Wednesday, 14:17 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz
-	Sockets: 2, Cores per socket: 10
-	VMX-Virtualisation
+	Intel(R) Xeon(R) CPU E5-2637 v4 @ 3.50GHz
+	Sockets: 1, Cores per socket: 4
+	No Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.95 0.45 0.17
+	Load Average (1m, 5m, 15m): 1.07 0.45 0.17
 
-	Memory size: 251.79 GiB
-	Memory used: 5.16 GiB
-	Memory free: 247.48 GiB
+	Memory size: 125.68 GiB
+	Memory used: 3.96 GiB
+	Memory free: 122.31 GiB
 
 	Drives:
-		Drive: /dev/sda (28.65 GiB)
+		Drive: /dev/sda (13039.00 GiB)
+		Drive: /dev/sdb (13039.00 GiB)
+		Drive: /dev/sdc (13039.00 GiB)
+		Drive: /dev/sdd (13039.00 GiB)
+		Drive: /dev/sde (13039.00 GiB)
+		Drive: /dev/sdf (13039.00 GiB)
+		Drive: /dev/sdg (13039.00 GiB)
+		Drive: /dev/sdh (13039.00 GiB)
+		Drive: /dev/sdi (13039.00 GiB)
+		Drive: /dev/sdj (13039.00 GiB)
+		Drive: /dev/sdk (13039.00 GiB)
+		Drive: /dev/sdl (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,17 +36,33 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1np0 (04:3f:72:f5:b5:b6)
-		IPv4: 192.168.5.56/24
+		eno1 (94:18:82:0b:22:f8)
+		IPv4: 192.168.5.85/24
 		RX: 0.04 GiB, TX: 0.00 GiB
 
-		eno2np1 (04:3f:72:f5:b5:b7)
-		IPv4: 192.168.5.57/24
+		eno2 (94:18:82:0b:22:f9)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (94:18:82:0b:22:fa)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (94:18:82:0b:22:fb)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (28.65 GiB) has no serial number.
+1. Drive /dev/sda (13039.00 GiB) QBH7BZMT attached on 6CU638WCSK
+2. Drive /dev/sdb (13039.00 GiB) X0GV5AUC attached on 6CU638WCSK
+3. Drive /dev/sdc (13039.00 GiB) X0GV84JC attached on 6CU638WCSK
+4. Drive /dev/sdd (13039.00 GiB) Y5JTWBAC attached on 6CU638WCSK
+5. Drive /dev/sde (13039.00 GiB) 9LGA9TYG attached on 6CU638WCSK
+6. Drive /dev/sdf (13039.00 GiB) 9MGH7UDK attached on 6CU638WCSK
+7. Drive /dev/sdg (13039.00 GiB) 9MGH53DK attached on 6CU638WCSK
+8. Drive /dev/sdh (13039.00 GiB) 9MGHNXHU attached on 6CU638WCSK
+9. Drive /dev/sdi (13039.00 GiB) Y5JUB23C attached on 6CU638WCSK
+10. Drive /dev/sdj (13039.00 GiB) 9MGHRJ3U attached on 6CU638WCSK
+11. Drive /dev/sdk (13039.00 GiB) 9MGHR25U attached on 6CU638WCSK
+12. Drive /dev/sdl (28.65 GiB) has no serial number.
 ```
 ---
-Tue Sep 16 12:05:01 PM MSK 2025
+Wed Sep 17 05:20:01 PM MSK 2025
