@@ -4,20 +4,19 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	ProLiant DL360 Gen9 	(SN: 6CU718HPW3)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	18 September 2025, Thursday, 13:51 (UTC)
+	18 September 2025, Thursday, 14:08 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz
 	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.85 0.43 0.17
+	Load Average (1m, 5m, 15m): 80.14 76.03 49.45
 
 	Memory size: 125.75 GiB
-	Memory used: 4.98 GiB
-	Memory free: 121.10 GiB
+	Memory used: 5.06 GiB
+	Memory free: 120.93 GiB
 
-	Drives:
-		Drive: /dev/sda (28.65 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,7 +26,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno1 (30:e1:71:5f:65:d0)
 		IPv4: 192.168.5.21/24
-		RX: 0.04 GiB, TX: 0.00 GiB
+		RX: 0.08 GiB, TX: 0.00 GiB
 
 		eno2 (30:e1:71:5f:65:d1)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -46,7 +45,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (28.65 GiB) has no serial number.
+No drives found.
 ```
 ---
-Thu Sep 18 04:55:01 PM MSK 2025
+Thu Sep 18 05:10:01 PM MSK 2025
