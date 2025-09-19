@@ -2,7 +2,7 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 	(SN: 6CU736JWR4)
+	ProLiant DL360 Gen9 	(SN: 6CU738P5FE)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
 	19 September 2025, Friday, 06:08 (UTC)
 
@@ -10,11 +10,11 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 64.08 63.98 56.63
+	Load Average (1m, 5m, 15m): 64.00 63.97 56.64
 
 	Memory size: 503.75 GiB
-	Memory used: 6.06 GiB
-	Memory free: 499.49 GiB
+	Memory used: 6.01 GiB
+	Memory free: 499.54 GiB
 
 	No drives attached.
 
@@ -24,17 +24,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (f4:03:43:54:bc:48)
-		IPv4: 192.168.5.171/24
+		eno1 (f4:03:43:4d:dd:d4)
+		IPv4: 192.168.5.236/24
 		RX: 0.10 GiB, TX: 0.00 GiB
 
-		eno2 (f4:03:43:54:bc:49)
+		eno2 (f4:03:43:4d:dd:d5)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (f4:03:43:54:bc:4a)
+		eno3 (f4:03:43:4d:dd:d6)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (f4:03:43:54:bc:4b)
+		eno4 (f4:03:43:4d:dd:d7)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -42,4 +42,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 No drives found.
 ```
 ---
-Fri Sep 19 09:10:01 AM MSK 2025
+Fri Sep 19 09:15:01 AM MSK 2025
