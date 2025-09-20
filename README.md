@@ -2,22 +2,21 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL380 Gen10 	(SN: SGH939TFQ4)
+	2288H V5 Purley	(SN: 2102312DNA10J6001802)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	20 September 2025, Saturday, 12:17 (UTC)
+	20 September 2025, Saturday, 20:59 (UTC)
 
-	Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
-	Sockets: 2, Cores per socket: 20
+	Intel(R) Xeon(R) Gold 6134 CPU @ 3.20GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 80.06 80.04 78.97
+	Load Average (1m, 5m, 15m): 32.00 32.00 32.00
 
-	Memory size: 377.54 GiB
-	Memory used: 6.44 GiB
-	Memory free: 372.39 GiB
+	Memory size: 251.41 GiB
+	Memory used: 10.07 GiB
+	Memory free: 242.13 GiB
 
-	Drives:
-		Drive: /dev/sda (0.00 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,25 +24,22 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (08:f1:ea:f9:78:e2)
-		IPv4: 192.168.5.47/24
-		RX: 0.13 GiB, TX: 0.01 GiB
-
-		eno2 (08:f1:ea:f9:78:e3)
+		eno1np0 (9c:71:3a:22:e8:7a)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (08:f1:ea:f9:78:e4)
+		eno2np1 (9c:71:3a:22:e8:7b)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (08:f1:ea:f9:78:e5)
-		RX: 0.00 GiB, TX: 0.00 GiB
+		eno3np2 (9c:71:3a:22:e8:7c)
+		IPv4: 192.168.5.237/24
+		RX: 0.21 GiB, TX: 0.02 GiB
 
-		eno5 (04:09:73:e1:c2:41)
+		eno4np3 (9c:71:3a:22:e8:7d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (0.00 GiB) has no serial number.
+No drives found.
 ```
 ---
-Sat Sep 20 03:25:01 PM MSK 2025
+Sat Sep 20 03:30:01 PM MSK 2025
