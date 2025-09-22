@@ -4,7 +4,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	2288H V5 Purley	(SN: 2102312DNA10J6001802)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	22 September 2025, Monday, 15:01 (UTC)
+	22 September 2025, Monday, 15:18 (UTC)
 
 	Intel(R) Xeon(R) Gold 6134 CPU @ 3.20GHz
 	Sockets: 2, Cores per socket: 8
@@ -33,7 +33,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno3np2 (9c:71:3a:22:e8:7c)
 		IPv4: 192.168.5.236/24
-		RX: 0.18 GiB, TX: 0.01 GiB
+		RX: 0.19 GiB, TX: 0.01 GiB
 
 		eno4np3 (9c:71:3a:22:e8:7d)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -43,4 +43,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 1. Drive /dev/sda (28.65 GiB) has no serial number.
 ```
 ---
-Mon Sep 22 09:30:01 AM MSK 2025
+Mon Sep 22 09:50:01 AM MSK 2025
