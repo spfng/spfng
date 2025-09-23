@@ -4,20 +4,19 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	PowerEdge R630 	(SN: BMW6KM2)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	23 September 2025, Tuesday, 12:46 (UTC)
+	23 September 2025, Tuesday, 13:03 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
 	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.87 0.40 0.15
+	Load Average (1m, 5m, 15m): 32.00 30.88 21.09
 
 	Memory size: 62.80 GiB
-	Memory used: 3.49 GiB
-	Memory free: 59.37 GiB
+	Memory used: 3.52 GiB
+	Memory free: 59.25 GiB
 
-	Drives:
-		Drive: /dev/sda (28.65 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,23 +26,23 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno1 (18:66:da:f3:1c:9c)
 		IPv4: 192.168.5.25/24
-		RX: 0.04 GiB, TX: 0.00 GiB
+		RX: 0.08 GiB, TX: 0.00 GiB
 
 		eno2 (18:66:da:f3:1c:9d)
 		IPv4: 192.168.5.26/24
-		RX: 0.00 GiB, TX: 0.00 GiB
+		RX: 0.02 GiB, TX: 0.00 GiB
 
 		eno3 (18:66:da:f3:1c:9e)
 		IPv4: 192.168.5.27/24
-		RX: 0.00 GiB, TX: 0.00 GiB
+		RX: 0.02 GiB, TX: 0.00 GiB
 
 		eno4 (18:66:da:f3:1c:9f)
 		IPv4: 192.168.5.28/24
-		RX: 0.00 GiB, TX: 0.00 GiB
+		RX: 0.02 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (28.65 GiB) has no serial number.
+No drives found.
 ```
 ---
-Tue Sep 23 03:50:01 PM MSK 2025
+Tue Sep 23 03:55:02 PM MSK 2025
