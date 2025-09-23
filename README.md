@@ -4,7 +4,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	PowerEdge R7515 	(SN: GVFM8F3)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	10 August 2025, Sunday, 20:34 (UTC)
+	10 August 2025, Sunday, 18:19 (UTC)
 
 	AMD EPYC 7773X 64-Core Processor
 	Sockets: 1, Cores per socket: 48
@@ -13,8 +13,8 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 	Load Average (1m, 5m, 15m): 96.00 96.00 96.00
 
 	Memory size: 251.30 GiB
-	Memory used: 6.10 GiB
-	Memory free: 246.41 GiB
+	Memory used: 6.08 GiB
+	Memory free: 246.42 GiB
 
 	Drives:
 		Drive: /dev/sda (894.25 GiB)
@@ -30,7 +30,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno8303 (b0:7b:25:ba:ac:ca)
 		IPv4: 192.168.1.154/24
-		RX: 0.40 GiB, TX: 0.03 GiB
+		RX: 0.28 GiB, TX: 0.02 GiB
 
 		ens1f1np1 (2c:ea:7f:94:7d:ac)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -49,4 +49,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 1. Drive /dev/sda (894.25 GiB) S37KNX0JA03080 attached on GVFM8F3
 ```
 ---
-Tue Sep 23 08:55:02 PM MSK 2025
+Tue Sep 23 09:00:02 PM MSK 2025
