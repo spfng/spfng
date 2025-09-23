@@ -4,7 +4,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	ProLiant DL360 Gen9 	(SN: CN771706S6)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	23 September 2025, Tuesday, 03:50 (UTC)
+	23 September 2025, Tuesday, 04:07 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz
 	Sockets: 2, Cores per socket: 16
@@ -26,7 +26,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno1 (30:e1:71:61:ce:44)
 		IPv4: 192.168.5.56/24
-		RX: 0.16 GiB, TX: 0.01 GiB
+		RX: 0.18 GiB, TX: 0.01 GiB
 
 		eno2 (30:e1:71:61:ce:45)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -42,4 +42,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 No drives found.
 ```
 ---
-Tue Sep 23 07:05:01 AM MSK 2025
+Tue Sep 23 07:10:01 AM MSK 2025
