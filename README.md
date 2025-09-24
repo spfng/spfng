@@ -4,13 +4,13 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	PowerEdge R630 	(SN: BMW6KM2)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	24 September 2025, Wednesday, 04:56 (UTC)
+	24 September 2025, Wednesday, 05:13 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
 	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 32.00 32.00 31.59
+	Load Average (1m, 5m, 15m): 32.00 32.00 31.90
 
 	Memory size: 62.80 GiB
 	Memory used: 3.50 GiB
@@ -26,7 +26,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno1 (18:66:da:f3:1c:9c)
 		IPv4: 192.168.5.25/24
-		RX: 0.13 GiB, TX: 0.01 GiB
+		RX: 0.15 GiB, TX: 0.01 GiB
 
 		eno2 (18:66:da:f3:1c:9d)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -42,4 +42,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 No drives found.
 ```
 ---
-Wed Sep 24 08:00:01 AM MSK 2025
+Wed Sep 24 08:05:01 AM MSK 2025
