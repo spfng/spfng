@@ -4,21 +4,22 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	ProLiant DL360 Gen10 	(SN: CN785006QX)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	24 September 2025, Wednesday, 14:39 (UTC)
+	24 September 2025, Wednesday, 13:14 (UTC)
 
 	Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
 	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 80.00 80.01 79.74
+	Load Average (1m, 5m, 15m): 1.48 0.51 0.18
 
 	Memory size: 31.04 GiB
-	Memory used: 4.79 GiB
-	Memory free: 26.03 GiB
+	Memory used: 3.60 GiB
+	Memory free: 27.33 GiB
 
 	Drives:
 		Drive: /dev/sda (8942.26 GiB)
 		Drive: /dev/sdb (0.00 GiB)
+		Drive: /dev/sdc (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -28,7 +29,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno1 (20:67:7c:dd:f7:f8)
 		IPv4: 192.168.5.54/24
-		RX: 0.81 GiB, TX: 0.09 GiB
+		RX: 0.04 GiB, TX: 0.00 GiB
 
 		eno2 (20:67:7c:dd:f7:f9)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -47,6 +48,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 1. Drive /dev/sda (8942.26 GiB) PEYHC0DRHCM53D attached on CN785006QX
 2. Drive /dev/sdb (0.00 GiB) has no serial number.
+3. Drive /dev/sdc (28.65 GiB) has no serial number.
 ```
 ---
-Wed Sep 24 05:40:01 PM MSK 2025
+Wed Sep 24 05:45:01 PM MSK 2025
