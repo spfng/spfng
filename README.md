@@ -4,7 +4,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	PowerEdge R630 	(SN: BKLBKM2)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	25 September 2025, Thursday, 08:12 (UTC)
+	25 September 2025, Thursday, 08:29 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
 	Sockets: 2, Cores per socket: 16
@@ -14,7 +14,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	Memory size: 220.29 GiB
 	Memory used: 4.80 GiB
-	Memory free: 216.22 GiB
+	Memory free: 216.21 GiB
 
 	Drives:
 		Drive: /dev/sda (894.25 GiB)
@@ -35,7 +35,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno1 (e4:43:4b:5b:f2:4c)
 		IPv4: 192.168.5.30/24
-		RX: 0.13 GiB, TX: 0.01 GiB
+		RX: 0.14 GiB, TX: 0.01 GiB
 
 		eno2 (e4:43:4b:5b:f2:4d)
 		IPv4: 192.168.5.31/24
@@ -62,4 +62,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 9. Drive /dev/sdi (28.65 GiB) has no serial number.
 ```
 ---
-Thu Sep 25 11:30:01 AM MSK 2025
+Thu Sep 25 11:40:01 AM MSK 2025
