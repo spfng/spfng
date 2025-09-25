@@ -2,22 +2,29 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 	(SN: MXQ6030529)
+	PowerEdge R630 	(SN: BKLBKM2)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	25 September 2025, Thursday, 12:18 (UTC)
+	25 September 2025, Thursday, 12:37 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
-	Sockets: 2, Cores per socket: 8
+	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.31 0.53 0.19
+	Load Average (1m, 5m, 15m): 64.00 64.00 64.00
 
-	Memory size: 251.76 GiB
-	Memory used: 4.87 GiB
-	Memory free: 247.74 GiB
+	Memory size: 251.79 GiB
+	Memory used: 4.91 GiB
+	Memory free: 247.67 GiB
 
 	Drives:
-		Drive: /dev/sda (28.65 GiB)
+		Drive: /dev/sda (894.25 GiB)
+		Drive: /dev/sdb (894.25 GiB)
+		Drive: /dev/sdc (894.25 GiB)
+		Drive: /dev/sdd (894.25 GiB)
+		Drive: /dev/sde (894.25 GiB)
+		Drive: /dev/sdf (894.25 GiB)
+		Drive: /dev/sdg (894.25 GiB)
+		Drive: /dev/sdh (894.25 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,22 +32,32 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (14:02:ec:35:5d:e4)
-		IPv4: 192.168.5.241/24
-		RX: 0.04 GiB, TX: 0.00 GiB
+		eno1 (e4:43:4b:5b:f2:4c)
+		IPv4: 192.168.5.30/24
+		RX: 0.18 GiB, TX: 0.02 GiB
 
-		eno2 (14:02:ec:35:5d:e5)
-		RX: 0.00 GiB, TX: 0.00 GiB
+		eno2 (e4:43:4b:5b:f2:4d)
+		IPv4: 192.168.5.31/24
+		RX: 0.12 GiB, TX: 0.00 GiB
 
-		eno3 (14:02:ec:35:5d:e6)
-		RX: 0.00 GiB, TX: 0.00 GiB
+		eno3 (e4:43:4b:5b:f2:4e)
+		IPv4: 192.168.5.32/24
+		RX: 0.12 GiB, TX: 0.00 GiB
 
-		eno4 (14:02:ec:35:5d:e7)
-		RX: 0.00 GiB, TX: 0.00 GiB
+		eno4 (e4:43:4b:5b:f2:4f)
+		IPv4: 192.168.5.33/24
+		RX: 0.12 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (28.65 GiB) has no serial number.
+1. Drive /dev/sda (894.25 GiB) PHYF0030043X960CGN attached on BKLBKM2
+2. Drive /dev/sdb (894.25 GiB) BTYF01530A6D960CGN attached on BKLBKM2
+3. Drive /dev/sdc (894.25 GiB) PHYF003001BY960CGN attached on BKLBKM2
+4. Drive /dev/sdd (894.25 GiB) PHYF001502LH960CGN attached on BKLBKM2
+5. Drive /dev/sde (894.25 GiB) PHYF00300198960CGN attached on BKLBKM2
+6. Drive /dev/sdf (894.25 GiB) PHYF939303GN960CGN attached on BKLBKM2
+7. Drive /dev/sdg (894.25 GiB) BTYF9454005C960CGN attached on BKLBKM2
+8. Drive /dev/sdh (894.25 GiB) PHYF946204A4960CGN attached on BKLBKM2
 ```
 ---
-Thu Sep 25 03:45:01 PM MSK 2025
+Thu Sep 25 03:50:01 PM MSK 2025
