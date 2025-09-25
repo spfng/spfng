@@ -4,17 +4,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	PowerEdge R630 	(SN: BKLBKM2)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	25 September 2025, Thursday, 07:38 (UTC)
+	25 September 2025, Thursday, 07:55 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
 	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 64.00 64.00 63.94
+	Load Average (1m, 5m, 15m): 64.00 64.00 64.00
 
 	Memory size: 220.29 GiB
-	Memory used: 4.81 GiB
-	Memory free: 216.21 GiB
+	Memory used: 4.79 GiB
+	Memory free: 216.23 GiB
 
 	Drives:
 		Drive: /dev/sda (894.25 GiB)
@@ -35,19 +35,19 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno1 (e4:43:4b:5b:f2:4c)
 		IPv4: 192.168.5.30/24
-		RX: 0.11 GiB, TX: 0.01 GiB
+		RX: 0.12 GiB, TX: 0.01 GiB
 
 		eno2 (e4:43:4b:5b:f2:4d)
 		IPv4: 192.168.5.31/24
-		RX: 0.05 GiB, TX: 0.00 GiB
+		RX: 0.06 GiB, TX: 0.00 GiB
 
 		eno3 (e4:43:4b:5b:f2:4e)
 		IPv4: 192.168.5.32/24
-		RX: 0.05 GiB, TX: 0.00 GiB
+		RX: 0.06 GiB, TX: 0.00 GiB
 
 		eno4 (e4:43:4b:5b:f2:4f)
 		IPv4: 192.168.5.33/24
-		RX: 0.05 GiB, TX: 0.00 GiB
+		RX: 0.06 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
@@ -62,4 +62,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 9. Drive /dev/sdi (28.65 GiB) has no serial number.
 ```
 ---
-Thu Sep 25 10:55:01 AM MSK 2025
+Thu Sep 25 11:05:01 AM MSK 2025
