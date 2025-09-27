@@ -4,7 +4,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	ProLiant DL360 Gen10 	(SN: MXQ00100WC)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	27 September 2025, Saturday, 17:35 (UTC)
+	27 September 2025, Saturday, 17:52 (UTC)
 
 	Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
 	Sockets: 2, Cores per socket: 20
@@ -51,4 +51,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 2. Drive /dev/sdb (28.65 GiB) has no serial number.
 ```
 ---
-Sat Sep 27 08:40:01 PM MSK 2025
+Sat Sep 27 08:55:01 PM MSK 2025
