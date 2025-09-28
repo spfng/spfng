@@ -4,17 +4,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	ProLiant DL360 Gen10 	(SN: MXQ00100WC)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	28 September 2025, Sunday, 08:12 (UTC)
+	28 September 2025, Sunday, 08:28 (UTC)
 
 	Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
 	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 80.00 80.02 76.64
+	Load Average (1m, 5m, 15m): 80.00 80.01 78.93
 
 	Memory size: 251.54 GiB
-	Memory used: 5.38 GiB
-	Memory free: 246.95 GiB
+	Memory used: 5.34 GiB
+	Memory free: 246.99 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -27,7 +27,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno1 (94:40:c9:df:14:88)
 		IPv4: 192.168.5.44/24
-		RX: 0.08 GiB, TX: 0.01 GiB
+		RX: 0.09 GiB, TX: 0.01 GiB
 
 		eno2 (94:40:c9:df:14:89)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -49,4 +49,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 1. Drive /dev/sda (0.00 GiB) has no serial number.
 ```
 ---
-Sun Sep 28 11:15:01 AM MSK 2025
+Sun Sep 28 11:35:02 AM MSK 2025
