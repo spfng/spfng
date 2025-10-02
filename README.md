@@ -4,17 +4,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	2288H V5 Purley	(SN: 2102312DNA10J6001802)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	2 October 2025, Thursday, 22:22 (UTC)
+	2 October 2025, Thursday, 21:48 (UTC)
 
 	Intel(R) Xeon(R) Gold 6134 CPU @ 3.20GHz
 	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 32.07 32.04 32.01
+	Load Average (1m, 5m, 15m): 32.10 32.05 32.01
 
 	Memory size: 251.41 GiB
-	Memory used: 10.16 GiB
-	Memory free: 242.03 GiB
+	Memory used: 10.12 GiB
+	Memory free: 242.07 GiB
 
 	No drives attached.
 
@@ -32,7 +32,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno3np2 (9c:71:3a:22:e8:7c)
 		IPv4: 192.168.5.237/24
-		RX: 0.35 GiB, TX: 0.05 GiB
+		RX: 0.32 GiB, TX: 0.05 GiB
 
 		eno4np3 (9c:71:3a:22:e8:7d)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -42,4 +42,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 No drives found.
 ```
 ---
-Thu Oct  2 04:55:01 PM MSK 2025
+Thu Oct  2 05:00:01 PM MSK 2025
