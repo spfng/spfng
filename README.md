@@ -4,17 +4,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	ProLiant DL360 Gen9 	(SN: 6CU718HPPD)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	2 October 2025, Thursday, 13:12 (UTC)
+	2 October 2025, Thursday, 12:55 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz
 	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 64.10 63.98 56.59
+	Load Average (1m, 5m, 15m): 64.00 61.64 41.86
 
 	Memory size: 251.75 GiB
-	Memory used: 4.89 GiB
-	Memory free: 247.64 GiB
+	Memory used: 4.87 GiB
+	Memory free: 247.67 GiB
 
 	No drives attached.
 
@@ -26,7 +26,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno1 (30:e1:71:5f:89:f8)
 		IPv4: 192.168.5.109/24
-		RX: 0.10 GiB, TX: 0.00 GiB
+		RX: 0.08 GiB, TX: 0.00 GiB
 
 		eno2 (30:e1:71:5f:89:f9)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -42,4 +42,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 No drives found.
 ```
 ---
-Thu Oct  2 04:15:01 PM MSK 2025
+Thu Oct  2 04:20:01 PM MSK 2025
