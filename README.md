@@ -2,21 +2,23 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	2288H V5 Purley	(SN: 2102312DNA10J6001802)
+	PowerEdge R7515 	(SN: 694L8F3)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	3 October 2025, Friday, 20:38 (UTC)
+	3 October 2025, Friday, 12:12 (UTC)
 
-	Intel(R) Xeon(R) Gold 6134 CPU @ 3.20GHz
-	Sockets: 2, Cores per socket: 8
-	VMX-Virtualisation
+	AMD EPYC 7773X 64-Core Processor
+	Sockets: 1, Cores per socket: 48
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 32.00 32.00 32.00
+	Load Average (1m, 5m, 15m): 48.00 48.00 46.13
 
-	Memory size: 251.41 GiB
-	Memory used: 10.13 GiB
-	Memory free: 242.07 GiB
+	Memory size: 125.50 GiB
+	Memory used: 4.92 GiB
+	Memory free: 120.81 GiB
 
-	No drives attached.
+	Drives:
+		Drive: /dev/sda (894.25 GiB)
+		Drive: /dev/sdb (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -24,22 +26,23 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1np0 (9c:71:3a:22:e8:7a)
+		eno8303 (b0:7b:25:ba:a9:4a)
+		IPv4: 192.168.1.188/24
+		RX: 0.12 GiB, TX: 0.00 GiB
+
+		eno8403 (b0:7b:25:ba:a9:4b)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2np1 (9c:71:3a:22:e8:7b)
+		ens4f0np0 (6c:b3:11:92:75:b4)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3np2 (9c:71:3a:22:e8:7c)
-		IPv4: 192.168.5.236/24
-		RX: 0.52 GiB, TX: 0.04 GiB
-
-		eno4np3 (9c:71:3a:22:e8:7d)
+		ens4f1np1 (6c:b3:11:92:75:b5)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-No drives found.
+1. Drive /dev/sda (894.25 GiB) PHYG005005PF960CGN attached on 694L8F3
+2. Drive /dev/sdb (28.65 GiB) has no serial number.
 ```
 ---
-Fri Oct  3 03:10:01 PM MSK 2025
+Fri Oct  3 03:15:01 PM MSK 2025
