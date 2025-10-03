@@ -2,21 +2,34 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	2288H V5 Purley	(SN: 2102312DNA10J6001802)
+	PowerEdge R7515 	(SN: 694L8F3)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	3 October 2025, Friday, 19:47 (UTC)
+	3 October 2025, Friday, 11:22 (UTC)
 
-	Intel(R) Xeon(R) Gold 6134 CPU @ 3.20GHz
-	Sockets: 2, Cores per socket: 8
-	VMX-Virtualisation
+	AMD EPYC 7773X 64-Core Processor
+	Sockets: 1, Cores per socket: 48
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 32.00 32.00 32.00
+	Load Average (1m, 5m, 15m): 0.98 0.35 0.12
 
-	Memory size: 251.41 GiB
-	Memory used: 10.15 GiB
-	Memory free: 242.05 GiB
+	Memory size: 125.50 GiB
+	Memory used: 4.98 GiB
+	Memory free: 120.80 GiB
 
-	No drives attached.
+	Drives:
+		Drive: /dev/sda (894.25 GiB)
+		Drive: /dev/sdb (28.65 GiB)
+		Drive: /dev/nvme2n1 (745.21 GiB)
+		Drive: /dev/nvme0n1 (745.21 GiB)
+		Drive: /dev/nvme1n1 (745.21 GiB)
+		Drive: /dev/nvme8n1 (745.21 GiB)
+		Drive: /dev/nvme7n1 (745.21 GiB)
+		Drive: /dev/nvme10n1 (745.21 GiB)
+		Drive: /dev/nvme4n1 (745.21 GiB)
+		Drive: /dev/nvme6n1 (745.21 GiB)
+		Drive: /dev/nvme5n1 (745.21 GiB)
+		Drive: /dev/nvme3n1 (745.21 GiB)
+		Drive: /dev/nvme9n1 (745.21 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -24,22 +37,34 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1np0 (9c:71:3a:22:e8:7a)
+		eno8303 (b0:7b:25:ba:a9:4a)
+		IPv4: 192.168.1.188/24
+		RX: 0.04 GiB, TX: 0.00 GiB
+
+		eno8403 (b0:7b:25:ba:a9:4b)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2np1 (9c:71:3a:22:e8:7b)
+		ens4f0np0 (6c:b3:11:92:75:b4)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3np2 (9c:71:3a:22:e8:7c)
-		IPv4: 192.168.5.236/24
-		RX: 0.47 GiB, TX: 0.04 GiB
-
-		eno4np3 (9c:71:3a:22:e8:7d)
+		ens4f1np1 (6c:b3:11:92:75:b5)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-No drives found.
+1. Drive /dev/sda (894.25 GiB) PHYG005005PF960CGN attached on 694L8F3
+2. Drive /dev/sdb (28.65 GiB) has no serial number.
+3. Drive /dev/nvme2n1 (745.21 GiB) PHAL0352004A800LGN attached on 694L8F3
+4. Drive /dev/nvme0n1 (745.21 GiB) PHAL0352000X800LGN attached on 694L8F3
+5. Drive /dev/nvme1n1 (745.21 GiB) PHAL0356003G800LGN attached on 694L8F3
+6. Drive /dev/nvme8n1 (745.21 GiB) PHAL0356003P800LGN attached on 694L8F3
+7. Drive /dev/nvme7n1 (745.21 GiB) PHAL0352000Q800LGN attached on 694L8F3
+8. Drive /dev/nvme10n1 (745.21 GiB) PHAL03560035800LGN attached on 694L8F3
+9. Drive /dev/nvme4n1 (745.21 GiB) PHAL0352003J800LGN attached on 694L8F3
+10. Drive /dev/nvme6n1 (745.21 GiB) PHAL0352003S800LGN attached on 694L8F3
+11. Drive /dev/nvme5n1 (745.21 GiB) PHAL03560025800LGN attached on 694L8F3
+12. Drive /dev/nvme3n1 (745.21 GiB) PHA92145001Y800LGN attached on 694L8F3
+13. Drive /dev/nvme9n1 (745.21 GiB) PHAL02950038800LGN attached on 694L8F3
 ```
 ---
-Fri Oct  3 02:15:01 PM MSK 2025
+Fri Oct  3 02:25:01 PM MSK 2025
