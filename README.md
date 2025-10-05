@@ -4,20 +4,21 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	PowerEdge R7515 	(SN: 3WFM8F3)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	5 October 2025, Sunday, 12:32 (UTC)
+	5 October 2025, Sunday, 12:49 (UTC)
 
 	AMD EPYC 7773X 64-Core Processor
 	Sockets: 1, Cores per socket: 48
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 96.00 96.00 94.80
+	Load Average (1m, 5m, 15m): 98.72 96.87 95.94
 
 	Memory size: 503.30 GiB
-	Memory used: 7.54 GiB
-	Memory free: 498.01 GiB
+	Memory used: 14.91 GiB
+	Memory free: 490.27 GiB
 
 	Drives:
-		Drive: /dev/sda (28.65 GiB)
+		Drive: /dev/sda (14.84 GiB)
+		Drive: /dev/sdb (14.84 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,7 +28,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno8303 (b0:7b:25:ba:ee:12)
 		IPv4: 192.168.1.141/24
-		RX: 0.16 GiB, TX: 0.01 GiB
+		RX: 7.53 GiB, TX: 0.11 GiB
 
 		ens1f0np0 (2c:ea:7f:94:7d:9b)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -46,7 +47,8 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (28.65 GiB) has no serial number.
+1. Drive /dev/sda (14.84 GiB) has no serial number.
+2. Drive /dev/sdb (14.84 GiB) has no serial number.
 ```
 ---
-Sun Oct  5 03:40:02 PM MSK 2025
+Sun Oct  5 03:50:01 PM MSK 2025
