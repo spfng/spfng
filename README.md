@@ -4,17 +4,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	ProLiant DL360 Gen10 	(SN: CN782506K0)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	6 October 2025, Monday, 13:11 (UTC)
+	6 October 2025, Monday, 13:27 (UTC)
 
 	Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz
 	Sockets: 2, Cores per socket: 12
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.60 0.26 0.10
+	Load Average (1m, 5m, 15m): 48.00 45.77 30.10
 
 	Memory size: 251.55 GiB
-	Memory used: 5.33 GiB
-	Memory free: 247.06 GiB
+	Memory used: 4.81 GiB
+	Memory free: 247.55 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -30,7 +30,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno1 (20:67:7c:d3:cc:5c)
 		IPv4: 192.168.5.222/24
-		RX: 0.04 GiB, TX: 0.00 GiB
+		RX: 0.08 GiB, TX: 0.00 GiB
 
 		eno2 (20:67:7c:d3:cc:5d)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -49,4 +49,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 4. Drive /dev/nvme0n1 (2980.82 GiB) PHLN0044014T3P2BGN attached on CN782506K0
 ```
 ---
-Mon Oct  6 04:20:01 PM MSK 2025
+Mon Oct  6 04:30:01 PM MSK 2025
