@@ -4,13 +4,13 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	PowerEdge R7515 	(SN: 694L8F3)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	6 October 2025, Monday, 07:16 (UTC)
+	6 October 2025, Monday, 07:33 (UTC)
 
 	AMD EPYC 7773X 64-Core Processor
 	Sockets: 1, Cores per socket: 48
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 48.00 48.00 47.97
+	Load Average (1m, 5m, 15m): 48.00 48.00 48.00
 
 	Memory size: 125.50 GiB
 	Memory used: 4.06 GiB
@@ -26,7 +26,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		eno8303 (b0:7b:25:ba:a9:4a)
 		IPv4: 192.168.1.189/24
-		RX: 0.10 GiB, TX: 0.00 GiB
+		RX: 0.12 GiB, TX: 0.00 GiB
 
 		eno8403 (b0:7b:25:ba:a9:4b)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -36,4 +36,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 No drives found.
 ```
 ---
-Mon Oct  6 10:20:01 AM MSK 2025
+Mon Oct  6 10:35:02 AM MSK 2025
