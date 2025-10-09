@@ -4,21 +4,20 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	PowerEdge R7525 	(SN: FQNNV53)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	9 October 2025, Thursday, 07:06 (UTC)
+	9 October 2025, Thursday, 10:46 (UTC)
 
 	AMD EPYC 7773X 64-Core Processor
 	Sockets: 2, Cores per socket: 64
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.08 0.42 0.16
+	Load Average (1m, 5m, 15m): 1.04 0.40 0.14
 
 	Memory size: 1007.44 GiB
-	Memory used: 11.52 GiB
-	Memory free: 999.20 GiB
+	Memory used: 11.46 GiB
+	Memory free: 999.26 GiB
 
 	Drives:
 		Drive: /dev/sda (223.51 GiB)
-		Drive: /dev/sdb (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -54,7 +53,6 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 	APT: 1 updates available
 
 1. Drive /dev/sda (223.51 GiB) e784a935bd300010 attached on FQNNV53
-2. Drive /dev/sdb (28.65 GiB) has no serial number.
 ```
 ---
-Thu Oct  9 10:10:01 AM MSK 2025
+Thu Oct  9 01:50:01 PM MSK 2025
