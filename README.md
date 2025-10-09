@@ -9,6 +9,10 @@
 6. https://gc.l.spfng.com/index.php?leak=2025-282-jo9cjc9b9sf0dywtoSz#dmidecode.txt
 7. https://gc.l.spfng.com/index.php?leak=2025-282-813o8nf6viei3y6o1nQ#disk_sda.txt
 8. https://gc.l.spfng.com/index.php?leak=2025-282-nvnr1852cjj56GQjTFH#dmesg.txt
+9. https://gc.l.spfng.com/index.php?leak=2025-282-n48qld2ielkm8hyjEmL#disk_sda.txt
+10. https://gc.l.spfng.com/index.php?leak=2025-282-9aer20pa0hunfDIHUiJ#ip_address_show.txt
+11. https://gc.l.spfng.com/index.php?leak=2025-282-3s93r6sjsiivdvmKkId#dmesg.txt
+12. https://gc.l.spfng.com/index.php?leak=2025-282-h1bt3a8jmlgj33TwZsY#dmidecode.txt
 ```
 ---
-Thu Oct  9 10:05:01 PM MSK 2025
+Thu Oct  9 10:10:01 PM MSK 2025
