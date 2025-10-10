@@ -2,22 +2,23 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	2288H V5 Purley	(SN: 2102312DNA10J6001802)
+	PowerEdge R7525 	(SN: FQNNV53)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	10 October 2025, Friday, 12:25 (UTC)
+	10 October 2025, Friday, 03:58 (UTC)
 
-	Intel(R) Xeon(R) Gold 6134 CPU @ 3.20GHz
-	Sockets: 2, Cores per socket: 8
-	VMX-Virtualisation
+	AMD EPYC 7773X 64-Core Processor
+	Sockets: 2, Cores per socket: 64
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.94 0.43 0.16
+	Load Average (1m, 5m, 15m): 0.96 0.36 0.13
 
-	Memory size: 251.41 GiB
-	Memory used: 12.98 GiB
-	Memory free: 239.22 GiB
+	Memory size: 1007.44 GiB
+	Memory used: 11.54 GiB
+	Memory free: 999.18 GiB
 
 	Drives:
-		Drive: /dev/sda (28.65 GiB)
+		Drive: /dev/sda (223.51 GiB)
+		Drive: /dev/sdb (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,40 +26,35 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1np0 (9c:71:3a:22:e8:7a)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno2np1 (9c:71:3a:22:e8:7b)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3np2 (9c:71:3a:22:e8:7c)
-		IPv4: 192.168.5.236/24
+		eno8303 (70:b5:e8:d0:ed:6c)
+		IPv4: 192.168.5.145/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno4np3 (9c:71:3a:22:e8:7d)
+		eno8403 (70:b5:e8:d0:ed:6d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens3f0np0 (b8:ce:f6:57:ca:d8)
+		eno12399np0 (b8:ce:f6:59:b5:88)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens3f1np1 (b8:ce:f6:57:ca:d9)
+		eno12409np1 (b8:ce:f6:59:b5:89)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens4f0np0 (b8:3f:d2:b2:11:c0)
+		ens6f0np0 (6c:b3:11:92:75:3c)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens4f1np1 (b8:3f:d2:b2:11:c1)
+		ens6f1np1 (6c:b3:11:92:75:3d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens6f0np0 (88:e9:a4:2f:4c:f8)
+		ens7f0np0 (04:3f:72:e0:9c:d8)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens6f1np1 (88:e9:a4:2f:4c:f9)
+		ens7f1np1 (04:3f:72:e0:9c:d9)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (28.65 GiB) has no serial number.
+1. Drive /dev/sda (223.51 GiB) e784a935bd300010 attached on FQNNV53
+2. Drive /dev/sdb (28.65 GiB) has no serial number.
 ```
 ---
-Fri Oct 10 06:55:01 AM MSK 2025
+Fri Oct 10 07:00:01 AM MSK 2025
