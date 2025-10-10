@@ -2,25 +2,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL380 Gen10 	(SN: SGH938STL3)
+	2288H V5 Purley	(SN: 2102312DNA10J6001802)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	10 October 2025, Friday, 04:23 (UTC)
+	10 October 2025, Friday, 19:05 (UTC)
 
-	Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
-	Sockets: 2, Cores per socket: 24
+	Intel(R) Xeon(R) Gold 6134 CPU @ 3.20GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.84 0.35 0.13
+	Load Average (1m, 5m, 15m): 0.50 0.11 0.04
 
-	Memory size: 755.54 GiB
-	Memory used: 8.21 GiB
-	Memory free: 750.14 GiB
+	Memory size: 251.41 GiB
+	Memory used: 12.25 GiB
+	Memory free: 239.94 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (28.65 GiB)
-		Drive: /dev/nvme0n1 (2980.82 GiB)
-		Drive: /dev/nvme1n1 (2980.82 GiB)
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -28,28 +25,40 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (08:f1:ea:f9:9d:b4)
-		IPv4: 192.168.5.161/24
-		RX: 0.01 GiB, TX: 0.00 GiB
-
-		eno2 (08:f1:ea:f9:9d:b5)
-		IPv4: 192.168.5.162/24
+		eno1np0 (9c:71:3a:22:e8:7a)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (08:f1:ea:f9:9d:b6)
-		IPv4: 192.168.5.163/24
+		eno2np1 (9c:71:3a:22:e8:7b)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (08:f1:ea:f9:9d:b7)
-		IPv4: 192.168.5.164/24
+		eno3np2 (9c:71:3a:22:e8:7c)
+		IPv4: 192.168.5.236/24
+		RX: 0.06 GiB, TX: 0.00 GiB
+
+		eno4np3 (9c:71:3a:22:e8:7d)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens3f0np0 (b8:ce:f6:57:ca:d8)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens3f1np1 (b8:ce:f6:57:ca:d9)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens4f0np0 (b8:3f:d2:b2:11:c0)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens4f1np1 (b8:3f:d2:b2:11:c1)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens6f0np0 (88:e9:a4:2f:4c:f8)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens6f1np1 (88:e9:a4:2f:4c:f9)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (0.00 GiB) has no serial number.
-2. Drive /dev/sdb (28.65 GiB) has no serial number.
-3. Drive /dev/nvme0n1 (2980.82 GiB) PHLN013000XD3P2BGN attached on SGH938STL3
-4. Drive /dev/nvme1n1 (2980.82 GiB) PHLN013001GK3P2BGN attached on SGH938STL3
+1. Drive /dev/sda (28.65 GiB) has no serial number.
 ```
 ---
-Fri Oct 10 07:25:01 AM MSK 2025
+Fri Oct 10 01:35:01 PM MSK 2025
