@@ -2,24 +2,21 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 
+	2288H V5 Purley	(SN: 2102312DNA10J6001802)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	14 October 2025, Tuesday, 13:04 (UTC)
+	14 October 2025, Tuesday, 21:35 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz
-	Sockets: 2, Cores per socket: 16
+	Intel(R) Xeon(R) Gold 6134 CPU @ 3.20GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.43 0.16 0.06
+	Load Average (1m, 5m, 15m): 32.00 32.00 32.00
 
-	Memory size: 755.63 GiB
-	Memory used: 6.51 GiB
-	Memory free: 751.94 GiB
+	Memory size: 251.41 GiB
+	Memory used: 11.71 GiB
+	Memory free: 240.45 GiB
 
-	Drives:
-		Drive: /dev/sda (894.25 GiB)
-		Drive: /dev/sdb (894.25 GiB)
-		Drive: /dev/sdc (894.25 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,36 +24,40 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (94:57:a5:5e:f8:1c)
-		IPv4: 192.168.5.71/24
-		RX: 1.26 GiB, TX: 0.01 GiB
-
-		ens2f0np0 (48:df:37:78:ee:60)
+		eno1np0 (9c:71:3a:22:e8:7a)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (94:57:a5:5e:f8:1d)
+		eno2np1 (9c:71:3a:22:e8:7b)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (94:57:a5:5e:f8:1e)
+		eno3np2 (9c:71:3a:22:e8:7c)
+		IPv4: 192.168.5.90/24
+		RX: 1.29 GiB, TX: 0.01 GiB
+
+		eno4np3 (9c:71:3a:22:e8:7d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens2f1np1 (48:df:37:78:ee:68)
+		ens3f0np0 (b8:ce:f6:57:ca:d8)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (94:57:a5:5e:f8:1f)
+		ens3f1np1 (b8:ce:f6:57:ca:d9)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens1f0np0 (48:df:37:7c:97:50)
+		ens4f0np0 (b8:3f:d2:b2:11:c0)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens1f1np1 (48:df:37:7c:97:58)
+		ens4f1np1 (b8:3f:d2:b2:11:c1)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens6f0np0 (88:e9:a4:2f:4c:f8)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens6f1np1 (88:e9:a4:2f:4c:f9)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (894.25 GiB) PHYF946202WG960CGN attached on unassigned
-2. Drive /dev/sdb (894.25 GiB) BTYF01530A58960CGN attached on unassigned
-3. Drive /dev/sdc (894.25 GiB) BTYF945302QV960CGN attached on unassigned
+No drives found.
 ```
 ---
-Tue Oct 14 04:05:01 PM MSK 2025
+Tue Oct 14 04:10:02 PM MSK 2025
