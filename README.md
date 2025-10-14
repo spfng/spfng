@@ -2,33 +2,28 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL380 Gen9 	(SN: 6CU638WCSK)
+	ProLiant DL380 Gen10 	(SN: SGH938STJK)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	14 October 2025, Tuesday, 06:38 (UTC)
+	14 October 2025, Tuesday, 08:36 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
-	Sockets: 1, Cores per socket: 14
-	No Virtualisation
+	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
+	Sockets: 2, Cores per socket: 8
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.39 0.13 0.04
+	Load Average (1m, 5m, 15m): 0.33 0.09 0.03
 
-	Memory size: 31.23 GiB
-	Memory used: 2.07 GiB
-	Memory free: 29.00 GiB
+	Memory size: 251.56 GiB
+	Memory used: 3.46 GiB
+	Memory free: 248.90 GiB
 
 	Drives:
-		Drive: /dev/sda (16764.00 GiB)
-		Drive: /dev/sdb (16764.00 GiB)
-		Drive: /dev/sdc (16764.00 GiB)
-		Drive: /dev/sdd (16764.00 GiB)
-		Drive: /dev/sde (16764.00 GiB)
-		Drive: /dev/sdf (16764.00 GiB)
-		Drive: /dev/sdg (16764.00 GiB)
-		Drive: /dev/sdh (16764.00 GiB)
-		Drive: /dev/sdi (16764.00 GiB)
-		Drive: /dev/sdj (16764.00 GiB)
-		Drive: /dev/sdk (16764.00 GiB)
-		Drive: /dev/sdl (16764.00 GiB)
+		Drive: /dev/sda (894.25 GiB)
+		Drive: /dev/sdb (894.25 GiB)
+		Drive: /dev/sdc (3576.98 GiB)
+		Drive: /dev/sdd (3576.98 GiB)
+		Drive: /dev/sde (3576.98 GiB)
+		Drive: /dev/sdf (3576.98 GiB)
+		Drive: /dev/sdg (0.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -36,33 +31,31 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (94:18:82:0b:22:f8)
-		IPv4: 192.168.5.97/24
+		eno1 (08:f1:ea:f9:18:4c)
+		IPv4: 192.168.5.54/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (94:18:82:0b:22:f9)
+		eno2 (08:f1:ea:f9:18:4d)
+		IPv4: 192.168.5.57/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (94:18:82:0b:22:fa)
+		eno3 (08:f1:ea:f9:18:4e)
+		IPv4: 192.168.5.51/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (94:18:82:0b:22:fb)
+		eno4 (08:f1:ea:f9:18:4f)
+		IPv4: 192.168.5.52/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (16764.00 GiB) 5240A0E9FQDH attached on 6CU638WCSK
-2. Drive /dev/sdb (16764.00 GiB) 52G0A0VUFQDH attached on 6CU638WCSK
-3. Drive /dev/sdc (16764.00 GiB) 52G0A05WFQDH attached on 6CU638WCSK
-4. Drive /dev/sdd (16764.00 GiB) 5240A0M6FQDH attached on 6CU638WCSK
-5. Drive /dev/sde (16764.00 GiB) 5240A154FQDH attached on 6CU638WCSK
-6. Drive /dev/sdf (16764.00 GiB) 52C0A015FQDH attached on 6CU638WCSK
-7. Drive /dev/sdg (16764.00 GiB) 52G0A08TFQDH attached on 6CU638WCSK
-8. Drive /dev/sdh (16764.00 GiB) 52G0A008FQDH attached on 6CU638WCSK
-9. Drive /dev/sdi (16764.00 GiB) 52G0A009FQDH attached on 6CU638WCSK
-10. Drive /dev/sdj (16764.00 GiB) 52G0A05HFQDH attached on 6CU638WCSK
-11. Drive /dev/sdk (16764.00 GiB) 5230A00KFQDH attached on 6CU638WCSK
-12. Drive /dev/sdl (16764.00 GiB) 5240A1B7FQDH attached on 6CU638WCSK
+1. Drive /dev/sda (894.25 GiB) PHYF845600T1960CGN attached on SGH938STJK
+2. Drive /dev/sdb (894.25 GiB) PHYF946203JR960CGN attached on SGH938STJK
+3. Drive /dev/sdc (3576.98 GiB) S28BNA0J302861 attached on SGH938STJK
+4. Drive /dev/sdd (3576.98 GiB) S28BNA0J508344 attached on SGH938STJK
+5. Drive /dev/sde (3576.98 GiB) S28BNA0J402849 attached on SGH938STJK
+6. Drive /dev/sdf (3576.98 GiB) S28BNA0J402997 attached on SGH938STJK
+7. Drive /dev/sdg (0.00 GiB) has no serial number.
 ```
 ---
-Tue Oct 14 09:40:01 AM MSK 2025
+Tue Oct 14 11:40:01 AM MSK 2025
