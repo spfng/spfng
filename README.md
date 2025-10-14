@@ -2,28 +2,21 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL380 Gen10 	(SN: SGH938STJK)
+	ProLiant DL360 Gen9 
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	14 October 2025, Tuesday, 08:36 (UTC)
+	14 October 2025, Tuesday, 12:49 (UTC)
 
-	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-	Sockets: 2, Cores per socket: 8
+	Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz
+	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.33 0.09 0.03
+	Load Average (1m, 5m, 15m): 0.77 0.29 0.11
 
-	Memory size: 251.56 GiB
-	Memory used: 3.46 GiB
-	Memory free: 248.90 GiB
+	Memory size: 755.63 GiB
+	Memory used: 7.39 GiB
+	Memory free: 751.06 GiB
 
-	Drives:
-		Drive: /dev/sda (894.25 GiB)
-		Drive: /dev/sdb (894.25 GiB)
-		Drive: /dev/sdc (3576.98 GiB)
-		Drive: /dev/sdd (3576.98 GiB)
-		Drive: /dev/sde (3576.98 GiB)
-		Drive: /dev/sdf (3576.98 GiB)
-		Drive: /dev/sdg (0.00 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -31,31 +24,40 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (08:f1:ea:f9:18:4c)
-		IPv4: 192.168.5.54/24
+		eno1 (94:57:a5:5e:f8:1c)
+		IPv4: 192.168.5.70/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (08:f1:ea:f9:18:4d)
-		IPv4: 192.168.5.57/24
+		ens2f0np0 (48:df:37:7c:94:90)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (08:f1:ea:f9:18:4e)
-		IPv4: 192.168.5.51/24
+		eno2 (94:57:a5:5e:f8:1d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (08:f1:ea:f9:18:4f)
-		IPv4: 192.168.5.52/24
+		ens2f1np1 (48:df:37:7c:94:98)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (94:57:a5:5e:f8:1e)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (94:57:a5:5e:f8:1f)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens1f0np0 (48:df:37:7c:b2:80)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens1f1np1 (48:df:37:7c:b2:88)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno49 (98:f2:b3:e2:b0:c0)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno49d1 (98:f2:b3:e2:b0:c1)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (894.25 GiB) PHYF845600T1960CGN attached on SGH938STJK
-2. Drive /dev/sdb (894.25 GiB) PHYF946203JR960CGN attached on SGH938STJK
-3. Drive /dev/sdc (3576.98 GiB) S28BNA0J302861 attached on SGH938STJK
-4. Drive /dev/sdd (3576.98 GiB) S28BNA0J508344 attached on SGH938STJK
-5. Drive /dev/sde (3576.98 GiB) S28BNA0J402849 attached on SGH938STJK
-6. Drive /dev/sdf (3576.98 GiB) S28BNA0J402997 attached on SGH938STJK
-7. Drive /dev/sdg (0.00 GiB) has no serial number.
+No drives found.
 ```
 ---
-Tue Oct 14 11:40:01 AM MSK 2025
+Tue Oct 14 03:50:01 PM MSK 2025
