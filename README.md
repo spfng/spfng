@@ -2,36 +2,21 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL380 Gen10 	(SN: 2M282401X4)
+	2288H V5 Purley	(SN: 2102312DNA10J6001802)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	15 October 2025, Wednesday, 05:30 (UTC)
+	15 October 2025, Wednesday, 14:04 (UTC)
 
-	Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
-	Sockets: 2, Cores per socket: 12
+	Intel(R) Xeon(R) Gold 6134 CPU @ 3.20GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.36 0.11 0.03
+	Load Average (1m, 5m, 15m): 0.20 0.06 0.02
 
-	Memory size: 377.55 GiB
-	Memory used: 4.87 GiB
-	Memory free: 373.99 GiB
+	Memory size: 251.41 GiB
+	Memory used: 11.56 GiB
+	Memory free: 240.64 GiB
 
-	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/nvme7n1 (3726.02 GiB)
-		Drive: /dev/nvme1n1 (3726.02 GiB)
-		Drive: /dev/nvme13n1 (3726.02 GiB)
-		Drive: /dev/nvme14n1 (3726.02 GiB)
-		Drive: /dev/nvme3n1 (3726.02 GiB)
-		Drive: /dev/nvme11n1 (3726.02 GiB)
-		Drive: /dev/nvme5n1 (3726.02 GiB)
-		Drive: /dev/nvme10n1 (3726.02 GiB)
-		Drive: /dev/nvme12n1 (2980.82 GiB)
-		Drive: /dev/nvme0n1 (2980.82 GiB)
-		Drive: /dev/nvme9n1 (2980.82 GiB)
-		Drive: /dev/nvme6n1 (2980.82 GiB)
-		Drive: /dev/nvme4n1 (2980.82 GiB)
-		Drive: /dev/nvme15n1 (2980.82 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -39,47 +24,40 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (20:67:7c:e5:8d:f4)
-		IPv4: 192.168.5.93/24
+		eno1np0 (9c:71:3a:22:e8:7a)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno2np1 (9c:71:3a:22:e8:7b)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3np2 (9c:71:3a:22:e8:7c)
+		IPv4: 192.168.5.92/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno5np0 (48:df:37:9d:0d:20)
-		IPv4: 169.254.167.182/16
+		eno4np3 (9c:71:3a:22:e8:7d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (20:67:7c:e5:8d:f5)
-		IPv4: 192.168.5.99/24
+		ens3f0np0 (b8:ce:f6:57:ca:d8)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (20:67:7c:e5:8d:f6)
-		IPv4: 192.168.5.94/24
+		ens3f1np1 (b8:ce:f6:57:ca:d9)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (20:67:7c:e5:8d:f7)
-		IPv4: 192.168.5.97/24
+		ens4f0np0 (b8:3f:d2:b2:11:c0)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno6np1 (48:df:37:9d:0d:28)
-		IPv4: 169.254.219.151/16
+		ens4f1np1 (b8:3f:d2:b2:11:c1)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens6f0np0 (88:e9:a4:2f:4c:f8)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens6f1np1 (88:e9:a4:2f:4c:f9)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (0.00 GiB) has no serial number.
-2. Drive /dev/nvme7n1 (3726.02 GiB) PHLJ043107FP4P0DGN attached on 2M282401X4
-3. Drive /dev/nvme1n1 (3726.02 GiB) PHLJ020602WC4P0DGN attached on 2M282401X4
-4. Drive /dev/nvme13n1 (3726.02 GiB) PHLJ042200ZA4P0DGN attached on 2M282401X4
-5. Drive /dev/nvme14n1 (3726.02 GiB) PHLJ042201N24P0DGN attached on 2M282401X4
-6. Drive /dev/nvme3n1 (3726.02 GiB) PHLJ0432047L4P0DGN attached on 2M282401X4
-7. Drive /dev/nvme11n1 (3726.02 GiB) PHLJ020602XC4P0DGN attached on 2M282401X4
-8. Drive /dev/nvme5n1 (3726.02 GiB) PHLJ020603AG4P0DGN attached on 2M282401X4
-9. Drive /dev/nvme10n1 (3726.02 GiB) PHLJ020602004P0DGN attached on 2M282401X4
-10. Drive /dev/nvme12n1 (2980.82 GiB) PHLN012200TZ3P2BGN attached on 2M282401X4
-11. Drive /dev/nvme0n1 (2980.82 GiB) PHLN0166000T3P2BGN attached on 2M282401X4
-12. Drive /dev/nvme9n1 (2980.82 GiB) PHLN013001AK3P2BGN attached on 2M282401X4
-13. Drive /dev/nvme6n1 (2980.82 GiB) PHLN027400XM3P2BGN attached on 2M282401X4
-14. Drive /dev/nvme4n1 (2980.82 GiB) PHLN009300MT3P2BGN attached on 2M282401X4
-15. Drive /dev/nvme15n1 (2980.82 GiB) PHLN013002JA3P2BGN attached on 2M282401X4
+No drives found.
 ```
 ---
-Wed Oct 15 08:30:01 AM MSK 2025
+Wed Oct 15 08:35:01 AM MSK 2025
