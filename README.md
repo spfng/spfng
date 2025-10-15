@@ -2,24 +2,21 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL380 Gen10 	(SN: 2M282401X4)
+	ProLiant DL360 Gen9 	(SN: 6CU7271E41)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	15 October 2025, Wednesday, 05:47 (UTC)
+	15 October 2025, Wednesday, 05:46 (UTC)
 
-	Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
-	Sockets: 2, Cores per socket: 12
+	Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
+	Sockets: 2, Cores per socket: 14
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.28 0.08 0.02
+	Load Average (1m, 5m, 15m): 0.23 0.07 0.04
 
-	Memory size: 377.55 GiB
-	Memory used: 4.46 GiB
-	Memory free: 374.40 GiB
+	Memory size: 125.75 GiB
+	Memory used: 3.22 GiB
+	Memory free: 122.83 GiB
 
-	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/nvme1n1 (894.25 GiB)
-		Drive: /dev/nvme0n1 (894.25 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,33 +24,30 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (20:67:7c:e5:8d:f4)
-		IPv4: 192.168.5.57/24
+		eno1 (30:e1:71:6f:df:dc)
+		IPv4: 192.168.5.98/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno5np0 (48:df:37:9d:0d:20)
+		eno2 (30:e1:71:6f:df:dd)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (20:67:7c:e5:8d:f5)
-		IPv4: 192.168.5.52/24
+		eno3 (30:e1:71:6f:df:de)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno6np1 (48:df:37:9d:0d:28)
+		eno4 (30:e1:71:6f:df:df)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (20:67:7c:e5:8d:f6)
-		IPv4: 192.168.5.51/24
+		eno49 (5c:b9:01:94:98:bc)
+		IPv4: 169.254.24.45/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (20:67:7c:e5:8d:f7)
-		IPv4: 192.168.5.54/24
+		eno50 (5c:b9:01:94:98:bd)
+		IPv4: 169.254.177.80/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (0.00 GiB) has no serial number.
-2. Drive /dev/nvme1n1 (894.25 GiB) 80F0A0AMTAFR attached on 2M282401X4
-3. Drive /dev/nvme0n1 (894.25 GiB) 80F0A055TAFR attached on 2M282401X4
+No drives found.
 ```
 ---
-Wed Oct 15 08:50:02 AM MSK 2025
+Wed Oct 15 08:55:01 AM MSK 2025
