@@ -1,4 +1,4 @@
 # Message of the day
-`DEVICE LEFT: MAC=a2:2e:0d:58:57:87 IP=192.168.1.164`
+`DEVICE JOIN: MAC=4c:23:38:7c:4d:ab IP=192.168.1.217`
 ---
-Wed Oct 29 08:15:01 PM MSK 2025
+Wed Oct 29 08:20:01 PM MSK 2025
