@@ -1,6 +1,6 @@
 # Message of the day
 ```
-`DEVICE JOIN: MAC=84:cc:a8:8c:d1:02 IP=192.168.1.98`
+`DEVICE JOIN: MAC=4c:23:38:7c:4d:ab IP=192.168.1.217`
 ```
 ---
-Wed Oct 29 07:20:01 PM MSK 2025
+Wed Oct 29 07:25:01 PM MSK 2025
