@@ -2,21 +2,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL380 Gen10 Plus 	(SN: SGH347LVWT)
+	ProLiant DL360 Gen10 	(SN: MXQ90401L7)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	30 October 2025, Thursday, 04:19 (UTC)
+	29 October 2025, Wednesday, 15:05 (UTC)
 
-	Intel(R) Xeon(R) Platinum 8336C CPU @ 2.30GHz
-	Sockets: 1, Cores per socket: 32
-	No Virtualisation
+	Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
+	Sockets: 2, Cores per socket: 24
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.18 0.09 0.03
+	Load Average (1m, 5m, 15m): 0.25 0.06 0.02
 
-	Memory size: 503.39 GiB
-	Memory used: 4.91 GiB
-	Memory free: 500.82 GiB
+	Memory size: 377.54 GiB
+	Memory used: 4.52 GiB
+	Memory free: 374.32 GiB
 
-	No drives attached.
+	Drives:
+		Drive: /dev/sda (0.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -24,22 +25,22 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens10f0 (04:32:01:5e:bf:5a)
-		IPv4: 192.168.5.64/24
-		RX: 1.26 GiB, TX: 0.03 GiB
+		eno1 (20:67:7c:e2:54:f8)
+		IPv4: 192.168.5.85/24
+		RX: 1.26 GiB, TX: 0.02 GiB
 
-		ens10f1 (04:32:01:5e:bf:5b)
+		eno2 (20:67:7c:e2:54:f9)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens10f2 (04:32:01:5e:bf:5c)
+		eno3 (20:67:7c:e2:54:fa)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens10f3 (04:32:01:5e:bf:5d)
+		eno4 (20:67:7c:e2:54:fb)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-No drives found.
+1. Drive /dev/sda (0.00 GiB) has no serial number.
 ```
 ---
-Thu Oct 30 07:20:01 AM MSK 2025
+Thu Oct 30 07:25:01 AM MSK 2025
