@@ -4,17 +4,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	ProLiant DL380 Gen10 	(SN: SGH938STMR)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	30 October 2025, Thursday, 13:38 (UTC)
+	31 October 2025, Friday, 04:21 (UTC)
 
 	Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
 	Sockets: 2, Cores per socket: 18
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.47 0.13 0.04
+	Load Average (1m, 5m, 15m): 0.30 0.10 0.03
 
 	Memory size: 125.55 GiB
-	Memory used: 3.23 GiB
-	Memory free: 122.60 GiB
+	Memory used: 3.29 GiB
+	Memory free: 122.54 GiB
 
 	Drives:
 		Drive: /dev/sda (447.13 GiB)
@@ -29,7 +29,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno1 (08:f1:ea:ee:f2:e2)
-		IPv4: 192.168.5.70/24
+		IPv4: 192.168.5.91/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
 		eno2 (08:f1:ea:ee:f2:e3)
@@ -49,4 +49,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 4. Drive /dev/nvme1n1 (1490.42 GiB) S5LCNC0RC02818 attached on SGH938STMR
 ```
 ---
-Thu Oct 30 04:40:01 PM MSK 2025
+Fri Oct 31 07:25:01 AM MSK 2025
