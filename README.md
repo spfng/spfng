@@ -2,22 +2,27 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen10 	(SN: MXQ00100ZH)
+	ProLiant DL360 Gen9 	(SN: 6CU710262D)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	6 November 2025, Thursday, 14:01 (UTC)
+	6 November 2025, Thursday, 14:23 (UTC)
 
-	Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
-	Sockets: 2, Cores per socket: 18
+	Intel(R) Xeon(R) CPU E5-2643 v4 @ 3.40GHz
+	Sockets: 2, Cores per socket: 6
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.40 0.14 0.05
+	Load Average (1m, 5m, 15m): 0.28 0.09 0.03
 
-	Memory size: 62.54 GiB
-	Memory used: 3.05 GiB
-	Memory free: 59.47 GiB
+	Memory size: 125.76 GiB
+	Memory used: 2.75 GiB
+	Memory free: 123.31 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sda (7153.96 GiB)
+		Drive: /dev/sdb (7153.96 GiB)
+		Drive: /dev/sdc (7153.96 GiB)
+		Drive: /dev/sdd (7153.96 GiB)
+		Drive: /dev/sde (7153.96 GiB)
+		Drive: /dev/sdf (7153.96 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,28 +30,27 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (94:40:c9:df:11:0c)
-		IPv4: 192.168.5.57/24
+		eno1 (94:18:82:8a:92:3c)
+		IPv4: 192.168.5.85/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (94:40:c9:df:11:0d)
+		eno2 (94:18:82:8a:92:3d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (94:40:c9:df:11:0e)
+		eno3 (94:18:82:8a:92:3e)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (94:40:c9:df:11:0f)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno5 (5c:b9:01:8f:e0:6c)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno6 (5c:b9:01:8f:e0:6d)
+		eno4 (94:18:82:8a:92:3f)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (0.00 GiB) has no serial number.
+1. Drive /dev/sda (7153.96 GiB) S44XNB0KA00397 attached on 6CU710262D
+2. Drive /dev/sdb (7153.96 GiB) S44XNB0KA00237 attached on 6CU710262D
+3. Drive /dev/sdc (7153.96 GiB) S44XNB0KA00066 attached on 6CU710262D
+4. Drive /dev/sdd (7153.96 GiB) S44XNB0KA00391 attached on 6CU710262D
+5. Drive /dev/sde (7153.96 GiB) S44XNB0KA00184 attached on 6CU710262D
+6. Drive /dev/sdf (7153.96 GiB) S44XNB0KA00201 attached on 6CU710262D
 ```
 ---
-Thu Nov  6 05:05:01 PM MSK 2025
+Thu Nov  6 05:25:01 PM MSK 2025
