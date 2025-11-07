@@ -2,27 +2,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 	(SN: 6CU710262D)
+	ProLiant DL360 Gen10 	(SN: MXQ90401L7)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	6 November 2025, Thursday, 14:23 (UTC)
+	6 November 2025, Thursday, 14:42 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2643 v4 @ 3.40GHz
-	Sockets: 2, Cores per socket: 6
+	Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
+	Sockets: 2, Cores per socket: 24
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.28 0.09 0.03
+	Load Average (1m, 5m, 15m): 0.39 0.12 0.04
 
-	Memory size: 125.76 GiB
-	Memory used: 2.75 GiB
-	Memory free: 123.31 GiB
+	Memory size: 377.54 GiB
+	Memory used: 4.58 GiB
+	Memory free: 374.27 GiB
 
 	Drives:
-		Drive: /dev/sda (7153.96 GiB)
-		Drive: /dev/sdb (7153.96 GiB)
-		Drive: /dev/sdc (7153.96 GiB)
-		Drive: /dev/sdd (7153.96 GiB)
-		Drive: /dev/sde (7153.96 GiB)
-		Drive: /dev/sdf (7153.96 GiB)
+		Drive: /dev/sda (0.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -30,27 +25,22 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (94:18:82:8a:92:3c)
-		IPv4: 192.168.5.85/24
+		eno1 (20:67:7c:e2:54:f8)
+		IPv4: 192.168.5.61/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (94:18:82:8a:92:3d)
+		eno2 (20:67:7c:e2:54:f9)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (94:18:82:8a:92:3e)
+		eno3 (20:67:7c:e2:54:fa)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (94:18:82:8a:92:3f)
+		eno4 (20:67:7c:e2:54:fb)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (7153.96 GiB) S44XNB0KA00397 attached on 6CU710262D
-2. Drive /dev/sdb (7153.96 GiB) S44XNB0KA00237 attached on 6CU710262D
-3. Drive /dev/sdc (7153.96 GiB) S44XNB0KA00066 attached on 6CU710262D
-4. Drive /dev/sdd (7153.96 GiB) S44XNB0KA00391 attached on 6CU710262D
-5. Drive /dev/sde (7153.96 GiB) S44XNB0KA00184 attached on 6CU710262D
-6. Drive /dev/sdf (7153.96 GiB) S44XNB0KA00201 attached on 6CU710262D
+1. Drive /dev/sda (0.00 GiB) has no serial number.
 ```
 ---
-Thu Nov  6 05:25:01 PM MSK 2025
+Fri Nov  7 07:00:01 AM MSK 2025
