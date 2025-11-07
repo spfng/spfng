@@ -2,27 +2,21 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 	(SN: 6CU710262D)
+	ProLiant DL360 Gen9 	(SN: MXQ6170806)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	7 November 2025, Friday, 04:03 (UTC)
+	7 November 2025, Friday, 04:40 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2643 v4 @ 3.40GHz
-	Sockets: 2, Cores per socket: 6
+	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.37 0.12 0.04
+	Load Average (1m, 5m, 15m): 0.28 0.08 0.02
 
-	Memory size: 125.76 GiB
-	Memory used: 2.75 GiB
-	Memory free: 123.31 GiB
+	Memory size: 62.76 GiB
+	Memory used: 2.51 GiB
+	Memory free: 60.24 GiB
 
-	Drives:
-		Drive: /dev/sda (7153.96 GiB)
-		Drive: /dev/sdb (7153.96 GiB)
-		Drive: /dev/sdc (7153.96 GiB)
-		Drive: /dev/sdd (7153.96 GiB)
-		Drive: /dev/sde (7153.96 GiB)
-		Drive: /dev/sdf (7153.96 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -30,27 +24,22 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (94:18:82:8a:92:3c)
-		IPv4: 192.168.5.81/24
+		eno1 (1c:98:ec:21:e6:98)
+		IPv4: 192.168.5.92/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (94:18:82:8a:92:3d)
+		eno2 (1c:98:ec:21:e6:99)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (94:18:82:8a:92:3e)
+		eno3 (1c:98:ec:21:e6:9a)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (94:18:82:8a:92:3f)
+		eno4 (1c:98:ec:21:e6:9b)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (7153.96 GiB) S44XNB0KA00397 attached on 6CU710262D
-2. Drive /dev/sdb (7153.96 GiB) S44XNB0KA00237 attached on 6CU710262D
-3. Drive /dev/sdc (7153.96 GiB) S44XNB0KA00184 attached on 6CU710262D
-4. Drive /dev/sdd (7153.96 GiB) S44XNB0KA00391 attached on 6CU710262D
-5. Drive /dev/sde (7153.96 GiB) S44XNB0KA00201 attached on 6CU710262D
-6. Drive /dev/sdf (7153.96 GiB) S44XNB0KA00066 attached on 6CU710262D
+No drives found.
 ```
 ---
-Fri Nov  7 07:10:01 AM MSK 2025
+Fri Nov  7 07:15:01 AM MSK 2025
