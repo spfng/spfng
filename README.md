@@ -2,26 +2,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen10 	(SN: 6CU835N7X5)
+	ProLiant DL360 Gen10 	(SN: MXQ90401L7)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	8 November 2025, Saturday, 11:42 (UTC)
+	8 November 2025, Saturday, 03:24 (UTC)
 
-	Intel(R) Xeon(R) Platinum 8280 CPU @ 2.70GHz
-	Sockets: 2, Cores per socket: 28
+	Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
+	Sockets: 2, Cores per socket: 24
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.28 0.11 0.04
+	Load Average (1m, 5m, 15m): 96.00 96.00 96.00
 
-	Memory size: 1511.53 GiB
-	Memory used: 9.14 GiB
-	Memory free: 1507.77 GiB
+	Memory size: 377.54 GiB
+	Memory used: 4.94 GiB
+	Memory free: 373.84 GiB
 
 	Drives:
-		Drive: /dev/sda (447.13 GiB)
-		Drive: /dev/sdb (447.13 GiB)
-		Drive: /dev/sdc (447.13 GiB)
-		Drive: /dev/sdd (0.00 GiB)
-		Drive: /dev/sde (447.13 GiB)
+		Drive: /dev/sda (0.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -29,26 +25,22 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (20:67:7c:de:c6:40)
-		IPv4: 192.168.5.80/24
-		RX: 1.26 GiB, TX: 0.01 GiB
+		eno1 (20:67:7c:e2:54:f8)
+		IPv4: 192.168.5.65/24
+		RX: 1.37 GiB, TX: 0.02 GiB
 
-		eno2 (20:67:7c:de:c6:41)
+		eno2 (20:67:7c:e2:54:f9)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (20:67:7c:de:c6:42)
+		eno3 (20:67:7c:e2:54:fa)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (20:67:7c:de:c6:43)
+		eno4 (20:67:7c:e2:54:fb)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (447.13 GiB) PHYF002109NA480BGN attached on 6CU835N7X5
-2. Drive /dev/sdb (447.13 GiB) BTYF921100V1480BGN attached on 6CU835N7X5
-3. Drive /dev/sdc (447.13 GiB) PHYF00200CX9480BGN attached on 6CU835N7X5
-4. Drive /dev/sdd (0.00 GiB) has no serial number.
-5. Drive /dev/sde (447.13 GiB) BTYF92140F1M480BGN attached on 6CU835N7X5
+1. Drive /dev/sda (0.00 GiB) has no serial number.
 ```
 ---
-Sat Nov  8 02:45:01 PM MSK 2025
+Sat Nov  8 07:40:01 PM MSK 2025
