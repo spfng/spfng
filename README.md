@@ -2,25 +2,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 	(SN: 6CU635W7LC)
+	ProLiant DL380 Gen10 	(SN: SGH938STQ6)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	15 November 2025, Saturday, 05:07 (UTC)
+	15 November 2025, Saturday, 08:21 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2643 v4 @ 3.40GHz
-	Sockets: 2, Cores per socket: 6
+	Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
+	Sockets: 2, Cores per socket: 18
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.13 0.05 0.01
+	Load Average (1m, 5m, 15m): 0.45 0.14 0.05
 
-	Memory size: 125.76 GiB
-	Memory used: 2.73 GiB
-	Memory free: 123.31 GiB
+	Memory size: 377.54 GiB
+	Memory used: 4.33 GiB
+	Memory free: 374.51 GiB
 
 	Drives:
-		Drive: /dev/sda (1788.50 GiB)
-		Drive: /dev/sdb (1788.50 GiB)
-		Drive: /dev/sdc (1788.50 GiB)
-		Drive: /dev/sdd (1788.50 GiB)
+		Drive: /dev/sda (0.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -28,28 +25,25 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (ec:eb:b8:96:19:d4)
-		IPv4: 192.168.5.66/24
-		RX: 1.27 GiB, TX: 0.01 GiB
+		eno1 (08:f1:ea:f9:9f:ac)
+		IPv4: 192.168.5.74/24
+		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (ec:eb:b8:96:19:d5)
-		IPv4: 192.168.5.92/24
+		eno2 (08:f1:ea:f9:9f:ad)
+		IPv4: 192.168.5.72/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (ec:eb:b8:96:19:d6)
-		IPv4: 192.168.5.60/24
+		eno3 (08:f1:ea:f9:9f:ae)
+		IPv4: 192.168.5.62/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (ec:eb:b8:96:19:d7)
-		IPv4: 192.168.5.93/24
+		eno4 (08:f1:ea:f9:9f:af)
+		IPv4: 192.168.5.86/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (1788.50 GiB) S3MDNX0KC00999 attached on 6CU635W7LC
-2. Drive /dev/sdb (1788.50 GiB) S3MDNX0KB01286 attached on 6CU635W7LC
-3. Drive /dev/sdc (1788.50 GiB) S3MDNX0M200283 attached on 6CU635W7LC
-4. Drive /dev/sdd (1788.50 GiB) S3MDNX0KB01221 attached on 6CU635W7LC
+1. Drive /dev/sda (0.00 GiB) has no serial number.
 ```
 ---
-Sat Nov 15 08:15:01 AM MSK 2025
+Sat Nov 15 11:20:02 AM MSK 2025
