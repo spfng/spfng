@@ -2,22 +2,25 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen10 	(SN: MXQ0200035)
+	ProLiant DL360 Gen9 	(SN: 6CU635W7LC)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	15 November 2025, Saturday, 05:01 (UTC)
+	15 November 2025, Saturday, 05:07 (UTC)
 
-	Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
-	Sockets: 2, Cores per socket: 20
+	Intel(R) Xeon(R) CPU E5-2643 v4 @ 3.40GHz
+	Sockets: 2, Cores per socket: 6
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.35 0.09 0.03
+	Load Average (1m, 5m, 15m): 0.13 0.05 0.01
 
-	Memory size: 125.54 GiB
-	Memory used: 3.29 GiB
-	Memory free: 122.52 GiB
+	Memory size: 125.76 GiB
+	Memory used: 2.73 GiB
+	Memory free: 123.31 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sda (1788.50 GiB)
+		Drive: /dev/sdb (1788.50 GiB)
+		Drive: /dev/sdc (1788.50 GiB)
+		Drive: /dev/sdd (1788.50 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,25 +28,28 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (08:f1:ea:84:28:d0)
-		IPv4: 192.168.5.84/24
-		RX: 0.68 GiB, TX: 0.01 GiB
+		eno1 (ec:eb:b8:96:19:d4)
+		IPv4: 192.168.5.66/24
+		RX: 1.27 GiB, TX: 0.01 GiB
 
-		eno2 (08:f1:ea:84:28:d1)
-		IPv4: 192.168.5.73/24
-		RX: 0.59 GiB, TX: 0.00 GiB
-
-		eno3 (08:f1:ea:84:28:d2)
-		IPv4: 192.168.5.85/24
+		eno2 (ec:eb:b8:96:19:d5)
+		IPv4: 192.168.5.92/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (08:f1:ea:84:28:d3)
-		IPv4: 192.168.5.59/24
+		eno3 (ec:eb:b8:96:19:d6)
+		IPv4: 192.168.5.60/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (ec:eb:b8:96:19:d7)
+		IPv4: 192.168.5.93/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (0.00 GiB) has no serial number.
+1. Drive /dev/sda (1788.50 GiB) S3MDNX0KC00999 attached on 6CU635W7LC
+2. Drive /dev/sdb (1788.50 GiB) S3MDNX0KB01286 attached on 6CU635W7LC
+3. Drive /dev/sdc (1788.50 GiB) S3MDNX0M200283 attached on 6CU635W7LC
+4. Drive /dev/sdd (1788.50 GiB) S3MDNX0KB01221 attached on 6CU635W7LC
 ```
 ---
-Sat Nov 15 08:10:01 AM MSK 2025
+Sat Nov 15 08:15:01 AM MSK 2025
