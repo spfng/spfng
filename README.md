@@ -2,23 +2,30 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 	(SN: MXQ542088X)
+	PowerEdge R640 	(SN: CT35ZC3)
 	Running on Linux 6.12.43+deb13-amd64 x86_64
-	17 November 2025, Monday, 09:47 (UTC)
+	17 November 2025, Monday, 10:34 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
-	Sockets: 2, Cores per socket: 10
+	Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
+	Sockets: 2, Cores per socket: 26
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.31 0.11 0.04
+	Load Average (1m, 5m, 15m): 0.98 0.37 0.13
 
-	Memory size: 31.26 GiB
-	Memory used: 2.49 GiB
-	Memory free: 28.59 GiB
+	Memory size: 1007.49 GiB
+	Memory used: 10.48 GiB
+	Memory free: 1000.31 GiB
 
 	Drives:
-		Drive: /dev/sda (447.13 GiB)
-		Drive: /dev/sdb (447.13 GiB)
+		Drive: /dev/sda (28.91 GiB)
+		Drive: /dev/nvme0n1 (2980.82 GiB)
+		Drive: /dev/nvme2n1 (2980.82 GiB)
+		Drive: /dev/nvme1n1 (2980.82 GiB)
+		Drive: /dev/nvme5n1 (2980.82 GiB)
+		Drive: /dev/nvme6n1 (2980.82 GiB)
+		Drive: /dev/nvme3n1 (2980.82 GiB)
+		Drive: /dev/nvme4n1 (2980.82 GiB)
+		Drive: /dev/nvme7n1 (2980.82 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,29 +33,36 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (94:57:a5:5e:24:8c)
-		IPv4: 192.168.5.82/24
-		RX: 1.26 GiB, TX: 0.01 GiB
-
-		eno2 (94:57:a5:5e:24:8d)
+		eno1np0 (e4:43:4b:3a:f7:52)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (94:57:a5:5e:24:8e)
+		eno3 (e4:43:4b:3a:f7:72)
+		IPv4: 192.168.5.56/24
+		RX: 0.01 GiB, TX: 0.00 GiB
+
+		eno4 (e4:43:4b:3a:f7:73)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (94:57:a5:5e:24:8f)
+		eno2np1 (e4:43:4b:3a:f7:54)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno49 (48:df:37:04:d7:3c)
+		ens1f0np0 (e8:61:1f:49:77:f0)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno50 (48:df:37:04:d7:3d)
+		ens1f1np1 (e8:61:1f:49:77:f1)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (447.13 GiB) PHYF91810163480BGN attached on MXQ542088X
-2. Drive /dev/sdb (447.13 GiB) PHYF031402AM480BGN attached on MXQ542088X
+1. Drive /dev/sda (28.91 GiB) has no serial number.
+2. Drive /dev/nvme0n1 (2980.82 GiB) PHLN0166009L3P2BGN attached on CT35ZC3
+3. Drive /dev/nvme2n1 (2980.82 GiB) PHLN009300M63P2BGN attached on CT35ZC3
+4. Drive /dev/nvme1n1 (2980.82 GiB) PHLN0044014G3P2BGN attached on CT35ZC3
+5. Drive /dev/nvme5n1 (2980.82 GiB) PHLN0166006Z3P2BGN attached on CT35ZC3
+6. Drive /dev/nvme6n1 (2980.82 GiB) PHLN009300EL3P2BGN attached on CT35ZC3
+7. Drive /dev/nvme3n1 (2980.82 GiB) PHLN012202VC3P2BGN attached on CT35ZC3
+8. Drive /dev/nvme4n1 (2980.82 GiB) PHLN0274001G3P2BGN attached on CT35ZC3
+9. Drive /dev/nvme7n1 (2980.82 GiB) PHLN013002LW3P2BGN attached on CT35ZC3
 ```
 ---
-Mon Nov 17 12:50:01 PM MSK 2025
+Mon Nov 17 01:05:01 PM MSK 2025
