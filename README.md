@@ -3,18 +3,18 @@
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
-	Running on Linux 6.12.43+deb13-amd64 x86_64
-	10 August 2025, Sunday, 14:05 (UTC)
+	Running on Linux 6.12.57+deb13-amd64 x86_64
+	3 September 2025, Wednesday, 18:39 (UTC)
 
 	AMD EPYC 7773X 64-Core Processor
 	Sockets: 2, Cores per socket: 64
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.76 0.37 0.14
+	Load Average (1m, 5m, 15m): 1.16 0.51 0.19
 
 	Memory size: 1007.53 GiB
-	Memory used: 9.51 GiB
-	Memory free: 1001.83 GiB
+	Memory used: 9.46 GiB
+	Memory free: 1001.88 GiB
 
 	Drives:
 		Drive: /dev/sda (111.79 GiB)
@@ -39,4 +39,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 2. Drive /dev/sdb (28.91 GiB) has no serial number.
 ```
 ---
-Thu Nov 20 08:20:01 AM MSK 2025
+Thu Nov 20 08:30:01 AM MSK 2025
