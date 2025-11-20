@@ -2,25 +2,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	PowerEdge R7515 	(SN: 394L8F3)
+	ProLiant DL360 Gen10 	(SN: MXQ0200032)
 	Running on Linux 6.12.57+deb13-amd64 x86_64
-	3 September 2025, Wednesday, 18:39 (UTC)
+	20 November 2025, Thursday, 13:26 (UTC)
 
-	AMD EPYC 7C13 64-Core Processor
-	Sockets: 1, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
+	Sockets: 1, Cores per socket: 20
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.28 0.08 0.02
+	Load Average (1m, 5m, 15m): 0.33 0.09 0.03
 
-	Memory size: 755.11 GiB
-	Memory used: 6.73 GiB
-	Memory free: 751.17 GiB
+	Memory size: 31.01 GiB
+	Memory used: 2.21 GiB
+	Memory free: 28.63 GiB
 
 	Drives:
-		Drive: /dev/sda (447.13 GiB)
-		Drive: /dev/sdb (447.13 GiB)
-		Drive: /dev/nvme0n1 (3576.98 GiB)
-		Drive: /dev/nvme1n1 (3576.98 GiB)
+		Drive: /dev/sda (0.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -28,25 +25,25 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (b0:7b:25:bf:6d:9a)
-		IPv4: 192.168.5.97/24,192.168.5.52/24
+		eno1 (08:f1:ea:84:28:d8)
+		IPv4: 192.168.5.56/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno8403 (b0:7b:25:bf:6d:9b)
+		eno2 (08:f1:ea:84:28:d9)
+		IPv4: 192.168.5.60/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens4f0np0 (ec:0d:9a:37:d6:12)
+		eno3 (08:f1:ea:84:28:da)
+		IPv4: 192.168.5.85/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens4f1np1 (ec:0d:9a:37:d6:13)
+		eno4 (08:f1:ea:84:28:db)
+		IPv4: 192.168.5.93/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (447.13 GiB) PHYF031402AM480BGN attached on 394L8F3
-2. Drive /dev/sdb (447.13 GiB) PHYF91810163480BGN attached on 394L8F3
-3. Drive /dev/nvme0n1 (3576.98 GiB) 25064E019145 attached on 394L8F3
-4. Drive /dev/nvme1n1 (3576.98 GiB) 25064E01917D attached on 394L8F3
+1. Drive /dev/sda (0.00 GiB) has no serial number.
 ```
 ---
-Thu Nov 20 03:30:02 PM MSK 2025
+Thu Nov 20 04:30:01 PM MSK 2025
