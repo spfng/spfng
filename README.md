@@ -2,22 +2,21 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL380 Gen10 	(SN: SGH938STQ8)
+	ProLiant DL360 Gen9 	(SN: CN771706LV)
 	Running on Linux 6.12.57+deb13-amd64 x86_64
-	22 November 2025, Saturday, 07:51 (UTC)
+	22 November 2025, Saturday, 09:31 (UTC)
 
-	Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
-	Sockets: 2, Cores per socket: 12
+	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.01 0.74 0.67
+	Load Average (1m, 5m, 15m): 0.48 0.19 0.07
 
-	Memory size: 377.55 GiB
-	Memory used: 5.34 GiB
-	Memory free: 373.50 GiB
+	Memory size: 566.75 GiB
+	Memory used: 5.85 GiB
+	Memory free: 563.08 GiB
 
-	Drives:
-		Drive: /dev/sda (0.00 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,43 +24,34 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (08:f1:ea:f9:aa:3e)
-		IPv4: 192.168.5.51/24
-		RX: 1.27 GiB, TX: 0.01 GiB
+		eno1 (30:e1:71:61:a0:64)
+		IPv4: 192.168.5.70/24
+		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (08:f1:ea:f9:aa:3f)
+		eno2 (30:e1:71:61:a0:65)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (08:f1:ea:f9:aa:40)
+		eno3 (30:e1:71:61:a0:66)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (08:f1:ea:f9:aa:41)
+		eno4 (30:e1:71:61:a0:67)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens5f0 (38:ea:a7:8e:b8:48)
+		eno49 (48:df:37:2a:f2:30)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens5f1 (38:ea:a7:8e:b8:49)
+		eno50 (48:df:37:2a:f2:31)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens4f0 (8c:dc:d4:b5:4f:84)
+		ens2f0 (38:ea:a7:36:67:fc)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens4f1 (8c:dc:d4:b5:4f:85)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno5 (b8:83:03:8c:74:01)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens6f0 (8c:dc:d4:ae:47:fc)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens6f1 (8c:dc:d4:ae:47:fd)
+		ens2f1 (38:ea:a7:36:67:fd)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (0.00 GiB) has no serial number.
+No drives found.
 ```
 ---
-Sat Nov 22 11:00:01 AM MSK 2025
+Sat Nov 22 12:35:01 PM MSK 2025
