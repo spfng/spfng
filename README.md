@@ -2,21 +2,23 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	PowerEdge R760 	(SN: 95ZHFB4)
+	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
 	Running on Linux 6.12.57+deb13-amd64 x86_64
-	23 November 2025, Sunday, 17:30 (UTC)
+	3 September 2025, Wednesday, 18:39 (UTC)
 
-	INTEL(R) XEON(R) GOLD 6542Y
-	Sockets: 2, Cores per socket: 24
-	VMX-Virtualisation
+	AMD EPYC 7773X 64-Core Processor
+	Sockets: 2, Cores per socket: 64
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.29 0.10 0.03
+	Load Average (1m, 5m, 15m): 1.21 0.49 0.18
 
-	Memory size: 2015.41 GiB
-	Memory used: 21.59 GiB
-	Memory free: 1999.10 GiB
+	Memory size: 1007.53 GiB
+	Memory used: 9.70 GiB
+	Memory free: 1001.64 GiB
 
-	No drives attached.
+	Drives:
+		Drive: /dev/sda (111.79 GiB)
+		Drive: /dev/sdb (28.91 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -24,30 +26,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (c4:cb:e1:f9:ab:9a)
-		IPv4: 192.168.5.81/24
-		RX: 1.26 GiB, TX: 0.01 GiB
+		ens4f0 (38:ea:a7:36:63:14)
+		IPv4: 192.168.1.12/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno8403 (c4:cb:e1:f9:ab:9b)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens1f0np0 (b4:96:91:c3:bd:02)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens1f1np1 (b4:96:91:c3:bd:03)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno12399np0 (b4:96:91:f6:44:80)
-		IPv4: 169.254.148.115/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno12409np1 (b4:96:91:f6:44:81)
-		IPv4: 169.254.176.166/16
+		ens4f1 (38:ea:a7:36:63:15)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-No drives found.
+1. Drive /dev/sda (111.79 GiB) BTWM73651EPF120B attached on 210235A2QUH213000125
+2. Drive /dev/sdb (28.91 GiB) has no serial number.
 ```
 ---
-Sun Nov 23 12:35:01 PM MSK 2025
+Mon Nov 24 08:25:02 AM MSK 2025
