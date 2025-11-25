@@ -2,21 +2,28 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 	(SN: 6CU7102633)
+	ProLiant DL380 Gen10 	(SN: SGH938STQ8)
 	Running on Linux 6.12.57+deb13-amd64 x86_64
-	25 November 2025, Tuesday, 07:14 (UTC)
+	25 November 2025, Tuesday, 07:19 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
-	Sockets: 2, Cores per socket: 8
+	Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
+	Sockets: 2, Cores per socket: 12
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.63 0.28 0.11
+	Load Average (1m, 5m, 15m): 0.40 0.11 0.04
 
-	Memory size: 62.67 GiB
-	Memory used: 2.45 GiB
-	Memory free: 60.28 GiB
+	Memory size: 377.55 GiB
+	Memory used: 4.19 GiB
+	Memory free: 374.67 GiB
 
-	No drives attached.
+	Drives:
+		Drive: /dev/sda (3576.98 GiB)
+		Drive: /dev/sdb (3576.98 GiB)
+		Drive: /dev/sdc (3576.98 GiB)
+		Drive: /dev/sdd (3576.98 GiB)
+		Drive: /dev/sde (3576.98 GiB)
+		Drive: /dev/sdf (3576.98 GiB)
+		Drive: /dev/sdg (0.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -24,22 +31,28 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (94:18:82:89:25:b8)
-		IPv4: 192.168.5.68/24
+		eno1 (08:f1:ea:f9:aa:3e)
+		IPv4: 192.168.5.63/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (94:18:82:89:25:b9)
+		eno2 (08:f1:ea:f9:aa:3f)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (94:18:82:89:25:ba)
+		eno3 (08:f1:ea:f9:aa:40)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (94:18:82:89:25:bb)
+		eno4 (08:f1:ea:f9:aa:41)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-No drives found.
+1. Drive /dev/sda (3576.98 GiB) S28BNA0J403124 attached on SGH938STQ8
+2. Drive /dev/sdb (3576.98 GiB) S28BNA0J508409 attached on SGH938STQ8
+3. Drive /dev/sdc (3576.98 GiB) S3RUNX0K800514 attached on SGH938STQ8
+4. Drive /dev/sdd (3576.98 GiB) S28BNA0J302875 attached on SGH938STQ8
+5. Drive /dev/sde (3576.98 GiB) S28BNA0J600055 attached on SGH938STQ8
+6. Drive /dev/sdf (3576.98 GiB) S28BNA0J508371 attached on SGH938STQ8
+7. Drive /dev/sdg (0.00 GiB) has no serial number.
 ```
 ---
-Tue Nov 25 10:15:01 AM MSK 2025
+Tue Nov 25 10:20:01 AM MSK 2025
