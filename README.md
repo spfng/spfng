@@ -2,24 +2,21 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 	(SN: USE6032WVV)
+	ProLiant DL360 Gen9 	(SN: CN771706LV)
 	Running on Linux 6.12.57+deb13-amd64 x86_64
-	25 November 2025, Tuesday, 05:44 (UTC)
+	25 November 2025, Tuesday, 05:55 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
-	Sockets: 2, Cores per socket: 8
+	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.54 0.18 0.06
+	Load Average (1m, 5m, 15m): 1.62 0.56 0.20
 
-	Memory size: 62.76 GiB
-	Memory used: 2.50 GiB
-	Memory free: 60.24 GiB
+	Memory size: 755.75 GiB
+	Memory used: 6.52 GiB
+	Memory free: 752.06 GiB
 
-	Drives:
-		Drive: /dev/sda (447.13 GiB)
-		Drive: /dev/sdb (447.13 GiB)
-		Drive: /dev/sdc (16764.00 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,27 +24,37 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (94:57:a5:5e:ab:98)
-		IPv4: 192.168.5.71/24
+		eno1 (30:e1:71:61:a0:64)
+		IPv4: 192.168.5.52/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (94:57:a5:5e:ab:99)
-		IPv4: 192.168.5.69/24
+		eno2 (30:e1:71:61:a0:65)
+		IPv4: 192.168.5.92/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (94:57:a5:5e:ab:9a)
-		IPv4: 192.168.5.67/24
+		eno3 (30:e1:71:61:a0:66)
+		IPv4: 192.168.5.77/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (94:57:a5:5e:ab:9b)
-		IPv4: 192.168.5.62/24
+		eno4 (30:e1:71:61:a0:67)
+		IPv4: 192.168.5.58/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno49 (48:df:37:2a:f2:30)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno50 (48:df:37:2a:f2:31)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens2f0 (38:ea:a7:36:67:fc)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens2f1 (38:ea:a7:36:67:fd)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (447.13 GiB) PHYF231007Y3480BGN attached on USE6032WVV
-2. Drive /dev/sdb (447.13 GiB) PHYF231007XJ480BGN attached on USE6032WVV
-3. Drive /dev/sdc (16764.00 GiB) 5240A0V7FQDH attached on USE6032WVV
+No drives found.
 ```
 ---
-Tue Nov 25 08:50:02 AM MSK 2025
+Tue Nov 25 09:00:02 AM MSK 2025
