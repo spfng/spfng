@@ -4,17 +4,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	ProLiant DL360 Gen10 	(SN: MXQ0190BL4)
 	Running on Linux 6.12.57+deb13-amd64 x86_64
-	4 December 2025, Thursday, 05:49 (UTC)
+	4 December 2025, Thursday, 06:00 (UTC)
 
 	Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
 	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.27 0.41 0.14
+	Load Average (1m, 5m, 15m): 2.56 1.07 0.39
 
 	Memory size: 377.54 GiB
-	Memory used: 4.63 GiB
-	Memory free: 374.22 GiB
+	Memory used: 4.60 GiB
+	Memory free: 374.24 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -26,16 +26,19 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno1 (08:f1:ea:83:5d:d8)
-		IPv4: 192.168.5.99/24
+		IPv4: 192.168.5.53/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
 		eno2 (08:f1:ea:83:5d:d9)
+		IPv4: 192.168.5.98/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno3 (08:f1:ea:83:5d:da)
+		IPv4: 192.168.5.79/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno4 (08:f1:ea:83:5d:db)
+		IPv4: 192.168.5.58/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno5 (48:df:37:32:6a:e8)
@@ -51,4 +54,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 1. Drive /dev/sda (0.00 GiB) has no serial number.
 ```
 ---
-Thu Dec  4 08:50:02 AM MSK 2025
+Thu Dec  4 09:05:01 AM MSK 2025
