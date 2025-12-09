@@ -2,27 +2,21 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 	(SN: MXQ542088X)
+	ProLiant DL380 Gen9 	(SN: 6CU73273WF)
 	Running on Linux 6.12.57+deb13-amd64 x86_64
-	9 December 2025, Tuesday, 07:20 (UTC)
+	12 November 2025, Wednesday, 16:33 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
-	Sockets: 2, Cores per socket: 10
+	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.43 0.13 0.05
+	Load Average (1m, 5m, 15m): 0.79 0.24 0.08
 
-	Memory size: 31.26 GiB
-	Memory used: 2.50 GiB
-	Memory free: 28.58 GiB
+	Memory size: 62.76 GiB
+	Memory used: 2.66 GiB
+	Memory free: 60.08 GiB
 
-	Drives:
-		Drive: /dev/sda (447.13 GiB)
-		Drive: /dev/sdb (22352.00 GiB)
-		Drive: /dev/sdc (22352.00 GiB)
-		Drive: /dev/sdd (22352.00 GiB)
-		Drive: /dev/sde (447.13 GiB)
-		Drive: /dev/sdf (22352.00 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -30,33 +24,28 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (94:57:a5:5e:24:8c)
-		IPv4: 192.168.5.72/24
+		eno1 (f4:03:43:4a:2c:84)
+		IPv4: 192.168.5.97/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (94:57:a5:5e:24:8d)
+		eno2 (f4:03:43:4a:2c:85)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (94:57:a5:5e:24:8e)
+		eno3 (f4:03:43:4a:2c:86)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (94:57:a5:5e:24:8f)
+		eno4 (f4:03:43:4a:2c:87)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno49 (48:df:37:04:d7:3c)
+		eno49 (14:02:ec:89:df:c0)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno50 (48:df:37:04:d7:3d)
+		eno50 (14:02:ec:89:df:c1)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (447.13 GiB) PHYF231003F0480BGN attached on MXQ542088X
-2. Drive /dev/sdb (22352.00 GiB) 68GPUDJE attached on MXQ542088X
-3. Drive /dev/sdc (22352.00 GiB) 68GPNLAE attached on MXQ542088X
-4. Drive /dev/sdd (22352.00 GiB) 68GPUTNE attached on MXQ542088X
-5. Drive /dev/sde (447.13 GiB) PHYF231003EQ480BGN attached on MXQ542088X
-6. Drive /dev/sdf (22352.00 GiB) 68GPV47E attached on MXQ542088X
+No drives found.
 ```
 ---
-Tue Dec  9 10:35:01 AM MSK 2025
+Tue Dec  9 11:30:01 AM MSK 2025
