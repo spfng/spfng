@@ -2,22 +2,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	Katana GF76 11UD REV:1.0	(SN: 9S717L212695ZM6001062)
+	ProLiant DL380 Gen10 	(SN: SGH938STJ5)
 	Running on Linux 6.12.57+deb13-amd64 x86_64
-	9 December 2025, Tuesday, 11:31 (UTC)
+	9 December 2025, Tuesday, 11:45 (UTC)
 
-	11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
-	Sockets: 1, Cores per socket: 6
+	Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
+	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.26 0.14 0.05
+	Load Average (1m, 5m, 15m): 0.22 0.07 0.02
 
-	Memory size: 15.33 GiB
-	Memory used: 2.19 GiB
-	Memory free: 12.87 GiB
+	Memory size: 755.54 GiB
+	Memory used: 6.16 GiB
+	Memory free: 752.20 GiB
 
 	Drives:
-		Drive: /dev/nvme0n1 (476.94 GiB)
+		Drive: /dev/sda (0.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,16 +25,22 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		enp3s0 (d8:bb:c1:fa:d2:22)
-		IPv4: 192.168.5.56/24
-		RX: 1.26 GiB, TX: 0.00 GiB
+		eno1 (08:f1:ea:f9:9a:30)
+		IPv4: 192.168.5.58/24
+		RX: 1.26 GiB, TX: 0.01 GiB
 
-		wlo1 (4c:44:5b:3a:89:5a)
+		eno2 (08:f1:ea:f9:9a:31)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (08:f1:ea:f9:9a:32)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (08:f1:ea:f9:9a:33)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/nvme0n1 (476.94 GiB) 22116J450406 attached on 9S717L212695ZM6001062
+1. Drive /dev/sda (0.00 GiB) has no serial number.
 ```
 ---
-Tue Dec  9 02:35:01 PM MSK 2025
+Tue Dec  9 02:45:01 PM MSK 2025
