@@ -2,21 +2,29 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL380 Gen9 	(SN: 6CU633XCRD)
+	PowerEdge R640 	(SN: CT35ZC3)
 	Running on Linux 6.12.57+deb13-amd64 x86_64
-	8 December 2025, Monday, 12:36 (UTC)
+	9 December 2025, Tuesday, 07:58 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
-	Sockets: 2, Cores per socket: 8
+	Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
+	Sockets: 2, Cores per socket: 26
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.50 0.17 0.06
+	Load Average (1m, 5m, 15m): 0.86 0.56 0.23
 
-	Memory size: 62.76 GiB
-	Memory used: 2.59 GiB
-	Memory free: 60.16 GiB
+	Memory size: 1007.49 GiB
+	Memory used: 10.47 GiB
+	Memory free: 1000.32 GiB
 
-	No drives attached.
+	Drives:
+		Drive: /dev/nvme4n1 (2980.82 GiB)
+		Drive: /dev/nvme0n1 (2980.82 GiB)
+		Drive: /dev/nvme6n1 (2980.82 GiB)
+		Drive: /dev/nvme1n1 (2980.82 GiB)
+		Drive: /dev/nvme7n1 (2980.82 GiB)
+		Drive: /dev/nvme3n1 (2980.82 GiB)
+		Drive: /dev/nvme5n1 (2980.82 GiB)
+		Drive: /dev/nvme2n1 (2980.82 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -24,28 +32,35 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (94:57:a5:5e:c6:84)
-		IPv4: 192.168.5.65/24
-		RX: 1.26 GiB, TX: 0.03 GiB
+		eno3 (e4:43:4b:3a:f7:72)
+		IPv4: 192.168.5.96/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (94:57:a5:5e:c6:85)
+		eno1np0 (e4:43:4b:3a:f7:52)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (94:57:a5:5e:c6:86)
+		eno4 (e4:43:4b:3a:f7:73)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (94:57:a5:5e:c6:87)
+		eno2np1 (e4:43:4b:3a:f7:54)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno49 (5c:b9:01:97:69:80)
+		ens1f0np0 (e8:61:1f:49:77:f0)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno50 (5c:b9:01:97:69:81)
+		ens1f1np1 (e8:61:1f:49:77:f1)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-No drives found.
+1. Drive /dev/nvme4n1 (2980.82 GiB) PHLN0274001G3P2BGN attached on CT35ZC3
+2. Drive /dev/nvme0n1 (2980.82 GiB) PHLN0166009L3P2BGN attached on CT35ZC3
+3. Drive /dev/nvme6n1 (2980.82 GiB) PHLN013002LW3P2BGN attached on CT35ZC3
+4. Drive /dev/nvme1n1 (2980.82 GiB) PHLN0044014G3P2BGN attached on CT35ZC3
+5. Drive /dev/nvme7n1 (2980.82 GiB) PHLN009300EL3P2BGN attached on CT35ZC3
+6. Drive /dev/nvme3n1 (2980.82 GiB) PHLN009300M63P2BGN attached on CT35ZC3
+7. Drive /dev/nvme5n1 (2980.82 GiB) PHLN0166006Z3P2BGN attached on CT35ZC3
+8. Drive /dev/nvme2n1 (2980.82 GiB) PHLN012202VC3P2BGN attached on CT35ZC3
 ```
 ---
-Mon Dec  8 03:50:01 PM MSK 2025
+Tue Dec  9 10:25:01 AM MSK 2025
