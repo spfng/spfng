@@ -2,38 +2,23 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL380 Gen10 	(SN: SGH938STMC)
+	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
 	Running on Linux 6.12.57+deb13-amd64 x86_64
-	17 December 2025, Wednesday, 00:12 (UTC)
+	3 September 2025, Wednesday, 18:39 (UTC)
 
-	Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
-	Sockets: 2, Cores per socket: 20
-	VMX-Virtualisation
+	AMD EPYC 7773X 64-Core Processor
+	Sockets: 2, Cores per socket: 64
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.02 0.29 0.10
+	Load Average (1m, 5m, 15m): 1.05 0.52 0.20
 
-	Memory size: 251.54 GiB
-	Memory used: 4.70 GiB
-	Memory free: 247.64 GiB
+	Memory size: 1007.53 GiB
+	Memory used: 9.64 GiB
+	Memory free: 1001.68 GiB
 
 	Drives:
-		Drive: /dev/sda (894.25 GiB)
-		Drive: /dev/sdb (894.25 GiB)
-		Drive: /dev/sdc (894.25 GiB)
-		Drive: /dev/sdd (894.25 GiB)
-		Drive: /dev/sde (894.25 GiB)
-		Drive: /dev/sdf (894.25 GiB)
-		Drive: /dev/sdg (894.25 GiB)
-		Drive: /dev/sdh (894.25 GiB)
-		Drive: /dev/sdi (894.25 GiB)
-		Drive: /dev/sdj (894.25 GiB)
-		Drive: /dev/sdk (894.25 GiB)
-		Drive: /dev/sdl (894.25 GiB)
-		Drive: /dev/sdm (894.25 GiB)
-		Drive: /dev/sdn (894.25 GiB)
-		Drive: /dev/sdo (894.25 GiB)
-		Drive: /dev/sdp (894.25 GiB)
-		Drive: /dev/sdq (0.00 GiB)
+		Drive: /dev/sda (111.79 GiB)
+		Drive: /dev/sdb (28.91 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -41,44 +26,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (08:f1:ea:f9:9f:be)
-		IPv4: 192.168.5.62/24
-		RX: 1.26 GiB, TX: 0.01 GiB
+		ens4f0 (38:ea:a7:36:63:14)
+		IPv4: 192.168.1.12/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (08:f1:ea:f9:9f:bf)
-		IPv4: 192.168.5.65/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3 (08:f1:ea:f9:9f:c0)
-		IPv4: 192.168.5.63/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4 (08:f1:ea:f9:9f:c1)
-		IPv4: 192.168.5.64/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno5 (04:09:73:e1:61:51)
+		ens4f1 (38:ea:a7:36:63:15)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (894.25 GiB) PHYF946200V8960CGN attached on SGH938STMC
-2. Drive /dev/sdb (894.25 GiB) BTYF9454005C960CGN attached on SGH938STMC
-3. Drive /dev/sdc (894.25 GiB) PHYF943105KS960CGN attached on SGH938STMC
-4. Drive /dev/sdd (894.25 GiB) PHYF9432013U960CGN attached on SGH938STMC
-5. Drive /dev/sde (894.25 GiB) BTYF945304TV960CGN attached on SGH938STMC
-6. Drive /dev/sdf (894.25 GiB) PHYF003100MX960CGN attached on SGH938STMC
-7. Drive /dev/sdg (894.25 GiB) PHYF946203E2960CGN attached on SGH938STMC
-8. Drive /dev/sdh (894.25 GiB) BTYF01530A6D960CGN attached on SGH938STMC
-9. Drive /dev/sdi (894.25 GiB) PHYF0030058V960CGN attached on SGH938STMC
-10. Drive /dev/sdj (894.25 GiB) PHYF943104L3960CGN attached on SGH938STMC
-11. Drive /dev/sdk (894.25 GiB) PHYF0031009B960CGN attached on SGH938STMC
-12. Drive /dev/sdl (894.25 GiB) PHYF946204C8960CGN attached on SGH938STMC
-13. Drive /dev/sdm (894.25 GiB) PHYF0030062B960CGN attached on SGH938STMC
-14. Drive /dev/sdn (894.25 GiB) PHYF0031017D960CGN attached on SGH938STMC
-15. Drive /dev/sdo (894.25 GiB) BTYF01540910960CGN attached on SGH938STMC
-16. Drive /dev/sdp (894.25 GiB) PHYF946201XB960CGN attached on SGH938STMC
-17. Drive /dev/sdq (0.00 GiB) has no serial number.
+1. Drive /dev/sda (111.79 GiB) BTWM73651EPF120B attached on 210235A2QUH213000125
+2. Drive /dev/sdb (28.91 GiB) has no serial number.
 ```
 ---
-Wed Dec 17 03:15:01 AM MSK 2025
+Wed Dec 17 08:55:01 AM MSK 2025
