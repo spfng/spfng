@@ -4,20 +4,19 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	ProLiant DL360 Gen11 	(SN: SGH431F616)
 	Running on Linux 6.12.57+deb13-amd64 x86_64
-	18 December 2025, Thursday, 11:46 (UTC)
+	18 December 2025, Thursday, 12:01 (UTC)
 
 	INTEL(R) XEON(R) GOLD 6534
 	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.11 0.76 0.31
+	Load Average (1m, 5m, 15m): 1.06 0.31 0.11
 
 	Memory size: 754.67 GiB
-	Memory used: 6.08 GiB
-	Memory free: 751.41 GiB
+	Memory used: 6.09 GiB
+	Memory free: 751.40 GiB
 
-	Drives:
-		Drive: /dev/sda (28.91 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,7 +25,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		ens15f0 (6c:92:cf:09:e6:28)
-		IPv4: 192.168.5.62/24
+		IPv4: 192.168.5.71/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
 		ens15f1 (6c:92:cf:09:e6:29)
@@ -46,7 +45,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (28.91 GiB) has no serial number.
+No drives found.
 ```
 ---
-Thu Dec 18 02:50:01 PM MSK 2025
+Thu Dec 18 03:05:02 PM MSK 2025
