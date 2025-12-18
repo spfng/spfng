@@ -2,27 +2,37 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	PowerEdge R7515 	(SN: GVFM8F3)
+	2288H V5 Purley	(SN: 2102312DKP10J4000338)
 	Running on Linux 6.12.57+deb13-amd64 x86_64
-	3 September 2025, Wednesday, 18:38 (UTC)
+	18 December 2025, Thursday, 16:54 (UTC)
 
-	AMD EPYC 7Y43 48-Core Processor
-	Sockets: 1, Cores per socket: 48
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
+	Sockets: 2, Cores per socket: 26
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 2.80 0.94 0.33
+	Load Average (1m, 5m, 15m): 0.96 0.38 0.14
 
-	Memory size: 125.50 GiB
-	Memory used: 4.42 GiB
-	Memory free: 121.31 GiB
+	Memory size: 187.40 GiB
+	Memory used: 8.74 GiB
+	Memory free: 179.09 GiB
 
 	Drives:
-		Drive: /dev/sda (447.13 GiB)
-		Drive: /dev/sdb (28.91 GiB)
-		Drive: /dev/nvme2n1 (7153.96 GiB)
-		Drive: /dev/nvme1n1 (7153.96 GiB)
-		Drive: /dev/nvme0n1 (7153.96 GiB)
-		Drive: /dev/nvme3n1 (7153.96 GiB)
+		Drive: /dev/sda (13039.00 GiB)
+		Drive: /dev/sdb (13039.00 GiB)
+		Drive: /dev/sdc (13039.00 GiB)
+		Drive: /dev/sdd (13039.00 GiB)
+		Drive: /dev/sde (13039.00 GiB)
+		Drive: /dev/sdf (13039.00 GiB)
+		Drive: /dev/sdg (13039.00 GiB)
+		Drive: /dev/sdh (13039.00 GiB)
+		Drive: /dev/sdi (13039.00 GiB)
+		Drive: /dev/sdj (13039.00 GiB)
+		Drive: /dev/sdk (13039.00 GiB)
+		Drive: /dev/sdl (13039.00 GiB)
+		Drive: /dev/sdm (13039.00 GiB)
+		Drive: /dev/sdn (28.91 GiB)
+		Drive: /dev/sdo (13039.00 GiB)
+		Drive: /dev/nvme0n1 (238.47 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -30,29 +40,37 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (b0:7b:25:ba:ac:ca)
-		IPv4: 192.168.5.92/24
+		eno1np0 (58:f9:87:e5:37:b8)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno2np1 (58:f9:87:e5:37:b9)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3np2 (58:f9:87:e5:37:ba)
+		IPv4: 192.168.5.65/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno8403 (b0:7b:25:ba:ac:cb)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens4f0np0 (b8:59:9f:01:0d:f2)
-		IPv4: 169.254.32.11/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens4f1np1 (b8:59:9f:01:0d:f3)
-		IPv4: 169.254.101.215/16
+		eno4np3 (58:f9:87:e5:37:bb)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (447.13 GiB) PHYF002401BV480BGN attached on GVFM8F3
-2. Drive /dev/sdb (28.91 GiB) has no serial number.
-3. Drive /dev/nvme2n1 (7153.96 GiB) 242549D24DC7 attached on GVFM8F3
-4. Drive /dev/nvme1n1 (7153.96 GiB) 242549D24D59 attached on GVFM8F3
-5. Drive /dev/nvme0n1 (7153.96 GiB) 242549D7CF73 attached on GVFM8F3
-6. Drive /dev/nvme3n1 (7153.96 GiB) 242549D7DCA1 attached on GVFM8F3
+1. Drive /dev/sda (13039.00 GiB) 9LGDU7GG attached on 2102312DKP10J4000338
+2. Drive /dev/sdb (13039.00 GiB) 9MGGZVBK attached on 2102312DKP10J4000338
+3. Drive /dev/sdc (13039.00 GiB) 9MGH66PK attached on 2102312DKP10J4000338
+4. Drive /dev/sdd (13039.00 GiB) 9MGHVK4U attached on 2102312DKP10J4000338
+5. Drive /dev/sde (13039.00 GiB) Y5JD73TC attached on 2102312DKP10J4000338
+6. Drive /dev/sdf (13039.00 GiB) Y5JKD15C attached on 2102312DKP10J4000338
+7. Drive /dev/sdg (13039.00 GiB) Y5JD3TBC attached on 2102312DKP10J4000338
+8. Drive /dev/sdh (13039.00 GiB) Y5JTDAVC attached on 2102312DKP10J4000338
+9. Drive /dev/sdi (13039.00 GiB) 9LGA8PHG attached on 2102312DKP10J4000338
+10. Drive /dev/sdj (13039.00 GiB) Y5JTYSBC attached on 2102312DKP10J4000338
+11. Drive /dev/sdk (13039.00 GiB) 9MGHN9HU attached on 2102312DKP10J4000338
+12. Drive /dev/sdl (13039.00 GiB) Y5JBNHAC attached on 2102312DKP10J4000338
+13. Drive /dev/sdm (13039.00 GiB) 9LGDR4AG attached on 2102312DKP10J4000338
+14. Drive /dev/sdn (28.91 GiB) has no serial number.
+15. Drive /dev/sdo (13039.00 GiB) Y5JTYNRC attached on 2102312DKP10J4000338
+16. Drive /dev/nvme0n1 (238.47 GiB) MBM403060701 attached on 2102312DKP10J4000338
 ```
 ---
-Thu Dec 18 09:35:01 AM MSK 2025
+Thu Dec 18 10:55:01 AM MSK 2025
