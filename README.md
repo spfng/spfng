@@ -2,22 +2,27 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen11 	(SN: SGH431F616)
+	PowerEdge R7515 	(SN: GVFM8F3)
 	Running on Linux 6.12.57+deb13-amd64 x86_64
-	18 December 2025, Thursday, 05:23 (UTC)
+	3 September 2025, Wednesday, 18:38 (UTC)
 
-	INTEL(R) XEON(R) GOLD 6534
-	Sockets: 2, Cores per socket: 8
-	VMX-Virtualisation
+	AMD EPYC 7Y43 48-Core Processor
+	Sockets: 1, Cores per socket: 48
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.24 0.46 0.16
+	Load Average (1m, 5m, 15m): 2.80 0.94 0.33
 
-	Memory size: 754.67 GiB
-	Memory used: 8.29 GiB
-	Memory free: 749.20 GiB
+	Memory size: 125.50 GiB
+	Memory used: 4.42 GiB
+	Memory free: 121.31 GiB
 
 	Drives:
-		Drive: /dev/sda (28.91 GiB)
+		Drive: /dev/sda (447.13 GiB)
+		Drive: /dev/sdb (28.91 GiB)
+		Drive: /dev/nvme2n1 (7153.96 GiB)
+		Drive: /dev/nvme1n1 (7153.96 GiB)
+		Drive: /dev/nvme0n1 (7153.96 GiB)
+		Drive: /dev/nvme3n1 (7153.96 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,31 +30,29 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens15f0 (6c:92:cf:09:e6:28)
-		IPv4: 192.168.5.57/24
+		eno8303 (b0:7b:25:ba:ac:ca)
+		IPv4: 192.168.5.92/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		ens15f1 (6c:92:cf:09:e6:29)
-		IPv4: 192.168.5.60/24
+		eno8403 (b0:7b:25:ba:ac:cb)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens15f2 (6c:92:cf:09:e6:2a)
-		IPv4: 192.168.5.59/24
+		ens4f0np0 (b8:59:9f:01:0d:f2)
+		IPv4: 169.254.32.11/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens15f3 (6c:92:cf:09:e6:2b)
-		IPv4: 192.168.5.56/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens1f0 (38:ea:a7:10:68:d4)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens1f1 (38:ea:a7:10:68:d5)
+		ens4f1np1 (b8:59:9f:01:0d:f3)
+		IPv4: 169.254.101.215/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (28.91 GiB) has no serial number.
+1. Drive /dev/sda (447.13 GiB) PHYF002401BV480BGN attached on GVFM8F3
+2. Drive /dev/sdb (28.91 GiB) has no serial number.
+3. Drive /dev/nvme2n1 (7153.96 GiB) 242549D24DC7 attached on GVFM8F3
+4. Drive /dev/nvme1n1 (7153.96 GiB) 242549D24D59 attached on GVFM8F3
+5. Drive /dev/nvme0n1 (7153.96 GiB) 242549D7CF73 attached on GVFM8F3
+6. Drive /dev/nvme3n1 (7153.96 GiB) 242549D7DCA1 attached on GVFM8F3
 ```
 ---
-Thu Dec 18 08:25:01 AM MSK 2025
+Thu Dec 18 09:35:01 AM MSK 2025
