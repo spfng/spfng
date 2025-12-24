@@ -2,26 +2,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL380 Gen10 	(SN: SGH938STQ4)
+	ProLiant DL380 Gen10 Plus 	(SN: SGH347LVWQ)
 	Running on Linux 6.12.57+deb13-amd64 x86_64
-	24 December 2025, Wednesday, 14:49 (UTC)
+	24 December 2025, Wednesday, 15:53 (UTC)
 
-	Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
-	Sockets: 2, Cores per socket: 20
+	Intel(R) Xeon(R) Platinum 8336C CPU @ 2.30GHz
+	Sockets: 1, Cores per socket: 32
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.45 0.14 0.05
+	Load Average (1m, 5m, 15m): 0.30 0.09 0.03
 
-	Memory size: 251.54 GiB
-	Memory used: 3.93 GiB
-	Memory free: 248.42 GiB
+	Memory size: 125.48 GiB
+	Memory used: 3.49 GiB
+	Memory free: 122.48 GiB
 
 	Drives:
-		Drive: /dev/sda (3576.98 GiB)
-		Drive: /dev/sdb (3576.98 GiB)
-		Drive: /dev/sdc (3576.98 GiB)
-		Drive: /dev/sdd (3576.98 GiB)
-		Drive: /dev/sde (0.00 GiB)
+		Drive: /dev/sda (14.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -29,29 +25,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (08:f1:ea:f9:a5:e8)
-		IPv4: 192.168.5.69/24
-		RX: 1.26 GiB, TX: 0.01 GiB
+		ens10f0np0 (8c:84:74:7f:79:3c)
+		IPv4: 192.168.5.85/24
+		RX: 1.26 GiB, TX: 0.00 GiB
 
-		eno2 (08:f1:ea:f9:a5:e9)
-		IPv4: 192.168.5.95/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3 (08:f1:ea:f9:a5:ea)
-		IPv4: 192.168.5.90/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4 (08:f1:ea:f9:a5:eb)
-		IPv4: 192.168.5.78/24
+		ens10f1np1 (8c:84:74:7f:79:3d)
+		IPv4: 192.168.5.75/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (3576.98 GiB) S3RUNXMMA00052 attached on SGH938STQ4
-2. Drive /dev/sdb (3576.98 GiB) S28BNA0J508371 attached on SGH938STQ4
-3. Drive /dev/sdc (3576.98 GiB) S3RUNXMMA00444 attached on SGH938STQ4
-4. Drive /dev/sdd (3576.98 GiB) S28BNA0J600055 attached on SGH938STQ4
-5. Drive /dev/sde (0.00 GiB) has no serial number.
+1. Drive /dev/sda (14.65 GiB) has no serial number.
 ```
 ---
-Wed Dec 24 05:50:02 PM MSK 2025
+Wed Dec 24 06:50:01 PM MSK 2025
