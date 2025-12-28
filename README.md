@@ -2,26 +2,21 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL380 Gen10 	(SN: SGH938STQ4)
+	ProLiant DL380 Gen9 	(SN: 6CU7327ALT)
 	Running on Linux 6.12.57+deb13-amd64 x86_64
-	28 December 2025, Sunday, 09:35 (UTC)
+	27 December 2025, Saturday, 06:22 (UTC)
 
-	Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
-	Sockets: 2, Cores per socket: 20
+	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.59 0.55 0.27
+	Load Average (1m, 5m, 15m): 0.55 0.17 0.06
 
-	Memory size: 251.54 GiB
-	Memory used: 4.16 GiB
-	Memory free: 248.19 GiB
+	Memory size: 125.76 GiB
+	Memory used: 2.98 GiB
+	Memory free: 123.08 GiB
 
-	Drives:
-		Drive: /dev/sda (3576.98 GiB)
-		Drive: /dev/sdb (3576.98 GiB)
-		Drive: /dev/sdc (3576.98 GiB)
-		Drive: /dev/sdd (3576.98 GiB)
-		Drive: /dev/sde (0.00 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -29,32 +24,30 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (08:f1:ea:f9:a5:e8)
-		IPv4: 192.168.5.64/24
+		eno1 (f4:03:43:4a:cc:50)
+		IPv4: 192.168.5.74/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (08:f1:ea:f9:a5:e9)
+		eno2 (f4:03:43:4a:cc:51)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (08:f1:ea:f9:a5:ea)
+		eno3 (f4:03:43:4a:cc:52)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (08:f1:ea:f9:a5:eb)
+		eno4 (f4:03:43:4a:cc:53)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (48:df:37:01:99:7c)
+		eno49 (3c:a8:2a:16:2c:c8)
+		IPv4: 169.254.174.22/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno6 (48:df:37:01:99:7d)
+		eno50 (3c:a8:2a:16:2c:cc)
+		IPv4: 169.254.13.177/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (3576.98 GiB) S28BNA0J508371 attached on SGH938STQ4
-2. Drive /dev/sdb (3576.98 GiB) S28BNA0J600055 attached on SGH938STQ4
-3. Drive /dev/sdc (3576.98 GiB) S3RUNXMMA00444 attached on SGH938STQ4
-4. Drive /dev/sdd (3576.98 GiB) S3RUNXMMA00052 attached on SGH938STQ4
-5. Drive /dev/sde (0.00 GiB) has no serial number.
+No drives found.
 ```
 ---
-Sun Dec 28 12:35:01 PM MSK 2025
+Sun Dec 28 01:20:01 PM MSK 2025
