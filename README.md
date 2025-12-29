@@ -2,26 +2,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL380 Gen10 	(SN: SGH938STQ4)
+	ProLiant DL360 Gen9 	(SN: 6CU614X29T)
 	Running on Linux 6.12.57+deb13-amd64 x86_64
-	28 December 2025, Sunday, 18:18 (UTC)
+	29 December 2025, Monday, 04:32 (UTC)
 
-	Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
-	Sockets: 2, Cores per socket: 20
+	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 80.24 80.21 80.18
+	Load Average (1m, 5m, 15m): 0.58 0.20 0.07
 
-	Memory size: 251.54 GiB
-	Memory used: 4.53 GiB
-	Memory free: 247.77 GiB
+	Memory size: 62.76 GiB
+	Memory used: 2.67 GiB
+	Memory free: 60.07 GiB
 
 	Drives:
-		Drive: /dev/sda (3576.98 GiB)
-		Drive: /dev/sdb (3576.98 GiB)
-		Drive: /dev/sdc (3576.98 GiB)
-		Drive: /dev/sdd (3576.98 GiB)
-		Drive: /dev/sde (0.00 GiB)
+		Drive: /dev/nvme0n1 (2980.82 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -29,32 +25,28 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (08:f1:ea:f9:a5:e8)
-		IPv4: 192.168.5.64/24
-		RX: 1.36 GiB, TX: 0.02 GiB
+		eno1 (1c:98:ec:29:53:94)
+		IPv4: 192.168.5.59/24
+		RX: 1.26 GiB, TX: 0.03 GiB
 
-		eno2 (08:f1:ea:f9:a5:e9)
+		eno2 (1c:98:ec:29:53:95)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (08:f1:ea:f9:a5:ea)
+		eno3 (1c:98:ec:29:53:96)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (08:f1:ea:f9:a5:eb)
+		eno4 (1c:98:ec:29:53:97)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (48:df:37:01:99:7c)
+		eno49 (38:63:bb:2e:92:10)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno6 (48:df:37:01:99:7d)
+		eno50 (38:63:bb:2e:92:14)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (3576.98 GiB) S28BNA0J508371 attached on SGH938STQ4
-2. Drive /dev/sdb (3576.98 GiB) S28BNA0J600055 attached on SGH938STQ4
-3. Drive /dev/sdc (3576.98 GiB) S3RUNXMMA00444 attached on SGH938STQ4
-4. Drive /dev/sdd (3576.98 GiB) S3RUNXMMA00052 attached on SGH938STQ4
-5. Drive /dev/sde (0.00 GiB) has no serial number.
+1. Drive /dev/nvme0n1 (2980.82 GiB) PHLN012302UW3P2BGN attached on 6CU614X29T
 ```
 ---
-Sun Dec 28 09:20:02 PM MSK 2025
+Mon Dec 29 07:35:01 AM MSK 2025
