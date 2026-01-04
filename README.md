@@ -1,24 +1,25 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
+	ProLiant DL360 Gen9 	(SN: 6CU538WB5A)
 	Running on Linux 6.12.57+deb13-amd64 x86_64
-	7 September 2025, Sunday, 18:26 (UTC)
+	4 January 2026, Sunday, 15:48 (UTC)
 
-	AMD EPYC 7773X 64-Core Processor
-	Sockets: 2, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+	Sockets: 2, Cores per socket: 16
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 256.03 256.06 256.08
+	Load Average (1m, 5m, 15m): 0.61 0.18 0.06
 
-	Memory size: 1007.53 GiB
-	Memory used: 10.85 GiB
-	Memory free: 1000.42 GiB
+	Memory size: 251.76 GiB
+	Memory used: 3.58 GiB
+	Memory free: 249.00 GiB
 
 	Drives:
-		Drive: /dev/sda (111.79 GiB)
-		Drive: /dev/sdb (28.91 GiB)
+		Drive: /dev/sda (894.25 GiB)
+		Drive: /dev/sdb (894.25 GiB)
+		Drive: /dev/sdc (1.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,17 +27,32 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens4f0 (38:ea:a7:36:63:14)
-		IPv4: 192.168.1.12/24
-		RX: 4.17 GiB, TX: 0.02 GiB
+		eno1 (3c:a8:2a:0c:c3:38)
+		IPv4: 192.168.5.60/24
+		RX: 1.26 GiB, TX: 0.01 GiB
 
-		ens4f1 (38:ea:a7:36:63:15)
+		eno2 (3c:a8:2a:0c:c3:39)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (3c:a8:2a:0c:c3:3a)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (3c:a8:2a:0c:c3:3b)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno49 (5c:b9:01:94:83:3c)
+		IPv4: 169.254.184.177/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno50 (5c:b9:01:94:83:3d)
+		IPv4: 169.254.248.70/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (111.79 GiB) BTWM73651EPF120B attached on 210235A2QUH213000125
-2. Drive /dev/sdb (28.91 GiB) has no serial number.
+1. Drive /dev/sda (894.25 GiB) PHYF0030050V960CGN attached on 6CU538WB5A
+2. Drive /dev/sdb (894.25 GiB) BTYF01530A6D960CGN attached on 6CU538WB5A
+3. Drive /dev/sdc (1.00 GiB) has no serial number.
 ```
 ---
-Sun Jan  4 08:20:01 AM MSK 2026
+Sun Jan  4 10:50:01 AM MSK 2026
