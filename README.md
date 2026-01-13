@@ -4,17 +4,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
 	Running on Linux 6.12.57+deb13-amd64 x86_64
-	9 September 2025, Tuesday, 05:16 (UTC)
+	9 September 2025, Tuesday, 13:58 (UTC)
 
 	AMD EPYC 7773X 64-Core Processor
 	Sockets: 2, Cores per socket: 64
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 256.18 256.11 256.09
+	Load Average (1m, 5m, 15m): 256.11 256.09 256.09
 
 	Memory size: 1007.53 GiB
-	Memory used: 11.06 GiB
-	Memory free: 1000.20 GiB
+	Memory used: 11.09 GiB
+	Memory free: 1000.17 GiB
 
 	Drives:
 		Drive: /dev/sda (111.79 GiB)
@@ -27,7 +27,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 		ens4f0 (38:ea:a7:36:63:14)
 		IPv4: 192.168.1.12/24
-		RX: 5.73 GiB, TX: 0.03 GiB
+		RX: 6.11 GiB, TX: 0.04 GiB
 
 		ens4f1 (38:ea:a7:36:63:15)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -37,4 +37,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 1. Drive /dev/sda (111.79 GiB) BTWM73651EPF120B attached on 210235A2QUH213000125
 ```
 ---
-Mon Jan 12 09:45:01 PM MSK 2026
+Tue Jan 13 06:25:01 AM MSK 2026
