@@ -1,23 +1,40 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL380 Gen9 	(SN: MXQ64305HP)
+	PowerEdge R7525 	(SN: GY4QC43)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	21 January 2026, Wednesday, 09:47 (UTC)
+	3 September 2025, Wednesday, 18:40 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz
-	Sockets: 2, Cores per socket: 20
-	VMX-Virtualisation
+	AMD EPYC 7773X 64-Core Processor
+	Sockets: 2, Cores per socket: 64
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.41 0.12 0.04
+	Load Average (1m, 5m, 15m): 0.53 0.29 0.11
 
-	Memory size: 125.75 GiB
-	Memory used: 3.48 GiB
-	Memory free: 122.55 GiB
+	Memory size: 1007.44 GiB
+	Memory used: 10.77 GiB
+	Memory free: 999.95 GiB
 
 	Drives:
-		Drive: /dev/sda (23249.76 GiB)
+		Drive: /dev/sda (223.57 GiB)
+		Drive: /dev/sdb (223.57 GiB)
+		Drive: /dev/nvme2n1 (3726.02 GiB)
+		Drive: /dev/nvme0n1 (3726.02 GiB)
+		Drive: /dev/nvme12n1 (3726.02 GiB)
+		Drive: /dev/nvme1n1 (3726.02 GiB)
+		Drive: /dev/nvme15n1 (3726.02 GiB)
+		Drive: /dev/nvme8n1 (3726.02 GiB)
+		Drive: /dev/nvme13n1 (3726.02 GiB)
+		Drive: /dev/nvme11n1 (3726.02 GiB)
+		Drive: /dev/nvme14n1 (2980.82 GiB)
+		Drive: /dev/nvme9n1 (3726.02 GiB)
+		Drive: /dev/nvme10n1 (3726.02 GiB)
+		Drive: /dev/nvme6n1 (3726.02 GiB)
+		Drive: /dev/nvme4n1 (3726.02 GiB)
+		Drive: /dev/nvme5n1 (3576.98 GiB)
+		Drive: /dev/nvme7n1 (3576.98 GiB)
+		Drive: /dev/nvme3n1 (3576.98 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,30 +42,39 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (94:18:82:68:ea:78)
-		IPv4: 192.168.5.83/24
+		eno12399np0 (bc:97:e1:24:ad:40)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno8303 (f4:02:70:b8:b1:c4)
+		IPv4: 192.168.5.86/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (94:18:82:68:ea:79)
+		eno12409np1 (bc:97:e1:24:ad:41)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno49 (14:58:d0:53:11:88)
-		IPv4: 169.254.6.117/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3 (94:18:82:68:ea:7a)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4 (94:18:82:68:ea:7b)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno50 (14:58:d0:53:11:8c)
-		IPv4: 169.254.166.103/16
+		eno8403 (f4:02:70:b8:b1:c5)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (23249.76 GiB) has no serial number.
+1. Drive /dev/sda (223.57 GiB) PHYH23860DJ3240J attached on GY4QC43
+2. Drive /dev/sdb (223.57 GiB) PHYH23860CJ6240J attached on GY4QC43
+3. Drive /dev/nvme2n1 (3726.02 GiB) PHLJ042200ZA4P0DGN attached on GY4QC43
+4. Drive /dev/nvme0n1 (3726.02 GiB) PHLJ043103U34P0DGN attached on GY4QC43
+5. Drive /dev/nvme12n1 (3726.02 GiB) PHLJ0432047L4P0DGN attached on GY4QC43
+6. Drive /dev/nvme1n1 (3726.02 GiB) PHLJ020603AG4P0DGN attached on GY4QC43
+7. Drive /dev/nvme15n1 (3726.02 GiB) PHLJ043105XX4P0DGN attached on GY4QC43
+8. Drive /dev/nvme8n1 (3726.02 GiB) PHLJ020602WC4P0DGN attached on GY4QC43
+9. Drive /dev/nvme13n1 (3726.02 GiB) PHLJ043106834P0DGN attached on GY4QC43
+10. Drive /dev/nvme11n1 (3726.02 GiB) PHLJ043105GZ4P0DGN attached on GY4QC43
+11. Drive /dev/nvme14n1 (2980.82 GiB) PHLN013002JA3P2BGN attached on GY4QC43
+12. Drive /dev/nvme9n1 (3726.02 GiB) PHLJ042201N24P0DGN attached on GY4QC43
+13. Drive /dev/nvme10n1 (3726.02 GiB) PHLJ0422013W4P0DGN attached on GY4QC43
+14. Drive /dev/nvme6n1 (3726.02 GiB) PHLJ043105QB4P0DGN attached on GY4QC43
+15. Drive /dev/nvme4n1 (3726.02 GiB) PHLJ043105PU4P0DGN attached on GY4QC43
+16. Drive /dev/nvme5n1 (3576.98 GiB) 25064E150BC1 attached on GY4QC43
+17. Drive /dev/nvme7n1 (3576.98 GiB) 25064E150A8B attached on GY4QC43
+18. Drive /dev/nvme3n1 (3576.98 GiB) 25064E150EAA attached on GY4QC43
 ```
 ---
-Wed Jan 21 12:50:01 PM MSK 2026
+Wed Jan 21 02:20:01 PM MSK 2026
