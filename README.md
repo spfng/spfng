@@ -1,23 +1,26 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
+	PowerEdge R640 	(SN: 2ZF8N83)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	4 September 2025, Thursday, 03:21 (UTC)
+	22 January 2026, Thursday, 13:40 (UTC)
 
-	AMD EPYC 7773X 64-Core Processor
-	Sockets: 2, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
+	Sockets: 2, Cores per socket: 20
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 256.03 256.08 256.08
+	Load Average (1m, 5m, 15m): 0.31 0.11 0.03
 
-	Memory size: 1007.53 GiB
-	Memory used: 10.64 GiB
-	Memory free: 1000.64 GiB
+	Memory size: 62.50 GiB
+	Memory used: 4.01 GiB
+	Memory free: 58.46 GiB
 
 	Drives:
-		Drive: /dev/sda (111.79 GiB)
+		Drive: /dev/nvme0n1 (2980.82 GiB)
+		Drive: /dev/nvme1n1 (2980.82 GiB)
+		Drive: /dev/nvme2n1 (2980.82 GiB)
+		Drive: /dev/nvme3n1 (2980.82 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,16 +28,32 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens4f0 (38:ea:a7:36:63:14)
-		IPv4: 192.168.1.12/24
-		RX: 0.05 GiB, TX: 0.00 GiB
+		eno3 (24:6e:96:28:c8:34)
+		IPv4: 192.168.5.81/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
-		ens4f1 (38:ea:a7:36:63:15)
+		eno4 (24:6e:96:28:c8:35)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno1 (24:6e:96:28:c8:30)
+		IPv4: 192.168.5.52/24
+		RX: 1.25 GiB, TX: 0.01 GiB
+
+		ens1f0np0 (e8:61:1f:49:70:10)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno2 (24:6e:96:28:c8:32)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens1f1np1 (e8:61:1f:49:70:11)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (111.79 GiB) BTWM73651EPF120B attached on 210235A2QUH213000125
+1. Drive /dev/nvme0n1 (2980.82 GiB) PHLN0274000Q3P2BGN attached on 2ZF8N83
+2. Drive /dev/nvme1n1 (2980.82 GiB) PHLN012202LB3P2BGN attached on 2ZF8N83
+3. Drive /dev/nvme2n1 (2980.82 GiB) PHLN0130010M3P2BGN attached on 2ZF8N83
+4. Drive /dev/nvme3n1 (2980.82 GiB) PHLN013001FL3P2BGN attached on 2ZF8N83
 ```
 ---
-Thu Jan 22 02:05:02 PM MSK 2026
+Thu Jan 22 04:50:01 PM MSK 2026
