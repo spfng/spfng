@@ -2,19 +2,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R640 	(SN: 31LFN23)
+	PowerEdge R640 	(SN: 1RC2G43)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	22 January 2026, Thursday, 07:06 (UTC)
+	22 January 2026, Thursday, 07:13 (UTC)
 
 	Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
 	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.54 0.15 0.05
+	Load Average (1m, 5m, 15m): 0.37 0.10 0.03
 
 	Memory size: 62.50 GiB
-	Memory used: 3.81 GiB
-	Memory free: 58.66 GiB
+	Memory used: 3.87 GiB
+	Memory free: 58.60 GiB
 
 	No drives attached.
 
@@ -24,23 +24,25 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (24:6e:96:0a:24:7c)
-		IPv4: 192.168.5.95/24
-		RX: 1.26 GiB, TX: 0.00 GiB
-
-		eno4 (24:6e:96:0a:24:7d)
+		eno3 (24:6e:96:0c:eb:94)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (24:6e:96:0a:24:78)
+		eno4 (24:6e:96:0c:eb:95)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens1f0np0 (e8:61:1f:4a:40:62)
+		eno1 (24:6e:96:0c:eb:90)
+		IPv4: 192.168.5.82/24
+		RX: 1.26 GiB, TX: 0.01 GiB
+
+		ens1f0np0 (e8:61:1f:49:73:b6)
+		IPv4: 169.254.115.168/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (24:6e:96:0a:24:7a)
+		eno2 (24:6e:96:0c:eb:92)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens1f1np1 (e8:61:1f:4a:40:63)
+		ens1f1np1 (e8:61:1f:49:73:b7)
+		IPv4: 169.254.83.71/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -48,4 +50,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 No drives found.
 ```
 ---
-Thu Jan 22 10:10:01 AM MSK 2026
+Thu Jan 22 10:20:01 AM MSK 2026
