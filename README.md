@@ -2,28 +2,28 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R640 	(SN: 8RC2G43)
+	PowerEdge R640 	(SN: 1G370C3)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	22 January 2026, Thursday, 06:58 (UTC)
+	22 January 2026, Thursday, 07:30 (UTC)
 
 	Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
 	Sockets: 2, Cores per socket: 26
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.47 0.17 0.06
+	Load Average (1m, 5m, 15m): 0.49 0.15 0.05
 
 	Memory size: 1007.49 GiB
-	Memory used: 8.56 GiB
-	Memory free: 1002.23 GiB
+	Memory used: 8.50 GiB
+	Memory free: 1002.29 GiB
 
 	Drives:
-		Drive: /dev/nvme5n1 (2980.82 GiB)
 		Drive: /dev/nvme6n1 (2980.82 GiB)
-		Drive: /dev/nvme3n1 (2980.82 GiB)
-		Drive: /dev/nvme4n1 (2980.82 GiB)
-		Drive: /dev/nvme2n1 (2980.82 GiB)
+		Drive: /dev/nvme5n1 (2980.82 GiB)
 		Drive: /dev/nvme0n1 (2980.82 GiB)
 		Drive: /dev/nvme1n1 (2980.82 GiB)
+		Drive: /dev/nvme4n1 (2980.82 GiB)
+		Drive: /dev/nvme2n1 (2980.82 GiB)
+		Drive: /dev/nvme3n1 (2980.82 GiB)
 		Drive: /dev/nvme7n1 (2980.82 GiB)
 
 	Network Interfaces:
@@ -32,37 +32,37 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1np0 (e4:43:4b:33:9d:98)
-		IPv4: 192.168.5.83/24
+		eno3 (e4:43:4b:33:7d:fc)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno1np0 (e4:43:4b:33:7d:dc)
+		IPv4: 192.168.5.68/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2np1 (e4:43:4b:33:9d:9a)
+		eno4 (e4:43:4b:33:7d:fd)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (e4:43:4b:33:9d:b8)
+		eno2np1 (e4:43:4b:33:7d:de)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (e4:43:4b:33:9d:b9)
+		ens1f0np0 (e8:61:1f:4a:4f:00)
+		IPv4: 169.254.170.78/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens1f0np0 (e8:61:1f:49:71:aa)
-		IPv4: 169.254.169.148/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens1f1np1 (e8:61:1f:49:71:ab)
-		IPv4: 169.254.194.185/16
+		ens1f1np1 (e8:61:1f:4a:4f:01)
+		IPv4: 169.254.186.210/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/nvme5n1 (2980.82 GiB) PHLN027400C73P2BGN attached on 8RC2G43
-2. Drive /dev/nvme6n1 (2980.82 GiB) PHLN0130010T3P2BGN attached on 8RC2G43
-3. Drive /dev/nvme3n1 (2980.82 GiB) PHLN013001FL3P2BGN attached on 8RC2G43
-4. Drive /dev/nvme4n1 (2980.82 GiB) PHLN013001T33P2BGN attached on 8RC2G43
-5. Drive /dev/nvme2n1 (2980.82 GiB) PHLN0130010M3P2BGN attached on 8RC2G43
-6. Drive /dev/nvme0n1 (2980.82 GiB) PHLN012202LB3P2BGN attached on 8RC2G43
-7. Drive /dev/nvme1n1 (2980.82 GiB) PHLN0274000Q3P2BGN attached on 8RC2G43
-8. Drive /dev/nvme7n1 (2980.82 GiB) PHLN0166008L3P2BGN attached on 8RC2G43
+1. Drive /dev/nvme6n1 (2980.82 GiB) PHLN012302AP3P2BGN attached on 1G370C3
+2. Drive /dev/nvme5n1 (2980.82 GiB) PHLN012300403P2BGN attached on 1G370C3
+3. Drive /dev/nvme0n1 (2980.82 GiB) PHLN0122033G3P2BGN attached on 1G370C3
+4. Drive /dev/nvme1n1 (2980.82 GiB) PHLN012200PV3P2BGN attached on 1G370C3
+5. Drive /dev/nvme4n1 (2980.82 GiB) PHLN013000VG3P2BGN attached on 1G370C3
+6. Drive /dev/nvme2n1 (2980.82 GiB) PHLN0166004P3P2BGN attached on 1G370C3
+7. Drive /dev/nvme3n1 (2980.82 GiB) PHLN016600FP3P2BGN attached on 1G370C3
+8. Drive /dev/nvme7n1 (2980.82 GiB) PHLN012202U93P2BGN attached on 1G370C3
 ```
 ---
-Thu Jan 22 09:55:01 AM MSK 2026
+Thu Jan 22 10:00:01 AM MSK 2026
