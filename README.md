@@ -2,25 +2,21 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R640 	(SN: 31LFN23)
+	PowerEdge R630 	(SN: BM77KM2)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	22 January 2026, Thursday, 14:22 (UTC)
+	22 January 2026, Thursday, 14:57 (UTC)
 
-	Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
-	Sockets: 2, Cores per socket: 20
+	Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
+	Sockets: 2, Cores per socket: 22
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.30 0.11 0.03
+	Load Average (1m, 5m, 15m): 0.21 0.08 0.02
 
-	Memory size: 62.50 GiB
-	Memory used: 4.01 GiB
-	Memory free: 58.46 GiB
+	Memory size: 125.78 GiB
+	Memory used: 3.24 GiB
+	Memory free: 122.82 GiB
 
-	Drives:
-		Drive: /dev/nvme0n1 (2980.82 GiB)
-		Drive: /dev/nvme2n1 (2980.82 GiB)
-		Drive: /dev/nvme3n1 (2980.82 GiB)
-		Drive: /dev/nvme1n1 (2980.82 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -28,32 +24,25 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (24:6e:96:0a:24:7c)
-		IPv4: 192.168.5.94/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		eno1 (24:6e:96:57:fc:2c)
+		IPv4: 192.168.5.60/24
+		RX: 0.68 GiB, TX: 0.00 GiB
 
-		eno4 (24:6e:96:0a:24:7d)
+		eno2 (24:6e:96:57:fc:2d)
+		IPv4: 192.168.5.62/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (24:6e:96:0a:24:78)
-		IPv4: 192.168.5.61/24
-		RX: 1.25 GiB, TX: 0.01 GiB
+		eno3 (24:6e:96:57:fc:2e)
+		IPv4: 192.168.5.97/24
+		RX: 0.58 GiB, TX: 0.00 GiB
 
-		ens1f0np0 (e8:61:1f:4a:40:62)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno2 (24:6e:96:0a:24:7a)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens1f1np1 (e8:61:1f:4a:40:63)
+		eno4 (24:6e:96:57:fc:2f)
+		IPv4: 192.168.5.67/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/nvme0n1 (2980.82 GiB) PHLN016600FP3P2BGN attached on 31LFN23
-2. Drive /dev/nvme2n1 (2980.82 GiB) PHLN012200PV3P2BGN attached on 31LFN23
-3. Drive /dev/nvme3n1 (2980.82 GiB) PHLN0166000M3P2BGN attached on 31LFN23
-4. Drive /dev/nvme1n1 (2980.82 GiB) PHLN0122033G3P2BGN attached on 31LFN23
+No drives found.
 ```
 ---
-Thu Jan 22 05:30:01 PM MSK 2026
+Thu Jan 22 06:20:02 PM MSK 2026
