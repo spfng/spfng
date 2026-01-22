@@ -2,22 +2,26 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen9 	(SN: MXQ53005YS)
+	ProLiant DL380 Gen10 	(SN: SGH938STQ4)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	22 January 2026, Thursday, 07:33 (UTC)
+	22 January 2026, Thursday, 10:49 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2687W v4 @ 3.00GHz
-	Sockets: 1, Cores per socket: 12
+	Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
+	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.60 0.17 0.06
+	Load Average (1m, 5m, 15m): 0.50 0.15 0.05
 
-	Memory size: 125.55 GiB
-	Memory used: 2.80 GiB
-	Memory free: 123.24 GiB
+	Memory size: 251.54 GiB
+	Memory used: 4.14 GiB
+	Memory free: 248.21 GiB
 
 	Drives:
-		Drive: /dev/sda (238.47 GiB)
+		Drive: /dev/sda (3576.98 GiB)
+		Drive: /dev/sdb (3576.98 GiB)
+		Drive: /dev/sdc (3576.98 GiB)
+		Drive: /dev/sdd (3576.98 GiB)
+		Drive: /dev/sde (0.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,22 +29,34 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (3c:a8:2a:1d:d6:ec)
-		IPv4: 192.168.5.84/24
+		eno1 (08:f1:ea:f9:a5:e8)
+		IPv4: 192.168.5.51/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (3c:a8:2a:1d:d6:ed)
+		eno2 (08:f1:ea:f9:a5:e9)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (3c:a8:2a:1d:d6:ee)
+		eno3 (08:f1:ea:f9:a5:ea)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (3c:a8:2a:1d:d6:ef)
+		eno4 (08:f1:ea:f9:a5:eb)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno5 (48:df:37:01:99:7c)
+		IPv4: 169.254.179.149/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno6 (48:df:37:01:99:7d)
+		IPv4: 169.254.246.152/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (238.47 GiB) S5GANA0MB01101A attached on MXQ53005YS
+1. Drive /dev/sda (3576.98 GiB) S28BNA0J508371 attached on SGH938STQ4
+2. Drive /dev/sdb (3576.98 GiB) S3RUNXMMA00052 attached on SGH938STQ4
+3. Drive /dev/sdc (3576.98 GiB) S3RUNXMMA00444 attached on SGH938STQ4
+4. Drive /dev/sdd (3576.98 GiB) S28BNA0J600055 attached on SGH938STQ4
+5. Drive /dev/sde (0.00 GiB) has no serial number.
 ```
 ---
-Thu Jan 22 10:35:01 AM MSK 2026
+Thu Jan 22 01:50:01 PM MSK 2026
