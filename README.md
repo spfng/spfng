@@ -1,23 +1,27 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
+	ProLiant DL360 Gen9 	(SN: 6CU541XA38)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	4 September 2025, Thursday, 03:21 (UTC)
+	23 January 2026, Friday, 12:34 (UTC)
 
-	AMD EPYC 7773X 64-Core Processor
-	Sockets: 2, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+	Sockets: 2, Cores per socket: 16
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 256.21 256.12 256.10
+	Load Average (1m, 5m, 15m): 0.83 0.38 0.16
 
-	Memory size: 1007.53 GiB
-	Memory used: 10.68 GiB
-	Memory free: 1000.59 GiB
+	Memory size: 31.25 GiB
+	Memory used: 2.72 GiB
+	Memory free: 28.35 GiB
 
 	Drives:
-		Drive: /dev/sda (111.79 GiB)
+		Drive: /dev/sda (894.25 GiB)
+		Drive: /dev/sdb (894.25 GiB)
+		Drive: /dev/sdc (894.25 GiB)
+		Drive: /dev/sdd (894.25 GiB)
+		Drive: /dev/sde (1.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,16 +29,32 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens4f0 (38:ea:a7:36:63:14)
-		IPv4: 192.168.1.12/24
-		RX: 0.40 GiB, TX: 0.00 GiB
+		eno1 (94:57:a5:6b:ee:18)
+		IPv4: 192.168.5.60/24
+		RX: 1.26 GiB, TX: 0.01 GiB
 
-		ens4f1 (38:ea:a7:36:63:15)
+		eno2 (94:57:a5:6b:ee:19)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (94:57:a5:6b:ee:1a)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (94:57:a5:6b:ee:1b)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno49 (48:df:37:02:35:8c)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno50 (48:df:37:02:35:8d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (111.79 GiB) BTWM73651EPF120B attached on 210235A2QUH213000125
+1. Drive /dev/sda (894.25 GiB) PHYG005100MK960CGN attached on 6CU541XA38
+2. Drive /dev/sdb (894.25 GiB) PHYG005003YH960CGN attached on 6CU541XA38
+3. Drive /dev/sdc (894.25 GiB) PHYG9440030Y960CGN attached on 6CU541XA38
+4. Drive /dev/sdd (894.25 GiB) PHYG944104YS960CGN attached on 6CU541XA38
+5. Drive /dev/sde (1.00 GiB) has no serial number.
 ```
 ---
-Fri Jan 23 03:20:01 PM MSK 2026
+Fri Jan 23 03:25:01 PM MSK 2026
