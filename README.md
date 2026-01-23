@@ -1,19 +1,19 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 	(SN: 6CU541XA12)
+	ProLiant DL360 Gen9 	(SN: 6CU614X0S3)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	23 January 2026, Friday, 09:55 (UTC)
+	3 September 2025, Wednesday, 18:39 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
 	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.61 0.25 0.09
+	Load Average (1m, 5m, 15m): 0.93 0.33 0.12
 
 	Memory size: 31.25 GiB
-	Memory used: 2.77 GiB
+	Memory used: 2.78 GiB
 	Memory free: 28.30 GiB
 
 	Drives:
@@ -21,7 +21,6 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		Drive: /dev/sdb (894.25 GiB)
 		Drive: /dev/sdc (894.25 GiB)
 		Drive: /dev/sdd (894.25 GiB)
-		Drive: /dev/sde (1.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -29,32 +28,31 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (3c:a8:2a:12:30:a0)
-		IPv4: 192.168.5.52/24
+		eno1 (14:02:ec:07:c4:9c)
+		IPv4: 192.168.5.58/24,192.168.5.84/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (3c:a8:2a:12:30:a1)
+		eno2 (14:02:ec:07:c4:9d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (3c:a8:2a:12:30:a2)
+		eno3 (14:02:ec:07:c4:9e)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (3c:a8:2a:12:30:a3)
+		eno4 (14:02:ec:07:c4:9f)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno49 (5c:b9:01:94:83:ac)
+		eno49 (48:df:37:1d:96:18)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno50 (5c:b9:01:94:83:ad)
+		eno50 (48:df:37:1d:96:19)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (894.25 GiB) PHYG944100JS960CGN attached on 6CU541XA12
-2. Drive /dev/sdb (894.25 GiB) PHYG944105FZ960CGN attached on 6CU541XA12
-3. Drive /dev/sdc (894.25 GiB) PHYG005100K8960CGN attached on 6CU541XA12
-4. Drive /dev/sdd (894.25 GiB) PHYG005101N3960CGN attached on 6CU541XA12
-5. Drive /dev/sde (1.00 GiB) has no serial number.
+1. Drive /dev/sda (894.25 GiB) BTYG95120M5B960CGN attached on 6CU614X0S3
+2. Drive /dev/sdb (894.25 GiB) PHYG017403ZJ960CGN attached on 6CU614X0S3
+3. Drive /dev/sdc (894.25 GiB) PHYG944103ZR960CGN attached on 6CU614X0S3
+4. Drive /dev/sdd (894.25 GiB) PHYG952204SL960CGN attached on 6CU614X0S3
 ```
 ---
-Fri Jan 23 12:50:01 PM MSK 2026
+Fri Jan 23 12:55:01 PM MSK 2026
