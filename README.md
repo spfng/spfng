@@ -2,23 +2,26 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen9 	(SN: 6CU734BTVB)
+	ProLiant DL360 Gen9 	(SN: 6CU541XA12)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	23 January 2026, Friday, 07:02 (UTC)
+	23 January 2026, Friday, 09:55 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
 	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.53 0.29 0.12
+	Load Average (1m, 5m, 15m): 0.61 0.25 0.09
 
 	Memory size: 31.25 GiB
-	Memory used: 2.76 GiB
-	Memory free: 28.32 GiB
+	Memory used: 2.77 GiB
+	Memory free: 28.30 GiB
 
 	Drives:
-		Drive: /dev/sda (447.13 GiB)
-		Drive: /dev/sdb (447.13 GiB)
+		Drive: /dev/sda (894.25 GiB)
+		Drive: /dev/sdb (894.25 GiB)
+		Drive: /dev/sdc (894.25 GiB)
+		Drive: /dev/sdd (894.25 GiB)
+		Drive: /dev/sde (1.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,29 +29,32 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (f4:03:43:4b:99:a8)
-		IPv4: 192.168.5.75/24
-		RX: 1.26 GiB, TX: 0.03 GiB
+		eno1 (3c:a8:2a:12:30:a0)
+		IPv4: 192.168.5.52/24
+		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (f4:03:43:4b:99:a9)
+		eno2 (3c:a8:2a:12:30:a1)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (f4:03:43:4b:99:aa)
+		eno3 (3c:a8:2a:12:30:a2)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (f4:03:43:4b:99:ab)
+		eno4 (3c:a8:2a:12:30:a3)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno49 (48:df:37:46:fb:2c)
+		eno49 (5c:b9:01:94:83:ac)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno50 (48:df:37:46:fb:2d)
+		eno50 (5c:b9:01:94:83:ad)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (447.13 GiB) BTYF90410ACP480BGN attached on 6CU734BTVB
-2. Drive /dev/sdb (447.13 GiB) PHYF00250AQC480BGN attached on 6CU734BTVB
+1. Drive /dev/sda (894.25 GiB) PHYG944100JS960CGN attached on 6CU541XA12
+2. Drive /dev/sdb (894.25 GiB) PHYG944105FZ960CGN attached on 6CU541XA12
+3. Drive /dev/sdc (894.25 GiB) PHYG005100K8960CGN attached on 6CU541XA12
+4. Drive /dev/sdd (894.25 GiB) PHYG005101N3960CGN attached on 6CU541XA12
+5. Drive /dev/sde (1.00 GiB) has no serial number.
 ```
 ---
-Fri Jan 23 10:15:01 AM MSK 2026
+Fri Jan 23 12:50:01 PM MSK 2026
