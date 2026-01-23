@@ -1,26 +1,24 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	PowerEdge R640 	(SN: 2ZF8N83)
+	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	23 January 2026, Friday, 03:15 (UTC)
+	3 September 2025, Wednesday, 18:39 (UTC)
 
-	Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
-	Sockets: 2, Cores per socket: 20
-	VMX-Virtualisation
+	AMD EPYC 7773X 64-Core Processor
+	Sockets: 2, Cores per socket: 64
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.51 0.48 0.16
+	Load Average (1m, 5m, 15m): 1.36 0.55 0.20
 
-	Memory size: 62.50 GiB
-	Memory used: 3.99 GiB
-	Memory free: 58.48 GiB
+	Memory size: 1007.53 GiB
+	Memory used: 9.66 GiB
+	Memory free: 1001.66 GiB
 
 	Drives:
-		Drive: /dev/nvme1n1 (2980.82 GiB)
-		Drive: /dev/nvme0n1 (2980.82 GiB)
-		Drive: /dev/nvme3n1 (2980.82 GiB)
-		Drive: /dev/nvme2n1 (2980.82 GiB)
+		Drive: /dev/sda (111.79 GiB)
+		Drive: /dev/sdb (28.91 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -28,32 +26,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (24:6e:96:28:c8:34)
-		IPv4: 192.168.5.53/24
+		ens4f0 (38:ea:a7:36:63:14)
+		IPv4: 192.168.1.12/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno4 (24:6e:96:28:c8:35)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno1 (24:6e:96:28:c8:30)
-		IPv4: 192.168.5.97/24
-		RX: 1.25 GiB, TX: 0.02 GiB
-
-		ens1f0np0 (e8:61:1f:49:70:10)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno2 (24:6e:96:28:c8:32)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens1f1np1 (e8:61:1f:49:70:11)
+		ens4f1 (38:ea:a7:36:63:15)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/nvme1n1 (2980.82 GiB) PHLN0130010M3P2BGN attached on 2ZF8N83
-2. Drive /dev/nvme0n1 (2980.82 GiB) PHLN0274000Q3P2BGN attached on 2ZF8N83
-3. Drive /dev/nvme3n1 (2980.82 GiB) PHLN013001FL3P2BGN attached on 2ZF8N83
-4. Drive /dev/nvme2n1 (2980.82 GiB) PHLN012202LB3P2BGN attached on 2ZF8N83
+1. Drive /dev/sda (111.79 GiB) BTWM73651EPF120B attached on 210235A2QUH213000125
+2. Drive /dev/sdb (28.91 GiB) has no serial number.
 ```
 ---
-Fri Jan 23 06:40:01 AM MSK 2026
+Fri Jan 23 06:45:01 AM MSK 2026
