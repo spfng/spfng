@@ -1,24 +1,26 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
+	ProLiant DL360 Gen9 	(SN: 6CU614X103)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	3 September 2025, Wednesday, 18:45 (UTC)
+	24 January 2026, Saturday, 07:39 (UTC)
 
-	AMD EPYC 7773X 64-Core Processor
-	Sockets: 2, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+	Sockets: 2, Cores per socket: 16
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.74 0.38 0.22
+	Load Average (1m, 5m, 15m): 0.73 0.31 0.12
 
-	Memory size: 1007.53 GiB
-	Memory used: 9.19 GiB
-	Memory free: 1002.13 GiB
+	Memory size: 31.25 GiB
+	Memory used: 2.72 GiB
+	Memory free: 28.35 GiB
 
 	Drives:
-		Drive: /dev/sda (111.79 GiB)
-		Drive: /dev/sdb (28.91 GiB)
+		Drive: /dev/sda (894.25 GiB)
+		Drive: /dev/sdb (894.25 GiB)
+		Drive: /dev/sdc (894.25 GiB)
+		Drive: /dev/sdd (894.25 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,17 +28,31 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens4f0 (38:ea:a7:36:63:14)
-		IPv4: 192.168.1.12/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		eno1 (14:02:ec:07:c4:f0)
+		IPv4: 192.168.5.90/24
+		RX: 1.26 GiB, TX: 0.01 GiB
 
-		ens4f1 (38:ea:a7:36:63:15)
+		eno2 (14:02:ec:07:c4:f1)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (14:02:ec:07:c4:f2)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (14:02:ec:07:c4:f3)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno49 (48:df:37:1e:d8:0c)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno50 (48:df:37:1e:d8:0d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (111.79 GiB) BTWM73651EPF120B attached on 210235A2QUH213000125
-2. Drive /dev/sdb (28.91 GiB) has no serial number.
+1. Drive /dev/sda (894.25 GiB) PHYG9442005H960CGN attached on 6CU614X103
+2. Drive /dev/sdb (894.25 GiB) PHYG944104YM960CGN attached on 6CU614X103
+3. Drive /dev/sdc (894.25 GiB) PHYG005002ZH960CGN attached on 6CU614X103
+4. Drive /dev/sdd (894.25 GiB) PHYG005000E5960CGN attached on 6CU614X103
 ```
 ---
-Sat Jan 24 10:15:01 AM MSK 2026
+Sat Jan 24 10:30:01 AM MSK 2026
