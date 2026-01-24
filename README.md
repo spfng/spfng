@@ -1,20 +1,20 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 	(SN: 6CU614X38L)
+	ProLiant DL360 Gen9 	(SN: 6CU614X0S3)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	24 January 2026, Saturday, 07:16 (UTC)
+	3 September 2025, Wednesday, 18:39 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
 	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.29 0.19 0.08
+	Load Average (1m, 5m, 15m): 0.25 0.08 0.03
 
 	Memory size: 31.25 GiB
-	Memory used: 2.74 GiB
-	Memory free: 28.33 GiB
+	Memory used: 2.75 GiB
+	Memory free: 28.32 GiB
 
 	Drives:
 		Drive: /dev/sda (894.25 GiB)
@@ -28,31 +28,31 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (14:02:ec:07:45:40)
-		IPv4: 192.168.5.84/24
+		eno1 (14:02:ec:07:c4:9c)
+		IPv4: 192.168.5.78/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (14:02:ec:07:45:41)
+		eno2 (14:02:ec:07:c4:9d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (14:02:ec:07:45:42)
+		eno3 (14:02:ec:07:c4:9e)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (14:02:ec:07:45:43)
+		eno4 (14:02:ec:07:c4:9f)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno49 (48:df:37:32:18:dc)
+		eno49 (48:df:37:1d:96:18)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno50 (48:df:37:32:18:dd)
+		eno50 (48:df:37:1d:96:19)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (894.25 GiB) PHYG944105AR960CGN attached on 6CU614X38L
-2. Drive /dev/sdb (894.25 GiB) PHYG944103EF960CGN attached on 6CU614X38L
-3. Drive /dev/sdc (894.25 GiB) PHYG9441020C960CGN attached on 6CU614X38L
-4. Drive /dev/sdd (894.25 GiB) BTYG95120RUQ960CGN attached on 6CU614X38L
+1. Drive /dev/sda (894.25 GiB) BTYG95120M5B960CGN attached on 6CU614X0S3
+2. Drive /dev/sdb (894.25 GiB) PHYG017403ZJ960CGN attached on 6CU614X0S3
+3. Drive /dev/sdc (894.25 GiB) PHYG952204SL960CGN attached on 6CU614X0S3
+4. Drive /dev/sdd (894.25 GiB) PHYG944103ZR960CGN attached on 6CU614X0S3
 ```
 ---
-Sat Jan 24 10:40:01 AM MSK 2026
+Sat Jan 24 10:50:02 AM MSK 2026
