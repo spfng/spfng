@@ -1,26 +1,24 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 	(SN: 6CU538WB58)
+	ProLiant DL360 Gen9 	(SN: 6CU619XJJX)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	24 January 2026, Saturday, 15:53 (UTC)
+	3 September 2025, Wednesday, 18:42 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
 	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.50 0.28 0.11
+	Load Average (1m, 5m, 15m): 0.63 0.41 0.18
 
 	Memory size: 31.25 GiB
-	Memory used: 2.77 GiB
-	Memory free: 28.30 GiB
+	Memory used: 2.79 GiB
+	Memory free: 28.29 GiB
 
 	Drives:
-		Drive: /dev/sda (894.25 GiB)
-		Drive: /dev/sdb (894.25 GiB)
-		Drive: /dev/sdc (894.25 GiB)
-		Drive: /dev/sdd (894.25 GiB)
+		Drive: /dev/sda (447.13 GiB)
+		Drive: /dev/sdb (447.13 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -28,33 +26,31 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (3c:a8:2a:0c:d0:14)
-		IPv4: 192.168.5.88/24
+		eno1 (1c:98:ec:2f:ad:5c)
+		IPv4: 192.168.5.92/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (3c:a8:2a:0c:d0:15)
+		eno2 (1c:98:ec:2f:ad:5d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (3c:a8:2a:0c:d0:16)
+		eno3 (1c:98:ec:2f:ad:5e)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (3c:a8:2a:0c:d0:17)
+		eno4 (1c:98:ec:2f:ad:5f)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno49 (5c:b9:01:94:83:e4)
-		IPv4: 169.254.159.179/16
+		eno49 (48:df:37:40:a2:3c)
+		IPv4: 169.254.251.179/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno50 (5c:b9:01:94:83:e5)
-		IPv4: 169.254.108.253/16
+		eno50 (48:df:37:40:a2:3d)
+		IPv4: 169.254.26.65/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (894.25 GiB) PHYG944103AE960CGN attached on 6CU538WB58
-2. Drive /dev/sdb (894.25 GiB) PHYG944101UD960CGN attached on 6CU538WB58
-3. Drive /dev/sdc (894.25 GiB) BTYG951301M1960CGN attached on 6CU538WB58
-4. Drive /dev/sdd (894.25 GiB) PHYG94410526960CGN attached on 6CU538WB58
+1. Drive /dev/sda (447.13 GiB) PHYF939101Q1480BGN attached on 6CU619XJJX
+2. Drive /dev/sdb (447.13 GiB) PHYF937600N6480BGN attached on 6CU619XJJX
 ```
 ---
-Sat Jan 24 10:55:01 AM MSK 2026
+Sat Jan 24 11:15:02 AM MSK 2026
