@@ -2,23 +2,21 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen9 	(SN: 6CU608VNDK)
+	ProLiant DL360 Gen9 	(SN: 6CU614X133)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	24 January 2026, Saturday, 08:18 (UTC)
+	24 January 2026, Saturday, 11:44 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
 	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.54 0.27 0.12
+	Load Average (1m, 5m, 15m): 0.47 0.15 0.05
 
-	Memory size: 31.26 GiB
-	Memory used: 2.73 GiB
-	Memory free: 28.35 GiB
+	Memory size: 31.25 GiB
+	Memory used: 2.79 GiB
+	Memory free: 28.29 GiB
 
-	Drives:
-		Drive: /dev/sda (447.13 GiB)
-		Drive: /dev/sdb (447.13 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,31 +24,30 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (14:02:ec:3e:6a:48)
-		IPv4: 192.168.5.83/24
-		RX: 1.26 GiB, TX: 0.02 GiB
+		eno1 (1c:98:ec:29:53:68)
+		IPv4: 192.168.5.91/24
+		RX: 1.26 GiB, TX: 0.03 GiB
 
-		eno2 (14:02:ec:3e:6a:49)
+		eno2 (1c:98:ec:29:53:69)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (14:02:ec:3e:6a:4a)
+		eno3 (1c:98:ec:29:53:6a)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (14:02:ec:3e:6a:4b)
+		eno4 (1c:98:ec:29:53:6b)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno49 (48:df:37:46:fa:44)
-		IPv4: 169.254.58.141/16
+		eno49 (48:df:37:04:94:28)
+		IPv4: 169.254.49.27/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno50 (48:df:37:46:fa:45)
-		IPv4: 169.254.181.156/16
+		eno50 (48:df:37:04:94:29)
+		IPv4: 169.254.191.79/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (447.13 GiB) PHYF939003ED480BGN attached on 6CU608VNDK
-2. Drive /dev/sdb (447.13 GiB) PHYF937600KN480BGN attached on 6CU608VNDK
+No drives found.
 ```
 ---
-Sat Jan 24 11:35:01 AM MSK 2026
+Sat Jan 24 02:50:01 PM MSK 2026
