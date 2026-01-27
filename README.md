@@ -10,11 +10,11 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.31 0.10 0.03
+	Load Average (1m, 5m, 15m): 0.37 0.11 0.04
 
-	Memory size: 755.54 GiB
-	Memory used: 6.22 GiB
-	Memory free: 752.14 GiB
+	Memory size: 125.54 GiB
+	Memory used: 3.33 GiB
+	Memory free: 122.49 GiB
 
 	Drives:
 		Drive: /dev/sda (558.91 GiB)
@@ -45,4 +45,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 2. Drive /dev/sdb (0.00 GiB) has no serial number.
 ```
 ---
-Tue Jan 27 10:10:02 AM MSK 2026
+Tue Jan 27 10:15:01 AM MSK 2026
