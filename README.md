@@ -6,15 +6,15 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 	Running on Linux 6.12.63+deb13-amd64 x86_64
 	3 September 2025, Wednesday, 18:39 (UTC)
 
-	Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
-	Sockets: 2, Cores per socket: 16
+	Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
+	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.27 0.08 0.02
+	Load Average (1m, 5m, 15m): 0.31 0.10 0.03
 
-	Memory size: 755.55 GiB
-	Memory used: 6.20 GiB
-	Memory free: 752.17 GiB
+	Memory size: 755.54 GiB
+	Memory used: 6.22 GiB
+	Memory free: 752.14 GiB
 
 	Drives:
 		Drive: /dev/sda (558.91 GiB)
@@ -27,7 +27,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno1 (ec:eb:b8:9c:e7:fc)
-		IPv4: 192.168.5.88/24
+		IPv4: 192.168.5.82/24,192.168.5.88/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
 		eno2 (ec:eb:b8:9c:e7:fd)
@@ -45,4 +45,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 2. Drive /dev/sdb (0.00 GiB) has no serial number.
 ```
 ---
-Tue Jan 27 10:00:01 AM MSK 2026
+Tue Jan 27 10:10:02 AM MSK 2026
