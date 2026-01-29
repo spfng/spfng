@@ -1,22 +1,23 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 	(SN: 6CU734BVBB)
+	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	29 January 2026, Thursday, 14:28 (UTC)
+	5 September 2025, Friday, 05:29 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2695 v3 @ 2.30GHz
-	Sockets: 1, Cores per socket: 14
-	VMX-Virtualisation
+	AMD EPYC 7773X 64-Core Processor
+	Sockets: 2, Cores per socket: 64
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.81 0.30 0.11
+	Load Average (1m, 5m, 15m): 256.15 256.11 256.09
 
-	Memory size: 15.49 GiB
-	Memory used: 2.04 GiB
-	Memory free: 13.19 GiB
+	Memory size: 1007.53 GiB
+	Memory used: 10.64 GiB
+	Memory free: 1000.64 GiB
 
-	No drives attached.
+	Drives:
+		Drive: /dev/sda (111.79 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -24,41 +25,16 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens2f0 (a0:36:9f:1d:59:e8)
-		IPv4: 192.168.5.94/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		ens4f0 (38:ea:a7:36:63:14)
+		IPv4: 192.168.1.12/24
+		RX: 1.53 GiB, TX: 0.01 GiB
 
-		eno1 (f4:03:43:4b:35:50)
-		IPv4: 192.168.5.60/24
-		RX: 1.25 GiB, TX: 0.01 GiB
-
-		eno2 (f4:03:43:4b:35:51)
-		IPv4: 192.168.5.93/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens2f1 (a0:36:9f:1d:59:e9)
-		IPv4: 192.168.5.51/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3 (f4:03:43:4b:35:52)
-		IPv4: 192.168.5.69/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4 (f4:03:43:4b:35:53)
-		IPv4: 192.168.5.54/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens2f2 (a0:36:9f:1d:59:ea)
-		IPv4: 192.168.5.52/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens2f3 (a0:36:9f:1d:59:eb)
-		IPv4: 192.168.5.89/24
+		ens4f1 (38:ea:a7:36:63:15)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-No drives found.
+1. Drive /dev/sda (111.79 GiB) BTWM73651EPF120B attached on 210235A2QUH213000125
 ```
 ---
-Thu Jan 29 05:30:01 PM MSK 2026
+Thu Jan 29 06:05:01 PM MSK 2026
