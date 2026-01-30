@@ -1,20 +1,20 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 	(SN: 6CU614X361)
+	ProLiant DL380 Gen9 	(SN: 6CU7316WXP)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	30 January 2026, Friday, 11:00 (UTC)
+	3 September 2025, Wednesday, 18:39 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
 	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.33 0.11 0.04
+	Load Average (1m, 5m, 15m): 0.62 0.17 0.06
 
-	Memory size: 188.76 GiB
-	Memory used: 3.22 GiB
-	Memory free: 186.11 GiB
+	Memory size: 251.76 GiB
+	Memory used: 3.46 GiB
+	Memory free: 249.12 GiB
 
 	No drives attached.
 
@@ -24,17 +24,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (14:02:ec:07:75:a4)
-		IPv4: 192.168.5.69/24
+		eno1 (f4:03:43:44:1d:a0)
+		IPv4: 192.168.5.93/24,192.168.5.73/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (14:02:ec:07:75:a5)
+		eno2 (f4:03:43:44:1d:a1)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (14:02:ec:07:75:a6)
+		eno3 (f4:03:43:44:1d:a2)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (14:02:ec:07:75:a7)
+		eno4 (f4:03:43:44:1d:a3)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -42,4 +42,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 No drives found.
 ```
 ---
-Fri Jan 30 02:05:01 PM MSK 2026
+Fri Jan 30 05:30:01 PM MSK 2026
