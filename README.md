@@ -1,22 +1,24 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen9 	(SN: MXQ53005YS)
+	PowerEdge C4140 	(SN: BF1B9V2)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	3 September 2025, Wednesday, 18:42 (UTC)
+	3 February 2026, Tuesday, 04:52 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz
+	Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
 	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.41 0.13 0.04
+	Load Average (1m, 5m, 15m): 0.53 0.16 0.06
 
-	Memory size: 125.75 GiB
-	Memory used: 3.48 GiB
-	Memory free: 122.56 GiB
+	Memory size: 125.50 GiB
+	Memory used: 3.69 GiB
+	Memory free: 122.10 GiB
 
-	No drives attached.
+	Drives:
+		Drive: /dev/sda (223.57 GiB)
+		Drive: /dev/sdb (223.57 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -24,30 +26,26 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (1c:98:ec:2a:13:ec)
-		IPv4: 192.168.5.64/24
-		RX: 1.26 GiB, TX: 0.01 GiB
+		eno3 (e4:43:4b:33:b8:a8)
+		IPv4: 192.168.5.69/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (1c:98:ec:2a:13:ed)
+		eno1np0 (e4:43:4b:33:b8:88)
+		IPv4: 192.168.5.93/24
+		RX: 1.25 GiB, TX: 0.01 GiB
+
+		eno4 (e4:43:4b:33:b8:a9)
+		IPv4: 192.168.5.73/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (1c:98:ec:2a:13:ee)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4 (1c:98:ec:2a:13:ef)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno49 (38:63:bb:35:ff:f0)
-		IPv4: 169.254.34.250/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno50 (38:63:bb:35:ff:f4)
-		IPv4: 169.254.158.225/16
+		eno2np1 (e4:43:4b:33:b8:8a)
+		IPv4: 192.168.5.55/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-No drives found.
+1. Drive /dev/sda (223.57 GiB) PHYH23860CWG240J attached on BF1B9V2
+2. Drive /dev/sdb (223.57 GiB) PHYH23860CV7240J attached on BF1B9V2
 ```
 ---
-Tue Feb  3 08:05:02 AM MSK 2026
+Tue Feb  3 08:10:02 AM MSK 2026
