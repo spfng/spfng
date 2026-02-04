@@ -1,22 +1,24 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R740xd 	(SN: 2GRWLN2)
+	ProLiant DL360 Gen10 	(SN: CN7903002Q)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	3 September 2025, Wednesday, 18:40 (UTC)
+	4 February 2026, Wednesday, 05:47 (UTC)
 
-	Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
-	Sockets: 2, Cores per socket: 18
+	Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
+	Sockets: 2, Cores per socket: 24
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.42 0.20 0.08
+	Load Average (1m, 5m, 15m): 0.31 0.12 0.04
 
-	Memory size: 1510.52 GiB
-	Memory used: 8.41 GiB
-	Memory free: 1506.46 GiB
+	Memory size: 503.54 GiB
+	Memory used: 4.20 GiB
+	Memory free: 501.06 GiB
 
-	No drives attached.
+	Drives:
+		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sdb (28.91 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -24,41 +26,34 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens6f0np0 (48:df:37:7c:97:40)
-		IPv4: 169.254.195.222/16
+		ens1f0 (ac:16:2d:9d:90:d0)
+		IPv4: 192.168.5.87/24
+		RX: 0.01 GiB, TX: 0.00 GiB
+
+		ens1f1 (ac:16:2d:9d:90:d1)
+		IPv4: 192.168.5.62/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (c8:1f:66:db:10:68)
-		IPv4: 192.168.5.98/24
-		RX: 1.26 GiB, TX: 0.01 GiB
-
-		ens6f1np1 (48:df:37:7c:97:48)
-		IPv4: 169.254.122.173/16
+		ens1f2 (ac:16:2d:9d:90:d2)
+		IPv4: 192.168.5.90/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (c8:1f:66:db:10:69)
-		IPv4: 192.168.5.55/24
+		ens1f3 (ac:16:2d:9d:90:d3)
+		IPv4: 192.168.5.64/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (c8:1f:66:db:10:6a)
-		IPv4: 192.168.5.73/24
+		eno5 (48:df:37:46:f9:e8)
+		IPv4: 169.254.44.31/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (c8:1f:66:db:10:6b)
-		IPv4: 192.168.5.93/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens7f0 (38:ea:a7:33:9b:c8)
-		IPv4: 169.254.203.124/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens7f1 (38:ea:a7:33:9b:c9)
-		IPv4: 169.254.98.103/16
+		eno6 (48:df:37:46:f9:e9)
+		IPv4: 169.254.138.198/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-No drives found.
+1. Drive /dev/sda (0.00 GiB) has no serial number.
+2. Drive /dev/sdb (28.91 GiB) has no serial number.
 ```
 ---
-Wed Feb  4 10:55:01 AM MSK 2026
+Wed Feb  4 11:30:01 AM MSK 2026
