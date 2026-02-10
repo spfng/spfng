@@ -2,22 +2,24 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen10 	(SN: SGH938STGN)
+	ProLiant DL380 Gen10 	(SN: SGH938STJ2)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	10 February 2026, Tuesday, 09:02 (UTC)
+	10 February 2026, Tuesday, 10:54 (UTC)
 
-	Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
-	Sockets: 2, Cores per socket: 16
+	Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+	Sockets: 2, Cores per socket: 24
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.31 0.11 0.03
+	Load Average (1m, 5m, 15m): 0.49 0.15 0.05
 
 	Memory size: 755.54 GiB
-	Memory used: 6.27 GiB
-	Memory free: 752.08 GiB
+	Memory used: 6.86 GiB
+	Memory free: 751.49 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sda (894.25 GiB)
+		Drive: /dev/sdb (894.25 GiB)
+		Drive: /dev/sdc (0.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,28 +27,32 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (08:f1:ea:f9:a2:82)
-		IPv4: 192.168.5.75/24
-		RX: 1.27 GiB, TX: 0.01 GiB
+		eno1 (08:f1:ea:f9:9d:d8)
+		IPv4: 192.168.5.61/24
+		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (08:f1:ea:f9:a2:83)
+		ens3f0np0 (00:e0:ed:ed:77:a3)
+		IPv4: 169.254.184.214/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (08:f1:ea:f9:a2:84)
+		eno2 (08:f1:ea:f9:9d:d9)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (08:f1:ea:f9:a2:85)
+		eno3 (08:f1:ea:f9:9d:da)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (48:df:37:1f:3f:34)
+		ens3f1np1 (00:e0:ed:ed:77:a4)
+		IPv4: 169.254.20.202/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno6 (48:df:37:1f:3f:35)
+		eno4 (08:f1:ea:f9:9d:db)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (0.00 GiB) has no serial number.
+1. Drive /dev/sda (894.25 GiB) PHYG005003WD960CGN attached on SGH938STJ2
+2. Drive /dev/sdb (894.25 GiB) PHYG0092029T960CGN attached on SGH938STJ2
+3. Drive /dev/sdc (0.00 GiB) has no serial number.
 ```
 ---
-Tue Feb 10 12:05:01 PM MSK 2026
+Tue Feb 10 01:55:01 PM MSK 2026
