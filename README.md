@@ -1,33 +1,24 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL380 Gen10 	(SN: SGH938STGN)
+	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	10 February 2026, Tuesday, 12:04 (UTC)
+	4 September 2025, Thursday, 03:21 (UTC)
 
-	Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
-	Sockets: 2, Cores per socket: 16
-	VMX-Virtualisation
+	AMD EPYC 7773X 64-Core Processor
+	Sockets: 2, Cores per socket: 64
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.67 0.33 0.12
+	Load Average (1m, 5m, 15m): 256.05 256.08 256.08
 
-	Memory size: 755.54 GiB
-	Memory used: 6.37 GiB
-	Memory free: 751.99 GiB
+	Memory size: 1007.53 GiB
+	Memory used: 10.68 GiB
+	Memory free: 1000.59 GiB
 
 	Drives:
-		Drive: /dev/sda (1788.50 GiB)
-		Drive: /dev/sdb (1788.50 GiB)
-		Drive: /dev/sdc (1788.50 GiB)
-		Drive: /dev/sdd (1788.50 GiB)
-		Drive: /dev/sde (1788.50 GiB)
-		Drive: /dev/sdf (1788.50 GiB)
-		Drive: /dev/sdg (1788.50 GiB)
-		Drive: /dev/sdh (1788.50 GiB)
-		Drive: /dev/sdi (894.25 GiB)
-		Drive: /dev/sdj (894.25 GiB)
-		Drive: /dev/sdk (0.00 GiB)
+		Drive: /dev/sda (111.79 GiB)
+		Drive: /dev/sdb (28.91 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -35,38 +26,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (08:f1:ea:f9:a2:82)
-		IPv4: 192.168.5.73/24
-		RX: 1.26 GiB, TX: 0.01 GiB
+		ens4f0 (38:ea:a7:36:63:14)
+		IPv4: 192.168.1.12/24
+		RX: 0.41 GiB, TX: 0.00 GiB
 
-		eno2 (08:f1:ea:f9:a2:83)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3 (08:f1:ea:f9:a2:84)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4 (08:f1:ea:f9:a2:85)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno5 (48:df:37:1f:3f:34)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno6 (48:df:37:1f:3f:35)
+		ens4f1 (38:ea:a7:36:63:15)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (1788.50 GiB) A01C3DD9 attached on SGH938STGN
-2. Drive /dev/sdb (1788.50 GiB) A018E534 attached on SGH938STGN
-3. Drive /dev/sdc (1788.50 GiB) A01C3C35 attached on SGH938STGN
-4. Drive /dev/sdd (1788.50 GiB) A018E623 attached on SGH938STGN
-5. Drive /dev/sde (1788.50 GiB) A01B7E64 attached on SGH938STGN
-6. Drive /dev/sdf (1788.50 GiB) A01BF013 attached on SGH938STGN
-7. Drive /dev/sdg (1788.50 GiB) A01B80AF attached on SGH938STGN
-8. Drive /dev/sdh (1788.50 GiB) A018E3A5 attached on SGH938STGN
-9. Drive /dev/sdi (894.25 GiB) BTYF029502SE960CGN attached on SGH938STGN
-10. Drive /dev/sdj (894.25 GiB) BTYF029506TJ960CGN attached on SGH938STGN
-11. Drive /dev/sdk (0.00 GiB) has no serial number.
+1. Drive /dev/sda (111.79 GiB) BTWM73651EPF120B attached on 210235A2QUH213000125
+2. Drive /dev/sdb (28.91 GiB) has no serial number.
 ```
 ---
-Tue Feb 10 03:05:01 PM MSK 2026
+Tue Feb 10 03:40:01 PM MSK 2026
