@@ -1,39 +1,36 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL380 Gen10 	(SN: SGH938STGN)
+	PowerEdge R7515 	(SN: FCXKV53)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	11 February 2026, Wednesday, 04:21 (UTC)
+	3 September 2025, Wednesday, 18:39 (UTC)
 
-	Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
-	Sockets: 2, Cores per socket: 16
-	VMX-Virtualisation
+	AMD EPYC 7B13 64-Core Processor
+	Sockets: 1, Cores per socket: 64
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.23 0.14 0.06
+	Load Average (1m, 5m, 15m): 0.20 0.07 0.02
 
-	Memory size: 755.54 GiB
-	Memory used: 6.28 GiB
-	Memory free: 752.08 GiB
+	Memory size: 125.39 GiB
+	Memory used: 4.09 GiB
+	Memory free: 121.78 GiB
 
 	Drives:
-		Drive: /dev/sda (1788.50 GiB)
-		Drive: /dev/sdb (1788.50 GiB)
-		Drive: /dev/sdc (1788.50 GiB)
-		Drive: /dev/sdd (1788.50 GiB)
-		Drive: /dev/sde (1788.50 GiB)
-		Drive: /dev/sdf (1788.50 GiB)
-		Drive: /dev/sdg (1788.50 GiB)
-		Drive: /dev/sdh (1788.50 GiB)
-		Drive: /dev/sdi (1788.50 GiB)
-		Drive: /dev/sdj (894.25 GiB)
-		Drive: /dev/sdk (1788.50 GiB)
-		Drive: /dev/sdl (1788.50 GiB)
-		Drive: /dev/sdm (1788.50 GiB)
-		Drive: /dev/sdn (894.25 GiB)
-		Drive: /dev/sdo (1788.50 GiB)
-		Drive: /dev/sdp (1788.50 GiB)
-		Drive: /dev/sdq (0.00 GiB)
+		Drive: /dev/sda (16764.00 GiB)
+		Drive: /dev/sdb (11176.00 GiB)
+		Drive: /dev/sdc (11176.00 GiB)
+		Drive: /dev/sdd (11176.00 GiB)
+		Drive: /dev/sde (11176.00 GiB)
+		Drive: /dev/sdf (11176.00 GiB)
+		Drive: /dev/sdg (11176.00 GiB)
+		Drive: /dev/sdh (11176.00 GiB)
+		Drive: /dev/sdi (11176.00 GiB)
+		Drive: /dev/sdj (11176.00 GiB)
+		Drive: /dev/sdk (11176.00 GiB)
+		Drive: /dev/sdl (11176.00 GiB)
+		Drive: /dev/sdm (11176.00 GiB)
+		Drive: /dev/sdn (16764.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -41,46 +38,35 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (08:f1:ea:f9:a2:82)
-		IPv4: 192.168.5.96/24
+		eno8303 (2c:ea:7f:f1:59:26)
+		IPv4: 192.168.5.97/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (08:f1:ea:f9:a2:83)
+		ens1f0np0 (2c:ea:7f:41:ec:50)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (08:f1:ea:f9:a2:84)
+		eno8403 (2c:ea:7f:f1:59:27)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (08:f1:ea:f9:a2:85)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno5 (48:df:37:1f:3f:34)
-		IPv4: 192.168.5.64/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno6 (48:df:37:1f:3f:35)
-		IPv4: 192.168.5.58/24
+		ens1f1np1 (2c:ea:7f:41:ec:51)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (1788.50 GiB) A018E623 attached on SGH938STGN
-2. Drive /dev/sdb (1788.50 GiB) A018E534 attached on SGH938STGN
-3. Drive /dev/sdc (1788.50 GiB) A01BF013 attached on SGH938STGN
-4. Drive /dev/sdd (1788.50 GiB) A01C3DD9 attached on SGH938STGN
-5. Drive /dev/sde (1788.50 GiB) A01B7E64 attached on SGH938STGN
-6. Drive /dev/sdf (1788.50 GiB) A01B80AF attached on SGH938STGN
-7. Drive /dev/sdg (1788.50 GiB) A01C3C35 attached on SGH938STGN
-8. Drive /dev/sdh (1788.50 GiB) A018E3A5 attached on SGH938STGN
-9. Drive /dev/sdi (1788.50 GiB) A0406684 attached on SGH938STGN
-10. Drive /dev/sdj (894.25 GiB) BTYF029502SE960CGN attached on SGH938STGN
-11. Drive /dev/sdk (1788.50 GiB) A01C3FF4 attached on SGH938STGN
-12. Drive /dev/sdl (1788.50 GiB) A01C43CE attached on SGH938STGN
-13. Drive /dev/sdm (1788.50 GiB) A040EB42 attached on SGH938STGN
-14. Drive /dev/sdn (894.25 GiB) BTYF029506TJ960CGN attached on SGH938STGN
-15. Drive /dev/sdo (1788.50 GiB) A01C40E2 attached on SGH938STGN
-16. Drive /dev/sdp (1788.50 GiB) A01C44BC attached on SGH938STGN
-17. Drive /dev/sdq (0.00 GiB) has no serial number.
+1. Drive /dev/sda (16764.00 GiB) 52G0A009FQDH attached on FCXKV53
+2. Drive /dev/sdb (11176.00 GiB) D5GAR6PL attached on FCXKV53
+3. Drive /dev/sdc (11176.00 GiB) D5GASV2L attached on FCXKV53
+4. Drive /dev/sdd (11176.00 GiB) D5GAKAUL attached on FCXKV53
+5. Drive /dev/sde (11176.00 GiB) D5GASL6L attached on FCXKV53
+6. Drive /dev/sdf (11176.00 GiB) D5GABE4L attached on FCXKV53
+7. Drive /dev/sdg (11176.00 GiB) D5GG37UM attached on FCXKV53
+8. Drive /dev/sdh (11176.00 GiB) D5GA4JGL attached on FCXKV53
+9. Drive /dev/sdi (11176.00 GiB) D5GABHML attached on FCXKV53
+10. Drive /dev/sdj (11176.00 GiB) D5GG0BRM attached on FCXKV53
+11. Drive /dev/sdk (11176.00 GiB) D5GG89ZM attached on FCXKV53
+12. Drive /dev/sdl (11176.00 GiB) D5GG1TLM attached on FCXKV53
+13. Drive /dev/sdm (11176.00 GiB) D5GGB61M attached on FCXKV53
+14. Drive /dev/sdn (16764.00 GiB) 52G0A05WFQDH attached on FCXKV53
 ```
 ---
-Wed Feb 11 07:30:01 AM MSK 2026
+Wed Feb 11 10:15:01 AM MSK 2026
