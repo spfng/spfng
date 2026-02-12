@@ -1,35 +1,22 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7515 	(SN: FCXKV53)
+	ProLiant DL360 Gen9 	(SN: 6CU538WB5E)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	3 September 2025, Wednesday, 18:51 (UTC)
+	12 February 2026, Thursday, 04:55 (UTC)
 
-	AMD EPYC 7B13 64-Core Processor
-	Sockets: 1, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz
+	Sockets: 2, Cores per socket: 14
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.20 0.05 0.02
+	Load Average (1m, 5m, 15m): 0.79 0.24 0.08
 
-	Memory size: 125.39 GiB
-	Memory used: 4.17 GiB
-	Memory free: 121.70 GiB
+	Memory size: 31.13 GiB
+	Memory used: 2.65 GiB
+	Memory free: 28.31 GiB
 
-	Drives:
-		Drive: /dev/sda (11176.00 GiB)
-		Drive: /dev/sdb (11176.00 GiB)
-		Drive: /dev/sdc (11176.00 GiB)
-		Drive: /dev/sdd (11176.00 GiB)
-		Drive: /dev/sde (11176.00 GiB)
-		Drive: /dev/sdf (11176.00 GiB)
-		Drive: /dev/sdg (11176.00 GiB)
-		Drive: /dev/sdh (11176.00 GiB)
-		Drive: /dev/sdi (11176.00 GiB)
-		Drive: /dev/sdj (11176.00 GiB)
-		Drive: /dev/sdk (11176.00 GiB)
-		Drive: /dev/sdl (11176.00 GiB)
-		Drive: /dev/nvme0n1 (238.47 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -37,36 +24,30 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (2c:ea:7f:f1:59:26)
-		IPv4: 192.168.5.65/24
-		RX: 1.27 GiB, TX: 0.01 GiB
+		eno1 (3c:a8:2a:0c:f4:ec)
+		IPv4: 192.168.5.62/24
+		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno8403 (2c:ea:7f:f1:59:27)
+		eno2 (3c:a8:2a:0c:f4:ed)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens1f0np0 (0c:42:a1:24:9f:1e)
-		IPv4: 169.254.211.173/16
+		eno3 (3c:a8:2a:0c:f4:ee)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens1f1np1 (0c:42:a1:24:9f:1f)
-		IPv4: 169.254.102.176/16
+		eno4 (3c:a8:2a:0c:f4:ef)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno49 (48:df:37:3f:dc:38)
+		IPv4: 169.254.9.99/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno50 (48:df:37:3f:dc:39)
+		IPv4: 169.254.16.209/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (11176.00 GiB) D5GASL6L attached on FCXKV53
-2. Drive /dev/sdb (11176.00 GiB) D5GASV2L attached on FCXKV53
-3. Drive /dev/sdc (11176.00 GiB) D5GABE4L attached on FCXKV53
-4. Drive /dev/sdd (11176.00 GiB) D5GAR6PL attached on FCXKV53
-5. Drive /dev/sde (11176.00 GiB) D5GA4JGL attached on FCXKV53
-6. Drive /dev/sdf (11176.00 GiB) D5GG37UM attached on FCXKV53
-7. Drive /dev/sdg (11176.00 GiB) D5GAKAUL attached on FCXKV53
-8. Drive /dev/sdh (11176.00 GiB) D5GABHML attached on FCXKV53
-9. Drive /dev/sdi (11176.00 GiB) D5GG0BRM attached on FCXKV53
-10. Drive /dev/sdj (11176.00 GiB) D5GG89ZM attached on FCXKV53
-11. Drive /dev/sdk (11176.00 GiB) D5GG1TLM attached on FCXKV53
-12. Drive /dev/sdl (11176.00 GiB) D5GGB61M attached on FCXKV53
-13. Drive /dev/nvme0n1 (238.47 GiB) MBM447155684 attached on FCXKV53
+No drives found.
 ```
 ---
-Wed Feb 11 12:45:01 PM MSK 2026
+Thu Feb 12 08:00:01 AM MSK 2026
