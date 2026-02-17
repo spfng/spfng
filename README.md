@@ -1,28 +1,23 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 	(SN: 6CU541X9W8)
+	ProLiant DL380 Gen9 	(SN: 6CU7434A5N)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	17 February 2026, Tuesday, 04:31 (UTC)
+	3 September 2025, Wednesday, 18:41 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
-	Sockets: 2, Cores per socket: 22
+	Intel(R) Xeon(R) CPU E5-2683 v3 @ 2.00GHz
+	Sockets: 1, Cores per socket: 14
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.58 0.18 0.06
+	Load Average (1m, 5m, 15m): 0.58 0.53 0.23
 
-	Memory size: 125.75 GiB
-	Memory used: 3.32 GiB
-	Memory free: 122.71 GiB
+	Memory size: 15.49 GiB
+	Memory used: 2.03 GiB
+	Memory free: 13.20 GiB
 
 	Drives:
-		Drive: /dev/sda (894.25 GiB)
-		Drive: /dev/sdb (894.25 GiB)
-		Drive: /dev/sdc (894.25 GiB)
-		Drive: /dev/sdd (894.25 GiB)
-		Drive: /dev/sde (894.25 GiB)
-		Drive: /dev/sdf (894.25 GiB)
+		Drive: /dev/sda (14.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -30,27 +25,22 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (3c:a8:2a:12:70:08)
-		IPv4: 192.168.5.94/24
+		eno1 (30:e1:71:6d:f1:80)
+		IPv4: 192.168.5.81/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (3c:a8:2a:12:70:09)
+		eno2 (30:e1:71:6d:f1:81)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (3c:a8:2a:12:70:0a)
+		eno3 (30:e1:71:6d:f1:82)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (3c:a8:2a:12:70:0b)
+		eno4 (30:e1:71:6d:f1:83)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (894.25 GiB) BTYF114404G4960CGN attached on 6CU541X9W8
-2. Drive /dev/sdb (894.25 GiB) BTYF029503EG960CGN attached on 6CU541X9W8
-3. Drive /dev/sdc (894.25 GiB) BTYF00410475960CGN attached on 6CU541X9W8
-4. Drive /dev/sdd (894.25 GiB) BTYF136307A5960CGN attached on 6CU541X9W8
-5. Drive /dev/sde (894.25 GiB) BTYF011201Y8960CGN attached on 6CU541X9W8
-6. Drive /dev/sdf (894.25 GiB) BTYF029502K9960CGN attached on 6CU541X9W8
+1. Drive /dev/sda (14.65 GiB) has no serial number.
 ```
 ---
-Tue Feb 17 07:35:01 AM MSK 2026
+Tue Feb 17 11:00:01 AM MSK 2026
