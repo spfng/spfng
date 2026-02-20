@@ -1,31 +1,22 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen9 	(SN: 6CU7316WXP)
+	ProLiant DL360 Gen10 	(SN: CN784200B5)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	3 September 2025, Wednesday, 18:47 (UTC)
+	20 February 2026, Friday, 14:22 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+	Intel(R) Xeon(R) Gold 6144 CPU @ 3.50GHz
 	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.29 0.11 0.03
+	Load Average (1m, 5m, 15m): 0.27 0.09 0.02
 
-	Memory size: 251.76 GiB
-	Memory used: 3.70 GiB
-	Memory free: 248.88 GiB
+	Memory size: 31.06 GiB
+	Memory used: 2.35 GiB
+	Memory free: 28.53 GiB
 
-	Drives:
-		Drive: /dev/sda (11176.00 GiB)
-		Drive: /dev/sdb (11176.00 GiB)
-		Drive: /dev/sdc (11176.00 GiB)
-		Drive: /dev/sdd (11176.00 GiB)
-		Drive: /dev/sde (11176.00 GiB)
-		Drive: /dev/sdf (11176.00 GiB)
-		Drive: /dev/sdg (11176.00 GiB)
-		Drive: /dev/sdh (11176.00 GiB)
-		Drive: /dev/sdi (11176.00 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -33,30 +24,22 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (f4:03:43:44:1d:a0)
-		IPv4: 192.168.5.67/24
+		eno1 (20:67:7c:e5:dc:d0)
+		IPv4: 192.168.5.60/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (f4:03:43:44:1d:a1)
+		eno2 (20:67:7c:e5:dc:d1)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (f4:03:43:44:1d:a2)
+		eno3 (20:67:7c:e5:dc:d2)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (f4:03:43:44:1d:a3)
+		eno4 (20:67:7c:e5:dc:d3)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (11176.00 GiB) 9JG7YLMT attached on 6CU7316WXP
-2. Drive /dev/sdb (11176.00 GiB) 9JG8BPZT attached on 6CU7316WXP
-3. Drive /dev/sdc (11176.00 GiB) 9JG83B0T attached on 6CU7316WXP
-4. Drive /dev/sdd (11176.00 GiB) 9JG8ERRT attached on 6CU7316WXP
-5. Drive /dev/sde (11176.00 GiB) 9JG7Y99T attached on 6CU7316WXP
-6. Drive /dev/sdf (11176.00 GiB) 9JG89VPT attached on 6CU7316WXP
-7. Drive /dev/sdg (11176.00 GiB) 9JG8136T attached on 6CU7316WXP
-8. Drive /dev/sdh (11176.00 GiB) 9JG83JDT attached on 6CU7316WXP
-9. Drive /dev/sdi (11176.00 GiB) 9JG867KT attached on 6CU7316WXP
+No drives found.
 ```
 ---
-Thu Feb 19 11:45:01 AM MSK 2026
+Fri Feb 20 05:20:01 PM MSK 2026
