@@ -1,23 +1,26 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen10 	(SN: CN784200B5)
+	ProLiant DL380 Gen10 	(SN: SGH938STQ8)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	23 February 2026, Monday, 06:01 (UTC)
+	3 September 2025, Wednesday, 18:54 (UTC)
 
-	Intel(R) Xeon(R) Gold 6144 CPU @ 3.50GHz
-	Sockets: 2, Cores per socket: 8
+	Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
+	Sockets: 2, Cores per socket: 12
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.29 0.09 0.03
+	Load Average (1m, 5m, 15m): 0.18 0.07 0.09
 
-	Memory size: 31.06 GiB
-	Memory used: 2.30 GiB
-	Memory free: 28.56 GiB
+	Memory size: 251.43 GiB
+	Memory used: 3.88 GiB
+	Memory free: 248.36 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sda (223.57 GiB)
+		Drive: /dev/sdb (0.00 GiB)
+		Drive: /dev/nvme0n1 (1490.42 GiB)
+		Drive: /dev/nvme1n1 (1490.42 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,22 +28,31 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (20:67:7c:e5:dc:d0)
-		IPv4: 192.168.5.73/24
+		eno1 (08:f1:ea:f9:aa:3e)
+		IPv4: 192.168.5.69/24
 		RX: 1.27 GiB, TX: 0.01 GiB
 
-		eno2 (20:67:7c:e5:dc:d1)
+		eno2 (08:f1:ea:f9:aa:3f)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (20:67:7c:e5:dc:d2)
+		eno3 (08:f1:ea:f9:aa:40)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (20:67:7c:e5:dc:d3)
+		eno5 (14:58:d0:42:76:00)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (08:f1:ea:f9:aa:41)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno6 (14:58:d0:42:76:04)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (0.00 GiB) has no serial number.
+1. Drive /dev/sda (223.57 GiB) BTYF829201L9240AGN attached on SGH938STQ8
+2. Drive /dev/sdb (0.00 GiB) has no serial number.
+3. Drive /dev/nvme0n1 (1490.42 GiB) PHLN326200EF1P6AGN attached on SGH938STQ8
+4. Drive /dev/nvme1n1 (1490.42 GiB) PHLN325601Y81P6AGN attached on SGH938STQ8
 ```
 ---
-Mon Feb 23 08:55:01 AM MSK 2026
+Mon Feb 23 09:00:01 AM MSK 2026
