@@ -4,13 +4,13 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 	ProLiant DL380 Gen10 	(SN: SGH938STQ8)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	3 September 2025, Wednesday, 18:54 (UTC)
+	3 September 2025, Wednesday, 18:39 (UTC)
 
 	Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
 	Sockets: 2, Cores per socket: 12
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.18 0.07 0.09
+	Load Average (1m, 5m, 15m): 1.07 0.70 0.29
 
 	Memory size: 251.43 GiB
 	Memory used: 3.88 GiB
@@ -19,8 +19,8 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 	Drives:
 		Drive: /dev/sda (223.57 GiB)
 		Drive: /dev/sdb (0.00 GiB)
-		Drive: /dev/nvme0n1 (1490.42 GiB)
 		Drive: /dev/nvme1n1 (1490.42 GiB)
+		Drive: /dev/nvme0n1 (1490.42 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -29,8 +29,8 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno1 (08:f1:ea:f9:aa:3e)
-		IPv4: 192.168.5.69/24
-		RX: 1.27 GiB, TX: 0.01 GiB
+		IPv4: 192.168.5.94/24,192.168.5.69/24
+		RX: 1.26 GiB, TX: 0.01 GiB
 
 		eno2 (08:f1:ea:f9:aa:3f)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -51,8 +51,8 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
 1. Drive /dev/sda (223.57 GiB) BTYF829201L9240AGN attached on SGH938STQ8
 2. Drive /dev/sdb (0.00 GiB) has no serial number.
-3. Drive /dev/nvme0n1 (1490.42 GiB) PHLN326200EF1P6AGN attached on SGH938STQ8
-4. Drive /dev/nvme1n1 (1490.42 GiB) PHLN325601Y81P6AGN attached on SGH938STQ8
+3. Drive /dev/nvme1n1 (1490.42 GiB) PHLN325601Y81P6AGN attached on SGH938STQ8
+4. Drive /dev/nvme0n1 (1490.42 GiB) PHLN326200EF1P6AGN attached on SGH938STQ8
 ```
 ---
-Mon Feb 23 09:00:01 AM MSK 2026
+Tue Feb 24 06:30:01 AM MSK 2026
