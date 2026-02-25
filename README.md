@@ -1,25 +1,26 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen9 	(SN: 6CU541X9WH)
+	PowerEdge R640 	(SN: 81Z0N83)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	24 February 2026, Tuesday, 08:58 (UTC)
+	3 September 2025, Wednesday, 19:16 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz
-	Sockets: 1, Cores per socket: 6
+	Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
+	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.48 0.15 0.05
+	Load Average (1m, 5m, 15m): 0.21 0.06 0.02
 
-	Memory size: 62.67 GiB
-	Memory used: 2.27 GiB
-	Memory free: 60.47 GiB
+	Memory size: 125.51 GiB
+	Memory used: 3.28 GiB
+	Memory free: 122.49 GiB
 
 	Drives:
-		Drive: /dev/sda (894.25 GiB)
-		Drive: /dev/sdb (894.25 GiB)
-		Drive: /dev/sdc (1.00 GiB)
+		Drive: /dev/sda (223.57 GiB)
+		Drive: /dev/sdb (223.57 GiB)
+		Drive: /dev/sdc (894.25 GiB)
+		Drive: /dev/sdd (1788.50 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,24 +28,25 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (3c:a8:2a:11:1f:6c)
-		IPv4: 192.168.5.80/24
-		RX: 1.26 GiB, TX: 0.01 GiB
+		eno1 (e4:43:4b:5b:f2:b8)
+		IPv4: 192.168.5.95/24
+		RX: 1.27 GiB, TX: 0.00 GiB
 
-		eno2 (3c:a8:2a:11:1f:6d)
+		eno2 (e4:43:4b:5b:f2:b9)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (3c:a8:2a:11:1f:6e)
+		eno3 (e4:43:4b:5b:f2:ba)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (3c:a8:2a:11:1f:6f)
+		eno4 (e4:43:4b:5b:f2:bb)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (894.25 GiB) PHYG9441033U960CGN attached on 6CU541X9WH
-2. Drive /dev/sdb (894.25 GiB) PHYG045602AJ960CGN attached on 6CU541X9WH
-3. Drive /dev/sdc (1.00 GiB) has no serial number.
+1. Drive /dev/sda (223.57 GiB) PHYF252204A6240AGN attached on 81Z0N83
+2. Drive /dev/sdb (223.57 GiB) PHYF252201HD240AGN attached on 81Z0N83
+3. Drive /dev/sdc (894.25 GiB) PHYF943202YR960CGN attached on 81Z0N83
+4. Drive /dev/sdd (1788.50 GiB) PHYF924400FA1P9DGN attached on 81Z0N83
 ```
 ---
-Tue Feb 24 11:50:01 AM MSK 2026
+Wed Feb 25 01:30:01 PM MSK 2026
