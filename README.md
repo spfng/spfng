@@ -1,25 +1,32 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	R5500 G5 Diesel                                            	(SN: 210235A2R6H226000049)
+	PowerEdge R640 	(SN: 81Z0N83)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	26 February 2026, Thursday, 08:26 (UTC)
+	3 September 2025, Wednesday, 18:39 (UTC)
 
-	AMD EPYC 7742 64-Core Processor
-	Sockets: 2, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
+	Sockets: 2, Cores per socket: 8
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.27 0.49 0.18
+	Load Average (1m, 5m, 15m): 0.61 0.20 0.07
 
-	Memory size: 1007.68 GiB
-	Memory used: 13.12 GiB
-	Memory free: 998.35 GiB
+	Memory size: 754.54 GiB
+	Memory used: 5.82 GiB
+	Memory free: 751.51 GiB
 
 	Drives:
-		Drive: /dev/sda (893.75 GiB)
-		Drive: /dev/sdb (28.91 GiB)
+		Drive: /dev/sda (894.25 GiB)
+		Drive: /dev/sdb (894.25 GiB)
+		Drive: /dev/sdc (894.25 GiB)
+		Drive: /dev/sdd (894.25 GiB)
+		Drive: /dev/sde (894.25 GiB)
+		Drive: /dev/sdf (894.25 GiB)
+		Drive: /dev/nvme2n1 (3726.02 GiB)
 		Drive: /dev/nvme0n1 (3726.02 GiB)
+		Drive: /dev/nvme3n1 (3726.02 GiB)
+		Drive: /dev/nvme1n1 (3726.02 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,31 +34,34 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens13f0 (80:61:5f:13:fd:5b)
-		IPv4: 192.168.5.61/24
+		eno1 (e4:43:4b:5b:f2:b8)
+		IPv4: 192.168.5.73/24
+		RX: 1.26 GiB, TX: 0.00 GiB
+
+		eno2 (e4:43:4b:5b:f2:b9)
+		IPv4: 192.168.5.59/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens21f0np0 (98:a9:2d:1a:8c:68)
+		eno3 (e4:43:4b:5b:f2:ba)
+		IPv4: 192.168.5.96/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens21f1np1 (98:a9:2d:1a:8c:69)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens13f1 (80:61:5f:13:fd:5c)
-		IPv4: 192.168.5.62/24
-		RX: 0.01 GiB, TX: 0.00 GiB
-
-		ens20f0np0 (98:03:9b:07:5f:a0)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens20f1np1 (98:03:9b:07:5f:a1)
+		eno4 (e4:43:4b:5b:f2:bb)
+		IPv4: 192.168.5.58/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (893.75 GiB) 00710ad4065a5efc1f9067df0bb00506 attached on 210235A2R6H226000049
-2. Drive /dev/sdb (28.91 GiB) has no serial number.
-3. Drive /dev/nvme0n1 (3726.02 GiB) PHLF808603J64P0IGN attached on 210235A2R6H226000049
+1. Drive /dev/sda (894.25 GiB) S37KNX0JA07561 attached on 81Z0N83
+2. Drive /dev/sdb (894.25 GiB) S37KNX0JA02631 attached on 81Z0N83
+3. Drive /dev/sdc (894.25 GiB) S37KNX0JA02811 attached on 81Z0N83
+4. Drive /dev/sdd (894.25 GiB) S37KNX0JA07581 attached on 81Z0N83
+5. Drive /dev/sde (894.25 GiB) S37KNX0JA03064 attached on 81Z0N83
+6. Drive /dev/sdf (894.25 GiB) S37KNX0JA02633 attached on 81Z0N83
+7. Drive /dev/nvme2n1 (3726.02 GiB) PHLJ043106834P0DGN attached on 81Z0N83
+8. Drive /dev/nvme0n1 (3726.02 GiB) PHLJ043105XX4P0DGN attached on 81Z0N83
+9. Drive /dev/nvme3n1 (3726.02 GiB) PHLJ020603AG4P0DGN attached on 81Z0N83
+10. Drive /dev/nvme1n1 (3726.02 GiB) PHLJ042201N24P0DGN attached on 81Z0N83
 ```
 ---
-Thu Feb 26 11:30:01 AM MSK 2026
+Thu Feb 26 04:20:01 PM MSK 2026
