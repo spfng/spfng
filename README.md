@@ -1,25 +1,22 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen10 	(SN: MXQ00100WG)
+	ProLiant DL360 Gen9 	(SN: 6CU614X3K7)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	28 February 2026, Saturday, 17:50 (UTC)
+	3 September 2025, Wednesday, 18:39 (UTC)
 
-	Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz
-	Sockets: 2, Cores per socket: 12
+	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.37 0.11 0.04
+	Load Average (1m, 5m, 15m): 0.48 0.16 0.06
 
-	Memory size: 377.55 GiB
-	Memory used: 4.21 GiB
-	Memory free: 374.65 GiB
+	Memory size: 125.63 GiB
+	Memory used: 3.32 GiB
+	Memory free: 122.60 GiB
 
-	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/nvme1n1 (2980.82 GiB)
-		Drive: /dev/nvme0n1 (2980.82 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,24 +24,30 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (94:40:c9:df:14:54)
-		IPv4: 192.168.5.98/24
+		eno1 (1c:98:ec:2a:23:e8)
+		IPv4: 192.168.5.86/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (94:40:c9:df:14:55)
+		eno2 (1c:98:ec:2a:23:e9)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (94:40:c9:df:14:56)
+		eno3 (1c:98:ec:2a:23:ea)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (94:40:c9:df:14:57)
+		eno4 (1c:98:ec:2a:23:eb)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno49 (48:df:37:47:e7:94)
+		IPv4: 169.254.168.124/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno50 (48:df:37:47:e7:95)
+		IPv4: 169.254.52.255/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (0.00 GiB) has no serial number.
-2. Drive /dev/nvme1n1 (2980.82 GiB) PHLN012302H03P2BGN attached on MXQ00100WG
-3. Drive /dev/nvme0n1 (2980.82 GiB) PHLN012200TZ3P2BGN attached on MXQ00100WG
+No drives found.
 ```
 ---
-Fri Feb 27 05:45:01 PM MSK 2026
+Fri Feb 27 06:15:01 PM MSK 2026
