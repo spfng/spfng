@@ -10,11 +10,11 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 	Sockets: 2, Cores per socket: 24
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.17 0.05 0.01
+	Load Average (1m, 5m, 15m): 0.64 0.26 0.10
 
 	Memory size: 377.54 GiB
-	Memory used: 5.36 GiB
-	Memory free: 373.48 GiB
+	Memory used: 5.98 GiB
+	Memory free: 372.85 GiB
 
 	Drives:
 		Drive: /dev/sda (894.22 GiB)
@@ -27,7 +27,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno1 (94:40:c9:2f:0f:10)
-		IPv4: 192.168.5.55/24
+		IPv4: 192.168.5.93/24,192.168.5.78/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
 		eno2 (94:40:c9:2f:0f:11)
@@ -39,12 +39,18 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		eno4 (94:40:c9:2f:0f:13)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
+		ens1f0np0 (88:e9:a4:2f:fc:00)
+		IPv4: 169.254.220.192/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens1f1np1 (88:e9:a4:2f:fc:01)
+		IPv4: 169.254.175.53/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
 		ens3f0np0 (24:8a:07:ad:53:4e)
-		IPv4: 169.254.118.124/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		ens3f1np1 (24:8a:07:ad:53:4f)
-		IPv4: 169.254.244.14/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -53,4 +59,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 2. Drive /dev/sdb (0.00 GiB) has no serial number.
 ```
 ---
-Mon Mar  2 10:50:01 AM MSK 2026
+Mon Mar  2 11:15:01 AM MSK 2026
