@@ -4,20 +4,21 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	PowerEdge R640 	(SN: JFY10C3)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	4 March 2026, Wednesday, 04:51 (UTC)
+	4 March 2026, Wednesday, 09:16 (UTC)
 
 	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
 	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.51 0.15 0.05
+	Load Average (1m, 5m, 15m): 0.41 0.12 0.04
 
 	Memory size: 125.52 GiB
-	Memory used: 2.94 GiB
-	Memory free: 122.87 GiB
+	Memory used: 2.91 GiB
+	Memory free: 122.91 GiB
 
 	Drives:
 		Drive: /dev/nvme0n1 (2980.82 GiB)
+		Drive: /dev/nvme1n1 (7153.96 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,7 +27,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno1 (c8:1f:66:f2:b5:62)
-		IPv4: 192.168.5.57/24
+		IPv4: 192.168.5.95/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
 		eno2 (c8:1f:66:f2:b5:63)
@@ -41,6 +42,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 	APT: 1 updates available
 
 1. Drive /dev/nvme0n1 (2980.82 GiB) PHLN013002JA3P2BGN attached on JFY10C3
+2. Drive /dev/nvme1n1 (7153.96 GiB) 232845E3C5C7 attached on JFY10C3
 ```
 ---
-Wed Mar  4 07:15:01 AM MSK 2026
+Wed Mar  4 11:40:01 AM MSK 2026
