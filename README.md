@@ -2,23 +2,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R640 	(SN: JFY10C3)
+	ProLiant DL360 Gen9 	(SN: MXQ61800VQ)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	4 March 2026, Wednesday, 09:16 (UTC)
+	4 March 2026, Wednesday, 10:06 (UTC)
 
-	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-	Sockets: 2, Cores per socket: 8
+	Intel(R) Xeon(R) CPU E5-2643 v4 @ 3.40GHz
+	Sockets: 2, Cores per socket: 6
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.41 0.12 0.04
+	Load Average (1m, 5m, 15m): 0.56 0.19 0.06
 
-	Memory size: 125.52 GiB
-	Memory used: 2.91 GiB
-	Memory free: 122.91 GiB
+	Memory size: 62.76 GiB
+	Memory used: 2.45 GiB
+	Memory free: 60.30 GiB
 
 	Drives:
-		Drive: /dev/nvme0n1 (2980.82 GiB)
-		Drive: /dev/nvme1n1 (7153.96 GiB)
+		Drive: /dev/sda (14.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,23 +25,22 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (c8:1f:66:f2:b5:62)
-		IPv4: 192.168.5.95/24
+		eno1 (1c:98:ec:2a:62:d0)
+		IPv4: 192.168.5.60/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (c8:1f:66:f2:b5:63)
+		eno2 (1c:98:ec:2a:62:d1)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (c8:1f:66:f2:b5:64)
+		eno3 (1c:98:ec:2a:62:d2)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (c8:1f:66:f2:b5:65)
+		eno4 (1c:98:ec:2a:62:d3)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/nvme0n1 (2980.82 GiB) PHLN013002JA3P2BGN attached on JFY10C3
-2. Drive /dev/nvme1n1 (7153.96 GiB) 232845E3C5C7 attached on JFY10C3
+1. Drive /dev/sda (14.65 GiB) has no serial number.
 ```
 ---
-Wed Mar  4 11:40:01 AM MSK 2026
+Wed Mar  4 01:10:01 PM MSK 2026
