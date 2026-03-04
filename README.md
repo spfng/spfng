@@ -2,21 +2,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	SYS-420GP-TNR 0123456789	(SN: A425662X5910669)
+	PowerEdge R640 	(SN: JFY10C3)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	3 March 2026, Tuesday, 21:51 (UTC)
+	4 March 2026, Wednesday, 04:22 (UTC)
 
-	Intel(R) Xeon(R) Platinum 8336C CPU @ 2.30GHz
-	Sockets: 2, Cores per socket: 32
+	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.24 0.08 0.02
+	Load Average (1m, 5m, 15m): 0.27 0.08 0.02
 
-	Memory size: 1007.50 GiB
-	Memory used: 8.03 GiB
-	Memory free: 1002.79 GiB
+	Memory size: 125.52 GiB
+	Memory used: 2.92 GiB
+	Memory free: 122.89 GiB
 
-	No drives attached.
+	Drives:
+		Drive: /dev/nvme0n1 (2980.82 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -24,21 +25,22 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (90:5a:08:11:a5:f6)
-		IPv4: 192.168.5.53/24
-		RX: 0.66 GiB, TX: 0.00 GiB
+		eno1 (c8:1f:66:f2:b5:62)
+		IPv4: 192.168.5.74/24
+		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno2 (90:5a:08:11:a5:f7)
-		IPv4: 192.168.5.65/24
-		RX: 0.60 GiB, TX: 0.00 GiB
+		eno2 (c8:1f:66:f2:b5:63)
+		RX: 0.00 GiB, TX: 0.00 GiB
 
-		enxbe3af2b6059f (be:3a:f2:b6:05:9f)
-		IPv4: 169.254.3.1/24
+		eno3 (c8:1f:66:f2:b5:64)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (c8:1f:66:f2:b5:65)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-No drives found.
+1. Drive /dev/nvme0n1 (2980.82 GiB) PHLN013002JA3P2BGN attached on JFY10C3
 ```
 ---
-Tue Mar  3 04:55:01 PM MSK 2026
+Wed Mar  4 06:45:01 AM MSK 2026
