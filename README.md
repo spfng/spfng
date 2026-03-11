@@ -1,20 +1,20 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7515 	(SN: 494L8F3)
+	ProLiant DL380 Gen11 	(SN: SGH434LBDQ)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	3 September 2025, Wednesday, 18:38 (UTC)
+	11 March 2026, Wednesday, 03:28 (UTC)
 
-	AMD EPYC 7B13 64-Core Processor
-	Sockets: 1, Cores per socket: 48
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Gold 6444Y
+	Sockets: 2, Cores per socket: 16
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.28 0.08 0.03
+	Load Average (1m, 5m, 15m): 0.67 0.20 0.07
 
-	Memory size: 2003.32 GiB
-	Memory used: 7.90 GiB
-	Memory free: 2000.78 GiB
+	Memory size: 503.64 GiB
+	Memory used: 5.22 GiB
+	Memory free: 500.23 GiB
 
 	No drives attached.
 
@@ -24,11 +24,20 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (b0:7b:25:bf:6c:fa)
-		IPv4: 192.168.5.53/24
+		ens15f0 (6c:92:cf:08:ef:f2)
+		IPv4: 192.168.5.62/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno8403 (b0:7b:25:bf:6c:fb)
+		ens15f1 (6c:92:cf:08:ef:f3)
+		IPv4: 192.168.5.57/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens15f2 (6c:92:cf:08:ef:f4)
+		IPv4: 192.168.5.87/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens15f3 (6c:92:cf:08:ef:f5)
+		IPv4: 192.168.5.92/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -36,4 +45,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 No drives found.
 ```
 ---
-Tue Mar 10 12:55:01 PM MSK 2026
+Wed Mar 11 06:35:01 AM MSK 2026
