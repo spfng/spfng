@@ -2,23 +2,21 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen9 	(SN: 6CU815LFAF)
+	PowerEdge R730xd 	(SN: 6QLS7C2)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	12 March 2026, Thursday, 11:04 (UTC)
+	12 March 2026, Thursday, 14:28 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
+	Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz
 	Sockets: 2, Cores per socket: 10
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.31 0.09 0.03
+	Load Average (1m, 5m, 15m): 0.23 0.09 0.05
 
-	Memory size: 31.26 GiB
-	Memory used: 2.40 GiB
-	Memory free: 28.69 GiB
+	Memory size: 125.80 GiB
+	Memory used: 3.09 GiB
+	Memory free: 123.00 GiB
 
-	Drives:
-		Drive: /dev/sda (223.57 GiB)
-		Drive: /dev/sdb (223.57 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,23 +24,25 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (f4:03:43:4d:fd:7c)
-		IPv4: 192.168.5.72/24
-		RX: 1.26 GiB, TX: 0.01 GiB
+		eno1 (c8:1f:66:ce:d9:a3)
+		IPv4: 192.168.5.77/24
+		RX: 1.27 GiB, TX: 0.00 GiB
 
-		eno2 (f4:03:43:4d:fd:7d)
+		eno2 (c8:1f:66:ce:d9:a5)
+		IPv4: 192.168.5.71/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (f4:03:43:4d:fd:7e)
+		eno3 (c8:1f:66:ce:d9:a7)
+		IPv4: 192.168.5.59/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (f4:03:43:4d:fd:7f)
+		eno4 (c8:1f:66:ce:d9:a9)
+		IPv4: 192.168.5.60/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (223.57 GiB) PHYF252204A6240AGN attached on 6CU815LFAF
-2. Drive /dev/sdb (223.57 GiB) PHYF252201HD240AGN attached on 6CU815LFAF
+No drives found.
 ```
 ---
-Thu Mar 12 06:00:01 AM MSK 2026
+Thu Mar 12 05:40:01 PM MSK 2026
