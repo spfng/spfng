@@ -2,21 +2,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	PowerEdge R640 	(SN: 6P9RCS2)
+	ProLiant DL360 Gen10 	(SN: MXQ028030G)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	3 September 2025, Wednesday, 18:39 (UTC)
+	3 September 2025, Wednesday, 18:40 (UTC)
 
 	Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
 	Sockets: 2, Cores per socket: 18
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.34 0.10 0.03
+	Load Average (1m, 5m, 15m): 0.54 0.40 0.16
 
-	Memory size: 62.51 GiB
-	Memory used: 3.14 GiB
-	Memory free: 59.34 GiB
+	Memory size: 251.54 GiB
+	Memory used: 3.86 GiB
+	Memory free: 248.49 GiB
 
-	No drives attached.
+	Drives:
+		Drive: /dev/sda (0.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -24,25 +25,22 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (24:6e:96:be:12:6c)
-		IPv4: 192.168.5.95/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		eno1 (94:40:c9:2f:0f:ac)
+		IPv4: 192.168.5.85/24
+		RX: 1.26 GiB, TX: 0.01 GiB
 
-		eno4 (24:6e:96:be:12:6d)
-		IPv4: 192.168.5.72/24
+		eno2 (94:40:c9:2f:0f:ad)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (24:6e:96:be:12:68)
-		IPv4: 192.168.5.74/24
-		RX: 1.25 GiB, TX: 0.01 GiB
+		eno3 (94:40:c9:2f:0f:ae)
+		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (24:6e:96:be:12:6a)
-		IPv4: 192.168.5.89/24
+		eno4 (94:40:c9:2f:0f:af)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-No drives found.
+1. Drive /dev/sda (0.00 GiB) has no serial number.
 ```
 ---
-Fri Mar 13 09:30:01 AM MSK 2026
+Fri Mar 13 09:45:01 AM MSK 2026
