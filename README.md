@@ -4,16 +4,16 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL380 Gen9 	(SN: 6CU735ESMM)
 	Running on Linux 6.12.63+deb13-amd64 x86_64
-	20 March 2026, Friday, 11:47 (UTC)
+	20 March 2026, Friday, 12:00 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
 	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.62 0.20 0.07
+	Load Average (1m, 5m, 15m): 0.59 0.23 0.08
 
 	Memory size: 251.76 GiB
-	Memory used: 3.63 GiB
+	Memory used: 3.64 GiB
 	Memory free: 248.93 GiB
 
 	Drives:
@@ -21,16 +21,11 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		Drive: /dev/sdb (16764.00 GiB)
 		Drive: /dev/sdc (16764.00 GiB)
 		Drive: /dev/sdd (16764.00 GiB)
-		Drive: /dev/sde (894.25 GiB)
+		Drive: /dev/sde (16764.00 GiB)
 		Drive: /dev/sdf (16764.00 GiB)
-		Drive: /dev/sdg (16764.00 GiB)
-		Drive: /dev/sdh (894.25 GiB)
+		Drive: /dev/sdg (447.13 GiB)
+		Drive: /dev/sdh (16764.00 GiB)
 		Drive: /dev/sdi (16764.00 GiB)
-		Drive: /dev/sdj (16764.00 GiB)
-		Drive: /dev/sdk (16764.00 GiB)
-		Drive: /dev/sdl (16764.00 GiB)
-		Drive: /dev/sdm (16764.00 GiB)
-		Drive: /dev/sdn (16764.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -39,8 +34,8 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno1 (f4:03:43:4b:6e:2c)
-		IPv4: 192.168.5.64/24
-		RX: 1.30 GiB, TX: 0.01 GiB
+		IPv4: 192.168.5.70/24
+		RX: 1.29 GiB, TX: 0.01 GiB
 
 		eno2 (f4:03:43:4b:6e:2d)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -53,20 +48,15 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	APT: 49 updates available
 
-1. Drive /dev/sda (16764.00 GiB) 52G0A0J0FQDH attached on 6CU735ESMM
-2. Drive /dev/sdb (16764.00 GiB) 5240A0ZSFQDH attached on 6CU735ESMM
-3. Drive /dev/sdc (16764.00 GiB) 52G0A0LZFQDH attached on 6CU735ESMM
+1. Drive /dev/sda (16764.00 GiB) 52G0A0LZFQDH attached on 6CU735ESMM
+2. Drive /dev/sdb (16764.00 GiB) 52G0A0KTFQDH attached on 6CU735ESMM
+3. Drive /dev/sdc (16764.00 GiB) 5240A0ZSFQDH attached on 6CU735ESMM
 4. Drive /dev/sdd (16764.00 GiB) 5240A0E9FQDH attached on 6CU735ESMM
-5. Drive /dev/sde (894.25 GiB) S37KNX0JA07561 attached on 6CU735ESMM
-6. Drive /dev/sdf (16764.00 GiB) 52G0A0H3FQDH attached on 6CU735ESMM
-7. Drive /dev/sdg (16764.00 GiB) 52G0A068FQDH attached on 6CU735ESMM
-8. Drive /dev/sdh (894.25 GiB) S37KNX0JA02809 attached on 6CU735ESMM
-9. Drive /dev/sdi (16764.00 GiB) 52G0A0YDFQDH attached on 6CU735ESMM
-10. Drive /dev/sdj (16764.00 GiB) 52G0A0KTFQDH attached on 6CU735ESMM
-11. Drive /dev/sdk (16764.00 GiB) 52G0A0VUFQDH attached on 6CU735ESMM
-12. Drive /dev/sdl (16764.00 GiB) 52C0A015FQDH attached on 6CU735ESMM
-13. Drive /dev/sdm (16764.00 GiB) 52G0A0P8FQDH attached on 6CU735ESMM
-14. Drive /dev/sdn (16764.00 GiB) 5270A00TFQDH attached on 6CU735ESMM
+5. Drive /dev/sde (16764.00 GiB) 52G0A068FQDH attached on 6CU735ESMM
+6. Drive /dev/sdf (16764.00 GiB) 52G0A0YDFQDH attached on 6CU735ESMM
+7. Drive /dev/sdg (447.13 GiB) PHWL5370002M480QGN attached on 6CU735ESMM
+8. Drive /dev/sdh (16764.00 GiB) 52G0A0J0FQDH attached on 6CU735ESMM
+9. Drive /dev/sdi (16764.00 GiB) 52G0A0H3FQDH attached on 6CU735ESMM
 ```
 ---
-Fri Mar 20 11:50:01 AM MSK 2026
+Fri Mar 20 12:30:02 PM MSK 2026
