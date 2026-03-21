@@ -2,30 +2,39 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen9 	(SN: 6CU735ESMM)
-	Running on Linux 6.12.63+deb13-amd64 x86_64
-	20 March 2026, Friday, 12:00 (UTC)
+	PowerEdge R7525 	(SN: 2DP4LB4)
+	Running on Linux 6.12.73+deb13-amd64 x86_64
+	21 March 2026, Saturday, 05:40 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
-	Sockets: 2, Cores per socket: 8
-	VMX-Virtualisation
+	AMD EPYC 7763 64-Core Processor
+	Sockets: 2, Cores per socket: 64
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.59 0.23 0.08
+	Load Average (1m, 5m, 15m): 0.66 0.27 0.10
 
-	Memory size: 251.76 GiB
-	Memory used: 3.64 GiB
-	Memory free: 248.93 GiB
+	Memory size: 2003.66 GiB
+	Memory used: 11.75 GiB
+	Memory free: 1997.24 GiB
 
 	Drives:
-		Drive: /dev/sda (16764.00 GiB)
-		Drive: /dev/sdb (16764.00 GiB)
-		Drive: /dev/sdc (16764.00 GiB)
-		Drive: /dev/sdd (16764.00 GiB)
-		Drive: /dev/sde (16764.00 GiB)
-		Drive: /dev/sdf (16764.00 GiB)
-		Drive: /dev/sdg (447.13 GiB)
-		Drive: /dev/sdh (16764.00 GiB)
-		Drive: /dev/sdi (16764.00 GiB)
+		Drive: /dev/sda (223.57 GiB)
+		Drive: /dev/sdb (223.57 GiB)
+		Drive: /dev/nvme5n1 (3726.02 GiB)
+		Drive: /dev/nvme15n1 (3726.02 GiB)
+		Drive: /dev/nvme1n1 (3726.02 GiB)
+		Drive: /dev/nvme10n1 (3726.02 GiB)
+		Drive: /dev/nvme6n1 (3726.02 GiB)
+		Drive: /dev/nvme8n1 (3726.02 GiB)
+		Drive: /dev/nvme12n1 (3726.02 GiB)
+		Drive: /dev/nvme14n1 (3726.02 GiB)
+		Drive: /dev/nvme9n1 (3726.02 GiB)
+		Drive: /dev/nvme3n1 (3726.02 GiB)
+		Drive: /dev/nvme11n1 (2980.82 GiB)
+		Drive: /dev/nvme13n1 (3726.02 GiB)
+		Drive: /dev/nvme7n1 (3726.02 GiB)
+		Drive: /dev/nvme0n1 (894.25 GiB)
+		Drive: /dev/nvme4n1 (5961.63 GiB)
+		Drive: /dev/nvme2n1 (894.25 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -33,30 +42,50 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (f4:03:43:4b:6e:2c)
-		IPv4: 192.168.5.70/24
-		RX: 1.29 GiB, TX: 0.01 GiB
+		eno8303 (c4:cb:e1:e1:3e:10)
+		IPv4: 192.168.5.76/24
+		RX: 0.45 GiB, TX: 0.01 GiB
 
-		eno2 (f4:03:43:4b:6e:2d)
+		eno8403 (c4:cb:e1:e1:3e:11)
+		IPv4: 192.168.5.84/24
+		RX: 0.81 GiB, TX: 0.00 GiB
+
+		ens2f0np0 (e0:9d:73:82:65:22)
+		IPv4: 169.254.100.82/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (f4:03:43:4b:6e:2e)
+		ens2f1np1 (e0:9d:73:82:65:23)
+		IPv4: 169.254.15.83/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (f4:03:43:4b:6e:2f)
+		eno12399np0 (e8:eb:d3:57:d1:c8)
+		IPv4: 169.254.131.125/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-	APT: 49 updates available
+		eno12409np1 (e8:eb:d3:57:d1:c9)
+		IPv4: 169.254.25.191/16
+		RX: 0.00 GiB, TX: 0.00 GiB
 
-1. Drive /dev/sda (16764.00 GiB) 52G0A0LZFQDH attached on 6CU735ESMM
-2. Drive /dev/sdb (16764.00 GiB) 52G0A0KTFQDH attached on 6CU735ESMM
-3. Drive /dev/sdc (16764.00 GiB) 5240A0ZSFQDH attached on 6CU735ESMM
-4. Drive /dev/sdd (16764.00 GiB) 5240A0E9FQDH attached on 6CU735ESMM
-5. Drive /dev/sde (16764.00 GiB) 52G0A068FQDH attached on 6CU735ESMM
-6. Drive /dev/sdf (16764.00 GiB) 52G0A0YDFQDH attached on 6CU735ESMM
-7. Drive /dev/sdg (447.13 GiB) PHWL5370002M480QGN attached on 6CU735ESMM
-8. Drive /dev/sdh (16764.00 GiB) 52G0A0J0FQDH attached on 6CU735ESMM
-9. Drive /dev/sdi (16764.00 GiB) 52G0A0H3FQDH attached on 6CU735ESMM
+	APT: 1 updates available
+
+1. Drive /dev/sda (223.57 GiB) BTYH14510AGQ240J attached on 2DP4LB4
+2. Drive /dev/sdb (223.57 GiB) BTYH14510G5D240J attached on 2DP4LB4
+3. Drive /dev/nvme5n1 (3726.02 GiB) PHLJ043105QB4P0DGN attached on 2DP4LB4
+4. Drive /dev/nvme15n1 (3726.02 GiB) PHLJ0432047L4P0DGN attached on 2DP4LB4
+5. Drive /dev/nvme1n1 (3726.02 GiB) PHLJ043106834P0DGN attached on 2DP4LB4
+6. Drive /dev/nvme10n1 (3726.02 GiB) PHLJ020602004P0DGN attached on 2DP4LB4
+7. Drive /dev/nvme6n1 (3726.02 GiB) PHLJ020602WC4P0DGN attached on 2DP4LB4
+8. Drive /dev/nvme8n1 (3726.02 GiB) PHLJ043105XX4P0DGN attached on 2DP4LB4
+9. Drive /dev/nvme12n1 (3726.02 GiB) PHLJ020603AG4P0DGN attached on 2DP4LB4
+10. Drive /dev/nvme14n1 (3726.02 GiB) PHLJ043105GZ4P0DGN attached on 2DP4LB4
+11. Drive /dev/nvme9n1 (3726.02 GiB) PHLJ020602XC4P0DGN attached on 2DP4LB4
+12. Drive /dev/nvme3n1 (3726.02 GiB) PHLJ042200ZA4P0DGN attached on 2DP4LB4
+13. Drive /dev/nvme11n1 (2980.82 GiB) PHLN027400XM3P2BGN attached on 2DP4LB4
+14. Drive /dev/nvme13n1 (3726.02 GiB) PHLJ043107FP4P0DGN attached on 2DP4LB4
+15. Drive /dev/nvme7n1 (3726.02 GiB) PHLJ043106C64P0DGN attached on 2DP4LB4
+16. Drive /dev/nvme0n1 (894.25 GiB) 80V0A1U6TAFR attached on 2DP4LB4
+17. Drive /dev/nvme4n1 (5961.63 GiB) 4290A0HNTCA8 attached on 2DP4LB4
+18. Drive /dev/nvme2n1 (894.25 GiB) 80V0A19KTAFR attached on 2DP4LB4
 ```
 ---
-Fri Mar 20 12:30:02 PM MSK 2026
+Sat Mar 21 05:45:01 AM MSK 2026
