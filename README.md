@@ -1,25 +1,27 @@
 # Message of the day
 ```
-NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
+NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 
-	ProLiant DL360 Gen10 	(SN: JPN82900C3)
+	ProLiant DL360 Gen10 	(SN: MXQ94500RC)
 	Running on Linux 6.12.73+deb13-amd64 x86_64
-	25 March 2026, Wednesday, 07:17 (UTC)
+	3 September 2025, Wednesday, 18:41 (UTC)
 
-	Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
-	Sockets: 2, Cores per socket: 24
+	Intel(R) Xeon(R) Gold 6144 CPU @ 3.50GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.41 0.78 0.32
+	Load Average (1m, 5m, 15m): 0.31 0.09 0.03
 
-	Memory size: 62.41 GiB
-	Memory used: 3.05 GiB
-	Memory free: 59.33 GiB
+	Memory size: 125.56 GiB
+	Memory used: 2.84 GiB
+	Memory free: 123.00 GiB
 
 	Drives:
-		Drive: /dev/sda (894.25 GiB)
-		Drive: /dev/sdb (894.25 GiB)
-		Drive: /dev/sdc (0.00 GiB)
+		Drive: /dev/sda (16764.00 GiB)
+		Drive: /dev/sdb (16764.00 GiB)
+		Drive: /dev/sdc (16764.00 GiB)
+		Drive: /dev/sdd (16764.00 GiB)
+		Drive: /dev/sde (0.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,24 +29,26 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (94:40:c9:2f:7f:e4)
-		IPv4: 192.168.5.58/24
-		RX: 1.26 GiB, TX: 0.01 GiB
+		eno1 (80:30:e0:2d:9e:88)
+		IPv4: 192.168.5.56/24
+		RX: 1.27 GiB, TX: 0.01 GiB
 
-		eno2 (94:40:c9:2f:7f:e5)
+		eno2 (80:30:e0:2d:9e:89)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (94:40:c9:2f:7f:e6)
+		eno3 (80:30:e0:2d:9e:8a)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (94:40:c9:2f:7f:e7)
+		eno4 (80:30:e0:2d:9e:8b)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (894.25 GiB) BTYF136307AA960CGN attached on JPN82900C3
-2. Drive /dev/sdb (894.25 GiB) PHYF143001GN960CGN attached on JPN82900C3
-3. Drive /dev/sdc (0.00 GiB) has no serial number.
+1. Drive /dev/sda (16764.00 GiB) 52G0A0P8FQDH attached on MXQ94500RC
+2. Drive /dev/sdb (16764.00 GiB) 52G0A0VUFQDH attached on MXQ94500RC
+3. Drive /dev/sdc (16764.00 GiB) 5270A00TFQDH attached on MXQ94500RC
+4. Drive /dev/sdd (16764.00 GiB) 52C0A015FQDH attached on MXQ94500RC
+5. Drive /dev/sde (0.00 GiB) has no serial number.
 ```
 ---
-Wed Mar 25 07:20:02 AM MSK 2026
+Thu Mar 26 04:35:01 PM MSK 2026
