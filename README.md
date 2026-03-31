@@ -6,15 +6,15 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 	Running on Linux 6.12.73+deb13-amd64 x86_64
 	3 September 2025, Wednesday, 18:39 (UTC)
 
-	AMD EPYC 7402P 24-Core Processor
-	Sockets: 1, Cores per socket: 24
+	AMD EPYC 7742 64-Core Processor
+	Sockets: 1, Cores per socket: 64
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.40 0.11 0.04
+	Load Average (1m, 5m, 15m): 0.33 0.14 0.05
 
-	Memory size: 125.27 GiB
-	Memory used: 3.22 GiB
-	Memory free: 122.55 GiB
+	Memory size: 125.25 GiB
+	Memory used: 4.02 GiB
+	Memory free: 121.71 GiB
 
 	No drives attached.
 
@@ -25,7 +25,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno1 (2c:ea:7f:f9:30:d8)
-		IPv4: 192.168.5.58/24
+		IPv4: 192.168.5.85/24,192.168.5.58/24
 		RX: 1.26 GiB, TX: 0.01 GiB
 
 		ens1f0np0 (2c:ea:7f:67:13:7f)
@@ -46,4 +46,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2025
 No drives found.
 ```
 ---
-Mon Mar 30 03:05:02 PM MSK 2026
+Tue Mar 31 09:25:01 AM MSK 2026
