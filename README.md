@@ -2,22 +2,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7525 	(SN: 8KF7D53)
+	PowerEdge T440 	(SN: FZ8RWF3)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
-	13 April 2026, Monday, 19:38 (UTC)
+	25 June 2026, Thursday, 16:30 (UTC)
 
-	AMD EPYC 7763 64-Core Processor
-	Sockets: 2, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
+	Sockets: 2, Cores per socket: 20
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.07 0.45 0.17
+	Load Average (1m, 5m, 15m): 1.19 0.51 0.19
 
-	Memory size: 1007.44 GiB
-	Memory used: 8.93 GiB
-	Memory free: 1001.81 GiB
+	Memory size: 62.51 GiB
+	Memory used: 3.73 GiB
+	Memory free: 58.75 GiB
 
 	Drives:
-		Drive: /dev/sda (14.84 GiB)
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,16 +25,16 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (f4:02:70:b8:eb:42)
-		IPv4: 192.168.5.149/24
+		eno1 (2c:ea:7f:9a:13:e1)
+		IPv4: 192.168.5.146/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno8403 (f4:02:70:b8:eb:43)
+		eno2 (2c:ea:7f:9a:13:e2)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-1. Drive /dev/sda (14.84 GiB) has no serial number.
+1. Drive /dev/sda (28.65 GiB) has no serial number.
 ```
 ---
-Wed Jun 24 10:05:01 PM MSK 2026
+Thu Jun 25 10:25:01 AM MSK 2026
