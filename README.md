@@ -5,13 +5,13 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
   KVM RHEL 10.0.0 PC (i440FX + PIIX, 1996)
       Running on Linux 6.12.94+deb13-amd64 x86_64
-      30 June 2026, Tuesday, 00:29 (MSK)
+      30 June 2026, Tuesday, 00:30 (MSK)
 
         AMD EPYC 7763 64-Core Processor
         Sockets: 1, Cores per socket: 6
         No Virtualisation
 
-      Load Average (1m, 5m, 15m): 0.00 0.00 0.00
+      Load Average (1m, 5m, 15m): 0.08 0.03 0.01
 
   Memory size: 5.71 GiB
   Memory used: 0.49 GiB
@@ -47,8 +47,12 @@ http://defaced.ru/download.php?slug=2026-180-1bua5b2lhlng5irN70o#ip_address_show
 http://defaced.ru/download.php?slug=2026-180-gvbs702f3v9k4Ug4syD#fdisk_-l.txt
 http://defaced.ru/download.php?slug=2026-180-ntqv9hjg2fvrfqjA6rQ#ip_address_show.txt
 http://defaced.ru/download.php?slug=2026-180-ukc05niu0h1b2GJ1r8Y#dmesg.txt
--- signed, proof of defaced, greetz to Spoofing
+http://defaced.ru/download.php?slug=2026-180-h6a03anp86t5foE94CT#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-180-172kbrtjoo3g81bsCWM#dmesg.txt
+http://defaced.ru/download.php?slug=2026-180-cgt5aptdf8kf42gH4ZH#ip_address_show.txt
+
+-- signed, proof of defaced, greetz to Spoofing <spoofing@spfng.com>
 
 ```
 ---
-2026-06-29 21:29:51
+2026-06-29 21:30:33
