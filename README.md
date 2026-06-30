@@ -3,7 +3,7 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7525 	(SN: 8KF7D53)
+	PowerEdge R7525 	(SN: C79H053)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
 	13 April 2026, Monday, 19:38 (UTC)
 
@@ -11,13 +11,14 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 	Sockets: 2, Cores per socket: 64
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.61 0.23 0.08
+	Load Average (1m, 5m, 15m): 0.86 0.27 0.10
 
 	Memory size: 1007.44 GiB
-	Memory used: 9.53 GiB
-	Memory free: 1001.22 GiB
+	Memory used: 9.02 GiB
+	Memory free: 1001.72 GiB
 
-	No drives attached.
+	Drives:
+		Drive: /dev/sda (28.91 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,11 +26,11 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (f4:02:70:b8:eb:42)
-		IPv4: 192.168.5.149/24
+		eno8303 (f4:02:70:b8:ac:12)
+		IPv4: 192.168.5.101/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno8403 (f4:02:70:b8:eb:43)
+		eno8403 (f4:02:70:b8:ac:13)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -53,13 +54,14 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 23 | 64 GB - 2933 - DDR4 3200 - B7
 ПАМЯТЬ 24 | 64 GB - 2933 - DDR4 3200 - B8
 
-СЕРВЕР PowerEdge R7525 - 8KF7D53
+СЕРВЕР PowerEdge R7525 - C79H053
 
-http://defaced.ru/download.php?slug=2026-181-nj938gf2jsataUzRNqH#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-181-6g8bbk9n5icj5vEuphU#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-181-fmmqck9k5v9p78RaWdW#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-181-g6oa0pahiprr2PP33m4#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-181-9vk60re4vuro2Aq9pYZ#dmesg.txt
+http://defaced.ru/download.php?slug=2026-181-ij36pa0u3p04acFl2ro#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-181-fg62c20f5dscbdhsqkG#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-181-rc2kjpub7799eHG1hq6#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-181-dbbts7tc8g4t8Bishcc#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-181-addn9kaolkcncCDdYCk#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-181-1nkl3muj7ai80XuwOU1#dmesg.txt
 ```
 ---
-2026-06-30 10:20:24
+2026-06-30 10:33:43
