@@ -5,16 +5,16 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
-	13 April 2026, Monday, 20:16 (UTC)
+	13 April 2026, Monday, 20:46 (UTC)
 
 	AMD EPYC 7773X 64-Core Processor
 	Sockets: 2, Cores per socket: 64
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 256.16 255.99 233.24
+	Load Average (1m, 5m, 15m): 256.06 256.12 252.82
 
 	Memory size: 1007.53 GiB
-	Memory used: 10.48 GiB
+	Memory used: 10.49 GiB
 	Memory free: 1000.81 GiB
 
 	Drives:
@@ -28,14 +28,12 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		ens4f0 (38:ea:a7:36:63:14)
 		IPv4: 192.168.1.200/24
-		RX: 0.03 GiB, TX: 0.00 GiB
+		RX: 0.04 GiB, TX: 0.00 GiB
 
 		ens4f1 (38:ea:a7:36:63:15)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
-
- --[ SYSTEM COMPROMISED ]----
 
 ПРОЦЕССОР 01 - AMD EPYC 7773X 64-Core Processor
 ПАМЯТЬ 02 | 64 GB - 3200 - DDR4 3200 - CPU1_CH1_D0(A0)
@@ -58,16 +56,18 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 СЕРВЕР R4950 G5 - 210235A2QUH213000125
 
- --[ EVIDENCE ]----
-
 http://defaced.ru/download.php?slug=2026-181-mkpjk78kh5589l2rLjR#ipmitool_lan_print.txt
 http://defaced.ru/download.php?slug=2026-181-bc4abc5ciirt0mwHsKd#ip_address_show.txt
 http://defaced.ru/download.php?slug=2026-181-0sk4b4cv3vsbaNAF6iT#fdisk_-l.txt
 http://defaced.ru/download.php?slug=2026-181-krbpq7b1opbq7YQ2k6j#smartctl_sda.txt
 http://defaced.ru/download.php?slug=2026-181-7k8sfdthud14eDYdhlC#dmidecode.txt
 http://defaced.ru/download.php?slug=2026-181-qdrqs8ut5llsaxzCkcX#dmesg.txt
-
- --[ SIGNED ]----
+http://defaced.ru/download.php?slug=2026-181-bdithtmad4gd5F2uQzl#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-181-bh06dhnhpagv3cUkfG9#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-181-8sspaorlp2op4Q9tgbX#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-181-kdbesea2j5qf82Ury0v#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-181-bm8gcnqpgr5ffLCdEPR#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-181-atbmfrf2kulraeatzJv#dmesg.txt
 ```
 ---
-2026-06-30 07:21:40
+2026-06-30 07:51:29
