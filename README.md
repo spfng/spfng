@@ -3,19 +3,19 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R6525 	(SN: BGVCZB3)
+	PowerEdge R6525 	(SN: BGXBZB3)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
-	1 July 2026, Wednesday, 13:45 (UTC)
+	13 April 2026, Monday, 19:38 (UTC)
 
 	AMD EPYC 7A23 48-Core Processor
 	Sockets: 2, Cores per socket: 48
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.46 0.12 0.04
+	Load Average (1m, 5m, 15m): 1.08 0.44 0.16
 
-	Memory size: 503.34 GiB
-	Memory used: 5.59 GiB
-	Memory free: 499.47 GiB
+	Memory size: 503.46 GiB
+	Memory used: 8.30 GiB
+	Memory free: 496.95 GiB
 
 	Drives:
 		Drive: /dev/sda (28.91 GiB)
@@ -28,17 +28,17 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno12399np0 (bc:97:e1:e7:45:30)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno8303 (70:b5:e8:d1:1a:32)
-		IPv4: 192.168.5.176/24
+		eno8303 (70:b5:e8:d1:19:2e)
+		IPv4: 192.168.5.186/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno12409np1 (bc:97:e1:e7:45:31)
+		eno12399np0 (bc:97:e1:eb:fe:50)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8403 (70:b5:e8:d1:1a:33)
+		eno8403 (70:b5:e8:d1:19:2f)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno12409np1 (bc:97:e1:eb:fe:51)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -61,19 +61,19 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - B6
 ПАМЯТЬ 23 | 32 GB - 2666 - DDR4 2666 - B7
 ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - B8
-ПЛАТФОРМА PowerEdge R6525 - BGVCZB3
+ПЛАТФОРМА PowerEdge R6525 - BGXBZB3
 ДИСК (28.91 GiB)
 ДИСК (1490.42 GiB)
 ДИСК (1490.42 GiB)
 
-http://defaced.ru/download.php?slug=2026-182-limqntrumj652OpAf38#smartctl_nvme1n1.txt
-http://defaced.ru/download.php?slug=2026-182-1kc40ts2fop6bTQOd9p#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-182-9sdo5qhtruqg4Kefanm#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-182-h40oflggtl8980jLTp3#smartctl_nvme0n1.txt
-http://defaced.ru/download.php?slug=2026-182-cgcp2l1ocqjc3Pjruuw#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-182-dkfmbhlabt0tbYGkkKL#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-182-bqqf29qnd57f4kOyNho#dmesg.txt
-http://defaced.ru/download.php?slug=2026-182-uftfe7mlsrohfMJqvpV#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-182-uc7p96jrtc67b0PJ0Xo#smartctl_nvme1n1.txt
+http://defaced.ru/download.php?slug=2026-182-f8kammb785ab4XLnCPX#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-182-qrpjgpjimb31f3cj8lA#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-182-c8kh41p1q4jm277haIV#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-182-b98n2potpnfndTTOlcE#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-182-mc0ouslf1quv42sTTIg#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-182-fr6tfe8qe5kjdmQm0TD#dmesg.txt
+http://defaced.ru/download.php?slug=2026-182-53ulk5680bqk6ydWv6L#smartctl_nvme0n1.txt
 ```
 ---
-2026-07-01 13:47:01
+2026-07-01 14:04:23
