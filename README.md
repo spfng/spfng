@@ -3,19 +3,19 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7525 	(SN: 8KF7D53)
+	PowerEdge R7525 	(SN: C79H053)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
-	2 July 2026, Thursday, 09:02 (UTC)
+	13 April 2026, Monday, 19:39 (UTC)
 
 	AMD EPYC 7763 64-Core Processor
 	Sockets: 2, Cores per socket: 64
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.41 0.19 0.07
+	Load Average (1m, 5m, 15m): 0.53 0.20 0.07
 
 	Memory size: 1007.44 GiB
-	Memory used: 9.06 GiB
-	Memory free: 1001.68 GiB
+	Memory used: 8.85 GiB
+	Memory free: 1001.89 GiB
 
 	No drives attached.
 
@@ -25,11 +25,11 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (f4:02:70:b8:eb:42)
-		IPv4: 192.168.5.149/24
+		eno8303 (f4:02:70:b8:ac:12)
+		IPv4: 192.168.5.101/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno8403 (f4:02:70:b8:eb:43)
+		eno8403 (f4:02:70:b8:ac:13)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -52,13 +52,13 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 3200 - B6
 ПАМЯТЬ 23 | 64 GB - 2933 - DDR4 3200 - B7
 ПАМЯТЬ 24 | 64 GB - 2933 - DDR4 3200 - B8
-ПЛАТФОРМА PowerEdge R7525 - 8KF7D53
+ПЛАТФОРМА PowerEdge R7525 - C79H053
 
-http://defaced.ru/download.php?slug=2026-183-h6atohkqepgp1ZiwVfF#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-183-gcirtuen70t9aBPIshp#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-183-1jorasfljlke0smBP3u#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-183-g5vjnp03054501Ylc7u#dmesg.txt
-http://defaced.ru/download.php?slug=2026-183-fjd9lhrphsjhdvPKwm6#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-183-dothlahckrpq7orNfvw#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-183-fisaa20te6rafTp0hjq#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-183-c41anlgjvud39bciogj#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-183-74rt8ljueg8n4BQ8qCr#dmesg.txt
+http://defaced.ru/download.php?slug=2026-183-l9q39fkbi3qv9Ie3mjX#ip_address_show.txt
 ```
 ---
-2026-07-02 09:02:32
+2026-07-02 09:11:13
