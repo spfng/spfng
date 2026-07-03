@@ -3,22 +3,23 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7525 	(SN: C79H053)
+	ProLiant DL360 Gen10 	(SN: CN702207WK)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
-	13 April 2026, Monday, 19:39 (UTC)
+	3 July 2026, Friday, 13:53 (UTC)
 
-	AMD EPYC 7773X 64-Core Processor
-	Sockets: 2, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
+	Sockets: 2, Cores per socket: 24
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.47 0.19 0.07
+	Load Average (1m, 5m, 15m): 1.46 0.85 0.35
 
-	Memory size: 1007.44 GiB
-	Memory used: 9.09 GiB
-	Memory free: 1001.66 GiB
+	Memory size: 125.41 GiB
+	Memory used: 4.23 GiB
+	Memory free: 121.46 GiB
 
 	Drives:
-		Drive: /dev/sda (28.91 GiB)
+		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sdb (28.91 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,42 +27,41 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (f4:02:70:b8:ac:12)
-		IPv4: 192.168.5.101/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		eno5 (5c:b9:01:8e:38:90)
+		IPv4: 192.168.5.147/24
+		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8403 (f4:02:70:b8:ac:13)
+		eno6 (5c:b9:01:8e:38:91)
+		IPv4: 192.168.5.115/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno7 (5c:b9:01:8e:38:92)
+		IPv4: 192.168.5.114/24
+		RX: 0.02 GiB, TX: 0.00 GiB
+
+		eno8 (5c:b9:01:8e:38:93)
+		IPv4: 192.168.5.168/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7773X 64-Core Processor
-ПРОЦЕССОР 02 - AMD EPYC 7773X 64-Core Processor
-ПАМЯТЬ 01 | 64 GB - 2933 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 64 GB - 2933 - DDR4 3200 - A2
-ПАМЯТЬ 03 | 64 GB - 2933 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 64 GB - 2933 - DDR4 3200 - A4
-ПАМЯТЬ 05 | 64 GB - 2933 - DDR4 3200 - A5
-ПАМЯТЬ 06 | 64 GB - 2933 - DDR4 3200 - A6
-ПАМЯТЬ 07 | 64 GB - 2933 - DDR4 3200 - A7
-ПАМЯТЬ 08 | 64 GB - 2933 - DDR4 3200 - A8
-ПАМЯТЬ 17 | 64 GB - 2933 - DDR4 3200 - B1
-ПАМЯТЬ 18 | 64 GB - 2933 - DDR4 3200 - B2
-ПАМЯТЬ 19 | 64 GB - 2933 - DDR4 3200 - B3
-ПАМЯТЬ 20 | 64 GB - 2933 - DDR4 3200 - B4
-ПАМЯТЬ 21 | 64 GB - 2933 - DDR4 3200 - B5
-ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 3200 - B6
-ПАМЯТЬ 23 | 64 GB - 2933 - DDR4 3200 - B7
-ПАМЯТЬ 24 | 64 GB - 2933 - DDR4 3200 - B8
-ПЛАТФОРМА PowerEdge R7525 - C79H053
+ПАМЯТЬ 08 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
+ПАМЯТЬ 20 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
+ПЛАТФОРМА ProLiant DL360 Gen10 - CN702207WK
+ДИСК (0.00 GiB)
 ДИСК (28.91 GiB)
 
-http://defaced.ru/download.php?slug=2026-184-nk9o9d4a1tqv9Xko7sD#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-184-1h1bkicvc1isdT7dqH0#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-184-8c25qr4pl1rq8uwA4x8#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-184-u2d0cdt2r8d9ejG31Zg#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-184-fueevjs98gambhCBmtb#dmesg.txt
-http://defaced.ru/download.php?slug=2026-184-2rbn450qb6rj3LFyMoX#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-184-lqs8q8pdfetp0Xbh6qQ#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-184-ati2q7nk5vb5da6Do2p#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-184-3i1jrhpo9a06cVebo0I#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-184-r06n7auqh8k90jDtFTq#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-184-q8vh7eav2b0larL20Cu#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-184-m49ufmo1rlo29zPuJbk#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-184-srvcdfkj15nf5mmLCad#dmesg.txt
 ```
 ---
-2026-07-03 12:56:34
+2026-07-03 13:52:20
