@@ -3,22 +3,22 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: CN702207WK)
+	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
-	3 July 2026, Friday, 13:53 (UTC)
+	13 April 2026, Monday, 19:38 (UTC)
 
-	Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
-	Sockets: 2, Cores per socket: 24
-	VMX-Virtualisation
+	AMD EPYC 7773X 64-Core Processor
+	Sockets: 2, Cores per socket: 64
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.46 0.85 0.35
+	Load Average (1m, 5m, 15m): 1.35 0.54 0.20
 
-	Memory size: 125.41 GiB
-	Memory used: 4.23 GiB
-	Memory free: 121.46 GiB
+	Memory size: 1007.53 GiB
+	Memory used: 9.81 GiB
+	Memory free: 1001.53 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sda (111.79 GiB)
 		Drive: /dev/sdb (28.91 GiB)
 
 	Network Interfaces:
@@ -27,41 +27,44 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (5c:b9:01:8e:38:90)
-		IPv4: 192.168.5.147/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno6 (5c:b9:01:8e:38:91)
-		IPv4: 192.168.5.115/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno7 (5c:b9:01:8e:38:92)
-		IPv4: 192.168.5.114/24
+		ens4f0 (38:ea:a7:36:63:14)
+		IPv4: 192.168.1.200/24
 		RX: 0.02 GiB, TX: 0.00 GiB
 
-		eno8 (5c:b9:01:8e:38:93)
-		IPv4: 192.168.5.168/24
+		ens4f1 (38:ea:a7:36:63:15)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 08 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
-ПАМЯТЬ 20 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - CN702207WK
-ДИСК (0.00 GiB)
+ПРОЦЕССОР 01 - AMD EPYC 7773X 64-Core Processor
+ПАМЯТЬ 02 | 64 GB - 3200 - DDR4 3200 - CPU1_CH1_D0(A0)
+ПАМЯТЬ 04 | 64 GB - 3200 - DDR4 3200 - CPU1_CH2_D0(B0)
+ПАМЯТЬ 06 | 64 GB - 3200 - DDR4 3200 - CPU1_CH3_D0(C0)
+ПАМЯТЬ 08 | 64 GB - 3200 - DDR4 3200 - CPU1_CH4_D0(D0)
+ПАМЯТЬ 10 | 64 GB - 3200 - DDR4 3200 - CPU1_CH5_D0(E0)
+ПАМЯТЬ 12 | 64 GB - 3200 - DDR4 3200 - CPU1_CH6_D0(F0)
+ПАМЯТЬ 14 | 64 GB - 3200 - DDR4 3200 - CPU1_CH7_D0(G0)
+ПАМЯТЬ 16 | 64 GB - 3200 - DDR4 3200 - CPU1_CH8_D0(H0)
+ПРОЦЕССОР 02 - AMD EPYC 7773X 64-Core Processor
+ПАМЯТЬ 18 | 64 GB - 3200 - DDR4 3200 - CPU2_CH1_D0(A0)
+ПАМЯТЬ 20 | 64 GB - 3200 - DDR4 3200 - CPU2_CH2_D0(B0)
+ПАМЯТЬ 22 | 64 GB - 3200 - DDR4 3200 - CPU2_CH3_D0(C0)
+ПАМЯТЬ 24 | 64 GB - 3200 - DDR4 3200 - CPU2_CH4_D0(D0)
+ПАМЯТЬ 26 | 64 GB - 3200 - DDR4 3200 - CPU2_CH5_D0(E0)
+ПАМЯТЬ 28 | 64 GB - 3200 - DDR4 3200 - CPU2_CH6_D0(F0)
+ПАМЯТЬ 30 | 64 GB - 3200 - DDR4 3200 - CPU2_CH7_D0(G0)
+ПАМЯТЬ 32 | 64 GB - 3200 - DDR4 3200 - CPU2_CH8_D0(H0)
+ПЛАТФОРМА R4950 G5 - 210235A2QUH213000125
+ДИСК (111.79 GiB)
 ДИСК (28.91 GiB)
 
-http://defaced.ru/download.php?slug=2026-184-lqs8q8pdfetp0Xbh6qQ#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-184-ati2q7nk5vb5da6Do2p#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-184-3i1jrhpo9a06cVebo0I#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-184-r06n7auqh8k90jDtFTq#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-184-q8vh7eav2b0larL20Cu#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-184-m49ufmo1rlo29zPuJbk#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-184-srvcdfkj15nf5mmLCad#dmesg.txt
+http://defaced.ru/download.php?slug=2026-187-2merlb67dt1gcsPCjbS#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-187-phasdmfflagvfXo1FnN#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-187-89c6hrc4btea2M9nhg0#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-187-jv91isu65p9s7QJVLAS#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-187-fdufhpmvpooq44INvjU#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-187-m6717nt8pg8d50aWMmV#dmesg.txt
+http://defaced.ru/download.php?slug=2026-187-m1ingo4lroqkcdMJmfq#smartctl_sda.txt
 ```
 ---
-2026-07-03 13:52:20
+2026-07-06 05:50:26
