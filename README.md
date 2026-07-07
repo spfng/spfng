@@ -5,17 +5,17 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL360 Gen10 	(SN: SGH016YXG7)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
-	7 July 2026, Tuesday, 05:39 (UTC)
+	7 July 2026, Tuesday, 05:59 (UTC)
 
 	Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
 	Sockets: 1, Cores per socket: 12
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.59 0.28 0.11
+	Load Average (1m, 5m, 15m): 0.59 0.16 0.05
 
-	Memory size: 188.37 GiB
-	Memory used: 4.07 GiB
-	Memory free: 185.21 GiB
+	Memory size: 62.46 GiB
+	Memory used: 1.16 GiB
+	Memory free: 61.22 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -42,25 +42,23 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	APT: 1 updates available
 
-ПАМЯТЬ 01 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 1
-ПАМЯТЬ 03 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
-ПАМЯТЬ 12 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 12
+ПАМЯТЬ 03 | 16 GB - 2933 - DDR4 3200 - PROC 1 DIMM 3
+ПАМЯТЬ 05 | 16 GB - 2933 - DDR4 3200 - PROC 1 DIMM 5
+ПАМЯТЬ 08 | 16 GB - 2933 - DDR4 3200 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 16 GB - 2933 - DDR4 3200 - PROC 1 DIMM 10
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
 ПРОЦЕССОР 02 - Not Specified
 ПЛАТФОРМА ProLiant DL360 Gen10 - SGH016YXG7
 ДИСК (0.00 GiB)
 ДИСК (28.65 GiB)
 
-http://defaced.ru/download.php?slug=2026-188-vqpkd6tbs68e1RfK07W#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-188-5dkqd7o5uevn9bA6eLC#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-188-vfnqet0452gmaZq7Jdg#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-188-ojmc38n6rhr26HDSFkW#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-188-94ev3k2rbcn1amy9VFn#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-188-23j4ekdajuj57j67hM8#dmesg.txt
-http://defaced.ru/download.php?slug=2026-188-d9re8f9n11a0fk5Zo0s#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-188-p8a0nohlmifo7Vx6nzB#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-188-ci013bd1k2qt1FFfXg8#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-188-pn7punff5m0td2PX2Fq#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-188-hgfl9vskt9k73oop8gc#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-188-qtok06nkg9mt94xMiPh#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-188-f2k58p09gpsu6rrW3kK#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-188-icjs35d7ikkt0n3DJc7#dmesg.txt
 ```
 ---
-2026-07-07 05:43:29
+2026-07-07 06:03:36
