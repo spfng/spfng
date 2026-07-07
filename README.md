@@ -3,23 +3,23 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
+	ProLiant DL360 Gen10 	(SN: SGH016YXG7)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
-	13 April 2026, Monday, 19:38 (UTC)
+	7 July 2026, Tuesday, 06:07 (UTC)
 
-	AMD EPYC 7773X 64-Core Processor
-	Sockets: 2, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
+	Sockets: 1, Cores per socket: 12
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.38 0.54 0.20
+	Load Average (1m, 5m, 15m): 0.79 0.33 0.12
 
-	Memory size: 1007.53 GiB
-	Memory used: 9.71 GiB
-	Memory free: 1001.63 GiB
+	Memory size: 188.37 GiB
+	Memory used: 4.41 GiB
+	Memory free: 184.87 GiB
 
 	Drives:
-		Drive: /dev/sda (111.79 GiB)
-		Drive: /dev/sdb (28.91 GiB)
+		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sdb (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,44 +27,40 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens4f0 (38:ea:a7:36:63:14)
-		IPv4: 192.168.1.200/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		eno5 (5c:b9:01:89:a2:d4)
+		IPv4: 192.168.5.130/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
-		ens4f1 (38:ea:a7:36:63:15)
+		eno6 (5c:b9:01:89:a2:d5)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno7 (5c:b9:01:89:a2:d6)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno8 (5c:b9:01:89:a2:d7)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7773X 64-Core Processor
-ПАМЯТЬ 02 | 64 GB - 3200 - DDR4 3200 - CPU1_CH1_D0(A0)
-ПАМЯТЬ 04 | 64 GB - 3200 - DDR4 3200 - CPU1_CH2_D0(B0)
-ПАМЯТЬ 06 | 64 GB - 3200 - DDR4 3200 - CPU1_CH3_D0(C0)
-ПАМЯТЬ 08 | 64 GB - 3200 - DDR4 3200 - CPU1_CH4_D0(D0)
-ПАМЯТЬ 10 | 64 GB - 3200 - DDR4 3200 - CPU1_CH5_D0(E0)
-ПАМЯТЬ 12 | 64 GB - 3200 - DDR4 3200 - CPU1_CH6_D0(F0)
-ПАМЯТЬ 14 | 64 GB - 3200 - DDR4 3200 - CPU1_CH7_D0(G0)
-ПАМЯТЬ 16 | 64 GB - 3200 - DDR4 3200 - CPU1_CH8_D0(H0)
-ПРОЦЕССОР 02 - AMD EPYC 7773X 64-Core Processor
-ПАМЯТЬ 18 | 64 GB - 3200 - DDR4 3200 - CPU2_CH1_D0(A0)
-ПАМЯТЬ 20 | 64 GB - 3200 - DDR4 3200 - CPU2_CH2_D0(B0)
-ПАМЯТЬ 22 | 64 GB - 3200 - DDR4 3200 - CPU2_CH3_D0(C0)
-ПАМЯТЬ 24 | 64 GB - 3200 - DDR4 3200 - CPU2_CH4_D0(D0)
-ПАМЯТЬ 26 | 64 GB - 3200 - DDR4 3200 - CPU2_CH5_D0(E0)
-ПАМЯТЬ 28 | 64 GB - 3200 - DDR4 3200 - CPU2_CH6_D0(F0)
-ПАМЯТЬ 30 | 64 GB - 3200 - DDR4 3200 - CPU2_CH7_D0(G0)
-ПАМЯТЬ 32 | 64 GB - 3200 - DDR4 3200 - CPU2_CH8_D0(H0)
-ПЛАТФОРМА R4950 G5 - 210235A2QUH213000125
-ДИСК (111.79 GiB)
-ДИСК (28.91 GiB)
+ПАМЯТЬ 01 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 1
+ПАМЯТЬ 03 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 3
+ПАМЯТЬ 05 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 5
+ПАМЯТЬ 08 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
+ПАМЯТЬ 12 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 12
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
+ПРОЦЕССОР 02 - Not Specified
+ПЛАТФОРМА ProLiant DL360 Gen10 - SGH016YXG7
+ДИСК (0.00 GiB)
+ДИСК (28.65 GiB)
 
-http://defaced.ru/download.php?slug=2026-188-mvdo46i10puf9ulTuC0#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-188-ddfjcnigkg5p9RmNRAJ#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-188-qmg5ttvrjkee0Hfpea7#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-188-mpe51tpic8si2rQjj2k#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-188-dlim097qs7rc1ygswMI#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-188-j44dhvq2eamua4XnBtr#dmesg.txt
-http://defaced.ru/download.php?slug=2026-188-c5rt7uvov68247VM7iW#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-188-jvqa33840ub5aEujYXN#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-188-jucpqequooj25AQuPnM#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-188-3b30tc9s8qctf8bcs4s#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-188-3nesl2j7rakj3oRAhhZ#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-188-o3u0s6rbatbhdXkfgrS#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-188-r1uccl26mb1s3dl1OkX#dmesg.txt
+http://defaced.ru/download.php?slug=2026-188-kf0l08iv27i2dfMizyU#smartctl_sdb.txt
 ```
 ---
-2026-07-07 06:06:53
+2026-07-07 06:11:30
