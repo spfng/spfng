@@ -5,17 +5,17 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL360 Gen10 	(SN: SGH016YXG7)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
-	6 July 2026, Monday, 14:07 (UTC)
+	7 July 2026, Tuesday, 05:39 (UTC)
 
 	Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
 	Sockets: 1, Cores per socket: 12
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.79 0.25 0.09
+	Load Average (1m, 5m, 15m): 0.59 0.28 0.11
 
 	Memory size: 188.37 GiB
-	Memory used: 4.82 GiB
-	Memory free: 184.46 GiB
+	Memory used: 4.07 GiB
+	Memory free: 185.21 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -29,18 +29,15 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno5 (5c:b9:01:89:a2:d4)
 		IPv4: 192.168.5.130/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		RX: 0.01 GiB, TX: 0.00 GiB
 
 		eno6 (5c:b9:01:89:a2:d5)
-		IPv4: 192.168.5.133/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno7 (5c:b9:01:89:a2:d6)
-		IPv4: 192.168.5.118/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno8 (5c:b9:01:89:a2:d7)
-		IPv4: 192.168.5.109/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -57,13 +54,13 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ДИСК (0.00 GiB)
 ДИСК (28.65 GiB)
 
-http://defaced.ru/download.php?slug=2026-187-2vsr8qj9uohl6DyG5pG#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-187-gkueruv6ops81b8jiBi#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-187-m269s3iocui0fxJhMyx#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-187-7vspoq7b6dsua4QdMuK#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-187-kkrjgpstj41hbjhDwD5#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-187-f0uvf2d8gro76ie8muH#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-187-vt60sln19mlkaVAAud3#dmesg.txt
+http://defaced.ru/download.php?slug=2026-188-vqpkd6tbs68e1RfK07W#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-188-5dkqd7o5uevn9bA6eLC#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-188-vfnqet0452gmaZq7Jdg#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-188-ojmc38n6rhr26HDSFkW#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-188-94ev3k2rbcn1amy9VFn#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-188-23j4ekdajuj57j67hM8#dmesg.txt
+http://defaced.ru/download.php?slug=2026-188-d9re8f9n11a0fk5Zo0s#fdisk_-l.txt
 ```
 ---
-2026-07-06 14:10:56
+2026-07-07 05:43:29
