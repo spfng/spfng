@@ -3,23 +3,22 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: SGH016YXG7)
+	ProLiant DL360 Gen9 	(SN: 6CU7433SCX)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
-	7 July 2026, Tuesday, 11:31 (UTC)
+	8 July 2026, Wednesday, 06:40 (UTC)
 
-	Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
-	Sockets: 1, Cores per socket: 12
+	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.25 0.15 0.07
+	Load Average (1m, 5m, 15m): 1.13 0.43 0.16
 
-	Memory size: 188.37 GiB
-	Memory used: 4.00 GiB
-	Memory free: 185.28 GiB
+	Memory size: 125.76 GiB
+	Memory used: 4.03 GiB
+	Memory free: 122.02 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (28.65 GiB)
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,40 +26,36 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (5c:b9:01:89:a2:d4)
-		IPv4: 192.168.5.130/24
+		eno1 (f4:03:43:5b:bf:1c)
+		IPv4: 192.168.5.139/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno6 (5c:b9:01:89:a2:d5)
+		eno2 (f4:03:43:5b:bf:1d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno7 (5c:b9:01:89:a2:d6)
+		eno3 (f4:03:43:5b:bf:1e)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8 (5c:b9:01:89:a2:d7)
+		eno4 (f4:03:43:5b:bf:1f)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 01 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 1
-ПАМЯТЬ 03 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
-ПАМЯТЬ 12 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 12
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
-ПРОЦЕССОР 02 - Not Specified
-ПЛАТФОРМА ProLiant DL360 Gen10 - SGH016YXG7
-ДИСК (0.00 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+ПАМЯТЬ 09 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 9
+ПАМЯТЬ 12 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
+ПАМЯТЬ 21 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 9
+ПАМЯТЬ 24 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
+ПЛАТФОРМА ProLiant DL360 Gen9 - 6CU7433SCX
 ДИСК (28.65 GiB)
 
-http://defaced.ru/download.php?slug=2026-188-5mjopvurq6jldAILyj5#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-188-ckglucfer4n0ajsVfZK#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-188-g39n7uqq4aet65rM1JO#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-188-fflhjrqcl3aheMLoFR5#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-188-950qibpd8rjaaj83FYT#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-188-ape68ep3lbh4aL20gMg#dmesg.txt
-http://defaced.ru/download.php?slug=2026-188-p5fn58c0esqo0TnzwDt#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-189-h357rir1k4db7aeGYRv#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-189-4r8mddpcujugaPRU2Ka#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-189-scutcui81er84MWx9pJ#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-189-g75ls5g88inicmKSMGY#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-189-s8jnvdtl931t0vHhOXN#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-189-gvqamncer9rk47nB1VF#dmesg.txt
 ```
 ---
-2026-07-07 11:35:11
+2026-07-08 06:41:56
