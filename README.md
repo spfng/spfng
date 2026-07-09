@@ -3,22 +3,21 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7525 	(SN: 8KF7D53)
+	PowerEdge R7525 	(SN: C79H053)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
-	13 April 2026, Monday, 19:38 (UTC)
+	13 April 2026, Monday, 19:39 (UTC)
 
 	AMD EPYC 7252 8-Core Processor
 	Sockets: 2, Cores per socket: 8
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.72 0.24 0.08
+	Load Average (1m, 5m, 15m): 1.56 0.70 0.26
 
-	Memory size: 125.50 GiB
-	Memory used: 3.53 GiB
-	Memory free: 122.14 GiB
+	Memory size: 62.50 GiB
+	Memory used: 3.27 GiB
+	Memory free: 59.22 GiB
 
-	Drives:
-		Drive: /dev/sda (28.91 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,29 +25,26 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (f4:02:70:b8:eb:42)
-		IPv4: 192.168.5.149/24
+		eno1 (f4:02:70:b8:ac:12)
+		IPv4: 192.168.5.101/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (f4:02:70:b8:eb:43)
+		eno2 (f4:02:70:b8:ac:13)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
 ПРОЦЕССОР 01 - AMD EPYC 7252 8-Core Processor
 ПРОЦЕССОР 02 - AMD EPYC 7252 8-Core Processor
-ПАМЯТЬ 03 | 32 GB - 2933 - DDR4 3200 - A3
-ПАМЯТЬ 19 | 32 GB - 2933 - DDR4 3200 - B3
-ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 3200 - B6
-ПЛАТФОРМА PowerEdge R7525 - 8KF7D53
-ДИСК (28.91 GiB)
+ПАМЯТЬ 03 | 32 GB - 3200 - DDR4 3200 - A3
+ПАМЯТЬ 19 | 32 GB - 3200 - DDR4 3200 - B3
+ПЛАТФОРМА PowerEdge R7525 - C79H053
 
-http://defaced.ru/download.php?slug=2026-190-q617v5801rj2bS1KKhX#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-190-6ptkqngrh001coEGdUu#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-190-sm353s1isp537uTlJPv#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-190-sdf4pbi8lbuv6g6XwAN#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-190-1scg7mt2vmts5jQkohp#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-190-kkma7no473329l4It7R#dmesg.txt
+http://defaced.ru/download.php?slug=2026-190-td89hcvil03faDGaLMp#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-190-jf5701a0kjv0eWUpgxx#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-190-tj985mr43o5u5ZGm9Nj#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-190-qep3j6lpe1sa14qN65m#dmesg.txt
+http://defaced.ru/download.php?slug=2026-190-ek40b3rmotjm2p2Fz5Y#dmidecode.txt
 ```
 ---
-2026-07-09 13:09:21
+2026-07-09 13:14:08
