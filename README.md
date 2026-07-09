@@ -11,11 +11,11 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 	Sockets: 2, Cores per socket: 8
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.66 0.56 0.20
+	Load Average (1m, 5m, 15m): 0.72 0.24 0.08
 
 	Memory size: 125.50 GiB
-	Memory used: 3.99 GiB
-	Memory free: 121.68 GiB
+	Memory used: 3.53 GiB
+	Memory free: 122.14 GiB
 
 	Drives:
 		Drive: /dev/sda (28.91 GiB)
@@ -28,7 +28,7 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno1 (f4:02:70:b8:eb:42)
 		IPv4: 192.168.5.149/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		RX: 0.01 GiB, TX: 0.00 GiB
 
 		eno2 (f4:02:70:b8:eb:43)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -37,20 +37,18 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ПРОЦЕССОР 01 - AMD EPYC 7252 8-Core Processor
 ПРОЦЕССОР 02 - AMD EPYC 7252 8-Core Processor
-ПАМЯТЬ 03 | 16 GB - 2933 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 16 GB - 2933 - DDR4 3200 - A4
-ПАМЯТЬ 19 | 16 GB - 2933 - DDR4 3200 - B3
-ПАМЯТЬ 20 | 16 GB - 2933 - DDR4 3200 - B4
+ПАМЯТЬ 03 | 32 GB - 2933 - DDR4 3200 - A3
+ПАМЯТЬ 19 | 32 GB - 2933 - DDR4 3200 - B3
 ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 3200 - B6
 ПЛАТФОРМА PowerEdge R7525 - 8KF7D53
 ДИСК (28.91 GiB)
 
-http://defaced.ru/download.php?slug=2026-190-kv93trcabvok6UbSfuT#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-190-pklndnjjg1gc8i1w4cM#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-190-2e8rirkum9jocWXC23z#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-190-m52dm2eo9rpjcTygkAf#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-190-1o36bub2m2dlciPJA7Z#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-190-aj13ufuvo6b8dt8L2b0#dmesg.txt
+http://defaced.ru/download.php?slug=2026-190-q617v5801rj2bS1KKhX#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-190-6ptkqngrh001coEGdUu#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-190-sm353s1isp537uTlJPv#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-190-sdf4pbi8lbuv6g6XwAN#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-190-1scg7mt2vmts5jQkohp#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-190-kkma7no473329l4It7R#dmesg.txt
 ```
 ---
-2026-07-09 12:47:59
+2026-07-09 13:09:21
