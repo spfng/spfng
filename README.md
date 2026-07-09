@@ -5,17 +5,17 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL360 Gen10 	(SN: SGH016YXG7)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
-	8 July 2026, Wednesday, 08:14 (UTC)
+	9 July 2026, Thursday, 06:18 (UTC)
 
 	Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
 	Sockets: 1, Cores per socket: 12
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.81 0.24 0.09
+	Load Average (1m, 5m, 15m): 0.79 0.25 0.09
 
 	Memory size: 188.37 GiB
-	Memory used: 4.74 GiB
-	Memory free: 184.54 GiB
+	Memory used: 4.52 GiB
+	Memory free: 184.76 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -54,13 +54,13 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ДИСК (0.00 GiB)
 ДИСК (28.65 GiB)
 
-http://defaced.ru/download.php?slug=2026-189-g2v6j0fp7b7i5XxO5VW#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-189-rb5b5a3nsnrt6WEwFeU#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-189-tnjqetdegbcv8pTiS2t#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-189-cfvcqes2vio92WbeHEw#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-189-4j63qnbta794e3B89Gk#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-189-gmbnip9kv9vt0WnMH3X#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-189-8hsvss6anplt9pBAlHr#dmesg.txt
+http://defaced.ru/download.php?slug=2026-190-rne1ef1ct8mi0zgpemE#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-190-d1lj6j593r5efFNH3Me#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-190-0437d50vlia9cOuJPXM#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-190-no6vhfh0mqor9c4r77z#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-190-50c608vjt2ju9X7cwzI#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-190-naots6jpt8gtci0QPys#dmesg.txt
+http://defaced.ru/download.php?slug=2026-190-3d608d6tprjleBIljH7#ipmitool_lan_print.txt
 ```
 ---
-2026-07-08 08:17:54
+2026-07-09 06:22:47
