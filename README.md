@@ -3,7 +3,7 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7525 	(SN: 8KF7D53)
+	PowerEdge R7525 	(SN: C79H053)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
 	13 April 2026, Monday, 19:39 (UTC)
 
@@ -11,11 +11,11 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 	Sockets: 2, Cores per socket: 8
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.66 0.28 0.10
+	Load Average (1m, 5m, 15m): 0.86 0.32 0.12
 
 	Memory size: 62.50 GiB
-	Memory used: 3.32 GiB
-	Memory free: 59.16 GiB
+	Memory used: 3.25 GiB
+	Memory free: 59.23 GiB
 
 	No drives attached.
 
@@ -25,11 +25,11 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (f4:02:70:b8:eb:42)
-		IPv4: 192.168.5.149/24
+		eno1 (f4:02:70:b8:ac:12)
+		IPv4: 192.168.5.101/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (f4:02:70:b8:eb:43)
+		eno2 (f4:02:70:b8:ac:13)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -38,13 +38,13 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПРОЦЕССОР 02 - AMD EPYC 7252 8-Core Processor
 ПАМЯТЬ 03 | 32 GB - 3200 - DDR4 3200 - A3
 ПАМЯТЬ 19 | 32 GB - 3200 - DDR4 3200 - B3
-ПЛАТФОРМА PowerEdge R7525 - 8KF7D53
+ПЛАТФОРМА PowerEdge R7525 - C79H053
 
-http://defaced.ru/download.php?slug=2026-191-i9hisu8qoqrhbkRLtMe#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-191-2mkeq1i8ehlqberM4Dm#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-191-jd6j40crlf9u2ArHouF#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-191-bk5na7ffo5ef8m83WzH#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-191-gfqn1r9cnhrb9MmOh5c#dmesg.txt
+http://defaced.ru/download.php?slug=2026-191-m05r51358kjv6vJLZAQ#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-191-e2fjphbp1mfn4h2h9Uj#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-191-5vs99l54hup22fuuCNg#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-191-gniisa5qpcs6cNbbxpB#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-191-4s4vl72ooes0eQzZEDK#dmesg.txt
 ```
 ---
-2026-07-10 08:50:17
+2026-07-10 09:01:33
