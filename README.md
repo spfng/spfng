@@ -3,19 +3,19 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R6525 	(SN: BGWV8B3)
+	PowerEdge R6525 	(SN: BGVDZB3)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
 	13 April 2026, Monday, 19:38 (UTC)
 
-	AMD EPYC 7F72 24-Core Processor
-	Sockets: 2, Cores per socket: 24
+	AMD EPYC 7A23 48-Core Processor
+	Sockets: 2, Cores per socket: 48
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.77 0.27 0.10
+	Load Average (1m, 5m, 15m): 0.93 0.30 0.10
 
-	Memory size: 251.48 GiB
-	Memory used: 5.03 GiB
-	Memory free: 247.26 GiB
+	Memory size: 251.46 GiB
+	Memory used: 5.64 GiB
+	Memory free: 246.62 GiB
 
 	Drives:
 		Drive: /dev/sda (28.91 GiB)
@@ -26,17 +26,17 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (70:b5:e8:d1:0e:fc)
-		IPv4: 192.168.5.166/24
+		eno8303 (70:b5:e8:d1:16:6a)
+		IPv4: 192.168.5.184/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (70:b5:e8:d1:0e:fd)
+		eno8403 (70:b5:e8:d1:16:6b)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7F72 24-Core Processor
-ПРОЦЕССОР 02 - AMD EPYC 7F72 24-Core Processor
+ПРОЦЕССОР 01 - AMD EPYC 7A23 48-Core Processor
+ПРОЦЕССОР 02 - AMD EPYC 7A23 48-Core Processor
 ПАМЯТЬ 01 | 32 GB - 3200 - DDR4 3200 - A1
 ПАМЯТЬ 02 | 32 GB - 3200 - DDR4 3200 - A2
 ПАМЯТЬ 03 | 32 GB - 3200 - DDR4 3200 - A3
@@ -45,15 +45,15 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 18 | 32 GB - 3200 - DDR4 3200 - B2
 ПАМЯТЬ 19 | 32 GB - 3200 - DDR4 3200 - B3
 ПАМЯТЬ 20 | 32 GB - 3200 - DDR4 3200 - B4
-ПЛАТФОРМА PowerEdge R6525 - BGWV8B3
+ПЛАТФОРМА PowerEdge R6525 - BGVDZB3
 ДИСК (28.91 GiB)
 
-http://defaced.ru/download.php?slug=2026-194-uu7vho9kfvrkeQxIZX8#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-194-01gq6aajqo929hRuuZt#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-194-fqu543alvnajbOUvBLf#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-194-mk7op6deobcdfR3taAy#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-194-se7oleptomks5254wbI#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-194-iq7kj3aotqundenYoD2#dmesg.txt
+http://defaced.ru/download.php?slug=2026-194-fdb26ih82is486CwjbP#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-194-39lmjmv53j1lfxSdhVf#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-194-139j90q02c8e55hwXiA#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-194-loln70s2bt8o3OJAfwk#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-194-mepreoma2lla2m8Sr0J#dmesg.txt
+http://defaced.ru/download.php?slug=2026-194-p6ugb9ispip42BiWnNz#smartctl_sda.txt
 ```
 ---
-2026-07-13 06:12:31
+2026-07-13 06:15:06
