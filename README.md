@@ -3,28 +3,23 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R6525 	(SN: BGWV8B3)
+	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
-	13 April 2026, Monday, 19:44 (UTC)
+	13 April 2026, Monday, 19:38 (UTC)
 
-	AMD EPYC 7F72 24-Core Processor
-	Sockets: 2, Cores per socket: 24
+	AMD EPYC 7773X 64-Core Processor
+	Sockets: 2, Cores per socket: 64
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 95.31 60.39 26.24
+	Load Average (1m, 5m, 15m): 1.45 0.58 0.21
 
-	Memory size: 503.47 GiB
-	Memory used: 6.92 GiB
-	Memory free: 498.31 GiB
+	Memory size: 1007.53 GiB
+	Memory used: 9.77 GiB
+	Memory free: 1001.57 GiB
 
 	Drives:
-		Drive: /dev/sda (745.21 GiB)
-		Drive: /dev/sdb (447.13 GiB)
-		Drive: /dev/sdc (894.25 GiB)
-		Drive: /dev/nvme0n1 (3726.02 GiB)
-		Drive: /dev/nvme2n1 (2980.82 GiB)
-		Drive: /dev/nvme3n1 (3726.02 GiB)
-		Drive: /dev/nvme1n1 (3726.02 GiB)
+		Drive: /dev/sda (111.79 GiB)
+		Drive: /dev/sdb (28.91 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -32,71 +27,44 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (70:b5:e8:d1:0e:fc)
-		IPv4: 192.168.5.166/24
-		RX: 0.04 GiB, TX: 0.00 GiB
+		ens4f0 (38:ea:a7:36:63:14)
+		IPv4: 192.168.1.200/24
+		RX: 0.02 GiB, TX: 0.00 GiB
 
-		eno33np0 (bc:97:e1:ec:03:10)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno2 (70:b5:e8:d1:0e:fd)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno34np1 (bc:97:e1:ec:03:11)
+		ens4f1 (38:ea:a7:36:63:15)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7F72 24-Core Processor
-ПРОЦЕССОР 02 - AMD EPYC 7F72 24-Core Processor
-ПАМЯТЬ 01 | 32 GB - 2666 - DDR4 2666 - A1
-ПАМЯТЬ 02 | 32 GB - 2666 - DDR4 2666 - A2
-ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - A3
-ПАМЯТЬ 04 | 32 GB - 2666 - DDR4 2666 - A4
-ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - A5
-ПАМЯТЬ 06 | 32 GB - 2666 - DDR4 2666 - A6
-ПАМЯТЬ 07 | 32 GB - 2666 - DDR4 2666 - A7
-ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - A8
-ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - B1
-ПАМЯТЬ 18 | 32 GB - 2666 - DDR4 2666 - B2
-ПАМЯТЬ 19 | 32 GB - 2666 - DDR4 2666 - B3
-ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - B4
-ПАМЯТЬ 21 | 32 GB - 2666 - DDR4 2666 - B5
-ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - B6
-ПАМЯТЬ 23 | 32 GB - 2666 - DDR4 2666 - B7
-ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - B8
-ПЛАТФОРМА PowerEdge R6525 - BGWV8B3
-ДИСК (745.21 GiB)
-ДИСК (447.13 GiB)
-ДИСК (894.25 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (2980.82 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
+ПРОЦЕССОР 01 - AMD EPYC 7773X 64-Core Processor
+ПАМЯТЬ 02 | 64 GB - 3200 - DDR4 3200 - CPU1_CH1_D0(A0)
+ПАМЯТЬ 04 | 64 GB - 3200 - DDR4 3200 - CPU1_CH2_D0(B0)
+ПАМЯТЬ 06 | 64 GB - 3200 - DDR4 3200 - CPU1_CH3_D0(C0)
+ПАМЯТЬ 08 | 64 GB - 3200 - DDR4 3200 - CPU1_CH4_D0(D0)
+ПАМЯТЬ 10 | 64 GB - 3200 - DDR4 3200 - CPU1_CH5_D0(E0)
+ПАМЯТЬ 12 | 64 GB - 3200 - DDR4 3200 - CPU1_CH6_D0(F0)
+ПАМЯТЬ 14 | 64 GB - 3200 - DDR4 3200 - CPU1_CH7_D0(G0)
+ПАМЯТЬ 16 | 64 GB - 3200 - DDR4 3200 - CPU1_CH8_D0(H0)
+ПРОЦЕССОР 02 - AMD EPYC 7773X 64-Core Processor
+ПАМЯТЬ 18 | 64 GB - 3200 - DDR4 3200 - CPU2_CH1_D0(A0)
+ПАМЯТЬ 20 | 64 GB - 3200 - DDR4 3200 - CPU2_CH2_D0(B0)
+ПАМЯТЬ 22 | 64 GB - 3200 - DDR4 3200 - CPU2_CH3_D0(C0)
+ПАМЯТЬ 24 | 64 GB - 3200 - DDR4 3200 - CPU2_CH4_D0(D0)
+ПАМЯТЬ 26 | 64 GB - 3200 - DDR4 3200 - CPU2_CH5_D0(E0)
+ПАМЯТЬ 28 | 64 GB - 3200 - DDR4 3200 - CPU2_CH6_D0(F0)
+ПАМЯТЬ 30 | 64 GB - 3200 - DDR4 3200 - CPU2_CH7_D0(G0)
+ПАМЯТЬ 32 | 64 GB - 3200 - DDR4 3200 - CPU2_CH8_D0(H0)
+ПЛАТФОРМА R4950 G5 - 210235A2QUH213000125
+ДИСК (111.79 GiB)
+ДИСК (28.91 GiB)
 
-http://defaced.ru/download.php?slug=2026-191-9hgids4v4dv99G3cm7a#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-191-lt2pc15r04a5brXoZFI#smartctl_sdc.txt
-http://defaced.ru/download.php?slug=2026-191-jv0sq3uh9dsf7vU96RS#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-191-eblmg8gp9tjq7fZzbGJ#smartctl_nvme3n1.txt
-http://defaced.ru/download.php?slug=2026-191-t0nm3ogr2igudB7Ozb4#smartctl_nvme1n1.txt
-http://defaced.ru/download.php?slug=2026-191-u6iu2ia56uqd6RnMRBT#smartctl_nvme0n1.txt
-http://defaced.ru/download.php?slug=2026-191-gj67n9veaj4ua5Rssyx#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-191-jnm1e7mphld42FTbEII#smartctl_nvme2n1.txt
-http://defaced.ru/download.php?slug=2026-191-tvdqj7q0vaflf4nQAk1#dmesg.txt
-http://defaced.ru/download.php?slug=2026-191-50j5dmdt7cndczHubLj#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-191-69jscu4nugpo3oSlHFS#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-191-7adrp0ovps623GVwx48#smartctl_nvme3n1.txt
-http://defaced.ru/download.php?slug=2026-191-pq00p65p248h6VYswk7#smartctl_nvme0n1.txt
-http://defaced.ru/download.php?slug=2026-191-o7iau4cukgq8axNTGeq#smartctl_nvme2n1.txt
-http://defaced.ru/download.php?slug=2026-191-kf785r42789p7YySKfC#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-191-cd5b59s6f6oa4wentV0#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-191-brj30ct3s0v7bJ5yUwY#smartctl_sdc.txt
-http://defaced.ru/download.php?slug=2026-191-ne7fuakcu7ilffO03LT#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-191-kkusoho0q7sl2KcoNn6#smartctl_nvme1n1.txt
-http://defaced.ru/download.php?slug=2026-191-cogs7ircbstj2iHwOX2#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-191-19bdsb793bhk2RxzF4o#dmesg.txt
-http://defaced.ru/download.php?slug=2026-191-g0bnhaer1viafmRNQa7#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-191-p7u70599hmfp3onoeOR#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-194-accb9jb6vmm4bqKWVgH#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-194-1mh8oa6q4bfr6nKiEmw#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-194-ilthg9eijp2b9xjThHf#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-194-3cottc4gol16em6xtdV#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-194-01vtrlbfvjt61CcGY71#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-194-hld80kinsdvefpzxGMm#dmesg.txt
+http://defaced.ru/download.php?slug=2026-194-8r9sq8lgj7ij2SNUkRd#smartctl_sdb.txt
 ```
 ---
-2026-07-10 13:28:00
+2026-07-13 05:44:19
