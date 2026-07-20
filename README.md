@@ -4,18 +4,18 @@
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
-	Running on Linux 6.12.86+deb13-amd64 x86_64
-	13 April 2026, Monday, 19:38 (UTC)
+	Running on Linux 6.12.94+deb13-amd64 x86_64
+	13 April 2026, Monday, 19:39 (UTC)
 
 	AMD EPYC 7773X 64-Core Processor
 	Sockets: 2, Cores per socket: 64
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.42 0.57 0.21
+	Load Average (1m, 5m, 15m): 0.48 0.36 0.15
 
 	Memory size: 1007.53 GiB
-	Memory used: 9.87 GiB
-	Memory free: 1001.47 GiB
+	Memory used: 9.36 GiB
+	Memory free: 1001.98 GiB
 
 	Drives:
 		Drive: /dev/sda (111.79 GiB)
@@ -58,13 +58,13 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ДИСК (111.79 GiB)
 ДИСК (28.91 GiB)
 
-http://defaced.ru/download.php?slug=2026-201-c9crpvuahjp48fE5eBP#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-201-khiskq2pltcva2VPnRG#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-201-hr5fhsfnj3ah8yRlW3t#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-201-bndm25l0pto74WSwPEI#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-201-ehfa3c6l9ppcfjMBo0m#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-201-6ule08kubgdv395Ce46#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-201-r9rneur7nvab9Rgon4Z#dmesg.txt
+http://defaced.ru/download.php?slug=2026-201-qbmukgedldal4gm0iit#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-201-hdtotrlrdqm604Y6jef#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-201-qmopm8nooff91DYb0WS#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-201-rvbqdm5i4t5ufhUAGbN#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-201-2js54bacls502Bx87gK#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-201-13cb3p3f47dt43Afr6H#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-201-t55g21vr7as3aPg3IGk#dmesg.txt
 ```
 ---
-2026-07-20 04:15:30
+2026-07-20 04:31:32
