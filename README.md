@@ -3,22 +3,23 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R6525 	(SN: BGVDZB3)
+	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
 	13 April 2026, Monday, 19:38 (UTC)
 
-	AMD EPYC 7A23 48-Core Processor
-	Sockets: 2, Cores per socket: 48
+	AMD EPYC 7773X 64-Core Processor
+	Sockets: 2, Cores per socket: 64
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.93 0.30 0.10
+	Load Average (1m, 5m, 15m): 1.42 0.57 0.21
 
-	Memory size: 251.46 GiB
-	Memory used: 5.64 GiB
-	Memory free: 246.62 GiB
+	Memory size: 1007.53 GiB
+	Memory used: 9.87 GiB
+	Memory free: 1001.47 GiB
 
 	Drives:
-		Drive: /dev/sda (28.91 GiB)
+		Drive: /dev/sda (111.79 GiB)
+		Drive: /dev/sdb (28.91 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,34 +27,44 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (70:b5:e8:d1:16:6a)
-		IPv4: 192.168.5.184/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		ens4f0 (38:ea:a7:36:63:14)
+		IPv4: 192.168.1.200/24
+		RX: 0.02 GiB, TX: 0.00 GiB
 
-		eno8403 (70:b5:e8:d1:16:6b)
+		ens4f1 (38:ea:a7:36:63:15)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7A23 48-Core Processor
-ПРОЦЕССОР 02 - AMD EPYC 7A23 48-Core Processor
-ПАМЯТЬ 01 | 32 GB - 3200 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 32 GB - 3200 - DDR4 3200 - A2
-ПАМЯТЬ 03 | 32 GB - 3200 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 32 GB - 3200 - DDR4 3200 - A4
-ПАМЯТЬ 17 | 32 GB - 3200 - DDR4 3200 - B1
-ПАМЯТЬ 18 | 32 GB - 3200 - DDR4 3200 - B2
-ПАМЯТЬ 19 | 32 GB - 3200 - DDR4 3200 - B3
-ПАМЯТЬ 20 | 32 GB - 3200 - DDR4 3200 - B4
-ПЛАТФОРМА PowerEdge R6525 - BGVDZB3
+ПРОЦЕССОР 01 - AMD EPYC 7773X 64-Core Processor
+ПАМЯТЬ 02 | 64 GB - 3200 - DDR4 3200 - CPU1_CH1_D0(A0)
+ПАМЯТЬ 04 | 64 GB - 3200 - DDR4 3200 - CPU1_CH2_D0(B0)
+ПАМЯТЬ 06 | 64 GB - 3200 - DDR4 3200 - CPU1_CH3_D0(C0)
+ПАМЯТЬ 08 | 64 GB - 3200 - DDR4 3200 - CPU1_CH4_D0(D0)
+ПАМЯТЬ 10 | 64 GB - 3200 - DDR4 3200 - CPU1_CH5_D0(E0)
+ПАМЯТЬ 12 | 64 GB - 3200 - DDR4 3200 - CPU1_CH6_D0(F0)
+ПАМЯТЬ 14 | 64 GB - 3200 - DDR4 3200 - CPU1_CH7_D0(G0)
+ПАМЯТЬ 16 | 64 GB - 3200 - DDR4 3200 - CPU1_CH8_D0(H0)
+ПРОЦЕССОР 02 - AMD EPYC 7773X 64-Core Processor
+ПАМЯТЬ 18 | 64 GB - 3200 - DDR4 3200 - CPU2_CH1_D0(A0)
+ПАМЯТЬ 20 | 64 GB - 3200 - DDR4 3200 - CPU2_CH2_D0(B0)
+ПАМЯТЬ 22 | 64 GB - 3200 - DDR4 3200 - CPU2_CH3_D0(C0)
+ПАМЯТЬ 24 | 64 GB - 3200 - DDR4 3200 - CPU2_CH4_D0(D0)
+ПАМЯТЬ 26 | 64 GB - 3200 - DDR4 3200 - CPU2_CH5_D0(E0)
+ПАМЯТЬ 28 | 64 GB - 3200 - DDR4 3200 - CPU2_CH6_D0(F0)
+ПАМЯТЬ 30 | 64 GB - 3200 - DDR4 3200 - CPU2_CH7_D0(G0)
+ПАМЯТЬ 32 | 64 GB - 3200 - DDR4 3200 - CPU2_CH8_D0(H0)
+ПЛАТФОРМА R4950 G5 - 210235A2QUH213000125
+ДИСК (111.79 GiB)
 ДИСК (28.91 GiB)
 
-http://defaced.ru/download.php?slug=2026-194-fdb26ih82is486CwjbP#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-194-39lmjmv53j1lfxSdhVf#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-194-139j90q02c8e55hwXiA#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-194-loln70s2bt8o3OJAfwk#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-194-mepreoma2lla2m8Sr0J#dmesg.txt
-http://defaced.ru/download.php?slug=2026-194-p6ugb9ispip42BiWnNz#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-201-c9crpvuahjp48fE5eBP#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-201-khiskq2pltcva2VPnRG#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-201-hr5fhsfnj3ah8yRlW3t#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-201-bndm25l0pto74WSwPEI#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-201-ehfa3c6l9ppcfjMBo0m#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-201-6ule08kubgdv395Ce46#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-201-r9rneur7nvab9Rgon4Z#dmesg.txt
 ```
 ---
-2026-07-13 06:15:06
+2026-07-20 04:15:30
