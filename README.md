@@ -3,22 +3,25 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7525 	(SN: DKM4LB4)
+	ProLiant DL380 Gen10 	(SN: SGH938STQQ)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
-	21 July 2026, Tuesday, 07:08 (UTC)
+	21 July 2026, Tuesday, 09:13 (UTC)
 
-	AMD EPYC 7763 64-Core Processor
-	Sockets: 2, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+	Sockets: 2, Cores per socket: 16
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.95 0.40 0.15
+	Load Average (1m, 5m, 15m): 0.74 0.30 0.11
 
-	Memory size: 1007.44 GiB
-	Memory used: 9.30 GiB
-	Memory free: 1001.44 GiB
+	Memory size: 755.54 GiB
+	Memory used: 8.04 GiB
+	Memory free: 750.33 GiB
 
 	Drives:
-		Drive: /dev/sda (28.65 GiB)
+		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sdb (894.22 GiB)
+		Drive: /dev/sdc (7153.86 GiB)
+		Drive: /dev/sdd (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,42 +29,56 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (c4:cb:e1:d6:33:06)
-		IPv4: 192.168.5.188/24
+		eno1 (08:f1:ea:f9:9b:aa)
+		IPv4: 192.168.5.189/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno8403 (c4:cb:e1:d6:33:07)
+		eno2 (08:f1:ea:f9:9b:ab)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (08:f1:ea:f9:9b:ac)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (08:f1:ea:f9:9b:ad)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno5 (48:df:37:10:a7:90)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno6 (48:df:37:10:a7:91)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7763 64-Core Processor
-ПРОЦЕССОР 02 - AMD EPYC 7763 64-Core Processor
-ПАМЯТЬ 01 | 64 GB - 3200 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 64 GB - 3200 - DDR4 3200 - A2
-ПАМЯТЬ 03 | 64 GB - 3200 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 64 GB - 3200 - DDR4 3200 - A4
-ПАМЯТЬ 05 | 64 GB - 3200 - DDR4 3200 - A5
-ПАМЯТЬ 06 | 64 GB - 3200 - DDR4 3200 - A6
-ПАМЯТЬ 07 | 64 GB - 3200 - DDR4 3200 - A7
-ПАМЯТЬ 08 | 64 GB - 3200 - DDR4 3200 - A8
-ПАМЯТЬ 17 | 64 GB - 3200 - DDR4 3200 - B1
-ПАМЯТЬ 18 | 64 GB - 3200 - DDR4 3200 - B2
-ПАМЯТЬ 19 | 64 GB - 3200 - DDR4 3200 - B3
-ПАМЯТЬ 20 | 64 GB - 3200 - DDR4 3200 - B4
-ПАМЯТЬ 21 | 64 GB - 3200 - DDR4 3200 - B5
-ПАМЯТЬ 22 | 64 GB - 3200 - DDR4 3200 - B6
-ПАМЯТЬ 23 | 64 GB - 3200 - DDR4 3200 - B7
-ПАМЯТЬ 24 | 64 GB - 3200 - DDR4 3200 - B8
-ПЛАТФОРМА PowerEdge R7525 - DKM4LB4
+ПАМЯТЬ 01 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 1
+ПАМЯТЬ 03 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 3
+ПАМЯТЬ 05 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 5
+ПАМЯТЬ 08 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
+ПАМЯТЬ 12 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 12
+ПАМЯТЬ 13 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 1
+ПАМЯТЬ 15 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 3
+ПАМЯТЬ 17 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 5
+ПАМЯТЬ 20 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
+ПАМЯТЬ 24 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 12
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+ПЛАТФОРМА ProLiant DL380 Gen10 - SGH938STQQ
+ДИСК (0.00 GiB)
+ДИСК (894.22 GiB)
+ДИСК (7153.86 GiB)
 ДИСК (28.65 GiB)
 
-http://defaced.ru/download.php?slug=2026-202-kh89eobk2i2d8nHHb3e#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-202-tj6iqu69amlo7yazQ9U#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-202-oqcp11e1j1r6dt2QHFv#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-202-6o68s6mkotn3cyAcutB#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-202-825l7b484tkq8nX5Kdl#dmesg.txt
-http://defaced.ru/download.php?slug=2026-202-i1m9cbofq7tbfDXFyIp#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-202-0jje8ss52o763ulyDLM#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-202-b40vq7vos4v1ewksprZ#smartctl_sdd.txt
+http://defaced.ru/download.php?slug=2026-202-r4g8m8d5sj28b4GgAWQ#smartctl_sdc.txt
+http://defaced.ru/download.php?slug=2026-202-i54q7j96o6um7qmwHSS#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-202-sbuiemc2l1655uZ6NkC#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-202-0jnkk2stn12ucVAfaq2#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-202-8iskoiqo8kl9bYQl8RB#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-202-j53omdq2b6jbfBmzW0Y#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-202-iskng4uoofj8f9rynyk#dmesg.txt
 ```
 ---
-2026-07-21 07:08:36
+2026-07-21 09:14:21
