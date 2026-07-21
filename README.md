@@ -5,22 +5,22 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL380 Gen10 	(SN: SGH938STQQ)
 	Running on Linux 6.12.86+deb13-amd64 x86_64
-	21 July 2026, Tuesday, 09:13 (UTC)
+	21 July 2026, Tuesday, 09:37 (UTC)
 
 	Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
 	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.74 0.30 0.11
+	Load Average (1m, 5m, 15m): 0.66 0.25 0.09
 
 	Memory size: 755.54 GiB
-	Memory used: 8.04 GiB
-	Memory free: 750.33 GiB
+	Memory used: 7.60 GiB
+	Memory free: 750.76 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (894.22 GiB)
-		Drive: /dev/sdc (7153.86 GiB)
+		Drive: /dev/sda (894.22 GiB)
+		Drive: /dev/sdb (7153.86 GiB)
+		Drive: /dev/sdc (0.00 GiB)
 		Drive: /dev/sdd (28.65 GiB)
 
 	Network Interfaces:
@@ -65,20 +65,20 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
 ПЛАТФОРМА ProLiant DL380 Gen10 - SGH938STQQ
-ДИСК (0.00 GiB)
 ДИСК (894.22 GiB)
 ДИСК (7153.86 GiB)
+ДИСК (0.00 GiB)
 ДИСК (28.65 GiB)
 
-http://defaced.ru/download.php?slug=2026-202-0jje8ss52o763ulyDLM#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-202-b40vq7vos4v1ewksprZ#smartctl_sdd.txt
-http://defaced.ru/download.php?slug=2026-202-r4g8m8d5sj28b4GgAWQ#smartctl_sdc.txt
-http://defaced.ru/download.php?slug=2026-202-i54q7j96o6um7qmwHSS#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-202-sbuiemc2l1655uZ6NkC#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-202-0jnkk2stn12ucVAfaq2#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-202-8iskoiqo8kl9bYQl8RB#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-202-j53omdq2b6jbfBmzW0Y#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-202-iskng4uoofj8f9rynyk#dmesg.txt
+http://defaced.ru/download.php?slug=2026-202-mf92iidqt6lb6thIFNh#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-202-iej3jqj1gjguan99tjX#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-202-sgjdfdenf5af0Q5VLzb#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-202-ovblp6q3hi1eaEs58fq#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-202-ddg3k3hlk5oa2B4aNCF#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-202-1npn378u3oqeclokLPk#smartctl_sdd.txt
+http://defaced.ru/download.php?slug=2026-202-ud94ejtq5s34eC94syX#smartctl_sdc.txt
+http://defaced.ru/download.php?slug=2026-202-a94flc34largdrLgfZP#dmesg.txt
+http://defaced.ru/download.php?slug=2026-202-82hm7flqmssl5dYrK00#dmidecode.txt
 ```
 ---
-2026-07-21 09:14:21
+2026-07-21 09:39:06
