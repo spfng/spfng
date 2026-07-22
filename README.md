@@ -11,11 +11,11 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 	Sockets: 1, Cores per socket: 24
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.96 0.30 0.11
+	Load Average (1m, 5m, 15m): 0.57 0.14 0.05
 
 	Memory size: 62.40 GiB
-	Memory used: 3.73 GiB
-	Memory free: 58.69 GiB
+	Memory used: 1.74 GiB
+	Memory free: 60.54 GiB
 
 	Drives:
 		Drive: /dev/sda (745.21 GiB)
@@ -31,18 +31,18 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		Drive: /dev/sdk (745.21 GiB)
 		Drive: /dev/sdl (894.25 GiB)
 		Drive: /dev/sdm (28.65 GiB)
-		Drive: /dev/nvme4n1 (3726.02 GiB)
-		Drive: /dev/nvme11n1 (3726.02 GiB)
 		Drive: /dev/nvme7n1 (3726.02 GiB)
 		Drive: /dev/nvme5n1 (3726.02 GiB)
 		Drive: /dev/nvme2n1 (2980.82 GiB)
-		Drive: /dev/nvme6n1 (3726.02 GiB)
 		Drive: /dev/nvme9n1 (3726.02 GiB)
+		Drive: /dev/nvme4n1 (3726.02 GiB)
+		Drive: /dev/nvme11n1 (3726.02 GiB)
+		Drive: /dev/nvme6n1 (3726.02 GiB)
+		Drive: /dev/nvme1n1 (1490.42 GiB)
+		Drive: /dev/nvme10n1 (1490.42 GiB)
 		Drive: /dev/nvme0n1 (1490.42 GiB)
 		Drive: /dev/nvme3n1 (1490.42 GiB)
-		Drive: /dev/nvme1n1 (1490.42 GiB)
 		Drive: /dev/nvme8n1 (1490.42 GiB)
-		Drive: /dev/nvme10n1 (1490.42 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -78,9 +78,9 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ДИСК (28.65 GiB)
 ДИСК (3726.02 GiB)
 ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
 ДИСК (2980.82 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (3726.02 GiB)
 ДИСК (3726.02 GiB)
 ДИСК (3726.02 GiB)
 ДИСК (1490.42 GiB)
@@ -89,36 +89,36 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ДИСК (1490.42 GiB)
 ДИСК (1490.42 GiB)
 
-http://defaced.ru/download.php?slug=2026-203-mnaf08maohup2Zj35LK#smartctl_sdh.txt
-http://defaced.ru/download.php?slug=2026-203-cm3srn4hnnrr17Jutjt#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-203-f21q90fqot06cvODIHW#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-203-eurba26j2l28cfFjLpt#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-203-0bb2pq7dl2ma7NCrxuX#smartctl_sdc.txt
-http://defaced.ru/download.php?slug=2026-203-7j4ufa5j2r4paVr5uZf#smartctl_nvme2n1.txt
-http://defaced.ru/download.php?slug=2026-203-48965ousg8c7bI7Saom#smartctl_nvme7n1.txt
-http://defaced.ru/download.php?slug=2026-203-rmrhlm8gpbkf1SfEDXP#smartctl_sdi.txt
-http://defaced.ru/download.php?slug=2026-203-fsv6kbtogf6l8W0ILJ0#smartctl_sde.txt
-http://defaced.ru/download.php?slug=2026-203-0j1d3ve78p0s85WUTCs#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-203-cealgv3cetp10nyCvKK#smartctl_nvme5n1.txt
-http://defaced.ru/download.php?slug=2026-203-0pkma1ksb6dh7Ufx4wP#smartctl_nvme0n1.txt
-http://defaced.ru/download.php?slug=2026-203-njh2e9fqu7b0d9CK3Dr#smartctl_nvme6n1.txt
-http://defaced.ru/download.php?slug=2026-203-eftcnc4lnhcq6uYJNXT#smartctl_nvme11n1.txt
-http://defaced.ru/download.php?slug=2026-203-e8abtmncdqsndRxr0UG#smartctl_sdg.txt
-http://defaced.ru/download.php?slug=2026-203-cru8n1lq9cnnbr8brxc#smartctl_nvme8n1.txt
-http://defaced.ru/download.php?slug=2026-203-fggh119nb003eVrmoE4#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-203-5vbghp91rd9a7RNzx7Z#smartctl_nvme4n1.txt
-http://defaced.ru/download.php?slug=2026-203-emeq70bao55p6WvtOHE#smartctl_sdl.txt
-http://defaced.ru/download.php?slug=2026-203-hhf4v4vn46mo5BVAHvv#smartctl_sdd.txt
-http://defaced.ru/download.php?slug=2026-203-n405r350qdsd4CF5BYI#smartctl_nvme9n1.txt
-http://defaced.ru/download.php?slug=2026-203-p10501tsqdg52EEaNiH#smartctl_nvme1n1.txt
-http://defaced.ru/download.php?slug=2026-203-0khcd3of1b01f0jlcTZ#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-203-majupq3pmklr57jYdCb#smartctl_nvme10n1.txt
-http://defaced.ru/download.php?slug=2026-203-mb88nnd5f3vof83ILAl#smartctl_nvme3n1.txt
-http://defaced.ru/download.php?slug=2026-203-8c6apab93os35vArgdt#smartctl_sdj.txt
-http://defaced.ru/download.php?slug=2026-203-on7ov25r1l4442IOAjt#smartctl_sdf.txt
-http://defaced.ru/download.php?slug=2026-203-sbbb1tmiso357YtSnif#dmesg.txt
-http://defaced.ru/download.php?slug=2026-203-q80et1lch7gh2JUo7SZ#smartctl_sdk.txt
-http://defaced.ru/download.php?slug=2026-203-l5u8u5r13ornd6tys04#smartctl_sdm.txt
+http://defaced.ru/download.php?slug=2026-203-4gtd08gaghuqbXeGJrY#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-203-pvl5atqehsehcOx37c3#smartctl_sdk.txt
+http://defaced.ru/download.php?slug=2026-203-u8335n8pmc7t7kXlTaN#smartctl_sdh.txt
+http://defaced.ru/download.php?slug=2026-203-d77vsis4rm0tervDmQP#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-203-qp8bt9ba320k8nCyT79#smartctl_sdi.txt
+http://defaced.ru/download.php?slug=2026-203-684ora3sulrr28N7x0A#smartctl_sdc.txt
+http://defaced.ru/download.php?slug=2026-203-325sbopn5pp1bkj8zLO#smartctl_nvme9n1.txt
+http://defaced.ru/download.php?slug=2026-203-bfqdr68tecoh1x5lzic#smartctl_sdg.txt
+http://defaced.ru/download.php?slug=2026-203-d910rve1gej26WYIXM9#smartctl_sdf.txt
+http://defaced.ru/download.php?slug=2026-203-dv5579561phg6XqD2XT#smartctl_sdd.txt
+http://defaced.ru/download.php?slug=2026-203-00m5ibelmvqgbERnra0#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-203-qiielbb5nn7r7MEdBI3#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-203-q092qitgi31564CSZK1#smartctl_nvme6n1.txt
+http://defaced.ru/download.php?slug=2026-203-m06adk5jbran7UYE0DW#smartctl_nvme2n1.txt
+http://defaced.ru/download.php?slug=2026-203-mkkgp5fq7qog6up7fie#smartctl_nvme5n1.txt
+http://defaced.ru/download.php?slug=2026-203-hhb6i1vk7r48eSMQXcQ#smartctl_nvme7n1.txt
+http://defaced.ru/download.php?slug=2026-203-fvvje0a6165ddPpQ1oI#smartctl_nvme0n1.txt
+http://defaced.ru/download.php?slug=2026-203-f36lqqtqgpqf3mz9HWG#smartctl_nvme1n1.txt
+http://defaced.ru/download.php?slug=2026-203-j86pps3u32lreWQoEiL#smartctl_nvme10n1.txt
+http://defaced.ru/download.php?slug=2026-203-ukgf08i8mn7j4QeS5Hk#smartctl_nvme8n1.txt
+http://defaced.ru/download.php?slug=2026-203-voi78otj0rn97xJ4qfX#smartctl_sdl.txt
+http://defaced.ru/download.php?slug=2026-203-mkk9ovm0f7g5e77UomW#smartctl_sdm.txt
+http://defaced.ru/download.php?slug=2026-203-hvqmfg6tobgm1F4wj7F#smartctl_nvme4n1.txt
+http://defaced.ru/download.php?slug=2026-203-25tvo6ldquebbUL5Scz#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-203-mibt1hkufe8i26zXKab#smartctl_nvme11n1.txt
+http://defaced.ru/download.php?slug=2026-203-oqk4hp32i6d3egxhRcx#smartctl_nvme3n1.txt
+http://defaced.ru/download.php?slug=2026-203-c0d25op632re82tH7Cu#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-203-fl4l78s64fs61DaiNOV#dmesg.txt
+http://defaced.ru/download.php?slug=2026-203-mevjdeve1hdj2oZjNoU#smartctl_sdj.txt
+http://defaced.ru/download.php?slug=2026-203-5jif2fap4kpc5hhRr7E#smartctl_sde.txt
 ```
 ---
-2026-07-22 14:07:18
+2026-07-22 14:15:43
