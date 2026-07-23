@@ -3,46 +3,36 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7515 	(SN: HVFM8F3)
+	ProLiant DL380 Gen9 	(SN: 6CU735CBXS)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	13 April 2026, Monday, 19:40 (UTC)
+	9 July 2026, Thursday, 02:35 (UTC)
 
-	AMD EPYC 7402P 24-Core Processor
-	Sockets: 1, Cores per socket: 24
-	SVM-Virtualisation
+	Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz
+	Sockets: 2, Cores per socket: 16
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.51 0.22 0.09
+	Load Average (1m, 5m, 15m): 2.29 0.92 0.34
 
-	Memory size: 62.40 GiB
-	Memory used: 3.82 GiB
-	Memory free: 58.61 GiB
+	Memory size: 94.25 GiB
+	Memory used: 3.90 GiB
+	Memory free: 90.46 GiB
 
 	Drives:
-		Drive: /dev/sda (894.25 GiB)
-		Drive: /dev/sdb (745.21 GiB)
-		Drive: /dev/sdc (447.13 GiB)
-		Drive: /dev/sdd (894.25 GiB)
-		Drive: /dev/sde (745.21 GiB)
-		Drive: /dev/sdf (447.13 GiB)
-		Drive: /dev/sdg (894.25 GiB)
-		Drive: /dev/sdh (745.21 GiB)
-		Drive: /dev/sdi (745.21 GiB)
-		Drive: /dev/sdj (894.25 GiB)
-		Drive: /dev/sdk (894.25 GiB)
-		Drive: /dev/sdl (894.25 GiB)
-		Drive: /dev/sdm (28.65 GiB)
-		Drive: /dev/nvme9n1 (3726.02 GiB)
-		Drive: /dev/nvme6n1 (3726.02 GiB)
-		Drive: /dev/nvme4n1 (3726.02 GiB)
-		Drive: /dev/nvme3n1 (2980.82 GiB)
-		Drive: /dev/nvme5n1 (3726.02 GiB)
-		Drive: /dev/nvme7n1 (3726.02 GiB)
-		Drive: /dev/nvme10n1 (3726.02 GiB)
-		Drive: /dev/nvme8n1 (1490.42 GiB)
-		Drive: /dev/nvme2n1 (1490.42 GiB)
-		Drive: /dev/nvme11n1 (1490.42 GiB)
-		Drive: /dev/nvme0n1 (1490.42 GiB)
-		Drive: /dev/nvme1n1 (1490.42 GiB)
+		Drive: /dev/sda (16764.00 GiB)
+		Drive: /dev/sdb (16764.00 GiB)
+		Drive: /dev/sdc (16764.00 GiB)
+		Drive: /dev/sdd (16764.00 GiB)
+		Drive: /dev/sde (16764.00 GiB)
+		Drive: /dev/sdf (16764.00 GiB)
+		Drive: /dev/sdg (16764.00 GiB)
+		Drive: /dev/sdh (16764.00 GiB)
+		Drive: /dev/sdi (447.13 GiB)
+		Drive: /dev/sdj (16764.00 GiB)
+		Drive: /dev/sdk (447.13 GiB)
+		Drive: /dev/sdl (16764.00 GiB)
+		Drive: /dev/sdm (16764.00 GiB)
+		Drive: /dev/sdn (16764.00 GiB)
+		Drive: /dev/sdo (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -50,75 +40,66 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (b0:7b:25:bf:80:a2)
-		IPv4: 192.168.5.108/24
+		eno1 (f4:03:43:4b:a9:54)
+		IPv4: 192.168.5.150/24
 		RX: 0.02 GiB, TX: 0.00 GiB
 
-		eno2 (b0:7b:25:bf:80:a3)
+		eno2 (f4:03:43:4b:a9:55)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (f4:03:43:4b:a9:56)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (f4:03:43:4b:a9:57)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7402P 24-Core Processor
-ПАМЯТЬ 01 | 32 GB - 3200 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 32 GB - 3200 - DDR4 3200 - A2
-ПЛАТФОРМА PowerEdge R7515 - HVFM8F3
-ДИСК (894.25 GiB)
-ДИСК (745.21 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz
+ПАМЯТЬ 01 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 1
+ПАМЯТЬ 09 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 9
+ПАМЯТЬ 12 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
+ПАМЯТЬ 13 | 16 GB - 2400 - DDR4 2400 - PROC 2 DIMM 1
+ПАМЯТЬ 21 | 16 GB - 2400 - DDR4 2400 - PROC 2 DIMM 9
+ПАМЯТЬ 24 | 16 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
+ПЛАТФОРМА ProLiant DL380 Gen9 - 6CU735CBXS
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
 ДИСК (447.13 GiB)
-ДИСК (894.25 GiB)
-ДИСК (745.21 GiB)
+ДИСК (16764.00 GiB)
 ДИСК (447.13 GiB)
-ДИСК (894.25 GiB)
-ДИСК (745.21 GiB)
-ДИСК (745.21 GiB)
-ДИСК (894.25 GiB)
-ДИСК (894.25 GiB)
-ДИСК (894.25 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
 ДИСК (28.65 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (2980.82 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (1490.42 GiB)
-ДИСК (1490.42 GiB)
-ДИСК (1490.42 GiB)
-ДИСК (1490.42 GiB)
-ДИСК (1490.42 GiB)
 
-http://defaced.ru/download.php?slug=2026-203-gbsn5dsdl5vma3UOmpc#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-203-0deij4uk28kcdwbppjf#smartctl_sdh.txt
-http://defaced.ru/download.php?slug=2026-203-fo92m8doo2h93KTJpDC#smartctl_nvme6n1.txt
-http://defaced.ru/download.php?slug=2026-203-9iq6jpv0p7oj8vp1IoE#smartctl_sdm.txt
-http://defaced.ru/download.php?slug=2026-203-vierjgedqf9deoCA9QP#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-203-n2felbg71frgbdYRnt7#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-203-1dlb8gdq7e2galm0nVr#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-203-fieu77nlar7qcjnq6g3#smartctl_nvme10n1.txt
-http://defaced.ru/download.php?slug=2026-203-kb8gfk6oi2rgcvYuOR4#smartctl_nvme3n1.txt
-http://defaced.ru/download.php?slug=2026-203-og4bou2mjmo63bS20Jo#smartctl_nvme7n1.txt
-http://defaced.ru/download.php?slug=2026-203-bdjpi6o7v0982r3fzP5#smartctl_sdf.txt
-http://defaced.ru/download.php?slug=2026-203-ar5baa49hc5v5q4Zz2N#smartctl_nvme9n1.txt
-http://defaced.ru/download.php?slug=2026-203-keuiq53a1r8v1MCxCgE#smartctl_nvme0n1.txt
-http://defaced.ru/download.php?slug=2026-203-e2pomuir87q4bJK6rF6#smartctl_sdc.txt
-http://defaced.ru/download.php?slug=2026-203-3tlunkdqio902x1wUIa#smartctl_sdd.txt
-http://defaced.ru/download.php?slug=2026-203-njif9rr44l22cRPAsTy#smartctl_nvme2n1.txt
-http://defaced.ru/download.php?slug=2026-203-5m5o9jre3qk8cB1Mekt#smartctl_nvme5n1.txt
-http://defaced.ru/download.php?slug=2026-203-f0rqc01fcnmacvy1EWz#smartctl_sdj.txt
-http://defaced.ru/download.php?slug=2026-203-453008oupk328ubBHDb#smartctl_nvme1n1.txt
-http://defaced.ru/download.php?slug=2026-203-kgho30r3l1gtflsWq60#smartctl_sde.txt
-http://defaced.ru/download.php?slug=2026-203-fvclnb45tufl3EK972g#smartctl_sdi.txt
-http://defaced.ru/download.php?slug=2026-203-k9j4649m0g0r002P2W2#smartctl_nvme11n1.txt
-http://defaced.ru/download.php?slug=2026-203-csv4nsh0t0pm7rE9IQH#smartctl_nvme8n1.txt
-http://defaced.ru/download.php?slug=2026-203-cc0vlnrhnpps9RwC0bt#smartctl_sdg.txt
-http://defaced.ru/download.php?slug=2026-203-ku35s6l07o942hHHB8P#smartctl_sdk.txt
-http://defaced.ru/download.php?slug=2026-203-i56k4emprhl7caK9TPI#smartctl_sdl.txt
-http://defaced.ru/download.php?slug=2026-203-ua7ccvkoc1d93H6WJTV#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-203-a84arkteds2meqxy6rk#dmesg.txt
-http://defaced.ru/download.php?slug=2026-203-loit0tvp27tsfd3UTBE#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-203-h3eolbh6nj4qccV7aJB#smartctl_nvme4n1.txt
+http://defaced.ru/download.php?slug=2026-204-pter3tec10vd164roXU#smartctl_sde.txt
+http://defaced.ru/download.php?slug=2026-204-hihhfomqfs2edo360wb#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-204-hngjvpibtte63n3nygW#smartctl_sdo.txt
+http://defaced.ru/download.php?slug=2026-204-cdt3vlbtrvr97LxSBgX#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-204-74viffmeaggtfaxZljM#smartctl_sdk.txt
+http://defaced.ru/download.php?slug=2026-204-pooeslcs4ict9QMS58H#smartctl_sdg.txt
+http://defaced.ru/download.php?slug=2026-204-p3v23etrq5oh7g6OajG#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-204-6cqjkt900mgeeLL0C5I#smartctl_sdc.txt
+http://defaced.ru/download.php?slug=2026-204-iluag68772op9NNwXua#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-204-ev5j4oksdjvr2Kr0DAQ#smartctl_sdh.txt
+http://defaced.ru/download.php?slug=2026-204-1ode95744bnm1cKEXan#smartctl_sdj.txt
+http://defaced.ru/download.php?slug=2026-204-0f0j5o0tdlimekAMeOE#smartctl_sdi.txt
+http://defaced.ru/download.php?slug=2026-204-bip71n86dnjt9ldnoJb#smartctl_sdm.txt
+http://defaced.ru/download.php?slug=2026-204-41o6368rnqme2TAJmHn#smartctl_sdd.txt
+http://defaced.ru/download.php?slug=2026-204-ctru9n2abjimdnHrQeT#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-204-9id7p0roh30fakPGecY#smartctl_sdf.txt
+http://defaced.ru/download.php?slug=2026-204-cr1h463cooh4aNcPbqc#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-204-m223jqsa5ie044hng6r#dmesg.txt
+http://defaced.ru/download.php?slug=2026-204-be66hbq87k222f0zQ2w#smartctl_sdl.txt
+http://defaced.ru/download.php?slug=2026-204-kqt9lnbbp8u9brMR5rn#smartctl_sdn.txt
 ```
 ---
-2026-07-22 14:27:56
+2026-07-23 04:02:21
