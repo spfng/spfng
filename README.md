@@ -3,19 +3,19 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: SGH016YX6Z)
+	ProLiant DL360 Gen10 	(SN: SGH015Y4B9)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	21 July 2026, Tuesday, 08:50 (UTC)
+	13 April 2026, Monday, 19:38 (UTC)
 
-	Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
-	Sockets: 2, Cores per socket: 24
+	Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
+	Sockets: 1, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.50 0.21 0.08
+	Load Average (1m, 5m, 15m): 0.91 0.30 0.11
 
-	Memory size: 251.54 GiB
-	Memory used: 4.89 GiB
-	Memory free: 247.45 GiB
+	Memory size: 62.46 GiB
+	Memory used: 3.27 GiB
+	Memory free: 59.25 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -27,38 +27,35 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (5c:b9:01:89:a1:dc)
-		IPv4: 192.168.5.138/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		eno5 (5c:b9:01:89:61:14)
+		IPv4: 192.168.5.139/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno6 (5c:b9:01:89:a1:dd)
+		eno6 (5c:b9:01:89:61:15)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno7 (5c:b9:01:89:a1:de)
+		eno7 (5c:b9:01:89:61:16)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8 (5c:b9:01:89:a1:df)
+		eno8 (5c:b9:01:89:61:17)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 08 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
-ПАМЯТЬ 20 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - SGH016YX6Z
+ПАМЯТЬ 08 | 64 GB - 2666 - DDR4 2933 - PROC 1 DIMM 8
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
+ПРОЦЕССОР 02 - Not Specified
+ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015Y4B9
 ДИСК (0.00 GiB)
 ДИСК (28.65 GiB)
 
-http://defaced.ru/download.php?slug=2026-210-o3f6tqtgbup7355ud5C#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-210-40ff6a0to8t74R1Svrk#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-210-taoalj2u20lf1kzPvzl#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-210-tthd2effsaqv6YnsGM8#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-210-og53vuuv3o55aLZX4P3#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-210-05gqn5mjbp1g1dBXfx0#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-210-j106ghqr3i644TPDBlS#dmesg.txt
+http://defaced.ru/download.php?slug=2026-210-coh179ocl9dd7wSATT2#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-210-asgldgkr7475eHlIcqn#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-210-d77dpvlqpj3609SbWEq#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-210-a9lm4fedo97v1OhpPEp#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-210-5hqr34dkr8nb7Ne9R3t#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-210-7jl7jh1c9g91cdZOEIh#dmesg.txt
+http://defaced.ru/download.php?slug=2026-210-j2r8rsjp04pncFUJyua#ip_address_show.txt
 ```
 ---
-2026-07-29 09:59:38
+2026-07-29 10:10:22
