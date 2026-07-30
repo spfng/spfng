@@ -3,23 +3,22 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7515 	(SN: FC97V53)
+	PowerEdge R640 	(SN: 30WCN83)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	13 April 2026, Monday, 19:38 (UTC)
+	30 July 2026, Thursday, 03:58 (UTC)
 
-	AMD EPYC 7B13 64-Core Processor
-	Sockets: 1, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz
+	Sockets: 2, Cores per socket: 24
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.87 0.27 0.10
+	Load Average (1m, 5m, 15m): 0.67 0.25 0.12
 
-	Memory size: 125.39 GiB
-	Memory used: 5.17 GiB
-	Memory free: 120.67 GiB
+	Memory size: 187.52 GiB
+	Memory used: 5.22 GiB
+	Memory free: 182.83 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
-		Drive: /dev/nvme0n1 (238.47 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,46 +26,38 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (2c:ea:7f:f1:5d:fe)
-		IPv4: 192.168.5.130/24
-		RX: 0.01 GiB, TX: 0.00 GiB
-
-		eno8403 (2c:ea:7f:f1:5d:ff)
+		eno1np0 (04:3f:72:f5:db:de)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens1f0np0 (0c:42:a1:24:9e:c6)
-		IPv4: 169.254.168.141/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens1f1np1 (0c:42:a1:24:9e:c7)
-		IPv4: 169.254.129.202/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		idrac (2c:ea:7f:f1:5d:fb)
-		RX: 0.00 GiB, TX: 0.00 GiB
+		eno2np1 (04:3f:72:f5:db:df)
+		IPv4: 192.168.5.129/24
+		RX: 0.02 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7B13 64-Core Processor
-ПАМЯТЬ 01 | 16 GB - 3200 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 16 GB - 3200 - DDR4 3200 - A2
-ПАМЯТЬ 03 | 16 GB - 3200 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 16 GB - 3200 - DDR4 3200 - A4
-ПАМЯТЬ 05 | 16 GB - 3200 - DDR4 3200 - A5
-ПАМЯТЬ 06 | 16 GB - 3200 - DDR4 3200 - A6
-ПАМЯТЬ 07 | 16 GB - 3200 - DDR4 3200 - A7
-ПАМЯТЬ 08 | 16 GB - 3200 - DDR4 3200 - A8
-ПЛАТФОРМА PowerEdge R7515 - FC97V53
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz
+ПАМЯТЬ 01 | 16 GB - 2666 - DDR4 2666 - A1
+ПАМЯТЬ 02 | 16 GB - 2666 - DDR4 2666 - A2
+ПАМЯТЬ 03 | 16 GB - 2666 - DDR4 2666 - A3
+ПАМЯТЬ 04 | 16 GB - 2666 - DDR4 2666 - A4
+ПАМЯТЬ 05 | 16 GB - 2666 - DDR4 2666 - A5
+ПАМЯТЬ 06 | 16 GB - 2666 - DDR4 2666 - A6
+ПАМЯТЬ 13 | 16 GB - 2666 - DDR4 2666 - B1
+ПАМЯТЬ 14 | 16 GB - 2666 - DDR4 2666 - B2
+ПАМЯТЬ 15 | 16 GB - 2666 - DDR4 2666 - B3
+ПАМЯТЬ 16 | 16 GB - 2666 - DDR4 2666 - B4
+ПАМЯТЬ 17 | 16 GB - 2666 - DDR4 2666 - B5
+ПАМЯТЬ 18 | 16 GB - 2666 - DDR4 2666 - B6
+ПЛАТФОРМА PowerEdge R640 - 30WCN83
 ДИСК (28.65 GiB)
-ДИСК (238.47 GiB)
 
-http://defaced.ru/download.php?slug=2026-211-q3ol1tdce73d0sCOkHZ#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-211-18q5ds91v89n5fqkIGI#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-211-gf9kias1f1ql9C9QYJl#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-211-g0ud4dnjqu4l2aoGScC#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-211-7b9funl5sgqi5QzfptL#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-211-vqclk5jsid5b3HlXotM#smartctl_nvme0n1.txt
-http://defaced.ru/download.php?slug=2026-211-1jtr66bjag0iazru7ID#dmesg.txt
+http://defaced.ru/download.php?slug=2026-211-vvfoqs7fok3maRzRN2B#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-211-kaqculjpfeskeS7YJg2#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-211-vjoohjb9vtc193eW4iH#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-211-aem14gfshq3709KnLt8#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-211-dcqho4fmo4bfePRFgMl#dmesg.txt
+http://defaced.ru/download.php?slug=2026-211-4df2eg85hftr1gjruWI#ip_address_show.txt
 ```
 ---
-2026-07-30 02:39:42
+2026-07-30 03:58:18
