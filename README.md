@@ -5,17 +5,17 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	PowerEdge R640 	(SN: 2QC2G43)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	30 July 2026, Thursday, 11:48 (UTC)
+	30 July 2026, Thursday, 12:06 (UTC)
 
 	Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz
 	Sockets: 2, Cores per socket: 24
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.55 0.18 0.06
+	Load Average (1m, 5m, 15m): 0.34 0.20 0.10
 
 	Memory size: 376.52 GiB
-	Memory used: 4.93 GiB
-	Memory free: 372.79 GiB
+	Memory used: 7.14 GiB
+	Memory free: 370.65 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -30,11 +30,11 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno1np0 (0c:42:a1:5a:dd:68)
 		IPv4: 192.168.5.161/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno2np1 (0c:42:a1:5a:dd:69)
 		IPv4: 192.168.5.134/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		RX: 0.02 GiB, TX: 0.00 GiB
 
 		ens1f0np0 (b8:ce:f6:37:74:32)
 		IPv4: 169.254.208.28/16
@@ -68,14 +68,14 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ДИСК (894.25 GiB)
 ДИСК (894.25 GiB)
 
-http://defaced.ru/download.php?slug=2026-211-ohq4si0id0rm9kdKvjJ#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-211-564f8u6o26ff0eOpBNH#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-211-88u063dj4nav8eXurN2#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-211-lg3kj56uk6vjdkLxM8I#smartctl_nvme0n1.txt
-http://defaced.ru/download.php?slug=2026-211-tmhl293nnjbnaCfin8v#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-211-ah8ukve0hrdb8VcqHxn#smartctl_nvme1n1.txt
-http://defaced.ru/download.php?slug=2026-211-dl9aohl7vb83aTRVNWr#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-211-66m7t0u1alnt5o3M3pj#dmesg.txt
+http://defaced.ru/download.php?slug=2026-211-6vfe2rsgji3nbFLYQTS#smartctl_nvme1n1.txt
+http://defaced.ru/download.php?slug=2026-211-gpthff8sgvms4AG4BHO#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-211-g7l1r6jf7pb1diRooAJ#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-211-11gi0qmpm0l1fCaiZD1#smartctl_nvme0n1.txt
+http://defaced.ru/download.php?slug=2026-211-60h1332irl8s0TX76AV#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-211-tajptt6hueskaUwC0Oq#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-211-utfrdcgf5ngibMtiF8s#dmesg.txt
+http://defaced.ru/download.php?slug=2026-211-j2uffm1o8fnkfNIgwy7#ipmitool_lan_print.txt
 ```
 ---
-2026-07-30 11:40:20
+2026-07-30 11:58:38
