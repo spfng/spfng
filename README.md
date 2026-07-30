@@ -3,22 +3,23 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7515 	(SN: 3WFM8F3)
+	ProLiant DL360 Gen10 	(SN: CZ29160NQN)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	30 July 2026, Thursday, 13:27 (UTC)
+	30 July 2026, Thursday, 14:07 (UTC)
 
-	AMD EPYC 7773X 64-Core Processor
-	Sockets: 1, Cores per socket: 48
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Gold 6144 CPU @ 3.50GHz
+	Sockets: 2, Cores per socket: 8
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.69 0.22 0.08
+	Load Average (1m, 5m, 15m): 0.74 0.24 0.08
 
-	Memory size: 503.30 GiB
-	Memory used: 6.73 GiB
-	Memory free: 498.83 GiB
+	Memory size: 125.56 GiB
+	Memory used: 4.09 GiB
+	Memory free: 121.73 GiB
 
 	Drives:
-		Drive: /dev/sda (28.65 GiB)
+		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sdb (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,41 +27,38 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (b0:7b:25:ba:ee:12)
-		IPv4: 192.168.5.167/24
+		eno1 (20:67:7c:e9:0a:a0)
+		IPv4: 192.168.5.103/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		ens1f0np0 (2c:ea:7f:94:7d:9b)
-		IPv4: 169.254.172.49/16
+		eno2 (20:67:7c:e9:0a:a1)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens1f1np1 (2c:ea:7f:94:7d:9c)
-		IPv4: 169.254.134.84/16
+		eno3 (20:67:7c:e9:0a:a2)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8403 (b0:7b:25:ba:ee:13)
+		eno4 (20:67:7c:e9:0a:a3)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7773X 64-Core Processor
-ПАМЯТЬ 01 | 64 GB - 3200 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 64 GB - 3200 - DDR4 3200 - A2
-ПАМЯТЬ 03 | 64 GB - 3200 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 64 GB - 3200 - DDR4 3200 - A4
-ПАМЯТЬ 05 | 64 GB - 3200 - DDR4 3200 - A5
-ПАМЯТЬ 06 | 64 GB - 3200 - DDR4 3200 - A6
-ПАМЯТЬ 07 | 64 GB - 3200 - DDR4 3200 - A7
-ПАМЯТЬ 08 | 64 GB - 3200 - DDR4 3200 - A8
-ПЛАТФОРМА PowerEdge R7515 - 3WFM8F3
+ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
+ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6144 CPU @ 3.50GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6144 CPU @ 3.50GHz
+ПЛАТФОРМА ProLiant DL360 Gen10 - CZ29160NQN
+ДИСК (0.00 GiB)
 ДИСК (28.65 GiB)
 
-http://defaced.ru/download.php?slug=2026-211-k2e7lhsace9matGNL6Q#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-211-61v81g8u3mtc13hhvqe#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-211-m71udkoqil37edGdLZ4#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-211-rkp58imqdthd6fNMD8I#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-211-303l7iskpi07bPAVoVh#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-211-qtisqurp63p1abbJkAH#dmesg.txt
+http://defaced.ru/download.php?slug=2026-211-du3n9u2vsrve13cLsFQ#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-211-7bfch2ooc2s52tP4yDK#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-211-2beq2prnvm7safOE5pC#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-211-veve89old24q9CbBmCs#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-211-4lsouj3oofgh6XacLnK#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-211-3a6us1l59viacJciC7C#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-211-1ftd1qokl5u1ezcNHDb#dmesg.txt
 ```
 ---
-2026-07-30 13:31:45
+2026-07-30 14:07:16
