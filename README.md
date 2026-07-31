@@ -3,31 +3,32 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PR2766GW 2.0b	(SN: PR2766GW1703240001)
+	PR2766GW 2.0b	(SN: PR2766GW1704100002)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	31 July 2026, Friday, 17:39 (UTC)
+	13 April 2026, Monday, 19:39 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
 	Sockets: 2, Cores per socket: 14
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.35 0.69 0.27
+	Load Average (1m, 5m, 15m): 0.74 0.30 0.11
 
 	Memory size: 31.27 GiB
-	Memory used: 3.69 GiB
-	Memory free: 27.38 GiB
+	Memory used: 3.51 GiB
+	Memory free: 27.56 GiB
 
 	Drives:
-		Drive: /dev/sda (894.25 GiB)
+		Drive: /dev/sda (745.21 GiB)
 		Drive: /dev/sdb (745.21 GiB)
-		Drive: /dev/sdc (745.21 GiB)
+		Drive: /dev/sdc (894.25 GiB)
 		Drive: /dev/sdd (447.13 GiB)
 		Drive: /dev/sde (745.21 GiB)
-		Drive: /dev/sdf (745.21 GiB)
+		Drive: /dev/sdf (894.25 GiB)
 		Drive: /dev/sdg (894.25 GiB)
 		Drive: /dev/sdh (894.25 GiB)
-		Drive: /dev/sdi (894.25 GiB)
-		Drive: /dev/sdj (28.65 GiB)
+		Drive: /dev/sdi (745.21 GiB)
+		Drive: /dev/sdj (894.25 GiB)
+		Drive: /dev/sdk (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -35,17 +36,19 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens1f0 (0c:c4:7a:bd:c5:76)
-		IPv4: 192.168.5.101/24
+		ens1f0 (0c:c4:7a:e0:d7:64)
+		IPv4: 192.168.5.173/24
 		RX: 0.02 GiB, TX: 0.00 GiB
 
-		ens1f1 (0c:c4:7a:bd:c5:77)
+		ens1f1 (0c:c4:7a:e0:d7:65)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens5f0 (48:df:37:4d:9f:08)
+		ens5f0 (00:11:0a:6a:d0:18)
+		IPv4: 169.254.101.224/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens5f1 (48:df:37:4d:9f:09)
+		ens5f1 (00:11:0a:6a:d0:19)
+		IPv4: 169.254.192.240/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -54,33 +57,35 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 09 | 16 GB - 2400 - DDR4 2400 - P2_DIMME1
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
-ПЛАТФОРМА PR2766GW - PR2766GW1703240001
+ПЛАТФОРМА PR2766GW - PR2766GW1704100002
+ДИСК (745.21 GiB)
+ДИСК (745.21 GiB)
 ДИСК (894.25 GiB)
-ДИСК (745.21 GiB)
-ДИСК (745.21 GiB)
 ДИСК (447.13 GiB)
 ДИСК (745.21 GiB)
+ДИСК (894.25 GiB)
+ДИСК (894.25 GiB)
+ДИСК (894.25 GiB)
 ДИСК (745.21 GiB)
-ДИСК (894.25 GiB)
-ДИСК (894.25 GiB)
 ДИСК (894.25 GiB)
 ДИСК (28.65 GiB)
 
-http://defaced.ru/download.php?slug=2026-212-4ulflotca1rp4cYDotE#smartctl_sdg.txt
-http://defaced.ru/download.php?slug=2026-212-8iquedm0gd3rblrJ548#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-212-ve98129mvo4l7fnbWHS#smartctl_sde.txt
-http://defaced.ru/download.php?slug=2026-212-4juchcsovljtcXFUrkk#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-212-777hiu3b42gv06S0NCw#smartctl_sdc.txt
-http://defaced.ru/download.php?slug=2026-212-7h5i16mocd659PB1Zyb#smartctl_sdi.txt
-http://defaced.ru/download.php?slug=2026-212-eu1qegvkpb1sdGSJcP7#smartctl_sdd.txt
-http://defaced.ru/download.php?slug=2026-212-hv60tt7sj85dby1B6lN#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-212-8kqb05h306093MTDG2W#smartctl_sdh.txt
-http://defaced.ru/download.php?slug=2026-212-fi53jm3m4kaq39Vvk4m#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-212-sh1efhiajgmafR34iqy#smartctl_sdf.txt
-http://defaced.ru/download.php?slug=2026-212-je60uft8dt5k93PcD6y#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-212-610o7usib6lb0Me0MGv#dmesg.txt
-http://defaced.ru/download.php?slug=2026-212-k9ivflo7172eexDxVq0#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-212-9sdepmfq4dsb9SU5rfR#smartctl_sdj.txt
+http://defaced.ru/download.php?slug=2026-212-ndbr1p1vfbgi58Jqf5N#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-212-k1vvabq34kjm9SSlyEp#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-212-6u1vnrat8ij40rTG9QM#smartctl_sdf.txt
+http://defaced.ru/download.php?slug=2026-212-oq893bjmmsdr7Thnop2#smartctl_sdk.txt
+http://defaced.ru/download.php?slug=2026-212-2h8dl7hfjbime1EJWZf#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-212-tavi3712i7ondNXwcIB#smartctl_sdi.txt
+http://defaced.ru/download.php?slug=2026-212-ku33e1f14pjm3yISz8Q#smartctl_sde.txt
+http://defaced.ru/download.php?slug=2026-212-s7np88ioh6ud5sbmfFp#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-212-0du1p50g8dppdLAnWfB#smartctl_sdc.txt
+http://defaced.ru/download.php?slug=2026-212-sl56idadj9i53ZrOQH4#smartctl_sdd.txt
+http://defaced.ru/download.php?slug=2026-212-1o3pkftd0egia6ZU7XB#smartctl_sdj.txt
+http://defaced.ru/download.php?slug=2026-212-90vpj3tsq04jb1ximXF#smartctl_sdh.txt
+http://defaced.ru/download.php?slug=2026-212-a2j88j2en2agcqzig1B#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-212-rccbujp3af3fdcVpXFX#dmesg.txt
+http://defaced.ru/download.php?slug=2026-212-t80338mdmoh92tRVxxe#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-212-0fg9rpcth4lb9Sot0jr#smartctl_sdg.txt
 ```
 ---
-2026-07-31 09:38:48
+2026-07-31 10:22:02
