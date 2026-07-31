@@ -3,21 +3,22 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7515 	(SN: 3WFM8F3)
+	PR2766GW 2.0b	(SN: PR2766GW1703240001)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	31 July 2026, Friday, 07:12 (UTC)
+	31 July 2026, Friday, 16:38 (UTC)
 
-	AMD EPYC 7773X 64-Core Processor
-	Sockets: 1, Cores per socket: 48
-	SVM-Virtualisation
+	Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
+	Sockets: 2, Cores per socket: 14
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.77 0.31 0.11
+	Load Average (1m, 5m, 15m): 1.56 0.51 0.18
 
-	Memory size: 503.30 GiB
-	Memory used: 6.42 GiB
-	Memory free: 499.15 GiB
+	Memory size: 31.27 GiB
+	Memory used: 3.42 GiB
+	Memory free: 27.65 GiB
 
-	No drives attached.
+	Drives:
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,37 +26,28 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens1f0np0 (2c:ea:7f:94:7d:9b)
-		RX: 0.00 GiB, TX: 0.00 GiB
+		ens1f0 (0c:c4:7a:bd:c5:76)
+		IPv4: 192.168.5.101/24
+		RX: 0.02 GiB, TX: 0.00 GiB
 
-		eno8303 (b0:7b:25:ba:ee:12)
-		IPv4: 192.168.5.167/24
-		RX: 0.01 GiB, TX: 0.00 GiB
-
-		eno8403 (b0:7b:25:ba:ee:13)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens1f1np1 (2c:ea:7f:94:7d:9c)
+		ens1f1 (0c:c4:7a:bd:c5:77)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7773X 64-Core Processor
-ПАМЯТЬ 01 | 64 GB - 3200 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 64 GB - 3200 - DDR4 3200 - A2
-ПАМЯТЬ 03 | 64 GB - 3200 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 64 GB - 3200 - DDR4 3200 - A4
-ПАМЯТЬ 05 | 64 GB - 3200 - DDR4 3200 - A5
-ПАМЯТЬ 06 | 64 GB - 3200 - DDR4 3200 - A6
-ПАМЯТЬ 07 | 64 GB - 3200 - DDR4 3200 - A7
-ПАМЯТЬ 08 | 64 GB - 3200 - DDR4 3200 - A8
-ПЛАТФОРМА PowerEdge R7515 - 3WFM8F3
+ПАМЯТЬ 01 | 16 GB - 2400 - DDR4 2400 - P1_DIMMA1
+ПАМЯТЬ 09 | 16 GB - 2400 - DDR4 2400 - P2_DIMME1
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
+ПЛАТФОРМА PR2766GW - PR2766GW1703240001
+ДИСК (28.65 GiB)
 
-http://defaced.ru/download.php?slug=2026-212-bl6vo4d9fjrt7e5I5aS#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-212-3sibla9v24qt99XzYTY#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-212-5k8o15m6ca4b0UB0sLO#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-212-t2cebepio8ud7oLsWDE#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-212-knv1oda1lhdn2SwiWWU#dmesg.txt
+http://defaced.ru/download.php?slug=2026-212-3jb0qoliq3r30tqqFGb#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-212-l9r5knulubq82t0KynV#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-212-8ubtrlpsr0j7aq6PaZb#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-212-duldtrg7fkj28Sh6hXM#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-212-cepffc7kh4k0da5QgoN#dmesg.txt
+http://defaced.ru/download.php?slug=2026-212-1r9fei5lelrf05lBes5#smartctl_sda.txt
 ```
 ---
-2026-07-31 07:17:00
+2026-07-31 08:38:06
