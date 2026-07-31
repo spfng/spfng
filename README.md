@@ -3,23 +3,21 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: MXQ00100WF)
+	PowerEdge R7515 	(SN: 3WFM8F3)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	31 July 2026, Friday, 07:07 (UTC)
+	31 July 2026, Friday, 07:12 (UTC)
 
-	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-	Sockets: 2, Cores per socket: 8
-	VMX-Virtualisation
+	AMD EPYC 7773X 64-Core Processor
+	Sockets: 1, Cores per socket: 48
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.97 0.31 0.11
+	Load Average (1m, 5m, 15m): 0.77 0.31 0.11
 
-	Memory size: 125.55 GiB
-	Memory used: 4.22 GiB
-	Memory free: 121.60 GiB
+	Memory size: 503.30 GiB
+	Memory used: 6.42 GiB
+	Memory free: 499.15 GiB
 
-	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (28.65 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,44 +25,37 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (94:40:c9:df:14:70)
-		IPv4: 192.168.5.143/24
+		ens1f0np0 (2c:ea:7f:94:7d:9b)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno8303 (b0:7b:25:ba:ee:12)
+		IPv4: 192.168.5.167/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno5np0 (48:df:37:77:b9:b0)
+		eno8403 (b0:7b:25:ba:ee:13)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (94:40:c9:df:14:71)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno6np1 (48:df:37:77:b9:b8)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3 (94:40:c9:df:14:72)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4 (94:40:c9:df:14:73)
+		ens1f1np1 (2c:ea:7f:94:7d:9c)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 08 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
-ПАМЯТЬ 20 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - MXQ00100WF
-ДИСК (0.00 GiB)
-ДИСК (28.65 GiB)
+ПРОЦЕССОР 01 - AMD EPYC 7773X 64-Core Processor
+ПАМЯТЬ 01 | 64 GB - 3200 - DDR4 3200 - A1
+ПАМЯТЬ 02 | 64 GB - 3200 - DDR4 3200 - A2
+ПАМЯТЬ 03 | 64 GB - 3200 - DDR4 3200 - A3
+ПАМЯТЬ 04 | 64 GB - 3200 - DDR4 3200 - A4
+ПАМЯТЬ 05 | 64 GB - 3200 - DDR4 3200 - A5
+ПАМЯТЬ 06 | 64 GB - 3200 - DDR4 3200 - A6
+ПАМЯТЬ 07 | 64 GB - 3200 - DDR4 3200 - A7
+ПАМЯТЬ 08 | 64 GB - 3200 - DDR4 3200 - A8
+ПЛАТФОРМА PowerEdge R7515 - 3WFM8F3
 
-http://defaced.ru/download.php?slug=2026-212-mrm93924alhndtl9w0c#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-212-i677bmn225freM5J6Bx#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-212-hf7cd10u113idmDEdYT#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-212-5c4o12gshtdq0aqHcuA#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-212-8nauj30ocnuh6MG7YRf#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-212-uo96j8f8srmhcNjmtQI#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-212-7m9vjmq2pfgm28s2sPX#dmesg.txt
+http://defaced.ru/download.php?slug=2026-212-bl6vo4d9fjrt7e5I5aS#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-212-3sibla9v24qt99XzYTY#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-212-5k8o15m6ca4b0UB0sLO#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-212-t2cebepio8ud7oLsWDE#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-212-knv1oda1lhdn2SwiWWU#dmesg.txt
 ```
 ---
-2026-07-31 07:07:14
+2026-07-31 07:17:00
