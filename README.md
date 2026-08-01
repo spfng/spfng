@@ -3,24 +3,23 @@
 ```
 DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: SGH016YXRL)
+	ProLiant DL360 Gen9 	(SN: CN770807F3)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	31 July 2026, Friday, 13:34 (UTC)
+	1 August 2026, Saturday, 05:22 (UTC)
 
-	Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz
-	Sockets: 2, Cores per socket: 24
+	Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz
+	Sockets: 1, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.92 0.32 0.11
+	Load Average (1m, 5m, 15m): 0.29 0.16 0.09
 
-	Memory size: 188.54 GiB
-	Memory used: 4.82 GiB
-	Memory free: 184.26 GiB
+	Memory size: 15.50 GiB
+	Memory used: 2.79 GiB
+	Memory free: 12.43 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sda (4471.13 GiB)
 		Drive: /dev/sdb (28.65 GiB)
-		Drive: /dev/sdc (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -28,46 +27,30 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (48:df:37:cd:be:62)
-		IPv4: 192.168.5.170/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		eno49 (48:df:37:20:fb:84)
+		IPv4: 192.168.1.81/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
-		enp1s0f4u4 (f6:b9:6f:c7:4e:f8)
-		IPv4: 16.1.15.2/30
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno6 (48:df:37:cd:be:63)
+		eno50 (48:df:37:20:fb:85)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 01 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 1
-ПАМЯТЬ 03 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
-ПАМЯТЬ 12 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 12
-ПАМЯТЬ 13 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 1
-ПАМЯТЬ 15 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 5
-ПАМЯТЬ 20 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
-ПАМЯТЬ 24 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 12
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - SGH016YXRL
-ДИСК (0.00 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz
+ПРОЦЕССОР 02 - Not Specified
+ПАМЯТЬ 01 | 8 GB - 2400 - DDR4 2400 - PROC 1 DIMM 1
+ПАМЯТЬ 04 | 8 GB - 2400 - DDR4 2400 - PROC 1 DIMM 4
+ПЛАТФОРМА ProLiant DL360 Gen9 - CN770807F3
+ДИСК (4471.13 GiB)
 ДИСК (28.65 GiB)
-ДИСК (29.30 GiB)
 
-http://defaced.ru/download.php?slug=2026-212-p5hq42067dqd5Jdzbsa#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-212-hegbgnvse3i0a72GvHw#smartctl_sdc.txt
-http://defaced.ru/download.php?slug=2026-212-tu77m04tdb3l4F4rFD4#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-212-lh8s98auj7cl6ReAslC#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-212-suea9vfmoq9g81JCzvG#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-212-38orssqg2fepdM8gHoL#dmesg.txt
-http://defaced.ru/download.php?slug=2026-212-s97h7t5sqq1d7vZCGs6#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-212-7sk3790ro5m2avpFRsL#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-213-fahva0vfoea39cTXShF#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-213-9a73cj645ciudlW4M9m#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-213-lss9eugjbj49fykh4FA#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-213-lr9ufjd88oboccnzZG7#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-213-13u67or4eqvk5Iwigg1#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-213-kfatt8sr13g52bbUeZ8#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-213-6bmd3768c5dtdm1EjtP#dmesg.txt
 ```
 ---
-2026-07-31 13:38:24
+2026-08-01 05:20:05
