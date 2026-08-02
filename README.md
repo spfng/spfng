@@ -5,17 +5,17 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	13 April 2026, Monday, 19:39 (UTC)
+	13 April 2026, Monday, 19:38 (UTC)
 
 	AMD EPYC 7773X 64-Core Processor
 	Sockets: 2, Cores per socket: 64
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.65 0.32 0.12
+	Load Average (1m, 5m, 15m): 2.24 0.61 0.21
 
 	Memory size: 1007.53 GiB
-	Memory used: 9.97 GiB
-	Memory free: 1001.36 GiB
+	Memory used: 10.24 GiB
+	Memory free: 1001.08 GiB
 
 	Drives:
 		Drive: /dev/sda (111.79 GiB)
@@ -32,7 +32,7 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		ens16f1np1 (58:a2:e1:39:33:15)
 		IPv4: 192.168.1.6/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		RX: 0.02 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
@@ -58,13 +58,13 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ДИСК (111.79 GiB)
 ДИСК (28.65 GiB)
 
-http://defaced.ru/download.php?slug=2026-214-mvrsrqe8dg0t21rcHkv#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-214-15mvi2j3qqp0cGIPHLJ#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-214-fvgj557oqs5h5fGmv5K#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-214-fritr4b7u3mm91WvXHU#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-214-vk6c0gps6v2u20DkBne#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-214-8bag2keukf62fYHoS4S#dmesg.txt
-http://defaced.ru/download.php?slug=2026-214-i2gton50ue7dewRuQfP#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-214-gmoaodlhg7lfcCEggMQ#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-214-uttpu3hmae2uazgdy1u#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-214-hbj40dbu4npaf26x2uR#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-214-lqf8csvk4cqtbc8PjVo#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-214-qqgbegas62b65gClUFe#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-214-li2ijuj499r5cpCHQzW#dmesg.txt
+http://defaced.ru/download.php?slug=2026-214-9srm1q80923q8pY686l#ip_address_show.txt
 ```
 ---
-2026-08-02 09:21:04
+2026-08-02 11:54:51
