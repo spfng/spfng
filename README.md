@@ -11,11 +11,11 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 	Sockets: 2, Cores per socket: 64
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 2.24 0.61 0.21
+	Load Average (1m, 5m, 15m): 1.11 0.36 0.13
 
 	Memory size: 1007.53 GiB
-	Memory used: 10.24 GiB
-	Memory free: 1001.08 GiB
+	Memory used: 10.10 GiB
+	Memory free: 1001.23 GiB
 
 	Drives:
 		Drive: /dev/sda (111.79 GiB)
@@ -31,8 +31,8 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		ens16f1np1 (58:a2:e1:39:33:15)
-		IPv4: 192.168.1.6/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		IPv4: 192.168.1.248/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
@@ -58,13 +58,13 @@ DEFACED.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ДИСК (111.79 GiB)
 ДИСК (28.65 GiB)
 
-http://defaced.ru/download.php?slug=2026-214-gmoaodlhg7lfcCEggMQ#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-214-uttpu3hmae2uazgdy1u#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-214-hbj40dbu4npaf26x2uR#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-214-lqf8csvk4cqtbc8PjVo#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-214-qqgbegas62b65gClUFe#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-214-li2ijuj499r5cpCHQzW#dmesg.txt
-http://defaced.ru/download.php?slug=2026-214-9srm1q80923q8pY686l#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-215-dk1898ile3dh6LAJKBv#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-215-m91428g11f116k0nDBH#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-215-cvqcjkfpm3l3ewjci3u#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-215-unam4ki1tliddYWS8AZ#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-215-bn7b0ogc08etabevCRL#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-215-538un7fos10b8FGRsZI#dmesg.txt
+http://defaced.ru/download.php?slug=2026-215-gti21qp7pa1pbt2TK01#fdisk_-l.txt
 ```
 ---
-2026-08-02 11:54:51
+2026-08-03 04:40:13
