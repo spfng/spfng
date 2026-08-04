@@ -3,23 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
+	ProLiant DL380 Gen9 	(SN: 6CU735CBXS)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
 	13 April 2026, Monday, 19:38 (UTC)
 
-	AMD EPYC 7773X 64-Core Processor
-	Sockets: 2, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz
+	Sockets: 2, Cores per socket: 16
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.87 0.35 0.13
+	Load Average (1m, 5m, 15m): 1.44 0.60 0.22
 
-	Memory size: 1007.53 GiB
-	Memory used: 10.04 GiB
-	Memory free: 1001.28 GiB
+	Memory size: 94.25 GiB
+	Memory used: 3.92 GiB
+	Memory free: 90.44 GiB
 
 	Drives:
-		Drive: /dev/sda (111.79 GiB)
-		Drive: /dev/sdb (28.65 GiB)
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,44 +26,38 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens16f0np0 (58:a2:e1:39:33:14)
+		eno1 (f4:03:43:4b:a9:54)
+		IPv4: 192.168.5.150/24
+		RX: 0.02 GiB, TX: 0.00 GiB
+
+		eno2 (f4:03:43:4b:a9:55)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens16f1np1 (58:a2:e1:39:33:15)
-		IPv4: 192.168.1.6/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		eno3 (f4:03:43:4b:a9:56)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (f4:03:43:4b:a9:57)
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7773X 64-Core Processor
-ПАМЯТЬ 02 | 64 GB - 3200 - DDR4 3200 - CPU1_CH1_D0(A0)
-ПАМЯТЬ 04 | 64 GB - 3200 - DDR4 3200 - CPU1_CH2_D0(B0)
-ПАМЯТЬ 06 | 64 GB - 3200 - DDR4 3200 - CPU1_CH3_D0(C0)
-ПАМЯТЬ 08 | 64 GB - 3200 - DDR4 3200 - CPU1_CH4_D0(D0)
-ПАМЯТЬ 10 | 64 GB - 3200 - DDR4 3200 - CPU1_CH5_D0(E0)
-ПАМЯТЬ 12 | 64 GB - 3200 - DDR4 3200 - CPU1_CH6_D0(F0)
-ПАМЯТЬ 14 | 64 GB - 3200 - DDR4 3200 - CPU1_CH7_D0(G0)
-ПАМЯТЬ 16 | 64 GB - 3200 - DDR4 3200 - CPU1_CH8_D0(H0)
-ПРОЦЕССОР 02 - AMD EPYC 7773X 64-Core Processor
-ПАМЯТЬ 18 | 64 GB - 3200 - DDR4 3200 - CPU2_CH1_D0(A0)
-ПАМЯТЬ 20 | 64 GB - 3200 - DDR4 3200 - CPU2_CH2_D0(B0)
-ПАМЯТЬ 22 | 64 GB - 3200 - DDR4 3200 - CPU2_CH3_D0(C0)
-ПАМЯТЬ 24 | 64 GB - 3200 - DDR4 3200 - CPU2_CH4_D0(D0)
-ПАМЯТЬ 26 | 64 GB - 3200 - DDR4 3200 - CPU2_CH5_D0(E0)
-ПАМЯТЬ 28 | 64 GB - 3200 - DDR4 3200 - CPU2_CH6_D0(F0)
-ПАМЯТЬ 30 | 64 GB - 3200 - DDR4 3200 - CPU2_CH7_D0(G0)
-ПАМЯТЬ 32 | 64 GB - 3200 - DDR4 3200 - CPU2_CH8_D0(H0)
-ПЛАТФОРМА R4950 G5 - 210235A2QUH213000125
-ДИСК (111.79 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz
+ПАМЯТЬ 01 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 1
+ПАМЯТЬ 09 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 9
+ПАМЯТЬ 12 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
+ПАМЯТЬ 13 | 16 GB - 2400 - DDR4 2400 - PROC 2 DIMM 1
+ПАМЯТЬ 21 | 16 GB - 2400 - DDR4 2400 - PROC 2 DIMM 9
+ПАМЯТЬ 24 | 16 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
+ПЛАТФОРМА ProLiant DL380 Gen9 - 6CU735CBXS
 ДИСК (28.65 GiB)
 
-http://defaced.ru/download.php?slug=2026-216-38sjogf7gc1t8Ar4rNZ#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-216-3kn0qkvk34bu5XV7i8U#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-216-ssjkcjmje21i0tRoiPK#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-216-5fal89l1o5r39bbKfNS#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-216-sl53ihepbh067ceBAgT#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-216-1qjqflhu82e751JLQT6#dmesg.txt
-http://defaced.ru/download.php?slug=2026-216-qb6v9u27jidlbpMWsTo#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-216-kqf9a7c1ltocbHpLruq#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-216-priddh5a8lgtbtxbxvu#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-216-fldvoeftt0eocW8si5j#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-216-ch4rfqs1uj9dapsCuvo#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-216-fk9750i61j3u2tUH0kb#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-216-tsdvptum9bng4CREwPM#dmesg.txt
 ```
 ---
-2026-08-04 04:43:00
+2026-08-04 04:56:40
