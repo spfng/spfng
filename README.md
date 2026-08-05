@@ -3,22 +3,23 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen9 	(SN: 6CU7316WXP)
+	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
 	13 April 2026, Monday, 19:38 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
-	Sockets: 2, Cores per socket: 10
-	VMX-Virtualisation
+	AMD EPYC 7773X 64-Core Processor
+	Sockets: 2, Cores per socket: 64
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.33 0.49 0.18
+	Load Average (1m, 5m, 15m): 1.14 0.36 0.13
 
-	Memory size: 31.26 GiB
-	Memory used: 3.17 GiB
-	Memory free: 27.89 GiB
+	Memory size: 1007.53 GiB
+	Memory used: 10.17 GiB
+	Memory free: 1001.15 GiB
 
 	Drives:
-		Drive: /dev/sda (28.65 GiB)
+		Drive: /dev/sda (111.79 GiB)
+		Drive: /dev/sdb (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,34 +27,44 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (f4:03:43:44:1d:a0)
-		IPv4: 192.168.5.199/24
+		ens16f0np0 (58:a2:e1:39:33:14)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens16f1np1 (58:a2:e1:39:33:15)
+		IPv4: 192.168.1.6/24
 		RX: 0.01 GiB, TX: 0.00 GiB
-
-		eno2 (f4:03:43:44:1d:a1)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3 (f4:03:43:44:1d:a2)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4 (f4:03:43:44:1d:a3)
-		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
-ПАМЯТЬ 12 | 16 GB - 2133 - DDR4 2133 - PROC 1 DIMM 12
-ПАМЯТЬ 24 | 16 GB - 2133 - DDR4 2133 - PROC 2 DIMM 12
-ПЛАТФОРМА ProLiant DL380 Gen9 - 6CU7316WXP
+ПРОЦЕССОР 01 - AMD EPYC 7773X 64-Core Processor
+ПАМЯТЬ 02 | 64 GB - 3200 - DDR4 3200 - CPU1_CH1_D0(A0)
+ПАМЯТЬ 04 | 64 GB - 3200 - DDR4 3200 - CPU1_CH2_D0(B0)
+ПАМЯТЬ 06 | 64 GB - 3200 - DDR4 3200 - CPU1_CH3_D0(C0)
+ПАМЯТЬ 08 | 64 GB - 3200 - DDR4 3200 - CPU1_CH4_D0(D0)
+ПАМЯТЬ 10 | 64 GB - 3200 - DDR4 3200 - CPU1_CH5_D0(E0)
+ПАМЯТЬ 12 | 64 GB - 3200 - DDR4 3200 - CPU1_CH6_D0(F0)
+ПАМЯТЬ 14 | 64 GB - 3200 - DDR4 3200 - CPU1_CH7_D0(G0)
+ПАМЯТЬ 16 | 64 GB - 3200 - DDR4 3200 - CPU1_CH8_D0(H0)
+ПРОЦЕССОР 02 - AMD EPYC 7773X 64-Core Processor
+ПАМЯТЬ 18 | 64 GB - 3200 - DDR4 3200 - CPU2_CH1_D0(A0)
+ПАМЯТЬ 20 | 64 GB - 3200 - DDR4 3200 - CPU2_CH2_D0(B0)
+ПАМЯТЬ 22 | 64 GB - 3200 - DDR4 3200 - CPU2_CH3_D0(C0)
+ПАМЯТЬ 24 | 64 GB - 3200 - DDR4 3200 - CPU2_CH4_D0(D0)
+ПАМЯТЬ 26 | 64 GB - 3200 - DDR4 3200 - CPU2_CH5_D0(E0)
+ПАМЯТЬ 28 | 64 GB - 3200 - DDR4 3200 - CPU2_CH6_D0(F0)
+ПАМЯТЬ 30 | 64 GB - 3200 - DDR4 3200 - CPU2_CH7_D0(G0)
+ПАМЯТЬ 32 | 64 GB - 3200 - DDR4 3200 - CPU2_CH8_D0(H0)
+ПЛАТФОРМА R4950 G5 - 210235A2QUH213000125
+ДИСК (111.79 GiB)
 ДИСК (28.65 GiB)
 
-http://defaced.ru/download.php?slug=2026-217-2oi88t8pmcepeZESMCK#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-217-7j6mq880h66s8O4PHBO#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-217-9csh033b5r0r2nWJd2r#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-217-k3v8s5sdj4dj82ec2Iq#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-217-fnq1h02bvsoq2UTy08c#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-217-dng4eacim8nhbFYIJDx#dmesg.txt
+http://defaced.ru/download.php?slug=2026-217-e4s73u9sng1lcPspOaU#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-217-v13vaa9il0al3hFQUok#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-217-9oe2g89dlq2h1CeWsf0#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-217-sslkvnclacqg1IgOUB6#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-217-e01re88d67883n3nLRn#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-217-8sp1dobs7u6t4jw19U7#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-217-vicutphml2geeMR4rM6#dmesg.txt
 ```
 ---
-2026-08-05 04:31:55
+2026-08-05 04:38:41
