@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL360 Gen10 	(SN: SGH016YXRL)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	5 August 2026, Wednesday, 06:40 (UTC)
+	5 August 2026, Wednesday, 06:59 (UTC)
 
 	Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
 	Sockets: 2, Cores per socket: 24
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.35 0.83 0.34
+	Load Average (1m, 5m, 15m): 0.94 0.72 0.31
 
 	Memory size: 125.41 GiB
-	Memory used: 4.15 GiB
-	Memory free: 121.52 GiB
+	Memory used: 4.16 GiB
+	Memory free: 121.51 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -55,13 +55,13 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ДИСК (0.00 GiB)
 ДИСК (28.65 GiB)
 
-http://defaced.ru/download.php?slug=2026-217-v4621a2q63vt1hVsBC0#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-217-tv0ligm1nljaftjBV3F#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-217-9oo74fpnmk6p27DtYvZ#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-217-nf4h7utoju4o64UbNRH#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-217-9qf75m9826aqfRjDk0U#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-217-482ot21glv2e1C6lCf4#dmesg.txt
-http://defaced.ru/download.php?slug=2026-217-1upfnn7upcbf1NkOKyQ#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-217-ngpksbjehi01eEf8q9B#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-217-38c39p5tnqho8D16jI8#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-217-3lmj8eg19mr2aLVR0Ra#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-217-mt9dt748gjk517A9btR#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-217-2ijhuooiao40aKJyPZz#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-217-ievm4cul140k8gH86O2#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-217-qkguam3sdsu80o1qnVF#dmesg.txt
 ```
 ---
-2026-08-05 06:45:10
+2026-08-05 07:03:44
