@@ -3,31 +3,23 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7515 	(SN: 3WFM8F3)
+	ProLiant DL360 Gen10 	(SN: SGH016YXRL)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	5 August 2026, Wednesday, 12:14 (UTC)
+	5 August 2026, Wednesday, 12:25 (UTC)
 
-	AMD EPYC 7773X 64-Core Processor
-	Sockets: 1, Cores per socket: 48
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+	Sockets: 2, Cores per socket: 24
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.85 0.26 0.09
+	Load Average (1m, 5m, 15m): 1.63 0.87 0.35
 
-	Memory size: 503.30 GiB
-	Memory used: 7.37 GiB
-	Memory free: 498.19 GiB
+	Memory size: 125.41 GiB
+	Memory used: 4.27 GiB
+	Memory free: 121.40 GiB
 
 	Drives:
-		Drive: /dev/sda (28.65 GiB)
-		Drive: /dev/nvme5n1 (2980.82 GiB)
-		Drive: /dev/nvme0n1 (3726.02 GiB)
-		Drive: /dev/nvme3n1 (3726.02 GiB)
-		Drive: /dev/nvme2n1 (3726.02 GiB)
-		Drive: /dev/nvme9n1 (3726.02 GiB)
-		Drive: /dev/nvme8n1 (3726.02 GiB)
-		Drive: /dev/nvme1n1 (3726.02 GiB)
-		Drive: /dev/nvme7n1 (3726.02 GiB)
-		Drive: /dev/nvme4n1 (3726.02 GiB)
+		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sdb (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -35,57 +27,38 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens1f0np0 (2c:ea:7f:94:7d:9b)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno8303 (b0:7b:25:ba:ee:12)
-		IPv4: 192.168.5.167/24
+		eno5 (38:ea:a7:93:58:98)
+		IPv4: 192.168.5.108/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		ens1f1np1 (2c:ea:7f:94:7d:9c)
+		eno6 (38:ea:a7:93:58:99)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8403 (b0:7b:25:ba:ee:13)
+		eno7 (38:ea:a7:93:58:9a)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno8 (38:ea:a7:93:58:9b)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7773X 64-Core Processor
-ПАМЯТЬ 01 | 64 GB - 3200 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 64 GB - 3200 - DDR4 3200 - A2
-ПАМЯТЬ 03 | 64 GB - 3200 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 64 GB - 3200 - DDR4 3200 - A4
-ПАМЯТЬ 05 | 64 GB - 3200 - DDR4 3200 - A5
-ПАМЯТЬ 06 | 64 GB - 3200 - DDR4 3200 - A6
-ПАМЯТЬ 07 | 64 GB - 3200 - DDR4 3200 - A7
-ПАМЯТЬ 08 | 64 GB - 3200 - DDR4 3200 - A8
-ПЛАТФОРМА PowerEdge R7515 - 3WFM8F3
+ПАМЯТЬ 08 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
+ПАМЯТЬ 20 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+ПЛАТФОРМА ProLiant DL360 Gen10 - SGH016YXRL
+ДИСК (0.00 GiB)
 ДИСК (28.65 GiB)
-ДИСК (2980.82 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
 
-http://defaced.ru/download.php?slug=2026-217-mqbkn818cinv24NYX1l#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-217-2pr34u5306pq0gcZSPF#smartctl_nvme4n1.txt
-http://defaced.ru/download.php?slug=2026-217-73n6152qksrn8yw1sGE#smartctl_nvme5n1.txt
-http://defaced.ru/download.php?slug=2026-217-93fvs4ivv577fEVRRwu#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-217-l77qb3oh37iqb7PkIAR#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-217-31jhsebpnm8n7RE6JcP#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-217-letl1lianre8cJeXVui#smartctl_nvme8n1.txt
-http://defaced.ru/download.php?slug=2026-217-mgupgd27tvtffMOaqLz#smartctl_nvme9n1.txt
-http://defaced.ru/download.php?slug=2026-217-h8ov6f96a393bmINnCE#smartctl_nvme7n1.txt
-http://defaced.ru/download.php?slug=2026-217-ai6fijb82pff4cmYgtE#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-217-d5surilkdi9pbE3B28P#smartctl_nvme2n1.txt
-http://defaced.ru/download.php?slug=2026-217-531bh7o5gq9r1DmaFMH#dmesg.txt
-http://defaced.ru/download.php?slug=2026-217-09gj1l273lgv6pCOEaq#smartctl_nvme0n1.txt
-http://defaced.ru/download.php?slug=2026-217-r52fq9tmhdtq3XR9rMI#smartctl_nvme1n1.txt
-http://defaced.ru/download.php?slug=2026-217-la8suo7eltuqbzISXex#smartctl_nvme3n1.txt
+http://defaced.ru/download.php?slug=2026-217-m3voagpd6r2tfE4i5YP#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-217-cdtmb7uqkhvm1clRpxl#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-217-n5lirstc7aqgfb1ikf3#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-217-sv6gguqg22kn3qijf8a#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-217-4btpf96pudmp5AK3a1V#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-217-gseg93fbvbou1iAHUVP#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-217-8s8or886n5ds8UFCgju#dmesg.txt
 ```
 ---
-2026-08-05 12:18:42
+2026-08-05 12:29:14
