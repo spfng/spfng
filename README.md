@@ -3,27 +3,25 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: CZ3824503E)
+	ProLiant DL380 Gen10 	(SN: SGH805S88P)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	6 August 2026, Thursday, 09:02 (UTC)
+	6 August 2026, Thursday, 13:04 (UTC)
 
-	Intel(R) Xeon(R) Gold 6144 CPU @ 3.50GHz
-	Sockets: 2, Cores per socket: 8
+	Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
+	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.60 0.88 0.36
+	Load Average (1m, 5m, 15m): 0.58 0.29 0.11
 
-	Memory size: 125.43 GiB
-	Memory used: 4.18 GiB
-	Memory free: 121.52 GiB
+	Memory size: 251.54 GiB
+	Memory used: 4.93 GiB
+	Memory free: 247.40 GiB
 
 	Drives:
 		Drive: /dev/sda (16764.00 GiB)
 		Drive: /dev/sdb (16764.00 GiB)
-		Drive: /dev/sdc (16764.00 GiB)
-		Drive: /dev/sdd (16764.00 GiB)
-		Drive: /dev/sde (0.00 GiB)
-		Drive: /dev/sdf (28.65 GiB)
+		Drive: /dev/sdc (0.00 GiB)
+		Drive: /dev/sdd (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -31,46 +29,49 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (ec:eb:b8:9b:83:08)
-		IPv4: 192.168.5.114/24
+		eno1 (d0:67:26:d4:c8:b2)
+		IPv4: 192.168.5.159/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno2 (d0:67:26:d4:c8:b3)
+		IPv4: 192.168.5.140/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (d0:67:26:d4:c8:b4)
+		IPv4: 192.168.5.196/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (ec:eb:b8:9b:83:09)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3 (ec:eb:b8:9b:83:0a)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4 (ec:eb:b8:9b:83:0b)
+		eno4 (d0:67:26:d4:c8:b5)
+		IPv4: 192.168.5.164/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
+ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 3
+ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 5
 ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
 ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
+ПАМЯТЬ 15 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 3
+ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 5
 ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
 ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6144 CPU @ 3.50GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6144 CPU @ 3.50GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - CZ3824503E
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
+ПЛАТФОРМА ProLiant DL380 Gen10 - SGH805S88P
 ДИСК (16764.00 GiB)
 ДИСК (16764.00 GiB)
 ДИСК (0.00 GiB)
 ДИСК (28.65 GiB)
 
-http://defaced.ru/download.php?slug=2026-218-pcbsa55s8qipc6LnAAB#smartctl_sdc.txt
-http://defaced.ru/download.php?slug=2026-218-ilm62oo21rc1737BwMA#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-218-idi49a15n4bi1bpVjGo#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-218-3bvplo4kiiin3nqSV77#smartctl_sdd.txt
-http://defaced.ru/download.php?slug=2026-218-vjbt35v4mnc77GL3Iz9#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-218-2g08bfis34m4chqICIK#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-218-alh7a6g1cd4qf4hRcvA#smartctl_sdf.txt
-http://defaced.ru/download.php?slug=2026-218-utvfcq5hr3vgafrAh75#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-218-lvjp6j749p9vbN03hmM#dmesg.txt
-http://defaced.ru/download.php?slug=2026-218-p5qseko36chg5e1stPP#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-218-aamne4d8spt08r2ajft#smartctl_sde.txt
+http://defaced.ru/download.php?slug=2026-218-5em223cfuadr7VluwTX#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-218-p5ajhdqc3ch550El8Ic#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-218-ghpqqc80tbss2WpvS5p#smartctl_sdc.txt
+http://defaced.ru/download.php?slug=2026-218-40ekfi79kiph9EQ5wO8#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-218-4mjjbuu9h1u09ztckro#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-218-t41mevo6oi751qFEVjE#smartctl_sdd.txt
+http://defaced.ru/download.php?slug=2026-218-15bjfr4tjc4dd7BZpUM#dmesg.txt
+http://defaced.ru/download.php?slug=2026-218-lss1ur3k2rb0f7C43ma#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-218-ghckm4e3k96aacEukoF#dmidecode.txt
 ```
 ---
-2026-08-06 09:02:21
+2026-08-06 13:04:10
