@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL360 Gen10 	(SN: CZ38245014)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	7 August 2026, Friday, 05:30 (UTC)
+	7 August 2026, Friday, 05:41 (UTC)
 
 	Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
 	Sockets: 2, Cores per socket: 26
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.82 0.28 0.10
+	Load Average (1m, 5m, 15m): 0.61 0.23 0.08
 
 	Memory size: 377.53 GiB
-	Memory used: 5.79 GiB
-	Memory free: 373.03 GiB
+	Memory used: 6.05 GiB
+	Memory free: 372.77 GiB
 
 	Drives:
 		Drive: /dev/sda (16764.00 GiB)
@@ -31,11 +31,11 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno1 (ec:eb:b8:9b:23:24)
 		IPv4: 192.168.5.186/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno2 (ec:eb:b8:9b:23:25)
 		IPv4: 192.168.5.163/24
-		RX: 0.00 GiB, TX: 0.00 GiB
+		RX: 0.01 GiB, TX: 0.00 GiB
 
 		eno3 (ec:eb:b8:9b:23:26)
 		IPv4: 192.168.5.130/24
@@ -43,7 +43,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno4 (ec:eb:b8:9b:23:27)
 		IPv4: 192.168.5.178/24
-		RX: 0.00 GiB, TX: 0.00 GiB
+		RX: 0.01 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
@@ -67,15 +67,15 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ДИСК (28.65 GiB)
 ДИСК (2980.82 GiB)
 
-http://defaced.ru/download.php?slug=2026-219-oloav6vug29gacV9lMC#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-219-p25hgjjgfnmhe3OdRlL#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-219-7mljt60f8g1p7WJwLMs#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-219-nu9117557lj48rOoKKj#smartctl_nvme0n1.txt
-http://defaced.ru/download.php?slug=2026-219-b7dccvenng3mcb6TsN1#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-219-nbpb54fq2c2scImS6cN#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-219-0p18f6ht61hrbSLoioZ#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-219-fcko8cfdo3usf1OEX7K#dmesg.txt
-http://defaced.ru/download.php?slug=2026-219-0gh51kq1smb03HvEvw8#smartctl_sdc.txt
+http://defaced.ru/download.php?slug=2026-219-tjh7ec8vk0lccvOuYEd#smartctl_nvme0n1.txt
+http://defaced.ru/download.php?slug=2026-219-hmd1r2jkqo4iaAojj8n#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-219-1e0efhd3ckac5noHKFS#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-219-tmeqqj8lml40anXMExJ#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-219-arkn4l6lfgstblg3Va6#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-219-eavsaeffumsa3QfX5GT#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-219-mjc6167uenr6e134y3k#smartctl_sdc.txt
+http://defaced.ru/download.php?slug=2026-219-me7krjj8m0c43MJ8hCt#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-219-a88n703sd5eq0pwbFu2#dmesg.txt
 ```
 ---
-2026-08-07 05:30:27
+2026-08-07 05:41:18
