@@ -3,24 +3,23 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen10 	(SN: SGH137VTKY)
+	R4950 G5 EthanolX	(SN: 210235A2QUH213000125)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	6 August 2026, Thursday, 17:07 (UTC)
+	7 August 2026, Friday, 03:33 (UTC)
 
-	Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz
-	Sockets: 2, Cores per socket: 24
-	VMX-Virtualisation
+	AMD EPYC 7773X 64-Core Processor
+	Sockets: 2, Cores per socket: 64
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.97 0.31 0.11
+	Load Average (1m, 5m, 15m): 1.05 0.35 0.12
 
-	Memory size: 187.56 GiB
-	Memory used: 4.90 GiB
-	Memory free: 183.19 GiB
+	Memory size: 1007.53 GiB
+	Memory used: 10.20 GiB
+	Memory free: 1001.13 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sda (111.79 GiB)
 		Drive: /dev/sdb (28.65 GiB)
-		Drive: /dev/nvme0n1 (2980.82 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -28,48 +27,44 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (38:ea:a7:8d:b1:60)
-		IPv4: 192.168.5.111/24
+		ens16f0np0 (58:a2:e1:39:33:14)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens16f1np1 (58:a2:e1:39:33:15)
+		IPv4: 192.168.1.248/24
 		RX: 0.01 GiB, TX: 0.00 GiB
-
-		eno6 (38:ea:a7:8d:b1:61)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno7 (38:ea:a7:8d:b1:62)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno8 (38:ea:a7:8d:b1:63)
-		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 01 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 1
-ПАМЯТЬ 03 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
-ПАМЯТЬ 12 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 12
-ПАМЯТЬ 13 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 1
-ПАМЯТЬ 15 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 5
-ПАМЯТЬ 20 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
-ПАМЯТЬ 24 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 12
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz
-ПЛАТФОРМА ProLiant DL380 Gen10 - SGH137VTKY
-ДИСК (0.00 GiB)
+ПРОЦЕССОР 01 - AMD EPYC 7773X 64-Core Processor
+ПАМЯТЬ 02 | 64 GB - 3200 - DDR4 3200 - CPU1_CH1_D0(A0)
+ПАМЯТЬ 04 | 64 GB - 3200 - DDR4 3200 - CPU1_CH2_D0(B0)
+ПАМЯТЬ 06 | 64 GB - 3200 - DDR4 3200 - CPU1_CH3_D0(C0)
+ПАМЯТЬ 08 | 64 GB - 3200 - DDR4 3200 - CPU1_CH4_D0(D0)
+ПАМЯТЬ 10 | 64 GB - 3200 - DDR4 3200 - CPU1_CH5_D0(E0)
+ПАМЯТЬ 12 | 64 GB - 3200 - DDR4 3200 - CPU1_CH6_D0(F0)
+ПАМЯТЬ 14 | 64 GB - 3200 - DDR4 3200 - CPU1_CH7_D0(G0)
+ПАМЯТЬ 16 | 64 GB - 3200 - DDR4 3200 - CPU1_CH8_D0(H0)
+ПРОЦЕССОР 02 - AMD EPYC 7773X 64-Core Processor
+ПАМЯТЬ 18 | 64 GB - 3200 - DDR4 3200 - CPU2_CH1_D0(A0)
+ПАМЯТЬ 20 | 64 GB - 3200 - DDR4 3200 - CPU2_CH2_D0(B0)
+ПАМЯТЬ 22 | 64 GB - 3200 - DDR4 3200 - CPU2_CH3_D0(C0)
+ПАМЯТЬ 24 | 64 GB - 3200 - DDR4 3200 - CPU2_CH4_D0(D0)
+ПАМЯТЬ 26 | 64 GB - 3200 - DDR4 3200 - CPU2_CH5_D0(E0)
+ПАМЯТЬ 28 | 64 GB - 3200 - DDR4 3200 - CPU2_CH6_D0(F0)
+ПАМЯТЬ 30 | 64 GB - 3200 - DDR4 3200 - CPU2_CH7_D0(G0)
+ПАМЯТЬ 32 | 64 GB - 3200 - DDR4 3200 - CPU2_CH8_D0(H0)
+ПЛАТФОРМА R4950 G5 - 210235A2QUH213000125
+ДИСК (111.79 GiB)
 ДИСК (28.65 GiB)
-ДИСК (2980.82 GiB)
 
-http://defaced.ru/download.php?slug=2026-218-p2g6e18opjj0cIw433U#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-218-ra29ja5nrnbg9iElpGx#smartctl_nvme0n1.txt
-http://defaced.ru/download.php?slug=2026-218-2gggff6t7hp10aAerKR#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-218-b75lkiea4pepeKcrfQ2#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-218-3t33nkq530hc03reOm6#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-218-ejbu55qojhdm26KdCbG#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-218-rt70kro6098s56orXGx#dmesg.txt
-http://defaced.ru/download.php?slug=2026-218-t17f8fl0a24j5DuGq0t#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-219-u0o4dp846dqp47k3x9q#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-219-hr06c7dc3re6cRqOpQD#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-219-aj45n4706eajdriBIkR#ip_address_show.txt
+http://defaced.ru/download.php?slug=2026-219-tpgsh3e4q8kn9Zwd10D#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-219-3dbsc5qi6ojobBfA89r#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-219-8ha2v0fh67cc7IzBTzB#dmesg.txt
+http://defaced.ru/download.php?slug=2026-219-rbam4fkcma6f3mdjDXW#smartctl_sda.txt
 ```
 ---
-2026-08-06 14:07:30
+2026-08-07 03:33:21
