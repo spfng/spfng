@@ -11,11 +11,11 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 	Sockets: 2, Cores per socket: 10
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 2.15 0.81 0.29
+	Load Average (1m, 5m, 15m): 1.18 0.48 0.18
 
 	Memory size: 31.26 GiB
-	Memory used: 3.26 GiB
-	Memory free: 27.82 GiB
+	Memory used: 3.41 GiB
+	Memory free: 27.67 GiB
 
 	Drives:
 		Drive: /dev/sda (16764.00 GiB)
@@ -44,7 +44,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno2 (f4:03:43:4b:a9:55)
 		IPv4: 192.168.5.120/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno3 (f4:03:43:4b:a9:56)
 		IPv4: 192.168.5.122/24
@@ -52,6 +52,14 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno4 (f4:03:43:4b:a9:57)
 		IPv4: 192.168.5.113/24
+		RX: 0.01 GiB, TX: 0.00 GiB
+
+		eno49 (48:df:37:0d:bb:40)
+		IPv4: 169.254.120.139/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno50 (48:df:37:0d:bb:41)
+		IPv4: 169.254.31.89/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -75,24 +83,24 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ДИСК (16764.00 GiB)
 ДИСК (28.65 GiB)
 
-http://defaced.ru/download.php?slug=2026-223-tlsa2nmc65jp4h6Qq6t#ipmitool_lan_print.txt
-http://defaced.ru/download.php?slug=2026-223-kiskh99ivbnn4Xf5nTQ#smartctl_sde.txt
-http://defaced.ru/download.php?slug=2026-223-nibuqk2v2q7i1sEMmhT#smartctl_sdg.txt
-http://defaced.ru/download.php?slug=2026-223-vt1qpff5dta34pKqMfW#smartctl_sdc.txt
-http://defaced.ru/download.php?slug=2026-223-8oo0n3d4ud7s8PzvVJg#smartctl_sdf.txt
-http://defaced.ru/download.php?slug=2026-223-m59aim8gtnp34ZWoBZK#smartctl_sdk.txt
-http://defaced.ru/download.php?slug=2026-223-ctj18ldchc3a1UddN1O#ip_address_show.txt
-http://defaced.ru/download.php?slug=2026-223-jir9rkf8tgu40xY37di#smartctl_sdm.txt
-http://defaced.ru/download.php?slug=2026-223-jhm1egg97qjv1NuhaAs#smartctl_sdi.txt
-http://defaced.ru/download.php?slug=2026-223-bgsj6un3feo93eAbJ4Y#fdisk_-l.txt
-http://defaced.ru/download.php?slug=2026-223-cgknp622d8482T63QXH#smartctl_sda.txt
-http://defaced.ru/download.php?slug=2026-223-285q25tb4849aMchOWj#smartctl_sdb.txt
-http://defaced.ru/download.php?slug=2026-223-6ttiqsvvsa4l6IY5wSj#smartctl_sdl.txt
-http://defaced.ru/download.php?slug=2026-223-s1n0ddth9tedekO29KF#smartctl_sdj.txt
-http://defaced.ru/download.php?slug=2026-223-mlnusdinm5l03E1iGGm#dmidecode.txt
-http://defaced.ru/download.php?slug=2026-223-ouvecq198c985u2jg4g#dmesg.txt
-http://defaced.ru/download.php?slug=2026-223-0g7aca5ps6bt7vUujL5#smartctl_sdd.txt
-http://defaced.ru/download.php?slug=2026-223-mv3029vcgs867FfRyJ6#smartctl_sdh.txt
+http://defaced.ru/download.php?slug=2026-223-fmt9b6a8r2qe2vAa1uS#smartctl_sdc.txt
+http://defaced.ru/download.php?slug=2026-223-7paatv1ngc0ebvpZG3N#smartctl_sdf.txt
+http://defaced.ru/download.php?slug=2026-223-di4o6eusg8vc7bVihNK#smartctl_sdl.txt
+http://defaced.ru/download.php?slug=2026-223-8tgkhsr5kon62om13eT#fdisk_-l.txt
+http://defaced.ru/download.php?slug=2026-223-cu5dg12djsko7YC2aFd#ipmitool_lan_print.txt
+http://defaced.ru/download.php?slug=2026-223-3jelpmmfbn7ef07Ll65#smartctl_sdm.txt
+http://defaced.ru/download.php?slug=2026-223-mrbcetvd27fg4NEFxu3#smartctl_sdg.txt
+http://defaced.ru/download.php?slug=2026-223-21eie4mocasa6FJ6sXY#smartctl_sda.txt
+http://defaced.ru/download.php?slug=2026-223-3bl14rb4km1c0Aw5g5V#smartctl_sdb.txt
+http://defaced.ru/download.php?slug=2026-223-46v10o0p5kkpc0C5Tkg#smartctl_sdi.txt
+http://defaced.ru/download.php?slug=2026-223-qef999ak1k9a9jnSGdq#smartctl_sde.txt
+http://defaced.ru/download.php?slug=2026-223-bhacvfh4t7a7bHYqheu#smartctl_sdj.txt
+http://defaced.ru/download.php?slug=2026-223-c9itk1jq8ei73Q7waEb#smartctl_sdh.txt
+http://defaced.ru/download.php?slug=2026-223-s6e5gcermrgu5GbDfgs#smartctl_sdk.txt
+http://defaced.ru/download.php?slug=2026-223-8mki0tb71314cwBb4tm#dmidecode.txt
+http://defaced.ru/download.php?slug=2026-223-t497cgu3cmq61iu1nDT#dmesg.txt
+http://defaced.ru/download.php?slug=2026-223-p7aotg6fps958ENqSPo#smartctl_sdd.txt
+http://defaced.ru/download.php?slug=2026-223-id5jd7g0ne7feKOcZn7#ip_address_show.txt
 ```
 ---
-2026-08-11 05:20:51
+2026-08-11 05:37:14
