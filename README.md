@@ -7,15 +7,15 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 	Running on Linux 6.12.94+deb13-amd64 x86_64
 	13 April 2026, Monday, 19:38 (UTC)
 
-	AMD EPYC 7542 32-Core Processor
+	AMD EPYC 7543 32-Core Processor
 	Sockets: 2, Cores per socket: 32
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.19 0.34 0.12
+	Load Average (1m, 5m, 15m): 1.62 0.54 0.19
 
-	Memory size: 125.47 GiB
-	Memory used: 3.35 GiB
-	Memory free: 122.25 GiB
+	Memory size: 125.48 GiB
+	Memory used: 5.54 GiB
+	Memory free: 120.22 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -26,44 +26,44 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (70:b5:e8:d1:0a:30)
+		eno8303 (70:b5:e8:d1:0a:30)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (70:b5:e8:d1:0a:31)
+		eno8403 (70:b5:e8:d1:0a:31)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno33np0 (b4:83:51:08:60:a8)
+		eno12399np0 (b4:83:51:08:60:a8)
 		IPv4: 192.168.5.103/24
 		RX: 0.02 GiB, TX: 0.00 GiB
 
-		eno34np1 (b4:83:51:08:60:a9)
+		eno12409np1 (b4:83:51:08:60:a9)
 		IPv4: 192.168.5.107/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno35np2 (b4:83:51:08:60:aa)
+		eno12419np2 (b4:83:51:08:60:aa)
 		IPv4: 192.168.5.101/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno36np3 (b4:83:51:08:60:ab)
+		eno12429np3 (b4:83:51:08:60:ab)
 		IPv4: 192.168.5.157/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7542 32-Core Processor
-ПРОЦЕССОР 02 - AMD EPYC 7542 32-Core Processor
+ПРОЦЕССОР 01 - AMD EPYC 7543 32-Core Processor
+ПРОЦЕССОР 02 - AMD EPYC 7543 32-Core Processor
 ПАМЯТЬ 03 | 64 GB - 2666 - DDR4 2666 - A3
 ПАМЯТЬ 19 | 64 GB - 2666 - DDR4 2666 - B3
 ПЛАТФОРМА PowerEdge R6525 - BGVS8B3
 ДИСК (28.65 GiB)
 
   CVE listing:
-2026-224-re5naotp4pje09M8TvX
-2026-224-5qv2msl26dbtbxEyFU0
-2026-224-rt2plb9vuf4m2OFjoxv
-2026-224-3tetj5gha47969UM2Oj
-2026-224-m805tfq0ld0pebbVnPa
-2026-224-e646t88jfbkufUr0CMh
+2026-224-d9grjf5f5dvh4MhQjNU
+2026-224-rbhvcja7rvm71WZx59H
+2026-224-pl2ue5obpam6aGgQi6O
+2026-224-amp7dljvv474eKyKBn0
+2026-224-gntleotp283j9L5zZJ1
+2026-224-q13f5g9v3051cuywvo8
 ```
 ---
-2026-08-12 10:14:33
+2026-08-12 10:28:25
