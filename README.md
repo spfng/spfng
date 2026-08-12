@@ -3,25 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant ML350 Gen9 	(SN: 6CU5036AMR)
+	PowerEdge R6525 	(SN: BGVS8B3)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	12 August 2026, Wednesday, 09:37 (UTC)
+	13 April 2026, Monday, 19:38 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
-	Sockets: 2, Cores per socket: 8
-	VMX-Virtualisation
+	AMD EPYC 7542 32-Core Processor
+	Sockets: 2, Cores per socket: 32
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.30 0.49 0.18
+	Load Average (1m, 5m, 15m): 1.19 0.34 0.12
 
-	Memory size: 125.76 GiB
-	Memory used: 3.62 GiB
-	Memory free: 122.43 GiB
+	Memory size: 125.47 GiB
+	Memory used: 3.35 GiB
+	Memory free: 122.25 GiB
 
 	Drives:
-		Drive: /dev/sda (1788.50 GiB)
-		Drive: /dev/sdb (1788.50 GiB)
-		Drive: /dev/sdc (0.00 GiB)
-		Drive: /dev/sdd (28.65 GiB)
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -29,46 +26,44 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (70:10:6f:44:9e:ea)
-		IPv4: 192.168.5.141/24
-		RX: 0.01 GiB, TX: 0.00 GiB
-
-		eno2 (70:10:6f:44:9e:eb)
-		IPv4: 192.168.5.129/24
+		eno1 (70:b5:e8:d1:0a:30)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (70:10:6f:44:9e:ec)
-		IPv4: 192.168.5.160/24
+		eno2 (70:b5:e8:d1:0a:31)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (70:10:6f:44:9e:ed)
-		IPv4: 192.168.5.125/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		eno33np0 (b4:83:51:08:60:a8)
+		IPv4: 192.168.5.103/24
+		RX: 0.02 GiB, TX: 0.00 GiB
+
+		eno34np1 (b4:83:51:08:60:a9)
+		IPv4: 192.168.5.107/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno35np2 (b4:83:51:08:60:aa)
+		IPv4: 192.168.5.101/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno36np3 (b4:83:51:08:60:ab)
+		IPv4: 192.168.5.157/24
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
-ПАМЯТЬ 01 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 1
-ПАМЯТЬ 04 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 4
-ПАМЯТЬ 13 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 1
-ПАМЯТЬ 16 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 4
-ПЛАТФОРМА ProLiant ML350 Gen9 - 6CU5036AMR
-ДИСК (1788.50 GiB)
-ДИСК (1788.50 GiB)
-ДИСК (0.00 GiB)
+ПРОЦЕССОР 01 - AMD EPYC 7542 32-Core Processor
+ПРОЦЕССОР 02 - AMD EPYC 7542 32-Core Processor
+ПАМЯТЬ 03 | 64 GB - 2666 - DDR4 2666 - A3
+ПАМЯТЬ 19 | 64 GB - 2666 - DDR4 2666 - B3
+ПЛАТФОРМА PowerEdge R6525 - BGVS8B3
 ДИСК (28.65 GiB)
 
   CVE listing:
-2026-224-t66tpth9n4h45Wp0aLr
-2026-224-coaojlepbeur0tt7gbT
-2026-224-hdhk0h21uvkvaRXOfvf
-2026-224-oqqlmt4520pqb4r7wXd
-2026-224-sp1qosl09bfp8gYe9QJ
-2026-224-8r2522cl2icmcfqkwSX
-2026-224-fthmc6qh0onu54CgSmf
-2026-224-mfbmkol074ef1eWLxDS
-2026-224-vrng4o0mf54q3eLGLW4
+2026-224-re5naotp4pje09M8TvX
+2026-224-5qv2msl26dbtbxEyFU0
+2026-224-rt2plb9vuf4m2OFjoxv
+2026-224-3tetj5gha47969UM2Oj
+2026-224-m805tfq0ld0pebbVnPa
+2026-224-e646t88jfbkufUr0CMh
 ```
 ---
-2026-08-12 09:37:01
+2026-08-12 10:14:33
