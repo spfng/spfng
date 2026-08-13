@@ -3,23 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen10 	(SN: CZ3825692V)
+	PowerEdge R6525 	(SN: BGVS8B3)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	12 August 2026, Wednesday, 12:05 (UTC)
+	13 April 2026, Monday, 19:39 (UTC)
 
-	Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
-	Sockets: 2, Cores per socket: 20
-	VMX-Virtualisation
+	AMD EPYC 7543 32-Core Processor
+	Sockets: 2, Cores per socket: 32
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.11 0.44 0.16
+	Load Average (1m, 5m, 15m): 0.79 0.41 0.16
 
-	Memory size: 377.54 GiB
-	Memory used: 5.95 GiB
-	Memory free: 372.89 GiB
+	Memory size: 125.48 GiB
+	Memory used: 5.45 GiB
+	Memory free: 120.31 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (28.65 GiB)
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,50 +26,44 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (b8:83:03:45:e7:ca)
-		IPv4: 192.168.5.117/24
+		eno8303 (70:b5:e8:d1:0a:30)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno8403 (70:b5:e8:d1:0a:31)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno12399np0 (b4:83:51:08:60:a8)
+		IPv4: 192.168.5.103/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (b8:83:03:45:e7:cb)
-		IPv4: 192.168.5.173/24
+		eno12409np1 (b4:83:51:08:60:a9)
+		IPv4: 192.168.5.107/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (b8:83:03:45:e7:cc)
-		IPv4: 192.168.5.149/24
+		eno12419np2 (b4:83:51:08:60:aa)
+		IPv4: 192.168.5.101/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (b8:83:03:45:e7:cd)
-		IPv4: 192.168.5.100/24
+		eno12429np3 (b4:83:51:08:60:ab)
+		IPv4: 192.168.5.157/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 01 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 1
-ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
-ПАМЯТЬ 12 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 12
-ПАМЯТЬ 13 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 1
-ПАМЯТЬ 15 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 5
-ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
-ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 12
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
-ПЛАТФОРМА ProLiant DL380 Gen10 - CZ3825692V
-ДИСК (0.00 GiB)
+ПРОЦЕССОР 01 - AMD EPYC 7543 32-Core Processor
+ПРОЦЕССОР 02 - AMD EPYC 7543 32-Core Processor
+ПАМЯТЬ 03 | 64 GB - 2666 - DDR4 2666 - A3
+ПАМЯТЬ 19 | 64 GB - 2666 - DDR4 2666 - B3
+ПЛАТФОРМА PowerEdge R6525 - BGVS8B3
 ДИСК (28.65 GiB)
 
   CVE listing:
-2026-224-d2jr9oskqs4kevfqLY9
-2026-224-lulio58aefur9DZ56Pe
-2026-224-kd5pjphvs6142aeTafk
-2026-224-95fccktdc5do2McGi1r
-2026-224-urmla2parlhm2u0aAEN
-2026-224-o2rv8qlvbeis2Yw6QvI
-2026-224-1933q1fgc7ttbuIdWsS
+2026-225-s1ephtsfntbleuGQI6w
+2026-225-umg59o4l153k1tLxSu7
+2026-225-6j93q7r755lr91sgym7
+2026-225-ekt4b7jqup6cdJstpU3
+2026-225-a1ua2dqilg6ldBcoWal
+2026-225-d5627rps1i1t7MW0TkL
 ```
 ---
-2026-08-12 12:05:11
+2026-08-13 08:14:54
