@@ -3,34 +3,36 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7515 	(SN: GFKNV53)
+	ProLiant DL380 Gen9 	(SN: 6CU735CCP4)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	13 April 2026, Monday, 19:38 (UTC)
+	14 August 2026, Friday, 10:35 (UTC)
 
-	AMD EPYC 7402P 24-Core Processor
-	Sockets: 1, Cores per socket: 24
-	SVM-Virtualisation
+	Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
+	Sockets: 2, Cores per socket: 10
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.83 0.27 0.10
+	Load Average (1m, 5m, 15m): 1.92 0.71 0.26
 
-	Memory size: 251.30 GiB
-	Memory used: 5.65 GiB
-	Memory free: 246.93 GiB
+	Memory size: 62.76 GiB
+	Memory used: 3.55 GiB
+	Memory free: 59.19 GiB
 
 	Drives:
-		Drive: /dev/sda (28.65 GiB)
-		Drive: /dev/nvme9n1 (3726.02 GiB)
-		Drive: /dev/nvme3n1 (3726.02 GiB)
-		Drive: /dev/nvme4n1 (3726.02 GiB)
-		Drive: /dev/nvme10n1 (3726.02 GiB)
-		Drive: /dev/nvme5n1 (3726.02 GiB)
-		Drive: /dev/nvme8n1 (3726.02 GiB)
-		Drive: /dev/nvme7n1 (3726.02 GiB)
-		Drive: /dev/nvme11n1 (3726.02 GiB)
-		Drive: /dev/nvme1n1 (3726.02 GiB)
-		Drive: /dev/nvme6n1 (3726.02 GiB)
-		Drive: /dev/nvme2n1 (3726.02 GiB)
-		Drive: /dev/nvme0n1 (3726.02 GiB)
+		Drive: /dev/sda (16763.97 GiB)
+		Drive: /dev/sdb (16763.97 GiB)
+		Drive: /dev/sdc (16763.97 GiB)
+		Drive: /dev/sdd (16763.97 GiB)
+		Drive: /dev/sde (16763.97 GiB)
+		Drive: /dev/sdf (16763.97 GiB)
+		Drive: /dev/sdg (16763.97 GiB)
+		Drive: /dev/sdh (16763.97 GiB)
+		Drive: /dev/sdi (16763.97 GiB)
+		Drive: /dev/sdj (16763.97 GiB)
+		Drive: /dev/sdk (447.10 GiB)
+		Drive: /dev/sdl (894.22 GiB)
+		Drive: /dev/sdm (16763.97 GiB)
+		Drive: /dev/sdn (16763.97 GiB)
+		Drive: /dev/sdo (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -38,62 +40,71 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (2c:ea:7f:f1:57:7e)
-		IPv4: 192.168.5.187/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		eno1 (f4:03:43:4b:a9:64)
+		IPv4: 192.168.5.106/24
+		RX: 0.02 GiB, TX: 0.00 GiB
 
-		eno2 (2c:ea:7f:f1:57:7f)
-		IPv4: 192.168.5.179/24
+		eno2 (f4:03:43:4b:a9:65)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		idrac (2c:ea:7f:f1:57:7b)
+		eno3 (f4:03:43:4b:a9:66)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (f4:03:43:4b:a9:67)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno49 (48:df:37:27:9b:98)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno50 (48:df:37:27:9b:99)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7402P 24-Core Processor
-ПАМЯТЬ 01 | 32 GB - 3200 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 32 GB - 3200 - DDR4 3200 - A2
-ПАМЯТЬ 03 | 32 GB - 3200 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 32 GB - 3200 - DDR4 3200 - A4
-ПАМЯТЬ 05 | 32 GB - 3200 - DDR4 3200 - A5
-ПАМЯТЬ 06 | 32 GB - 3200 - DDR4 3200 - A6
-ПАМЯТЬ 07 | 32 GB - 3200 - DDR4 3200 - A7
-ПАМЯТЬ 08 | 32 GB - 3200 - DDR4 3200 - A8
-ПЛАТФОРМА PowerEdge R7515 - GFKNV53
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
+ПАМЯТЬ 09 | 16 GB - 2133 - DDR4 2133 - PROC 1 DIMM 9
+ПАМЯТЬ 12 | 16 GB - 2133 - DDR4 2133 - PROC 1 DIMM 12
+ПАМЯТЬ 21 | 16 GB - 2133 - DDR4 2133 - PROC 2 DIMM 9
+ПАМЯТЬ 24 | 16 GB - 2133 - DDR4 2133 - PROC 2 DIMM 12
+ПЛАТФОРМА ProLiant DL380 Gen9 - 6CU735CCP4
+ДИСК (16763.97 GiB)
+ДИСК (16763.97 GiB)
+ДИСК (16763.97 GiB)
+ДИСК (16763.97 GiB)
+ДИСК (16763.97 GiB)
+ДИСК (16763.97 GiB)
+ДИСК (16763.97 GiB)
+ДИСК (16763.97 GiB)
+ДИСК (16763.97 GiB)
+ДИСК (16763.97 GiB)
+ДИСК (447.10 GiB)
+ДИСК (894.22 GiB)
+ДИСК (16763.97 GiB)
+ДИСК (16763.97 GiB)
 ДИСК (28.65 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
 
   CVE listing:
-2026-226-i2njjs8il7ql0bbgYxd
-2026-226-t01q9gikh8n0cM9xLf1
-2026-226-vgno8vgo556l2icZ48m
-2026-226-v7qlce3s698eaMSUw0T
-2026-226-0anip5kp65o84wuG1xJ
-2026-226-5glot56944k2dEfsUJW
-2026-226-sdib918hnuljb50bHRF
-2026-226-pa34t7i1iackejXXewe
-2026-226-csj394hmotnafXg5rQF
-2026-226-agimo0rfsifd4A3YpFK
-2026-226-7f9jua1els205iwHGhR
-2026-226-a2k5vp2ipcbf30e5hio
-2026-226-vhrsohi5m29vcy50a8K
-2026-226-8q7i69psse01b0CeR39
-2026-226-vh3kkrkrrkh6aoVBlOt
-2026-226-kfd4o4ir24acbe37sfs
-2026-226-csqbjo7leopn5F2IFP0
-2026-226-t1pe4ef7su4i8luQqhp
+2026-226-sukfqtrtt0ii6VvDr7j
+2026-226-pl5arj84thcv9tvGcrg
+2026-226-a40o2ohth5018qLzFGT
+2026-226-9bd653q8ccmi2JyAuaM
+2026-226-o2qb9u74ljl7bSnRkFU
+2026-226-4j2to4mbv22uf85ELL9
+2026-226-tvpb4b3693nueIEcpD6
+2026-226-na7c38ck7hbteO6E0Ip
+2026-226-25ra3aiihlnn6v4JvsA
+2026-226-sagec34rl0qt0DnOug7
+2026-226-l139pt9iqmiq7LU6liS
+2026-226-338dnntv9nqr9YHkvcF
+2026-226-3nd0t0q4udsj0XH3u1j
+2026-226-kpc7lhd9dce24PqrBiI
+2026-226-bmpocouq9lhjal0KDGw
+2026-226-ge89t2m8c06meKYCxHh
+2026-226-r9756r9t8puc09G8dzj
+2026-226-9kn1233s098vdCjNWUB
+2026-226-hugmaiuijgtv6sxCmKv
+2026-226-9anprq6lgfs2aXrC6yl
 ```
 ---
-2026-08-14 09:27:00
+2026-08-14 10:49:30
