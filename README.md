@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: SGH015Y4H9)
+	ProLiant DL380 Gen10 	(SN: SGH223XRPQ)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	14 August 2026, Friday, 07:10 (UTC)
+	14 August 2026, Friday, 08:14 (UTC)
 
-	Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
+	Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
 	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.38 0.49 0.18
+	Load Average (1m, 5m, 15m): 0.87 0.30 0.11
 
 	Memory size: 377.54 GiB
-	Memory used: 5.62 GiB
-	Memory free: 373.22 GiB
+	Memory used: 5.87 GiB
+	Memory free: 372.97 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -27,11 +27,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (48:df:37:ac:19:7a)
-		IPv4: 192.168.5.112/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		eno5 (8c:dc:d4:b5:d6:40)
+		IPv4: 192.168.5.162/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno6 (48:df:37:ac:19:7b)
+		eno6 (8c:dc:d4:b5:d6:41)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno7 (8c:dc:d4:b5:d6:42)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno8 (8c:dc:d4:b5:d6:43)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -48,20 +54,20 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
 ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
 ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 12
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015Y4H9
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
+ПЛАТФОРМА ProLiant DL380 Gen10 - SGH223XRPQ
 ДИСК (0.00 GiB)
 ДИСК (28.65 GiB)
 
   CVE listing:
-2026-226-7c5jlmcgnuq1bjhVry2
-2026-226-vocovh8j8mio5N42QHl
-2026-226-dciho0lqf96edO684tJ
-2026-226-e4n9puh7c4g8dcNvvy9
-2026-226-intni5vk33lm7nVu5Dq
-2026-226-tb3qr57bgstkaYOj889
-2026-226-f2fga3tgfk2c6lTJ5Oi
+2026-226-3qphq3ot7nnbbwps7oh
+2026-226-s41pcnpr9pe03if1WsM
+2026-226-ruppp30d6q7dbCbSKaY
+2026-226-a85snp90iq1feAHGCpg
+2026-226-nk6s3pmagpbt7ZsbvyN
+2026-226-kr36pq40rmm0bPsc0cS
+2026-226-nuqk5sovk2rgfaLB8YW
 ```
 ---
-2026-08-14 07:16:15
+2026-08-14 08:14:40
