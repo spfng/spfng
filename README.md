@@ -11,11 +11,11 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 	Sockets: 2, Cores per socket: 10
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 10.27 2.70 0.93
+	Load Average (1m, 5m, 15m): 20.80 5.78 2.00
 
 	Memory size: 62.76 GiB
-	Memory used: 3.69 GiB
-	Memory free: 58.97 GiB
+	Memory used: 3.67 GiB
+	Memory free: 58.99 GiB
 
 	Drives:
 		Drive: /dev/sda (16763.97 GiB)
@@ -45,18 +45,23 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		RX: 0.03 GiB, TX: 0.00 GiB
 
 		eno2 (f4:03:43:4b:a9:65)
+		IPv4: 192.168.5.131/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno3 (f4:03:43:4b:a9:66)
+		IPv4: 192.168.5.185/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno4 (f4:03:43:4b:a9:67)
+		IPv4: 192.168.5.199/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno49 (48:df:37:27:9b:98)
+		IPv4: 169.254.173.141/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno50 (48:df:37:27:9b:99)
+		IPv4: 169.254.161.138/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -125,6 +130,26 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 2026-226-l7gnto7krigaeWXskKH
 2026-226-hg6a7nn7jur2dl5U8ve
 2026-226-71dis4s514j21PeKE2j
+2026-226-54ibslfi95720UmEQwR
+2026-226-afthhh685mll3vwyBE8
+2026-226-g2juelac88066GCrlDV
+2026-226-f43enssorl5setV1gFI
+2026-226-i0hlu4vfm42vfayDRsR
+2026-226-kevncqdv5ici1mgiiPQ
+2026-226-cq5l4l471faj1qJkl15
+2026-226-ebbea4a8ieu079L0Ne5
+2026-226-jseh76vo72e40SvqBL5
+2026-226-obq4751qt5f24GB4trQ
+2026-226-ob16p62aahqc2GlV7tZ
+2026-226-iuatjcqkjl5veTQkr1p
+2026-226-ebkss6i2l6v60EfII3W
+2026-226-nl0s41j8ks2s86rrV9Y
+2026-226-qn1qcupabv9n5zBHE3L
+2026-226-qqepe05b1ggtd5XCsWE
+2026-226-ne2839gmokjb0E6lXTr
+2026-226-b7sarta9tdssekNQDkF
+2026-226-c7b9543iohou0DITP3T
+2026-226-r18esr2as85e2ciOVAx
 ```
 ---
-2026-08-14 10:50:13
+2026-08-14 10:50:39
