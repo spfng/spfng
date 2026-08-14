@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL380 Gen9 	(SN: 6CU735CCP4)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	14 August 2026, Friday, 10:35 (UTC)
+	14 August 2026, Friday, 10:36 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
 	Sockets: 2, Cores per socket: 10
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.92 0.71 0.26
+	Load Average (1m, 5m, 15m): 10.27 2.70 0.93
 
 	Memory size: 62.76 GiB
-	Memory used: 3.55 GiB
-	Memory free: 59.19 GiB
+	Memory used: 3.69 GiB
+	Memory free: 58.97 GiB
 
 	Drives:
 		Drive: /dev/sda (16763.97 GiB)
@@ -42,7 +42,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno1 (f4:03:43:4b:a9:64)
 		IPv4: 192.168.5.106/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		RX: 0.03 GiB, TX: 0.00 GiB
 
 		eno2 (f4:03:43:4b:a9:65)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -105,6 +105,26 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 2026-226-9kn1233s098vdCjNWUB
 2026-226-hugmaiuijgtv6sxCmKv
 2026-226-9anprq6lgfs2aXrC6yl
+2026-226-kjo982vh326feFj86oq
+2026-226-1ostjg55op40aXCTfZJ
+2026-226-2j629mt3lf5o0rDj52w
+2026-226-kgistjb28llmbRWx8ci
+2026-226-asdkqhai8an49gmlw8O
+2026-226-bofnsvglqu3q1yZwfMD
+2026-226-94tbie7frp7fc0ls4Cf
+2026-226-4p0l2vservbb9i2qj7Q
+2026-226-ik8uam1gtd2sbtMscYa
+2026-226-kiknqoa567re5pxBpLd
+2026-226-vgpljlo7pol905oZT7b
+2026-226-233b78mjk3n5fWLp3cC
+2026-226-c8ki1ra32nv16Lme5MO
+2026-226-d7hv0fhib0r068CH9Oz
+2026-226-tonsr4mkl066a5Ot7cj
+2026-226-hskr1mu0jcjcfyZoYAS
+2026-226-a1muf81fasf6aZq1lE8
+2026-226-l7gnto7krigaeWXskKH
+2026-226-hg6a7nn7jur2dl5U8ve
+2026-226-71dis4s514j21PeKE2j
 ```
 ---
-2026-08-14 10:49:30
+2026-08-14 10:50:13
