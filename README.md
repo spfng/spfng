@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL360 Gen10 	(SN: SGH016S58H)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	15 August 2026, Saturday, 06:37 (UTC)
+	15 August 2026, Saturday, 11:49 (UTC)
 
 	Intel(R) Xeon(R) Gold 6230R CPU @ 2.10GHz
 	Sockets: 2, Cores per socket: 26
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.72 0.25 0.09
+	Load Average (1m, 5m, 15m): 0.67 0.27 0.10
 
 	Memory size: 62.53 GiB
 	Memory used: 3.90 GiB
-	Memory free: 58.60 GiB
+	Memory free: 58.61 GiB
 
 	Drives:
 		Drive: /dev/sda (447.13 GiB)
@@ -55,14 +55,14 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ДИСК (28.65 GiB)
 
   CVE listing:
-2026-227-e2aqa0qisq91aHa74U0
-2026-227-f9k9mho4046u1FlujH4
-2026-227-66rbi4h424me2TWhYlt
-2026-227-269ojqq6cekr6qh26RB
-2026-227-aalsg6h46jah6j872SS
-2026-227-qv31pt70ceqm0tRpXnY
-2026-227-u4f6lhgi55a1euasZwZ
-2026-227-l1qakk0lq8gf4Lxucab
+2026-227-7etvgjr2cmf08vDFpg8
+2026-227-8na0lh6o1gc94CboUB3
+2026-227-lg7c79ne8kdt6e8ECF3
+2026-227-1o54up46rvrs9jAQCE4
+2026-227-4804e7df1neobt22a0D
+2026-227-f5nklkl46evf14oGya2
+2026-227-m04paflc78vv0s93zCD
+2026-227-1c3g47v3rbnbb4HZ1Bb
 ```
 ---
-2026-08-15 06:40:13
+2026-08-15 11:51:56
