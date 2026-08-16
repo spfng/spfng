@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: CN781205GY)
+	ProLiant DL360 Gen10 	(SN: SGH015Y484)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	13 April 2026, Monday, 19:38 (UTC)
+	16 August 2026, Sunday, 12:28 (UTC)
 
-	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-	Sockets: 2, Cores per socket: 8
+	Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
+	Sockets: 2, Cores per socket: 18
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.91 0.30 0.11
+	Load Average (1m, 5m, 15m): 0.81 0.28 0.10
 
-	Memory size: 125.55 GiB
-	Memory used: 4.38 GiB
-	Memory free: 121.46 GiB
+	Memory size: 251.54 GiB
+	Memory used: 4.88 GiB
+	Memory free: 247.47 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -27,45 +27,39 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (ec:eb:b8:97:ab:98)
-		IPv4: 192.168.5.167/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		eno5 (8c:dc:d4:b7:6c:e0)
+		IPv4: 192.168.5.108/24
+		RX: 0.02 GiB, TX: 0.00 GiB
 
-		eno5np0 (48:df:37:85:9e:c0)
+		eno6 (8c:dc:d4:b7:6c:e1)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (ec:eb:b8:97:ab:99)
+		eno7 (8c:dc:d4:b7:6c:e2)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno6np1 (48:df:37:85:9e:c8)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3 (ec:eb:b8:97:ab:9a)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4 (ec:eb:b8:97:ab:9b)
+		eno8 (8c:dc:d4:b7:6c:e3)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 08 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
-ПАМЯТЬ 20 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - CN781205GY
+ПАМЯТЬ 08 | 64 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 64 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
+ПАМЯТЬ 20 | 64 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 64 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
+ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015Y484
 ДИСК (0.00 GiB)
 ДИСК (28.65 GiB)
 
   CVE listing:
-2026-228-31jjn0gpdgvj6g6UsOJ
-2026-228-ep8ablml832f1JQ18Ej
-2026-228-7kr56gpuqp7jeQwpSBI
-2026-228-kqeedhvvp8ok8RhkNXh
-2026-228-torb5j2sttgo7Usq8mt
-2026-228-uad95uh8bfu781Kz1GP
-2026-228-d624954haclc3snAPFR
+2026-228-jj1qneeiv3np4Nt32kO
+2026-228-t9c5t6vpvo7nbS8kfwY
+2026-228-pb3s90n7hm2r1DMa0UL
+2026-228-bsernj6nfbjt3MChybB
+2026-228-6bifacbarnffcGHkscQ
+2026-228-i07etcr9j0paa2e5189
+2026-228-tq8lp3kmeqat6vNB39q
 ```
 ---
-2026-08-16 12:24:49
+2026-08-16 12:28:58
