@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: SGH015Y4GG)
+	ProLiant DL360 Gen10 	(SN: SGH015Y484)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	16 August 2026, Sunday, 08:58 (UTC)
+	16 August 2026, Sunday, 09:16 (UTC)
 
 	Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
 	Sockets: 2, Cores per socket: 18
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.90 0.29 0.11
+	Load Average (1m, 5m, 15m): 0.33 0.21 0.10
 
-	Memory size: 125.54 GiB
-	Memory used: 4.28 GiB
-	Memory free: 121.55 GiB
+	Memory size: 251.54 GiB
+	Memory used: 4.76 GiB
+	Memory free: 247.59 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -27,39 +27,39 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (8c:dc:d4:ad:70:74)
-		IPv4: 192.168.5.155/24
+		eno5 (8c:dc:d4:b7:6c:e0)
+		IPv4: 192.168.5.108/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno6 (8c:dc:d4:ad:70:75)
+		eno6 (8c:dc:d4:b7:6c:e1)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno7 (8c:dc:d4:ad:70:76)
+		eno7 (8c:dc:d4:b7:6c:e2)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8 (8c:dc:d4:ad:70:77)
+		eno8 (8c:dc:d4:b7:6c:e3)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
-ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
+ПАМЯТЬ 08 | 64 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 64 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
+ПАМЯТЬ 20 | 64 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 64 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015Y4GG
+ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015Y484
 ДИСК (0.00 GiB)
 ДИСК (28.65 GiB)
 
   CVE listing:
-2026-228-ngoq920c08oc4ngGuSh
-2026-228-6hrtvbdudajueusCU8a
-2026-228-ftvmcv30m21r8RADIKB
-2026-228-cfcmlq15q8jtccodr3F
-2026-228-oelv8itnibrd5xZFLJv
-2026-228-n64crkrsuhpjdYX5ZBM
-2026-228-cubkqp42uimqaOjUDv1
+2026-228-6387i0c9gsdc6lsyir3
+2026-228-vbc3r4h88lgj6rTcxP1
+2026-228-qnj8j5cpuau67vQcTXM
+2026-228-b9863ebu0s8j22MUfNO
+2026-228-eg9v45oh92156bpj8pc
+2026-228-0sbs5hn4mjkabXl0ipd
+2026-228-uubg3r2dfq175XhxAMe
 ```
 ---
-2026-08-16 08:55:44
+2026-08-16 09:16:49
