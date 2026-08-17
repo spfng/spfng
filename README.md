@@ -3,23 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: SGH015Y44F)
+	ProLiant DL360 Gen10 	(SN: SGH015Y484)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	17 August 2026, Monday, 18:49 (UTC)
+	17 August 2026, Monday, 10:10 (UTC)
 
 	Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
 	Sockets: 2, Cores per socket: 18
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.79 0.26 0.10
+	Load Average (1m, 5m, 15m): 0.96 0.31 0.11
 
 	Memory size: 251.54 GiB
-	Memory used: 4.70 GiB
-	Memory free: 247.65 GiB
+	Memory used: 4.90 GiB
+	Memory free: 247.45 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,17 +26,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (38:ea:a7:8b:9a:74)
-		IPv4: 192.168.5.114/24
+		eno5 (8c:dc:d4:b7:6c:e0)
+		IPv4: 192.168.5.108/24
 		RX: 0.02 GiB, TX: 0.00 GiB
 
-		eno6 (38:ea:a7:8b:9a:75)
+		eno6 (8c:dc:d4:b7:6c:e1)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno7 (38:ea:a7:8b:9a:76)
+		eno7 (8c:dc:d4:b7:6c:e2)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8 (38:ea:a7:8b:9a:77)
+		eno8 (8c:dc:d4:b7:6c:e3)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -48,18 +47,16 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 22 | 64 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015Y44F
+ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015Y484
 ДИСК (0.00 GiB)
-ДИСК (28.65 GiB)
 
   CVE listing:
-2026-229-5nml7rkm96q108S1Avv
-2026-229-t2frigtid8au8bDjTSk
-2026-229-ji3gpakbfdd35DCCuUM
-2026-229-s23eifk2r7tv5oLQUYZ
-2026-229-o7prce4bevj2bLgMyyk
-2026-229-431jcfpoptop8B2T0cp
-2026-229-rpqts9qkd5on9quSEN7
+2026-229-291fj9u31ms10yUWg99
+2026-229-v2jatu1rbgjb1QLz7OG
+2026-229-8s7stpqfqrtm6rgHV9a
+2026-229-tddis3fkkqa6batH2MU
+2026-229-n0s6dhg8pv8k95nE8NV
+2026-229-e5i0jrr1aqtc8OH0zGZ
 ```
 ---
-2026-08-17 09:53:10
+2026-08-17 10:10:03
