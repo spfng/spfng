@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL360 Gen10 	(SN: CZ3824503C)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	17 August 2026, Monday, 11:27 (UTC)
+	17 August 2026, Monday, 11:28 (UTC)
 
 	Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
 	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.66 0.68 0.30
+	Load Average (1m, 5m, 15m): 59.22 19.38 6.92
 
 	Memory size: 377.42 GiB
-	Memory used: 5.82 GiB
-	Memory free: 372.90 GiB
+	Memory used: 5.53 GiB
+	Memory free: 373.15 GiB
 
 	Drives:
 		Drive: /dev/sda (16764.00 GiB)
@@ -33,15 +33,18 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno1 (ec:eb:b8:9a:99:14)
 		IPv4: 192.168.5.124/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		RX: 0.03 GiB, TX: 0.00 GiB
 
 		eno2 (ec:eb:b8:9a:99:15)
+		IPv4: 192.168.5.153/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno3 (ec:eb:b8:9a:99:16)
+		IPv4: 192.168.5.111/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno4 (ec:eb:b8:9a:99:17)
+		IPv4: 192.168.5.140/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -80,6 +83,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 2026-229-81at63bgnn8f1KEBylb
 2026-229-9j38i5fvpjpj654BEmp
 2026-229-8u1uoa4efe7n3ONb114
+2026-229-edc2f0kvvck88xLNIlD
+2026-229-iqnu91gt3irv6021MFG
+2026-229-2uca1ct3bfpsd9eKV3M
+2026-229-bk6eovumiuqt43sCSXd
+2026-229-gibov71iea5o0Mpr37v
+2026-229-6557mq15imqjfHzcwuy
+2026-229-tocdp3usf3eua3vO6KL
+2026-229-gppkgvcfmict032hF5P
+2026-229-c8jmth5vphbq3awzqLW
+2026-229-bb3tfacsdjn39NCqWl5
+2026-229-ngcucm2c5hiscPWqLkv
 ```
 ---
-2026-08-17 11:27:08
+2026-08-17 11:28:54
