@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: SGH015Y484)
+	ProLiant DL360 Gen10 	(SN: SGH015Y44F)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	17 August 2026, Monday, 07:11 (UTC)
+	17 August 2026, Monday, 16:10 (UTC)
 
 	Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
 	Sockets: 2, Cores per socket: 18
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.89 0.31 0.11
+	Load Average (1m, 5m, 15m): 0.99 0.33 0.12
 
 	Memory size: 251.54 GiB
-	Memory used: 4.90 GiB
-	Memory free: 247.45 GiB
+	Memory used: 5.25 GiB
+	Memory free: 247.10 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -26,17 +26,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (8c:dc:d4:b7:6c:e0)
-		IPv4: 192.168.5.108/24
+		eno5 (38:ea:a7:8b:9a:74)
+		IPv4: 192.168.5.114/24
 		RX: 0.02 GiB, TX: 0.00 GiB
 
-		eno6 (8c:dc:d4:b7:6c:e1)
+		eno6 (38:ea:a7:8b:9a:75)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno7 (8c:dc:d4:b7:6c:e2)
+		eno7 (38:ea:a7:8b:9a:76)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8 (8c:dc:d4:b7:6c:e3)
+		eno8 (38:ea:a7:8b:9a:77)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -47,16 +47,16 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 22 | 64 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015Y484
+ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015Y44F
 ДИСК (0.00 GiB)
 
   CVE listing:
-2026-229-99fpkj92dacrb05rIOF
-2026-229-mphaa4o33bal0BwyNUa
-2026-229-s4t2oaf6506i1qNfGzU
-2026-229-k2ls9feiaqtafogRqsa
-2026-229-19l1rhk16fo291bT2gf
-2026-229-49iduummo6l5fLqtR7A
+2026-229-kqb396dm0a0k73qkeT8
+2026-229-ddfqirb0arbi4BlryY0
+2026-229-a4hj4uivqdq21UbepY2
+2026-229-iqc67cupd46mdXMwOJP
+2026-229-54qduf1a1kiv7RwuxPd
+2026-229-4o62p5gidotqe7WNe4D
 ```
 ---
-2026-08-17 07:11:38
+2026-08-17 07:14:12
