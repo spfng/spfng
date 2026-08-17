@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: SGH015Y44F)
+	ProLiant DL360 Gen10 	(SN: SGH015Y4GG)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	17 August 2026, Monday, 16:10 (UTC)
+	17 August 2026, Monday, 07:19 (UTC)
 
 	Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
 	Sockets: 2, Cores per socket: 18
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.99 0.33 0.12
+	Load Average (1m, 5m, 15m): 0.50 0.24 0.09
 
-	Memory size: 251.54 GiB
-	Memory used: 5.25 GiB
-	Memory free: 247.10 GiB
+	Memory size: 125.54 GiB
+	Memory used: 4.13 GiB
+	Memory free: 121.70 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -26,37 +26,37 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (38:ea:a7:8b:9a:74)
-		IPv4: 192.168.5.114/24
+		eno5 (8c:dc:d4:ad:70:74)
+		IPv4: 192.168.5.155/24
 		RX: 0.02 GiB, TX: 0.00 GiB
 
-		eno6 (38:ea:a7:8b:9a:75)
+		eno6 (8c:dc:d4:ad:70:75)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno7 (38:ea:a7:8b:9a:76)
+		eno7 (8c:dc:d4:ad:70:76)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8 (38:ea:a7:8b:9a:77)
+		eno8 (8c:dc:d4:ad:70:77)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 08 | 64 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 64 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
-ПАМЯТЬ 20 | 64 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 64 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
+ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
+ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015Y44F
+ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015Y4GG
 ДИСК (0.00 GiB)
 
   CVE listing:
-2026-229-kqb396dm0a0k73qkeT8
-2026-229-ddfqirb0arbi4BlryY0
-2026-229-a4hj4uivqdq21UbepY2
-2026-229-iqc67cupd46mdXMwOJP
-2026-229-54qduf1a1kiv7RwuxPd
-2026-229-4o62p5gidotqe7WNe4D
+2026-229-ethpr7kh0iksckoP56y
+2026-229-n41kcd4seaa73bgW0QS
+2026-229-95j9judb62r28ZBVrMC
+2026-229-a2bfo73qom5t4LePMHb
+2026-229-7nqbhqucav1q43t3K6l
+2026-229-ei33j63uoseo9cbIF4z
 ```
 ---
-2026-08-17 07:14:12
+2026-08-17 07:16:49
