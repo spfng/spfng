@@ -3,27 +3,23 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: CZ3824503C)
+	ProLiant DL380 Gen10 	(SN: SGH905YVT4)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	17 August 2026, Monday, 11:28 (UTC)
+	17 August 2026, Monday, 13:52 (UTC)
 
-	Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
-	Sockets: 2, Cores per socket: 20
+	Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 59.22 19.38 6.92
+	Load Average (1m, 5m, 15m): 0.69 0.27 0.10
 
-	Memory size: 377.42 GiB
-	Memory used: 5.53 GiB
-	Memory free: 373.15 GiB
+	Memory size: 503.55 GiB
+	Memory used: 6.53 GiB
+	Memory free: 498.82 GiB
 
 	Drives:
-		Drive: /dev/sda (16764.00 GiB)
-		Drive: /dev/sdb (16764.00 GiB)
-		Drive: /dev/sdc (16764.00 GiB)
-		Drive: /dev/sdd (16764.00 GiB)
-		Drive: /dev/sde (0.00 GiB)
-		Drive: /dev/sdf (28.65 GiB)
+		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sdb (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -31,69 +27,43 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (ec:eb:b8:9a:99:14)
-		IPv4: 192.168.5.124/24
-		RX: 0.03 GiB, TX: 0.00 GiB
+		eno1 (54:80:28:58:8d:54)
+		IPv4: 192.168.5.180/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (ec:eb:b8:9a:99:15)
-		IPv4: 192.168.5.153/24
+		eno2 (54:80:28:58:8d:55)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (ec:eb:b8:9a:99:16)
-		IPv4: 192.168.5.111/24
+		eno3 (54:80:28:58:8d:56)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (ec:eb:b8:9a:99:17)
-		IPv4: 192.168.5.140/24
+		eno4 (54:80:28:58:8d:57)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 01 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 1
-ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
-ПАМЯТЬ 12 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 12
-ПАМЯТЬ 13 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 1
-ПАМЯТЬ 15 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 5
-ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
-ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 12
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - CZ3824503C
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
+ПАМЯТЬ 03 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 3
+ПАМЯТЬ 05 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 5
+ПАМЯТЬ 08 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
+ПАМЯТЬ 15 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 3
+ПАМЯТЬ 17 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 5
+ПАМЯТЬ 20 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+ПЛАТФОРМА ProLiant DL380 Gen10 - SGH905YVT4
 ДИСК (0.00 GiB)
 ДИСК (28.65 GiB)
 
   CVE listing:
-2026-229-7l7smofettl3dql58aj
-2026-229-sucecei9gs160LJhCP6
-2026-229-88ck1grsj7bbc5N6hes
-2026-229-j7kkubm4585c5kgJbaP
-2026-229-9tgp9r9r46esf65rWhb
-2026-229-09um3lpiga4c3FB5OvT
-2026-229-i5upv35u9v039ixJB6b
-2026-229-luarlvgr8ph5a5VLK1W
-2026-229-81at63bgnn8f1KEBylb
-2026-229-9j38i5fvpjpj654BEmp
-2026-229-8u1uoa4efe7n3ONb114
-2026-229-edc2f0kvvck88xLNIlD
-2026-229-iqnu91gt3irv6021MFG
-2026-229-2uca1ct3bfpsd9eKV3M
-2026-229-bk6eovumiuqt43sCSXd
-2026-229-gibov71iea5o0Mpr37v
-2026-229-6557mq15imqjfHzcwuy
-2026-229-tocdp3usf3eua3vO6KL
-2026-229-gppkgvcfmict032hF5P
-2026-229-c8jmth5vphbq3awzqLW
-2026-229-bb3tfacsdjn39NCqWl5
-2026-229-ngcucm2c5hiscPWqLkv
+2026-229-od8c4t91udhaeyXt3xr
+2026-229-q2054ingk866b0w3Wak
+2026-229-2fv0lpa5brkm5dDT2qH
+2026-229-furn35j2ift12Uyxp8C
+2026-229-mkkhgcfccdcoagkL2UM
+2026-229-v0795t1lc2qr9lGgYz6
+2026-229-28e2q6d8539ac4njIMr
 ```
 ---
-2026-08-17 11:28:54
+2026-08-17 13:52:14
