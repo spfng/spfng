@@ -11,11 +11,11 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 	Sockets: 1, Cores per socket: 10
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.68 0.17 0.06
+	Load Average (1m, 5m, 15m): 0.56 0.15 0.05
 
 	Memory size: 31.22 GiB
-	Memory used: 1.03 GiB
-	Memory free: 29.89 GiB
+	Memory used: 0.96 GiB
+	Memory free: 29.96 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -38,12 +38,12 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		eno4 (f4:03:43:5b:66:bb)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno49 (38:ea:a7:15:ae:4c)
-		IPv4: 192.168.5.159/24
+		eno49 (48:df:37:09:09:88)
+		IPv4: 192.168.5.128/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno50 (38:ea:a7:15:ae:4d)
-		IPv4: 192.168.5.136/24
+		eno50 (48:df:37:09:09:89)
+		IPv4: 192.168.5.186/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -55,12 +55,12 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ДИСК (28.65 GiB)
 
   CVE listing:
-2026-230-fsnjlh4tujvm08NxiWa
-2026-230-g1d4gtpjae5643VVSlv
-2026-230-4ef3bkjthff88t4KiGv
-2026-230-5amf27vdlqttbnCoEKg
-2026-230-6bhupvf46tbebsdmcMm
-2026-230-22cnm218jrg51CIxNT6
+2026-230-va7irl6ibgih6Ewq7OG
+2026-230-j2l8bkn71phv1oewsbG
+2026-230-gl6eia031losf7K3qQk
+2026-230-euae5lhort9l7x2lXc3
+2026-230-ti914aq6299ieP3tNrF
+2026-230-509oih03dga60vTwNf0
 ```
 ---
-2026-08-18 08:35:21
+2026-08-18 08:39:41
