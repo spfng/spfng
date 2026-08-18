@@ -3,30 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: SGH015Y3ZJ)
+	PowerEdge R730xd 	(SN: 2X4QF62)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	18 August 2026, Tuesday, 22:15 (UTC)
+	18 August 2026, Tuesday, 13:12 (UTC)
 
-	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-	Sockets: 2, Cores per socket: 8
+	Intel(R) Xeon(R) CPU E5-2683 v3 @ 2.00GHz
+	Sockets: 2, Cores per socket: 14
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 32.00 28.45 16.24
+	Load Average (1m, 5m, 15m): 1.14 0.47 0.18
 
-	Memory size: 503.55 GiB
-	Memory used: 5.68 GiB
-	Memory free: 499.64 GiB
+	Memory size: 220.29 GiB
+	Memory used: 4.81 GiB
+	Memory free: 216.10 GiB
 
 	Drives:
-		Drive: /dev/sda (894.25 GiB)
-		Drive: /dev/sdb (745.21 GiB)
-		Drive: /dev/sdc (894.25 GiB)
-		Drive: /dev/sdd (894.25 GiB)
-		Drive: /dev/sde (894.25 GiB)
-		Drive: /dev/sdf (745.21 GiB)
-		Drive: /dev/sdg (894.25 GiB)
-		Drive: /dev/sdh (745.21 GiB)
-		Drive: /dev/sdi (0.00 GiB)
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -34,45 +26,36 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (5c:b9:01:89:e7:5c)
-		IPv4: 192.168.5.176/24
+		eno3 (e4:43:4b:33:9d:0e)
+		IPv4: 192.168.5.156/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno6 (5c:b9:01:89:e7:5d)
-		IPv4: 192.168.5.134/24
-		RX: 0.04 GiB, TX: 0.00 GiB
+		eno1np0 (e4:43:4b:33:9c:ee)
+		IPv4: 169.254.150.1/16
+		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno7 (5c:b9:01:89:e7:5e)
-		IPv4: 192.168.5.161/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		eno2np1 (e4:43:4b:33:9c:f0)
+		IPv4: 169.254.229.22/16
+		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8 (5c:b9:01:89:e7:5f)
-		IPv4: 192.168.5.175/24
+		eno4 (e4:43:4b:33:9d:0f)
+		IPv4: 192.168.5.166/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 03 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
-ПАМЯТЬ 15 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 5
-ПАМЯТЬ 20 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015Y3ZJ
-ДИСК (894.25 GiB)
-ДИСК (745.21 GiB)
-ДИСК (894.25 GiB)
-ДИСК (894.25 GiB)
-ДИСК (894.25 GiB)
-ДИСК (745.21 GiB)
-ДИСК (894.25 GiB)
-ДИСК (745.21 GiB)
-ДИСК (0.00 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2683 v3 @ 2.00GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2683 v3 @ 2.00GHz
+ПАМЯТЬ 01 | 32 GB - 2133 - DDR4 2133 - A1
+ПАМЯТЬ 02 | 32 GB - 2133 - DDR4 2133 - A2
+ПАМЯТЬ 03 | 32 GB - 2133 - DDR4 2133 - A3
+ПАМЯТЬ 13 | 32 GB - 2133 - DDR4 2133 - B1
+ПАМЯТЬ 14 | 32 GB - 2133 - DDR4 2133 - B2
+ПАМЯТЬ 15 | 32 GB - 2133 - DDR4 2133 - B3
+ПАМЯТЬ 16 | 32 GB - 2133 - DDR4 2133 - B4
+ПЛАТФОРМА PowerEdge R730xd - 2X4QF62
+ДИСК (28.65 GiB)
 
 ```
 ---
-2026-08-18 13:20:46
+2026-08-18 13:24:14
