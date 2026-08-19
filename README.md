@@ -3,23 +3,25 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: SGH015Y3ZJ)
+	ProLiant DL380 Gen10 	(SN: SGH905YVT4)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	19 August 2026, Wednesday, 14:58 (UTC)
+	19 August 2026, Wednesday, 07:03 (UTC)
 
-	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-	Sockets: 2, Cores per socket: 8
+	Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.18 0.17 0.07
+	Load Average (1m, 5m, 15m): 64.08 64.03 64.01
 
 	Memory size: 503.55 GiB
-	Memory used: 5.34 GiB
-	Memory free: 500.02 GiB
+	Memory used: 5.92 GiB
+	Memory free: 499.37 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (28.65 GiB)
+		Drive: /dev/sdb (16764.00 GiB)
+		Drive: /dev/sdc (16764.00 GiB)
+		Drive: /dev/sdd (16764.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,17 +29,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (5c:b9:01:89:e7:5c)
-		IPv4: 192.168.5.176/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		eno1 (54:80:28:58:8d:54)
+		IPv4: 192.168.5.180/24
+		RX: 0.13 GiB, TX: 0.00 GiB
 
-		eno6 (5c:b9:01:89:e7:5d)
+		eno2 (54:80:28:58:8d:55)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno7 (5c:b9:01:89:e7:5e)
+		eno3 (54:80:28:58:8d:56)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8 (5c:b9:01:89:e7:5f)
+		eno4 (54:80:28:58:8d:57)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -50,12 +52,14 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 17 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 5
 ПАМЯТЬ 20 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
 ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015Y3ZJ
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+ПЛАТФОРМА ProLiant DL380 Gen10 - SGH905YVT4
 ДИСК (0.00 GiB)
-ДИСК (28.65 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
 
 ```
 ---
-2026-08-19 06:03:08
+2026-08-19 07:03:24
