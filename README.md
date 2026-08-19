@@ -5,23 +5,27 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL380 Gen10 	(SN: SGH905YVT4)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	19 August 2026, Wednesday, 07:03 (UTC)
+	19 August 2026, Wednesday, 14:02 (UTC)
 
 	Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
 	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 64.08 64.03 64.01
+	Load Average (1m, 5m, 15m): 64.00 64.00 64.00
 
 	Memory size: 503.55 GiB
-	Memory used: 5.92 GiB
-	Memory free: 499.37 GiB
+	Memory used: 5.90 GiB
+	Memory free: 499.40 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
 		Drive: /dev/sdb (16764.00 GiB)
 		Drive: /dev/sdc (16764.00 GiB)
 		Drive: /dev/sdd (16764.00 GiB)
+		Drive: /dev/sde (16764.00 GiB)
+		Drive: /dev/sdf (16764.00 GiB)
+		Drive: /dev/sdg (16764.00 GiB)
+		Drive: /dev/sdh (16764.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -31,7 +35,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno1 (54:80:28:58:8d:54)
 		IPv4: 192.168.5.180/24
-		RX: 0.13 GiB, TX: 0.00 GiB
+		RX: 0.37 GiB, TX: 0.01 GiB
 
 		eno2 (54:80:28:58:8d:55)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -59,7 +63,11 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ДИСК (16764.00 GiB)
 ДИСК (16764.00 GiB)
 ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
 
 ```
 ---
-2026-08-19 07:03:24
+2026-08-19 14:02:07
