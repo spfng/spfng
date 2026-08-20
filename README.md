@@ -5,20 +5,23 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL360 Gen10 	(SN: SGH015Y484)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	19 August 2026, Wednesday, 15:29 (UTC)
+	20 August 2026, Thursday, 10:20 (UTC)
 
 	Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
 	Sockets: 2, Cores per socket: 18
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 72.08 72.02 72.01
+	Load Average (1m, 5m, 15m): 1.12 0.37 0.13
 
 	Memory size: 251.54 GiB
-	Memory used: 4.93 GiB
-	Memory free: 247.37 GiB
+	Memory used: 5.22 GiB
+	Memory free: 247.13 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sda (1788.50 GiB)
+		Drive: /dev/sdb (1788.50 GiB)
+		Drive: /dev/sdc (0.00 GiB)
+		Drive: /dev/sdd (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -28,7 +31,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno5 (8c:dc:d4:b7:6c:e0)
 		IPv4: 192.168.5.108/24
-		RX: 0.34 GiB, TX: 0.00 GiB
+		RX: 0.01 GiB, TX: 0.00 GiB
 
 		eno6 (8c:dc:d4:b7:6c:e1)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -48,8 +51,11 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
 ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015Y484
+ДИСК (1788.50 GiB)
+ДИСК (1788.50 GiB)
 ДИСК (0.00 GiB)
+ДИСК (28.65 GiB)
 
 ```
 ---
-2026-08-19 15:29:04
+2026-08-20 10:20:06
