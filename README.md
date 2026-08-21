@@ -3,23 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen10 	(SN: SGH905YVT4)
+	ProLiant ML110 Gen10 	(SN: SGH847XN7G)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	21 August 2026, Friday, 10:06 (UTC)
+	21 August 2026, Friday, 14:07 (UTC)
 
-	Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
-	Sockets: 2, Cores per socket: 16
+	Intel(R) Xeon(R) Silver 4216 CPU @ 2.10GHz
+	Sockets: 1, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.65 0.22 0.08
+	Load Average (1m, 5m, 15m): 1.39 0.81 0.33
 
-	Memory size: 503.55 GiB
-	Memory used: 6.45 GiB
-	Memory free: 498.90 GiB
+	Memory size: 30.89 GiB
+	Memory used: 2.94 GiB
+	Memory free: 27.78 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (28.65 GiB)
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,35 +26,22 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (54:80:28:58:8d:54)
-		IPv4: 192.168.5.180/24
+		eno1 (80:30:e0:03:de:a4)
+		IPv4: 192.168.5.120/24
+		RX: 0.02 GiB, TX: 0.00 GiB
+
+		eno2 (80:30:e0:03:de:a5)
+		IPv4: 192.168.5.126/24
 		RX: 0.01 GiB, TX: 0.00 GiB
-
-		eno2 (54:80:28:58:8d:55)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3 (54:80:28:58:8d:56)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4 (54:80:28:58:8d:57)
-		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 03 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
-ПАМЯТЬ 15 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 5
-ПАМЯТЬ 20 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
-ПЛАТФОРМА ProLiant DL380 Gen10 - SGH905YVT4
-ДИСК (0.00 GiB)
+ПАМЯТЬ 01 | 16 GB - 2400 - DDR4 2666 - PROC 1 DIMM 1
+ПАМЯТЬ 06 | 16 GB - 2400 - DDR4 2666 - PROC 1 DIMM 6
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Silver 4216 CPU @ 2.10GHz
+ПЛАТФОРМА ProLiant ML110 Gen10 - SGH847XN7G
 ДИСК (28.65 GiB)
 
 ```
 ---
-2026-08-21 10:06:47
+2026-08-21 14:06:02
