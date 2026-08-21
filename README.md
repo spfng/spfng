@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant ML110 Gen10 	(SN: SGH847XN7G)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	21 August 2026, Friday, 14:07 (UTC)
+	21 August 2026, Friday, 15:58 (UTC)
 
 	Intel(R) Xeon(R) Silver 4216 CPU @ 2.10GHz
 	Sockets: 1, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.39 0.81 0.33
+	Load Average (1m, 5m, 15m): 1.99 1.00 0.40
 
-	Memory size: 30.89 GiB
-	Memory used: 2.94 GiB
-	Memory free: 27.78 GiB
+	Memory size: 15.16 GiB
+	Memory used: 2.85 GiB
+	Memory free: 12.05 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -28,7 +28,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno1 (80:30:e0:03:de:a4)
 		IPv4: 192.168.5.120/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno2 (80:30:e0:03:de:a5)
 		IPv4: 192.168.5.126/24
@@ -36,7 +36,6 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	APT: 1 updates available
 
-ПАМЯТЬ 01 | 16 GB - 2400 - DDR4 2666 - PROC 1 DIMM 1
 ПАМЯТЬ 06 | 16 GB - 2400 - DDR4 2666 - PROC 1 DIMM 6
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Silver 4216 CPU @ 2.10GHz
 ПЛАТФОРМА ProLiant ML110 Gen10 - SGH847XN7G
@@ -44,4 +43,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-08-21 14:06:02
+2026-08-21 15:57:10
