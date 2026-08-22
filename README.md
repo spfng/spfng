@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant ML350 Gen10 	(SN: CN792700RN)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	22 August 2026, Saturday, 08:24 (UTC)
+	22 August 2026, Saturday, 08:35 (UTC)
 
 	Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
 	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.70 0.27 0.10
+	Load Average (1m, 5m, 15m): 80.00 69.85 38.84
 
 	Memory size: 377.54 GiB
-	Memory used: 11.48 GiB
-	Memory free: 367.36 GiB
+	Memory used: 11.46 GiB
+	Memory free: 367.34 GiB
 
 	Drives:
 		Drive: /dev/sda (1788.50 GiB)
@@ -30,7 +30,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno1np0 (80:30:e0:3b:1b:d4)
 		IPv4: 192.168.5.158/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		RX: 0.04 GiB, TX: 0.00 GiB
 
 		eno2np1 (80:30:e0:3b:1b:d5)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -64,4 +64,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-08-22 08:12:33
+2026-08-22 08:23:10
