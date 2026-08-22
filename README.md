@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R6525 	(SN: BGTBZB3)
+	PowerEdge R6525 	(SN: BGXBZB3)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	13 April 2026, Monday, 19:40 (UTC)
+	13 April 2026, Monday, 19:38 (UTC)
 
 	AMD EPYC 7A23 48-Core Processor
 	Sockets: 2, Cores per socket: 48
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.40 0.27 0.11
+	Load Average (1m, 5m, 15m): 0.80 0.34 0.13
 
-	Memory size: 503.33 GiB
-	Memory used: 8.18 GiB
-	Memory free: 496.93 GiB
+	Memory size: 503.46 GiB
+	Memory used: 8.71 GiB
+	Memory free: 496.53 GiB
 
 	Drives:
 		Drive: /dev/sda (223.57 GiB)
@@ -31,23 +31,23 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (70:b5:e8:d1:1b:46)
-		IPv4: 192.168.1.173/24
+		eno8303 (70:b5:e8:d1:19:2e)
+		IPv4: 192.168.1.51/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno8403 (70:b5:e8:d1:1b:47)
+		eno8403 (70:b5:e8:d1:19:2f)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno12399np0 (e8:eb:d3:57:d1:d4)
+		eno12399np0 (58:a2:e1:5e:72:c0)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno12409np1 (e8:eb:d3:57:d1:d5)
+		eno12409np1 (58:a2:e1:5e:72:c1)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens3f0np0 (e0:9d:73:81:48:fa)
+		ens3f0np0 (e0:9d:73:82:65:26)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens3f1np1 (e0:9d:73:81:48:fb)
+		ens3f1np1 (e0:9d:73:82:65:27)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -70,7 +70,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - B6
 ПАМЯТЬ 23 | 32 GB - 2666 - DDR4 2666 - B7
 ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - B8
-ПЛАТФОРМА PowerEdge R6525 - BGTBZB3
+ПЛАТФОРМА PowerEdge R6525 - BGXBZB3
 ДИСК (223.57 GiB)
 ДИСК (223.57 GiB)
 ДИСК (1490.42 GiB)
@@ -80,4 +80,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-08-22 09:56:40
+2026-08-22 09:58:46
