@@ -3,27 +3,28 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R6525 	(SN: BGW9ZB3)
+	PowerEdge R6525 	(SN: JPMD333)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	13 April 2026, Monday, 19:39 (UTC)
+	13 April 2026, Monday, 19:38 (UTC)
 
 	AMD EPYC 7A23 48-Core Processor
 	Sockets: 2, Cores per socket: 48
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.70 0.31 0.11
+	Load Average (1m, 5m, 15m): 1.13 0.38 0.14
 
-	Memory size: 503.33 GiB
-	Memory used: 8.63 GiB
-	Memory free: 496.48 GiB
+	Memory size: 503.46 GiB
+	Memory used: 8.68 GiB
+	Memory free: 496.56 GiB
 
 	Drives:
 		Drive: /dev/sda (223.57 GiB)
 		Drive: /dev/sdb (223.57 GiB)
-		Drive: /dev/nvme2n1 (1490.42 GiB)
-		Drive: /dev/nvme0n1 (1490.42 GiB)
+		Drive: /dev/sdc (28.65 GiB)
 		Drive: /dev/nvme3n1 (1490.42 GiB)
+		Drive: /dev/nvme0n1 (1490.42 GiB)
 		Drive: /dev/nvme1n1 (1490.42 GiB)
+		Drive: /dev/nvme2n1 (1490.42 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -31,23 +32,23 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (70:b5:e8:d1:15:fc)
-		IPv4: 192.168.1.61/24
+		eno8303 (4c:d9:8f:21:fe:3e)
+		IPv4: 192.168.1.105/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno8403 (70:b5:e8:d1:15:fd)
+		eno8403 (4c:d9:8f:21:fe:3f)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno12399np0 (e8:eb:d3:57:d1:80)
+		eno12399np0 (e8:eb:d3:57:d1:74)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno12409np1 (e8:eb:d3:57:d1:81)
+		eno12409np1 (e8:eb:d3:57:d1:75)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens3f0np0 (e0:9d:73:81:47:3e)
+		ens3f0np0 (e0:9d:73:81:49:16)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens3f1np1 (e0:9d:73:81:47:3f)
+		ens3f1np1 (e0:9d:73:81:49:17)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -70,9 +71,10 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - B6
 ПАМЯТЬ 23 | 32 GB - 2666 - DDR4 2666 - B7
 ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - B8
-ПЛАТФОРМА PowerEdge R6525 - BGW9ZB3
+ПЛАТФОРМА PowerEdge R6525 - JPMD333
 ДИСК (223.57 GiB)
 ДИСК (223.57 GiB)
+ДИСК (28.65 GiB)
 ДИСК (1490.42 GiB)
 ДИСК (1490.42 GiB)
 ДИСК (1490.42 GiB)
@@ -80,4 +82,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-08-22 10:06:07
+2026-08-22 10:07:40
