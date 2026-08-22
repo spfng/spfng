@@ -5,25 +5,25 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL380 Gen10 	(SN: SGH905YVT4)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	21 August 2026, Friday, 20:12 (UTC)
+	22 August 2026, Saturday, 06:49 (UTC)
 
 	Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
 	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.95 0.31 0.11
+	Load Average (1m, 5m, 15m): 1.46 0.44 0.15
 
 	Memory size: 503.55 GiB
-	Memory used: 6.64 GiB
-	Memory free: 498.71 GiB
+	Memory used: 6.38 GiB
+	Memory free: 498.97 GiB
 
 	Drives:
-		Drive: /dev/sda (3576.98 GiB)
-		Drive: /dev/sdb (3576.95 GiB)
-		Drive: /dev/sdc (0.00 GiB)
+		Drive: /dev/sda (3576.95 GiB)
+		Drive: /dev/sdb (0.00 GiB)
+		Drive: /dev/sdc (3576.98 GiB)
 		Drive: /dev/sdd (3576.98 GiB)
-		Drive: /dev/sde (3576.95 GiB)
-		Drive: /dev/sdf (28.65 GiB)
+		Drive: /dev/sde (28.65 GiB)
+		Drive: /dev/sdf (3576.95 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -57,13 +57,13 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
 ПЛАТФОРМА ProLiant DL380 Gen10 - SGH905YVT4
-ДИСК (3576.98 GiB)
 ДИСК (3576.95 GiB)
 ДИСК (0.00 GiB)
 ДИСК (3576.98 GiB)
-ДИСК (3576.95 GiB)
+ДИСК (3576.98 GiB)
 ДИСК (28.65 GiB)
+ДИСК (3576.95 GiB)
 
 ```
 ---
-2026-08-21 20:12:34
+2026-08-22 06:49:23
