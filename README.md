@@ -3,24 +3,27 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant ML350 Gen10 	(SN: CN792700RN)
+	PowerEdge R6525 	(SN: BGTBZB3)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	22 August 2026, Saturday, 08:35 (UTC)
+	13 April 2026, Monday, 19:40 (UTC)
 
-	Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
-	Sockets: 2, Cores per socket: 20
-	VMX-Virtualisation
+	AMD EPYC 7A23 48-Core Processor
+	Sockets: 2, Cores per socket: 48
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 80.00 69.85 38.84
+	Load Average (1m, 5m, 15m): 0.40 0.27 0.11
 
-	Memory size: 377.54 GiB
-	Memory used: 11.46 GiB
-	Memory free: 367.34 GiB
+	Memory size: 503.33 GiB
+	Memory used: 8.18 GiB
+	Memory free: 496.93 GiB
 
 	Drives:
-		Drive: /dev/sda (1788.50 GiB)
-		Drive: /dev/sdb (1788.50 GiB)
-		Drive: /dev/sdc (0.00 GiB)
+		Drive: /dev/sda (223.57 GiB)
+		Drive: /dev/sdb (223.57 GiB)
+		Drive: /dev/nvme3n1 (1490.42 GiB)
+		Drive: /dev/nvme1n1 (1490.42 GiB)
+		Drive: /dev/nvme2n1 (1490.42 GiB)
+		Drive: /dev/nvme0n1 (1490.42 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -28,40 +31,53 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1np0 (80:30:e0:3b:1b:d4)
-		IPv4: 192.168.5.158/24
-		RX: 0.04 GiB, TX: 0.00 GiB
+		eno8303 (70:b5:e8:d1:1b:46)
+		IPv4: 192.168.1.173/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2np1 (80:30:e0:3b:1b:d5)
+		eno8403 (70:b5:e8:d1:1b:47)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3np2 (80:30:e0:3b:1b:d6)
+		eno12399np0 (e8:eb:d3:57:d1:d4)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4np3 (80:30:e0:3b:1b:d7)
+		eno12409np1 (e8:eb:d3:57:d1:d5)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens3f0np0 (e0:9d:73:81:48:fa)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens3f1np1 (e0:9d:73:81:48:fb)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 01 | 32 GB - 2666 - DDR4 2933 - PROC 1 DIMM 1
-ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2933 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2933 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2933 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2933 - PROC 1 DIMM 10
-ПАМЯТЬ 12 | 32 GB - 2666 - DDR4 2933 - PROC 1 DIMM 12
-ПАМЯТЬ 13 | 32 GB - 2666 - DDR4 2933 - PROC 2 DIMM 1
-ПАМЯТЬ 15 | 32 GB - 2666 - DDR4 2933 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2933 - PROC 2 DIMM 5
-ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2933 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2933 - PROC 2 DIMM 10
-ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2933 - PROC 2 DIMM 12
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
-ПЛАТФОРМА ProLiant ML350 Gen10 - CN792700RN
-ДИСК (1788.50 GiB)
-ДИСК (1788.50 GiB)
-ДИСК (0.00 GiB)
+ПРОЦЕССОР 01 - AMD EPYC 7A23 48-Core Processor
+ПРОЦЕССОР 02 - AMD EPYC 7A23 48-Core Processor
+ПАМЯТЬ 01 | 32 GB - 2666 - DDR4 2666 - A1
+ПАМЯТЬ 02 | 32 GB - 2666 - DDR4 2666 - A2
+ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - A3
+ПАМЯТЬ 04 | 32 GB - 2666 - DDR4 2666 - A4
+ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - A5
+ПАМЯТЬ 06 | 32 GB - 2666 - DDR4 2666 - A6
+ПАМЯТЬ 07 | 32 GB - 2666 - DDR4 2666 - A7
+ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - A8
+ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - B1
+ПАМЯТЬ 18 | 32 GB - 2666 - DDR4 2666 - B2
+ПАМЯТЬ 19 | 32 GB - 2666 - DDR4 2666 - B3
+ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - B4
+ПАМЯТЬ 21 | 32 GB - 2666 - DDR4 2666 - B5
+ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - B6
+ПАМЯТЬ 23 | 32 GB - 2666 - DDR4 2666 - B7
+ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - B8
+ПЛАТФОРМА PowerEdge R6525 - BGTBZB3
+ДИСК (223.57 GiB)
+ДИСК (223.57 GiB)
+ДИСК (1490.42 GiB)
+ДИСК (1490.42 GiB)
+ДИСК (1490.42 GiB)
+ДИСК (1490.42 GiB)
 
 ```
 ---
-2026-08-22 08:23:10
+2026-08-22 09:56:40
