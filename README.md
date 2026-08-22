@@ -3,27 +3,27 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R6525 	(SN: BGTV8B3)
+	PowerEdge R6525 	(SN: BGW9ZB3)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	13 April 2026, Monday, 19:38 (UTC)
+	13 April 2026, Monday, 19:39 (UTC)
 
 	AMD EPYC 7A23 48-Core Processor
 	Sockets: 2, Cores per socket: 48
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.57 0.52 0.19
+	Load Average (1m, 5m, 15m): 0.70 0.31 0.11
 
 	Memory size: 503.33 GiB
-	Memory used: 8.66 GiB
-	Memory free: 496.46 GiB
+	Memory used: 8.63 GiB
+	Memory free: 496.48 GiB
 
 	Drives:
 		Drive: /dev/sda (223.57 GiB)
 		Drive: /dev/sdb (223.57 GiB)
-		Drive: /dev/nvme3n1 (1490.42 GiB)
-		Drive: /dev/nvme1n1 (1490.42 GiB)
 		Drive: /dev/nvme2n1 (1490.42 GiB)
 		Drive: /dev/nvme0n1 (1490.42 GiB)
+		Drive: /dev/nvme3n1 (1490.42 GiB)
+		Drive: /dev/nvme1n1 (1490.42 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -31,23 +31,23 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (70:b5:e8:d1:1d:c0)
-		IPv4: 192.168.1.163/24
+		eno8303 (70:b5:e8:d1:15:fc)
+		IPv4: 192.168.1.61/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno8403 (70:b5:e8:d1:1d:c1)
+		eno8403 (70:b5:e8:d1:15:fd)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3np0 (e8:eb:d3:57:d1:f8)
+		eno12399np0 (e8:eb:d3:57:d1:80)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4np1 (e8:eb:d3:57:d1:f9)
+		eno12409np1 (e8:eb:d3:57:d1:81)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens3f0np0 (e0:9d:73:81:49:88)
+		ens3f0np0 (e0:9d:73:81:47:3e)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens3f1np1 (e0:9d:73:81:49:89)
+		ens3f1np1 (e0:9d:73:81:47:3f)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -70,7 +70,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - B6
 ПАМЯТЬ 23 | 32 GB - 2666 - DDR4 2666 - B7
 ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - B8
-ПЛАТФОРМА PowerEdge R6525 - BGTV8B3
+ПЛАТФОРМА PowerEdge R6525 - BGW9ZB3
 ДИСК (223.57 GiB)
 ДИСК (223.57 GiB)
 ДИСК (1490.42 GiB)
@@ -80,4 +80,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-08-22 10:03:36
+2026-08-22 10:06:07
