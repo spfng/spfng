@@ -3,27 +3,25 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen10 	(SN: SGH905YVT4)
+	ProLiant ML350 Gen10 	(SN: CN792700RN)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	24 August 2026, Monday, 05:21 (UTC)
+	24 August 2026, Monday, 08:53 (UTC)
 
-	Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
-	Sockets: 2, Cores per socket: 16
+	Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
+	Sockets: 2, Cores per socket: 12
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.72 0.27 0.10
+	Load Average (1m, 5m, 15m): 0.35 0.10 0.03
 
-	Memory size: 503.55 GiB
-	Memory used: 6.67 GiB
-	Memory free: 498.68 GiB
+	Memory size: 377.55 GiB
+	Memory used: 8.65 GiB
+	Memory free: 370.14 GiB
 
 	Drives:
-		Drive: /dev/sda (3576.98 GiB)
-		Drive: /dev/sdb (3576.95 GiB)
+		Drive: /dev/sda (1788.50 GiB)
+		Drive: /dev/sdb (1788.50 GiB)
 		Drive: /dev/sdc (0.00 GiB)
-		Drive: /dev/sdd (3576.98 GiB)
-		Drive: /dev/sde (3576.95 GiB)
-		Drive: /dev/sdf (28.65 GiB)
+		Drive: /dev/sdd (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -31,39 +29,41 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (54:80:28:58:8d:54)
-		IPv4: 192.168.5.180/24
-		RX: 0.01 GiB, TX: 0.00 GiB
-
-		eno2 (54:80:28:58:8d:55)
+		eno1np0 (80:30:e0:3b:1b:d4)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (54:80:28:58:8d:56)
+		eno2np1 (80:30:e0:3b:1b:d5)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (54:80:28:58:8d:57)
+		eno3np2 (80:30:e0:3b:1b:d6)
+		IPv4: 192.168.5.118/24
+		RX: 0.02 GiB, TX: 0.00 GiB
+
+		eno4np3 (80:30:e0:3b:1b:d7)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 03 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
-ПАМЯТЬ 15 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 5
-ПАМЯТЬ 20 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
-ПЛАТФОРМА ProLiant DL380 Gen10 - SGH905YVT4
-ДИСК (3576.98 GiB)
-ДИСК (3576.95 GiB)
+ПАМЯТЬ 01 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 1
+ПАМЯТЬ 03 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 3
+ПАМЯТЬ 05 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 5
+ПАМЯТЬ 08 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
+ПАМЯТЬ 12 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 12
+ПАМЯТЬ 13 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 1
+ПАМЯТЬ 15 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 3
+ПАМЯТЬ 17 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 5
+ПАМЯТЬ 20 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
+ПАМЯТЬ 24 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 12
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
+ПЛАТФОРМА ProLiant ML350 Gen10 - CN792700RN
+ДИСК (1788.50 GiB)
+ДИСК (1788.50 GiB)
 ДИСК (0.00 GiB)
-ДИСК (3576.98 GiB)
-ДИСК (3576.95 GiB)
 ДИСК (28.65 GiB)
 
 ```
 ---
-2026-08-24 05:21:30
+2026-08-24 08:40:56
