@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant ML350 Gen10 	(SN: CN792700RN)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	24 August 2026, Monday, 08:53 (UTC)
+	24 August 2026, Monday, 09:04 (UTC)
 
 	Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
-	Sockets: 2, Cores per socket: 12
+	Sockets: 1, Cores per socket: 12
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.35 0.10 0.03
+	Load Average (1m, 5m, 15m): 0.68 0.25 0.09
 
-	Memory size: 377.55 GiB
-	Memory used: 8.65 GiB
-	Memory free: 370.14 GiB
+	Memory size: 188.37 GiB
+	Memory used: 9.66 GiB
+	Memory free: 179.62 GiB
 
 	Drives:
 		Drive: /dev/sda (1788.50 GiB)
@@ -50,14 +50,8 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 08 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
 ПАМЯТЬ 10 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
 ПАМЯТЬ 12 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 12
-ПАМЯТЬ 13 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 1
-ПАМЯТЬ 15 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 5
-ПАМЯТЬ 20 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
-ПАМЯТЬ 24 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 12
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
+ПРОЦЕССОР 02 - Not Specified
 ПЛАТФОРМА ProLiant ML350 Gen10 - CN792700RN
 ДИСК (1788.50 GiB)
 ДИСК (1788.50 GiB)
@@ -66,4 +60,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-08-24 08:40:56
+2026-08-24 08:51:46
