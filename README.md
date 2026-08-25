@@ -7,15 +7,15 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 	Running on Linux 6.12.94+deb13-amd64 x86_64
 	13 April 2026, Monday, 19:38 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
-	Sockets: 2, Cores per socket: 22
+	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.80 0.37 0.14
+	Load Average (1m, 5m, 15m): 1.26 0.58 0.22
 
-	Memory size: 251.78 GiB
-	Memory used: 5.06 GiB
-	Memory free: 247.53 GiB
+	Memory size: 503.80 GiB
+	Memory used: 5.61 GiB
+	Memory free: 500.00 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -26,34 +26,45 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (ec:f4:bb:f1:58:8c)
+		eno1 (18:66:da:f8:8e:58)
+		IPv4: 192.168.5.127/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (ec:f4:bb:f1:58:8d)
+		eno2 (18:66:da:f8:8e:59)
+		IPv4: 192.168.5.198/24
+		RX: 0.01 GiB, TX: 0.00 GiB
+
+		eno3 (18:66:da:f8:8e:5a)
+		IPv4: 192.168.5.133/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (ec:f4:bb:f1:58:88)
-		IPv4: 192.168.5.100/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		eno4 (18:66:da:f8:8e:5b)
+		IPv4: 192.168.5.132/24
+		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (ec:f4:bb:f1:58:8a)
+		enp4s0f0 (48:df:37:0d:d9:20)
+		IPv4: 169.254.15.244/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		enp4s0f1 (48:df:37:0d:d9:21)
+		IPv4: 169.254.108.228/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
-ПАМЯТЬ 01 | 32 GB - 2400 - DDR4 2400 - A1
-ПАМЯТЬ 02 | 32 GB - 2400 - DDR4 2400 - A2
-ПАМЯТЬ 03 | 32 GB - 2400 - DDR4 2400 - A3
-ПАМЯТЬ 04 | 32 GB - 2400 - DDR4 2400 - A4
-ПАМЯТЬ 13 | 32 GB - 2400 - DDR4 2400 - B1
-ПАМЯТЬ 14 | 32 GB - 2400 - DDR4 2400 - B2
-ПАМЯТЬ 15 | 32 GB - 2400 - DDR4 2400 - B3
-ПАМЯТЬ 16 | 32 GB - 2400 - DDR4 2400 - B4
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+ПАМЯТЬ 01 | 64 GB - 2400 - DDR4 2400 - A1
+ПАМЯТЬ 02 | 64 GB - 2400 - DDR4 2400 - A2
+ПАМЯТЬ 03 | 64 GB - 2400 - DDR4 2400 - A3
+ПАМЯТЬ 04 | 64 GB - 2400 - DDR4 2400 - A4
+ПАМЯТЬ 13 | 64 GB - 2400 - DDR4 2400 - B1
+ПАМЯТЬ 14 | 64 GB - 2400 - DDR4 2400 - B2
+ПАМЯТЬ 15 | 64 GB - 2400 - DDR4 2400 - B3
+ПАМЯТЬ 16 | 64 GB - 2400 - DDR4 2400 - B4
 ПЛАТФОРМА PowerEdge R730xd - 8823JD2
 ДИСК (28.65 GiB)
 
 ```
 ---
-2026-08-25 10:26:47
+2026-08-25 11:31:16
