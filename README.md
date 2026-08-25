@@ -3,25 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant ML350 Gen10 	(SN: CN792700RN)
+	PowerEdge R730xd 	(SN: 2X48H62)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	24 August 2026, Monday, 09:04 (UTC)
+	25 August 2026, Tuesday, 07:06 (UTC)
 
-	Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
-	Sockets: 1, Cores per socket: 12
+	Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
+	Sockets: 2, Cores per socket: 22
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.68 0.25 0.09
+	Load Average (1m, 5m, 15m): 1.55 0.60 0.23
 
-	Memory size: 188.37 GiB
-	Memory used: 9.66 GiB
-	Memory free: 179.62 GiB
+	Memory size: 251.78 GiB
+	Memory used: 4.83 GiB
+	Memory free: 247.76 GiB
 
 	Drives:
-		Drive: /dev/sda (1788.50 GiB)
-		Drive: /dev/sdb (1788.50 GiB)
-		Drive: /dev/sdc (0.00 GiB)
-		Drive: /dev/sdd (28.65 GiB)
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -29,35 +26,34 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1np0 (80:30:e0:3b:1b:d4)
+		eno3 (ec:f4:bb:f1:58:8c)
+		IPv4: 192.168.5.141/24
+		RX: 0.01 GiB, TX: 0.00 GiB
+
+		eno4 (ec:f4:bb:f1:58:8d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2np1 (80:30:e0:3b:1b:d5)
+		eno1 (ec:f4:bb:f1:58:88)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3np2 (80:30:e0:3b:1b:d6)
-		IPv4: 192.168.5.118/24
-		RX: 0.02 GiB, TX: 0.00 GiB
-
-		eno4np3 (80:30:e0:3b:1b:d7)
+		eno2 (ec:f4:bb:f1:58:8a)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 01 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 1
-ПАМЯТЬ 03 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
-ПАМЯТЬ 12 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 12
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
-ПРОЦЕССОР 02 - Not Specified
-ПЛАТФОРМА ProLiant ML350 Gen10 - CN792700RN
-ДИСК (1788.50 GiB)
-ДИСК (1788.50 GiB)
-ДИСК (0.00 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
+ПАМЯТЬ 01 | 32 GB - 2400 - DDR4 2400 - A1
+ПАМЯТЬ 02 | 32 GB - 2400 - DDR4 2400 - A2
+ПАМЯТЬ 03 | 32 GB - 2400 - DDR4 2400 - A3
+ПАМЯТЬ 04 | 32 GB - 2400 - DDR4 2400 - A4
+ПАМЯТЬ 13 | 32 GB - 2400 - DDR4 2400 - B1
+ПАМЯТЬ 14 | 32 GB - 2400 - DDR4 2400 - B2
+ПАМЯТЬ 15 | 32 GB - 2400 - DDR4 2400 - B3
+ПАМЯТЬ 16 | 32 GB - 2400 - DDR4 2400 - B4
+ПЛАТФОРМА PowerEdge R730xd - 2X48H62
 ДИСК (28.65 GiB)
 
 ```
 ---
-2026-08-24 08:51:46
+2026-08-25 07:07:06
