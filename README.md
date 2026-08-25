@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	PowerEdge R730xd 	(SN: 2X48H62)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	25 August 2026, Tuesday, 07:06 (UTC)
+	25 August 2026, Tuesday, 07:20 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
 	Sockets: 2, Cores per socket: 22
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.55 0.60 0.23
+	Load Average (1m, 5m, 15m): 0.73 0.19 0.06
 
-	Memory size: 251.78 GiB
-	Memory used: 4.83 GiB
-	Memory free: 247.76 GiB
+	Memory size: 125.78 GiB
+	Memory used: 2.20 GiB
+	Memory free: 123.72 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -43,12 +43,8 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
-ПАМЯТЬ 01 | 32 GB - 2400 - DDR4 2400 - A1
-ПАМЯТЬ 02 | 32 GB - 2400 - DDR4 2400 - A2
 ПАМЯТЬ 03 | 32 GB - 2400 - DDR4 2400 - A3
 ПАМЯТЬ 04 | 32 GB - 2400 - DDR4 2400 - A4
-ПАМЯТЬ 13 | 32 GB - 2400 - DDR4 2400 - B1
-ПАМЯТЬ 14 | 32 GB - 2400 - DDR4 2400 - B2
 ПАМЯТЬ 15 | 32 GB - 2400 - DDR4 2400 - B3
 ПАМЯТЬ 16 | 32 GB - 2400 - DDR4 2400 - B4
 ПЛАТФОРМА PowerEdge R730xd - 2X48H62
@@ -56,4 +52,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-08-25 07:07:06
+2026-08-25 07:20:42
