@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R730xd 	(SN: 8823JD2)
+	PowerEdge R730xd 	(SN: 2X48H62)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	13 April 2026, Monday, 19:38 (UTC)
+	25 August 2026, Tuesday, 13:31 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
 	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.15 0.46 0.17
+	Load Average (1m, 5m, 15m): 1.02 0.45 0.17
 
-	Memory size: 503.80 GiB
-	Memory used: 5.46 GiB
-	Memory free: 500.15 GiB
+	Memory size: 503.79 GiB
+	Memory used: 5.84 GiB
+	Memory free: 499.76 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -36,7 +36,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno3 (18:66:da:f8:8e:5a)
 		IPv4: 192.168.5.133/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno4 (18:66:da:f8:8e:5b)
 		IPv4: 192.168.5.132/24
@@ -62,9 +62,9 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 14 | 64 GB - 2400 - DDR4 2400 - B2
 ПАМЯТЬ 15 | 64 GB - 2400 - DDR4 2400 - B3
 ПАМЯТЬ 16 | 64 GB - 2400 - DDR4 2400 - B4
-ПЛАТФОРМА PowerEdge R730xd - 8823JD2
+ПЛАТФОРМА PowerEdge R730xd - 2X48H62
 ДИСК (28.65 GiB)
 
 ```
 ---
-2026-08-25 12:50:06
+2026-08-25 13:31:20
