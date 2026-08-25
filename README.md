@@ -3,23 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen10 	(SN: SGH919X2QR)
+	PowerEdge R730xd 	(SN: 8823JD2)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	13 April 2026, Monday, 19:39 (UTC)
+	13 April 2026, Monday, 19:38 (UTC)
 
-	Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
-	Sockets: 2, Cores per socket: 20
+	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.83 0.33 0.12
+	Load Average (1m, 5m, 15m): 1.15 0.46 0.17
 
-	Memory size: 377.54 GiB
-	Memory used: 5.63 GiB
-	Memory free: 373.22 GiB
+	Memory size: 503.80 GiB
+	Memory used: 5.46 GiB
+	Memory free: 500.15 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (28.65 GiB)
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,42 +26,45 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (08:f1:ea:94:16:e2)
-		IPv4: 192.168.5.157/24
+		eno1 (18:66:da:f8:8e:58)
+		IPv4: 192.168.5.127/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (08:f1:ea:94:16:e3)
-		IPv4: 192.168.5.143/24
+		eno2 (18:66:da:f8:8e:59)
+		IPv4: 192.168.5.198/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (08:f1:ea:94:16:e4)
-		IPv4: 192.168.5.130/24
+		eno3 (18:66:da:f8:8e:5a)
+		IPv4: 192.168.5.133/24
+		RX: 0.01 GiB, TX: 0.00 GiB
+
+		eno4 (18:66:da:f8:8e:5b)
+		IPv4: 192.168.5.132/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (08:f1:ea:94:16:e5)
-		IPv4: 192.168.5.169/24
+		enp4s0f0 (48:df:37:0d:d9:20)
+		IPv4: 169.254.15.244/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		enp4s0f1 (48:df:37:0d:d9:21)
+		IPv4: 169.254.108.228/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 01 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 1
-ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
-ПАМЯТЬ 12 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 12
-ПАМЯТЬ 13 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 1
-ПАМЯТЬ 15 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 5
-ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
-ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 12
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
-ПЛАТФОРМА ProLiant DL380 Gen10 - SGH919X2QR
-ДИСК (0.00 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+ПАМЯТЬ 01 | 64 GB - 2400 - DDR4 2400 - A1
+ПАМЯТЬ 02 | 64 GB - 2400 - DDR4 2400 - A2
+ПАМЯТЬ 03 | 64 GB - 2400 - DDR4 2400 - A3
+ПАМЯТЬ 04 | 64 GB - 2400 - DDR4 2400 - A4
+ПАМЯТЬ 13 | 64 GB - 2400 - DDR4 2400 - B1
+ПАМЯТЬ 14 | 64 GB - 2400 - DDR4 2400 - B2
+ПАМЯТЬ 15 | 64 GB - 2400 - DDR4 2400 - B3
+ПАМЯТЬ 16 | 64 GB - 2400 - DDR4 2400 - B4
+ПЛАТФОРМА PowerEdge R730xd - 8823JD2
 ДИСК (28.65 GiB)
 
 ```
 ---
-2026-08-25 12:35:07
+2026-08-25 12:50:06
