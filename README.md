@@ -7,15 +7,15 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 	Running on Linux 6.12.94+deb13-amd64 x86_64
 	13 April 2026, Monday, 19:39 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
-	Sockets: 2, Cores per socket: 22
+	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.96 0.44 0.17
+	Load Average (1m, 5m, 15m): 0.75 0.35 0.13
 
-	Memory size: 503.78 GiB
-	Memory used: 6.39 GiB
-	Memory free: 499.19 GiB
+	Memory size: 503.80 GiB
+	Memory used: 6.04 GiB
+	Memory free: 499.57 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -28,11 +28,11 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno1 (18:66:da:f8:8e:58)
 		IPv4: 192.168.5.127/24
-		RX: 0.00 GiB, TX: 0.00 GiB
+		RX: 0.01 GiB, TX: 0.00 GiB
 
 		eno2 (18:66:da:f8:8e:59)
 		IPv4: 192.168.5.198/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno3 (18:66:da:f8:8e:5a)
 		IPv4: 192.168.5.133/24
@@ -52,8 +52,8 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
 ПАМЯТЬ 01 | 64 GB - 2400 - DDR4 2400 - A1
 ПАМЯТЬ 02 | 64 GB - 2400 - DDR4 2400 - A2
 ПАМЯТЬ 03 | 64 GB - 2400 - DDR4 2400 - A3
@@ -67,4 +67,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-08-25 11:42:45
+2026-08-25 11:54:40
