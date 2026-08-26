@@ -3,28 +3,27 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R6525 	(SN: BGXBZB3)
+	ProLiant DL380 Gen10 	(SN: SGH905YVT4)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	13 April 2026, Monday, 19:38 (UTC)
+	26 August 2026, Wednesday, 05:36 (UTC)
 
-	AMD EPYC 7A23 48-Core Processor
-	Sockets: 2, Cores per socket: 48
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+	Sockets: 2, Cores per socket: 16
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.19 0.37 0.13
+	Load Average (1m, 5m, 15m): 0.31 0.19 0.08
 
-	Memory size: 503.46 GiB
-	Memory used: 8.84 GiB
-	Memory free: 496.40 GiB
+	Memory size: 503.55 GiB
+	Memory used: 6.22 GiB
+	Memory free: 499.13 GiB
 
 	Drives:
-		Drive: /dev/sda (223.57 GiB)
-		Drive: /dev/sdb (223.57 GiB)
-		Drive: /dev/sdc (28.65 GiB)
-		Drive: /dev/nvme0n1 (1490.42 GiB)
-		Drive: /dev/nvme2n1 (1490.42 GiB)
-		Drive: /dev/nvme1n1 (1490.42 GiB)
-		Drive: /dev/nvme3n1 (1490.42 GiB)
+		Drive: /dev/sda (3576.98 GiB)
+		Drive: /dev/sdb (3576.98 GiB)
+		Drive: /dev/sdc (3576.98 GiB)
+		Drive: /dev/sdd (3576.98 GiB)
+		Drive: /dev/sde (0.00 GiB)
+		Drive: /dev/sdf (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -32,54 +31,39 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (70:b5:e8:d1:19:2e)
-		IPv4: 192.168.1.51/24
+		eno1 (54:80:28:58:8d:54)
+		IPv4: 192.168.5.180/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno8403 (70:b5:e8:d1:19:2f)
+		eno2 (54:80:28:58:8d:55)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno12399np0 (58:a2:e1:5e:72:c0)
+		eno3 (54:80:28:58:8d:56)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno12409np1 (58:a2:e1:5e:72:c1)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens3f0np0 (e0:9d:73:82:65:26)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens3f1np1 (e0:9d:73:82:65:27)
+		eno4 (54:80:28:58:8d:57)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7A23 48-Core Processor
-ПРОЦЕССОР 02 - AMD EPYC 7A23 48-Core Processor
-ПАМЯТЬ 01 | 32 GB - 2666 - DDR4 2666 - A1
-ПАМЯТЬ 02 | 32 GB - 2666 - DDR4 2666 - A2
-ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - A3
-ПАМЯТЬ 04 | 32 GB - 2666 - DDR4 2666 - A4
-ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - A5
-ПАМЯТЬ 06 | 32 GB - 2666 - DDR4 2666 - A6
-ПАМЯТЬ 07 | 32 GB - 2666 - DDR4 2666 - A7
-ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - A8
-ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - B1
-ПАМЯТЬ 18 | 32 GB - 2666 - DDR4 2666 - B2
-ПАМЯТЬ 19 | 32 GB - 2666 - DDR4 2666 - B3
-ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - B4
-ПАМЯТЬ 21 | 32 GB - 2666 - DDR4 2666 - B5
-ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - B6
-ПАМЯТЬ 23 | 32 GB - 2666 - DDR4 2666 - B7
-ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - B8
-ПЛАТФОРМА PowerEdge R6525 - BGXBZB3
-ДИСК (223.57 GiB)
-ДИСК (223.57 GiB)
+ПАМЯТЬ 03 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 3
+ПАМЯТЬ 05 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 5
+ПАМЯТЬ 08 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
+ПАМЯТЬ 15 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 3
+ПАМЯТЬ 17 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 5
+ПАМЯТЬ 20 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+ПЛАТФОРМА ProLiant DL380 Gen10 - SGH905YVT4
+ДИСК (3576.98 GiB)
+ДИСК (3576.98 GiB)
+ДИСК (3576.98 GiB)
+ДИСК (3576.98 GiB)
+ДИСК (0.00 GiB)
 ДИСК (28.65 GiB)
-ДИСК (1490.42 GiB)
-ДИСК (1490.42 GiB)
-ДИСК (1490.42 GiB)
-ДИСК (1490.42 GiB)
 
 ```
 ---
-2026-08-26 05:05:50
+2026-08-26 05:36:38
