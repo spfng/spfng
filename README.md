@@ -3,23 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen10 	(SN: 2M282401X4)
+	PowerEdge R730xd 	(SN: 2X48H62)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	25 August 2026, Tuesday, 17:10 (UTC)
+	26 August 2026, Wednesday, 04:31 (UTC)
 
-	Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
-	Sockets: 2, Cores per socket: 12
+	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.79 0.28 0.10
+	Load Average (1m, 5m, 15m): 0.97 0.50 0.20
 
-	Memory size: 377.55 GiB
-	Memory used: 6.07 GiB
-	Memory free: 372.79 GiB
+	Memory size: 503.79 GiB
+	Memory used: 6.08 GiB
+	Memory free: 499.52 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (28.65 GiB)
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,45 +26,45 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (20:67:7c:e5:8d:f4)
-		IPv4: 192.168.5.107/24
+		eno1 (18:66:da:f8:8e:58)
+		IPv4: 192.168.5.127/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (20:67:7c:e5:8d:f5)
+		eno2 (18:66:da:f8:8e:59)
+		IPv4: 192.168.5.198/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (20:67:7c:e5:8d:f6)
+		eno3 (18:66:da:f8:8e:5a)
+		IPv4: 192.168.5.133/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (20:67:7c:e5:8d:f7)
+		eno4 (18:66:da:f8:8e:5b)
+		IPv4: 192.168.5.132/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (48:df:37:ce:7c:90)
+		enp4s0f0 (48:df:37:0d:d9:20)
+		IPv4: 169.254.15.244/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno6 (48:df:37:ce:7c:91)
+		enp4s0f1 (48:df:37:0d:d9:21)
+		IPv4: 169.254.108.228/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 01 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 1
-ПАМЯТЬ 03 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
-ПАМЯТЬ 12 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 12
-ПАМЯТЬ 13 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 1
-ПАМЯТЬ 15 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 5
-ПАМЯТЬ 20 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
-ПАМЯТЬ 24 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 12
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Platinum 8252C CPU @ 3.80GHz
-ПЛАТФОРМА ProLiant DL380 Gen10 - 2M282401X4
-ДИСК (0.00 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+ПАМЯТЬ 01 | 64 GB - 2400 - DDR4 2400 - A1
+ПАМЯТЬ 02 | 64 GB - 2400 - DDR4 2400 - A2
+ПАМЯТЬ 03 | 64 GB - 2400 - DDR4 2400 - A3
+ПАМЯТЬ 04 | 64 GB - 2400 - DDR4 2400 - A4
+ПАМЯТЬ 13 | 64 GB - 2400 - DDR4 2400 - B1
+ПАМЯТЬ 14 | 64 GB - 2400 - DDR4 2400 - B2
+ПАМЯТЬ 15 | 64 GB - 2400 - DDR4 2400 - B3
+ПАМЯТЬ 16 | 64 GB - 2400 - DDR4 2400 - B4
+ПЛАТФОРМА PowerEdge R730xd - 2X48H62
 ДИСК (28.65 GiB)
 
 ```
 ---
-2026-08-25 17:10:20
+2026-08-26 04:32:09
