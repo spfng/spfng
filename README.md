@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen9 	(SN: MXQ61707YV)
+	ProLiant DL380 Gen9 	(SN: 6CU719KH84)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	26 August 2026, Wednesday, 13:00 (UTC)
+	13 April 2026, Monday, 19:38 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
-	Sockets: 2, Cores per socket: 8
+	Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
+	Sockets: 2, Cores per socket: 14
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.86 0.39 0.15
+	Load Average (1m, 5m, 15m): 0.89 0.41 0.16
 
-	Memory size: 125.64 GiB
-	Memory used: 3.93 GiB
-	Memory free: 121.99 GiB
+	Memory size: 31.25 GiB
+	Memory used: 3.46 GiB
+	Memory free: 27.62 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -26,30 +26,39 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (1c:98:ec:21:c5:18)
-		IPv4: 192.168.5.189/24
+		eno1 (30:e1:71:5d:51:1c)
+		IPv4: 192.168.5.110/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno2 (30:e1:71:5d:51:1d)
+		IPv4: 192.168.5.154/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (30:e1:71:5d:51:1e)
+		IPv4: 192.168.5.171/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (1c:98:ec:21:c5:19)
+		eno4 (30:e1:71:5d:51:1f)
+		IPv4: 192.168.5.194/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (1c:98:ec:21:c5:1a)
+		eno49 (48:df:37:2a:05:4c)
+		IPv4: 169.254.244.69/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (1c:98:ec:21:c5:1b)
+		eno50 (48:df:37:2a:05:4d)
+		IPv4: 169.254.219.246/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
-ПАМЯТЬ 09 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 9
-ПАМЯТЬ 12 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
-ПАМЯТЬ 21 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 9
-ПАМЯТЬ 24 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
-ПЛАТФОРМА ProLiant DL360 Gen9 - MXQ61707YV
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
+ПАМЯТЬ 12 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
+ПАМЯТЬ 24 | 16 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
+ПЛАТФОРМА ProLiant DL380 Gen9 - 6CU719KH84
 ДИСК (28.65 GiB)
 
 ```
 ---
-2026-08-26 12:53:48
+2026-08-26 16:53:24
