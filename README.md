@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen9 	(SN: 6CU736JBD9)
+	PowerEdge R730xd 	(SN: 2X48H62)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	26 August 2026, Wednesday, 19:33 (UTC)
+	26 August 2026, Wednesday, 18:01 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
-	Sockets: 2, Cores per socket: 14
+	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.86 0.42 0.16
+	Load Average (1m, 5m, 15m): 1.31 0.59 0.22
 
-	Memory size: 31.25 GiB
-	Memory used: 3.49 GiB
-	Memory free: 27.59 GiB
+	Memory size: 503.80 GiB
+	Memory used: 6.19 GiB
+	Memory free: 499.42 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -26,39 +26,42 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (f4:03:43:50:40:f0)
-		IPv4: 192.168.5.139/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno2 (f4:03:43:50:40:f1)
-		IPv4: 192.168.5.144/24
+		eno1 (18:66:da:f8:8e:58)
+		IPv4: 192.168.5.127/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno3 (f4:03:43:50:40:f2)
-		IPv4: 192.168.5.102/24
+		eno2 (18:66:da:f8:8e:59)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (f4:03:43:50:40:f3)
-		IPv4: 192.168.5.172/24
+		eno3 (18:66:da:f8:8e:5a)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno49 (48:df:37:0d:d9:20)
-		IPv4: 169.254.15.244/16
+		eno4 (18:66:da:f8:8e:5b)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno50 (48:df:37:0d:d9:21)
-		IPv4: 169.254.108.228/16
+		enp4s0f0 (90:e2:ba:b3:5b:74)
+		IPv4: 169.254.95.210/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		enp4s0f1 (90:e2:ba:b3:5b:75)
+		IPv4: 169.254.197.135/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
-ПАМЯТЬ 12 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
-ПАМЯТЬ 24 | 16 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
-ПЛАТФОРМА ProLiant DL380 Gen9 - 6CU736JBD9
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+ПАМЯТЬ 01 | 64 GB - 2400 - DDR4 2400 - A1
+ПАМЯТЬ 02 | 64 GB - 2400 - DDR4 2400 - A2
+ПАМЯТЬ 03 | 64 GB - 2400 - DDR4 2400 - A3
+ПАМЯТЬ 04 | 64 GB - 2400 - DDR4 2400 - A4
+ПАМЯТЬ 13 | 64 GB - 2400 - DDR4 2400 - B1
+ПАМЯТЬ 14 | 64 GB - 2400 - DDR4 2400 - B2
+ПАМЯТЬ 15 | 64 GB - 2400 - DDR4 2400 - B3
+ПАМЯТЬ 16 | 64 GB - 2400 - DDR4 2400 - B4
+ПЛАТФОРМА PowerEdge R730xd - 2X48H62
 ДИСК (28.65 GiB)
 
 ```
 ---
-2026-08-26 17:38:39
+2026-08-26 18:02:02
