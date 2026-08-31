@@ -3,22 +3,23 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: SGH016S492)
+	ProLiant DL360 Gen10 	(SN: SGH015Y4H9)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	31 August 2026, Monday, 12:38 (UTC)
+	31 August 2026, Monday, 12:42 (UTC)
 
 	Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
 	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.22 0.79 0.33
+	Load Average (1m, 5m, 15m): 1.21 0.78 0.33
 
 	Memory size: 125.42 GiB
-	Memory used: 4.41 GiB
-	Memory free: 121.36 GiB
+	Memory used: 4.60 GiB
+	Memory free: 121.16 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sdb (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,13 +27,13 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (5c:b9:01:95:26:ec)
-		IPv4: 192.168.5.130/24
+		eno5 (14:02:ec:76:f2:ac)
+		IPv4: 192.168.5.101/24
 		RX: 0.04 GiB, TX: 0.00 GiB
 
-		eno6 (5c:b9:01:95:26:ed)
-		IPv4: 192.168.5.114/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		eno6 (14:02:ec:76:f2:ad)
+		IPv4: 192.168.5.103/24
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
@@ -42,9 +43,10 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - SGH016S492
+ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015Y4H9
 ДИСК (0.00 GiB)
+ДИСК (28.65 GiB)
 
 ```
 ---
-2026-08-31 12:38:41
+2026-08-31 12:42:54
