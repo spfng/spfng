@@ -3,22 +3,33 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen10 	(SN: SGH805S9Y1)
+	ProLiant DL360 Gen10 	(SN: SGH035S42Q)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	1 September 2026, Tuesday, 06:14 (UTC)
+	1 September 2026, Tuesday, 06:17 (UTC)
 
 	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
 	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.72 0.26 0.10
+	Load Average (1m, 5m, 15m): 1.33 0.43 0.15
 
-	Memory size: 125.56 GiB
-	Memory used: 4.09 GiB
-	Memory free: 121.82 GiB
+	Memory size: 125.55 GiB
+	Memory used: 4.12 GiB
+	Memory free: 121.79 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sda (745.21 GiB)
+		Drive: /dev/sdb (745.21 GiB)
+		Drive: /dev/sdc (894.25 GiB)
+		Drive: /dev/sdd (894.25 GiB)
+		Drive: /dev/sde (745.21 GiB)
+		Drive: /dev/sdf (894.25 GiB)
+		Drive: /dev/sdg (894.25 GiB)
+		Drive: /dev/sdh (894.25 GiB)
+		Drive: /dev/sdi (447.13 GiB)
+		Drive: /dev/sdj (894.25 GiB)
+		Drive: /dev/sdk (0.00 GiB)
+		Drive: /dev/sdl (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,32 +37,28 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (d0:67:26:cb:15:88)
-		IPv4: 192.168.5.151/24
-		RX: 0.03 GiB, TX: 0.00 GiB
+		eno1 (94:40:c9:31:88:e4)
+		IPv4: 192.168.5.123/24
+		RX: 0.04 GiB, TX: 0.00 GiB
 
-		eno5np0 (14:02:ec:6c:db:f0)
-		IPv4: 169.254.83.196/16
+		eno5np0 (48:df:37:90:e9:00)
+		IPv4: 169.254.102.213/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (d0:67:26:cb:15:89)
-		IPv4: 192.168.5.102/24
-		RX: 0.01 GiB, TX: 0.00 GiB
-
-		eno3 (d0:67:26:cb:15:8a)
-		IPv4: 192.168.5.127/24
+		eno2 (94:40:c9:31:88:e5)
+		IPv4: 192.168.5.160/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (d0:67:26:cb:15:8b)
-		IPv4: 192.168.5.172/24
+		eno6np1 (48:df:37:90:e9:08)
+		IPv4: 169.254.164.71/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno6np1 (14:02:ec:6c:db:f8)
-		IPv4: 169.254.237.111/16
+		eno3 (94:40:c9:31:88:e6)
+		IPv4: 192.168.5.107/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		enp1s0f4u4 (ea:cc:a5:75:25:d2)
-		IPv4: 16.1.15.2/30
+		eno4 (94:40:c9:31:88:e7)
+		IPv4: 192.168.5.139/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -62,9 +69,20 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 22 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-ПЛАТФОРМА ProLiant DL380 Gen10 - SGH805S9Y1
+ПЛАТФОРМА ProLiant DL360 Gen10 - SGH035S42Q
+ДИСК (745.21 GiB)
+ДИСК (745.21 GiB)
+ДИСК (894.25 GiB)
+ДИСК (894.25 GiB)
+ДИСК (745.21 GiB)
+ДИСК (894.25 GiB)
+ДИСК (894.25 GiB)
+ДИСК (894.25 GiB)
+ДИСК (447.13 GiB)
+ДИСК (894.25 GiB)
 ДИСК (0.00 GiB)
+ДИСК (28.65 GiB)
 
 ```
 ---
-2026-09-01 06:14:23
+2026-09-01 06:17:52
