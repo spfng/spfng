@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL380 Gen10 	(SN: SGH805S9Y1)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	1 September 2026, Tuesday, 06:08 (UTC)
+	1 September 2026, Tuesday, 06:14 (UTC)
 
 	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
 	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.74 0.27 0.10
+	Load Average (1m, 5m, 15m): 0.72 0.26 0.10
 
 	Memory size: 125.56 GiB
-	Memory used: 4.27 GiB
-	Memory free: 121.64 GiB
+	Memory used: 4.09 GiB
+	Memory free: 121.82 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -28,7 +28,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno1 (d0:67:26:cb:15:88)
 		IPv4: 192.168.5.151/24
-		RX: 0.00 GiB, TX: 0.00 GiB
+		RX: 0.03 GiB, TX: 0.00 GiB
 
 		eno5np0 (14:02:ec:6c:db:f0)
 		IPv4: 169.254.83.196/16
@@ -36,7 +36,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno2 (d0:67:26:cb:15:89)
 		IPv4: 192.168.5.102/24
-		RX: 0.04 GiB, TX: 0.00 GiB
+		RX: 0.01 GiB, TX: 0.00 GiB
 
 		eno3 (d0:67:26:cb:15:8a)
 		IPv4: 192.168.5.127/24
@@ -50,7 +50,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv4: 169.254.237.111/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		enp1s0f4u4 (42:2b:67:a6:d6:bc)
+		enp1s0f4u4 (ea:cc:a5:75:25:d2)
 		IPv4: 16.1.15.2/30
 		RX: 0.00 GiB, TX: 0.00 GiB
 
@@ -67,4 +67,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-09-01 06:08:10
+2026-09-01 06:14:23
