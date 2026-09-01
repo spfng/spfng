@@ -3,23 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: SGH035S42Q)
+	ProLiant DL380 Gen10 	(SN: SGH805S9Y1)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	1 September 2026, Tuesday, 03:42 (UTC)
+	1 September 2026, Tuesday, 06:08 (UTC)
 
 	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
 	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.95 0.31 0.11
+	Load Average (1m, 5m, 15m): 0.74 0.27 0.10
 
-	Memory size: 62.55 GiB
-	Memory used: 3.71 GiB
-	Memory free: 58.91 GiB
+	Memory size: 125.56 GiB
+	Memory used: 4.27 GiB
+	Memory free: 121.64 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,35 +26,45 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (94:40:c9:31:88:e4)
-		IPv4: 192.168.5.123/24
+		eno1 (d0:67:26:cb:15:88)
+		IPv4: 192.168.5.151/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno5np0 (14:02:ec:6c:db:f0)
+		IPv4: 169.254.83.196/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno2 (d0:67:26:cb:15:89)
+		IPv4: 192.168.5.102/24
 		RX: 0.04 GiB, TX: 0.00 GiB
 
-		eno5np0 (48:df:37:90:e9:00)
+		eno3 (d0:67:26:cb:15:8a)
+		IPv4: 192.168.5.127/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (94:40:c9:31:88:e5)
+		eno4 (d0:67:26:cb:15:8b)
+		IPv4: 192.168.5.172/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (94:40:c9:31:88:e6)
+		eno6np1 (14:02:ec:6c:db:f8)
+		IPv4: 169.254.237.111/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno6np1 (48:df:37:90:e9:08)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4 (94:40:c9:31:88:e7)
+		enp1s0f4u4 (42:2b:67:a6:d6:bc)
+		IPv4: 16.1.15.2/30
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
-ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
+ПАМЯТЬ 08 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
+ПАМЯТЬ 20 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - SGH035S42Q
+ПЛАТФОРМА ProLiant DL380 Gen10 - SGH805S9Y1
 ДИСК (0.00 GiB)
-ДИСК (28.65 GiB)
 
 ```
 ---
-2026-09-01 03:42:05
+2026-09-01 06:08:10
