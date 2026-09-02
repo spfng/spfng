@@ -3,21 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen9 	(SN: 6CU814K98V)
+	ProLiant DL360 Gen9 	(SN: 6CU7433S9H)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	2 September 2026, Wednesday, 13:46 (UTC)
+	2 September 2026, Wednesday, 14:46 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz
-	Sockets: 2, Cores per socket: 20
+	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.99 0.39 0.14
+	Load Average (1m, 5m, 15m): 0.90 0.38 0.14
 
-	Memory size: 251.75 GiB
-	Memory used: 6.08 GiB
-	Memory free: 246.50 GiB
+	Memory size: 251.76 GiB
+	Memory used: 5.17 GiB
+	Memory free: 247.44 GiB
 
-	No drives attached.
+	Drives:
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,41 +26,37 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (ec:eb:b8:8b:9a:70)
-		IPv4: 192.168.5.142/24
+		eno1 (f4:03:43:5b:bf:28)
+		IPv4: 192.168.5.190/24
 		RX: 0.04 GiB, TX: 0.00 GiB
 
-		eno2 (ec:eb:b8:8b:9a:71)
+		eno2 (f4:03:43:5b:bf:29)
+		IPv4: 192.168.5.165/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (ec:eb:b8:8b:9a:72)
+		eno3 (f4:03:43:5b:bf:2a)
+		IPv4: 192.168.5.108/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (ec:eb:b8:8b:9a:73)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno49np0 (94:40:c9:6e:68:98)
-		IPv4: 169.254.99.135/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno50np1 (94:40:c9:6e:68:99)
-		IPv4: 169.254.84.103/16
+		eno4 (f4:03:43:5b:bf:2b)
+		IPv4: 192.168.5.188/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz
-ПАМЯТЬ 01 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 1
-ПАМЯТЬ 04 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 4
-ПАМЯТЬ 09 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 9
-ПАМЯТЬ 12 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
-ПАМЯТЬ 13 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 1
-ПАМЯТЬ 16 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 4
-ПАМЯТЬ 21 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 9
-ПАМЯТЬ 24 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
-ПЛАТФОРМА ProLiant DL360 Gen9 - 6CU814K98V
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+ПАМЯТЬ 01 | 32 GB - 2133 - DDR4 2133 - PROC 1 DIMM 1
+ПАМЯТЬ 04 | 32 GB - 2133 - DDR4 2133 - PROC 1 DIMM 4
+ПАМЯТЬ 09 | 32 GB - 2133 - DDR4 2133 - PROC 1 DIMM 9
+ПАМЯТЬ 12 | 32 GB - 2133 - DDR4 2133 - PROC 1 DIMM 12
+ПАМЯТЬ 13 | 32 GB - 2133 - DDR4 2133 - PROC 2 DIMM 1
+ПАМЯТЬ 16 | 32 GB - 2133 - DDR4 2133 - PROC 2 DIMM 4
+ПАМЯТЬ 21 | 32 GB - 2133 - DDR4 2133 - PROC 2 DIMM 9
+ПАМЯТЬ 24 | 32 GB - 2133 - DDR4 2133 - PROC 2 DIMM 12
+ПЛАТФОРМА ProLiant DL360 Gen9 - 6CU7433S9H
+ДИСК (28.65 GiB)
 
 ```
 ---
-2026-09-02 13:46:10
+2026-09-02 14:46:37
