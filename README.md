@@ -5,7 +5,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	PowerEdge R740xd 	(SN: FBJD2S2)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	2 September 2026, Wednesday, 13:27 (UTC)
+	2 September 2026, Wednesday, 13:35 (UTC)
 
 	Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
 	Sockets: 2, Cores per socket: 18
@@ -14,8 +14,8 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 	Load Average (1m, 5m, 15m): 0.78 0.27 0.10
 
 	Memory size: 251.51 GiB
-	Memory used: 5.30 GiB
-	Memory free: 247.05 GiB
+	Memory used: 5.18 GiB
+	Memory free: 247.17 GiB
 
 	Drives:
 		Drive: /dev/sda (16764.00 GiB)
@@ -23,15 +23,15 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		Drive: /dev/sdc (16764.00 GiB)
 		Drive: /dev/sdd (16764.00 GiB)
 		Drive: /dev/sde (16764.00 GiB)
-		Drive: /dev/sdf (16764.00 GiB)
-		Drive: /dev/sdg (931.51 GiB)
+		Drive: /dev/sdf (931.51 GiB)
+		Drive: /dev/sdg (16764.00 GiB)
 		Drive: /dev/sdh (16764.00 GiB)
 		Drive: /dev/sdi (16764.00 GiB)
 		Drive: /dev/sdj (16764.00 GiB)
-		Drive: /dev/sdk (931.51 GiB)
+		Drive: /dev/sdk (16764.00 GiB)
 		Drive: /dev/sdl (16764.00 GiB)
 		Drive: /dev/sdm (16764.00 GiB)
-		Drive: /dev/sdn (16764.00 GiB)
+		Drive: /dev/sdn (931.51 GiB)
 		Drive: /dev/sdo (28.65 GiB)
 
 	Network Interfaces:
@@ -46,15 +46,15 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno2 (e4:43:4b:5b:f3:e1)
 		IPv4: 192.168.5.119/24
-		RX: 0.04 GiB, TX: 0.00 GiB
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno3 (e4:43:4b:5b:f3:e2)
 		IPv4: 192.168.5.181/24
-		RX: 0.00 GiB, TX: 0.00 GiB
+		RX: 0.06 GiB, TX: 0.00 GiB
 
 		eno4 (e4:43:4b:5b:f3:e3)
 		IPv4: 192.168.5.134/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
@@ -70,17 +70,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ДИСК (16764.00 GiB)
 ДИСК (16764.00 GiB)
 ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
 ДИСК (931.51 GiB)
 ДИСК (16764.00 GiB)
 ДИСК (16764.00 GiB)
 ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
 ДИСК (931.51 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
 ДИСК (28.65 GiB)
 
 ```
 ---
-2026-09-02 13:27:07
+2026-09-02 13:35:14
