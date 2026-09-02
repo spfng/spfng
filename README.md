@@ -3,22 +3,23 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen10 	(SN: SGH805S9Y1)
+	ProLiant DL360 Gen10 	(SN: SGH035S42Q)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	2 September 2026, Wednesday, 08:14 (UTC)
+	2 September 2026, Wednesday, 08:17 (UTC)
 
 	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
 	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.58 0.22 0.08
+	Load Average (1m, 5m, 15m): 0.65 0.23 0.08
 
-	Memory size: 125.56 GiB
-	Memory used: 4.30 GiB
-	Memory free: 121.61 GiB
+	Memory size: 125.55 GiB
+	Memory used: 4.13 GiB
+	Memory free: 121.78 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sdb (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,27 +27,23 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (d0:67:26:cb:15:88)
-		IPv4: 192.168.5.151/24
+		eno1 (94:40:c9:31:88:e4)
+		IPv4: 192.168.5.123/24
 		RX: 0.04 GiB, TX: 0.00 GiB
 
-		eno5np0 (14:02:ec:6c:db:f0)
+		eno5np0 (48:df:37:90:e9:00)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (d0:67:26:cb:15:89)
+		eno2 (94:40:c9:31:88:e5)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno6np1 (14:02:ec:6c:db:f8)
+		eno3 (94:40:c9:31:88:e6)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (d0:67:26:cb:15:8a)
+		eno6np1 (48:df:37:90:e9:08)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (d0:67:26:cb:15:8b)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		enp1s0f4u4 (f6:c4:5f:81:f8:29)
-		IPv4: 16.1.15.2/30
+		eno4 (94:40:c9:31:88:e7)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -57,9 +54,10 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 22 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-ПЛАТФОРМА ProLiant DL380 Gen10 - SGH805S9Y1
+ПЛАТФОРМА ProLiant DL360 Gen10 - SGH035S42Q
 ДИСК (0.00 GiB)
+ДИСК (28.65 GiB)
 
 ```
 ---
-2026-09-02 08:14:58
+2026-09-02 08:17:56
