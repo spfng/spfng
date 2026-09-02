@@ -3,22 +3,21 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen9 	(SN: 6CU7433SC4)
+	PowerEdge R740xd 	(SN: FBJD2S2)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	2 September 2026, Wednesday, 12:10 (UTC)
+	2 September 2026, Wednesday, 12:19 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
-	Sockets: 2, Cores per socket: 16
+	Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+	Sockets: 2, Cores per socket: 18
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.70 0.37 0.14
+	Load Average (1m, 5m, 15m): 1.88 0.56 0.19
 
-	Memory size: 251.75 GiB
-	Memory used: 5.78 GiB
-	Memory free: 246.82 GiB
+	Memory size: 754.52 GiB
+	Memory used: 8.21 GiB
+	Memory free: 749.15 GiB
 
-	Drives:
-		Drive: /dev/sda (28.65 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,45 +25,40 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno49np0 (f4:03:43:d0:aa:e0)
-		IPv4: 169.254.85.82/16
+		eno1 (d0:94:66:49:2e:50)
+		IPv4: 192.168.5.105/24
+		RX: 0.04 GiB, TX: 0.00 GiB
+
+		eno2 (d0:94:66:49:2e:52)
+		IPv4: 192.168.5.136/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (f4:03:43:5b:af:9c)
-		IPv4: 192.168.5.186/24
-		RX: 0.03 GiB, TX: 0.00 GiB
-
-		eno50np1 (f4:03:43:d0:aa:e8)
-		IPv4: 169.254.202.206/16
+		eno3 (d0:94:66:49:2e:54)
+		IPv4: 192.168.5.128/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (f4:03:43:5b:af:9d)
-		IPv4: 192.168.5.116/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3 (f4:03:43:5b:af:9e)
-		IPv4: 192.168.5.115/24
-		RX: 0.01 GiB, TX: 0.00 GiB
-
-		eno4 (f4:03:43:5b:af:9f)
-		IPv4: 192.168.5.196/24
+		eno4 (d0:94:66:49:2e:56)
+		IPv4: 192.168.5.159/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
-ПАМЯТЬ 01 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 1
-ПАМЯТЬ 04 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 4
-ПАМЯТЬ 09 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 9
-ПАМЯТЬ 12 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
-ПАМЯТЬ 13 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 1
-ПАМЯТЬ 16 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 4
-ПАМЯТЬ 21 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 9
-ПАМЯТЬ 24 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
-ПЛАТФОРМА ProLiant DL360 Gen9 - 6CU7433SC4
-ДИСК (28.65 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+ПАМЯТЬ 01 | 64 GB - 2933 - DDR4 2933 - A1
+ПАМЯТЬ 02 | 64 GB - 2933 - DDR4 2933 - A2
+ПАМЯТЬ 03 | 64 GB - 2933 - DDR4 2933 - A3
+ПАМЯТЬ 04 | 64 GB - 2933 - DDR4 2933 - A4
+ПАМЯТЬ 05 | 64 GB - 2933 - DDR4 2933 - A5
+ПАМЯТЬ 06 | 64 GB - 2933 - DDR4 2933 - A6
+ПАМЯТЬ 13 | 64 GB - 2933 - DDR4 2933 - B1
+ПАМЯТЬ 14 | 64 GB - 2933 - DDR4 2933 - B2
+ПАМЯТЬ 15 | 64 GB - 2933 - DDR4 2933 - B3
+ПАМЯТЬ 16 | 64 GB - 2933 - DDR4 2933 - B4
+ПАМЯТЬ 17 | 64 GB - 2933 - DDR4 2933 - B5
+ПАМЯТЬ 18 | 64 GB - 2933 - DDR4 2933 - B6
+ПЛАТФОРМА PowerEdge R740xd - FBJD2S2
 
 ```
 ---
-2026-09-02 12:10:03
+2026-09-02 12:19:53
