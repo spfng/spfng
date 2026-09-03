@@ -3,27 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R6525 	(SN: BGXBZB3)
+	ProLiant DL360 Gen9 	(SN: 6CU724SD3A)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	3 September 2026, Thursday, 06:01 (UTC)
+	3 September 2026, Thursday, 08:04 (UTC)
 
-	AMD EPYC 7A23 48-Core Processor
-	Sockets: 2, Cores per socket: 48
-	SVM-Virtualisation
+	Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
+	Sockets: 2, Cores per socket: 22
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.70 0.54 0.19
+	Load Average (1m, 5m, 15m): 1.20 0.47 0.17
 
-	Memory size: 503.46 GiB
-	Memory used: 9.33 GiB
-	Memory free: 495.94 GiB
+	Memory size: 251.75 GiB
+	Memory used: 5.18 GiB
+	Memory free: 247.41 GiB
 
 	Drives:
-		Drive: /dev/sda (223.57 GiB)
-		Drive: /dev/sdb (223.57 GiB)
-		Drive: /dev/nvme1n1 (1490.42 GiB)
-		Drive: /dev/nvme3n1 (1490.42 GiB)
-		Drive: /dev/nvme0n1 (1490.42 GiB)
-		Drive: /dev/nvme2n1 (1490.42 GiB)
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -31,53 +26,34 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (70:b5:e8:d1:19:2e)
-		IPv4: 192.168.1.51/24
-		RX: 0.06 GiB, TX: 0.00 GiB
+		eno1 (30:e1:71:63:2f:04)
+		IPv4: 192.168.5.176/24
+		RX: 0.04 GiB, TX: 0.00 GiB
 
-		eno8403 (70:b5:e8:d1:19:2f)
+		eno2 (30:e1:71:63:2f:05)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno12399np0 (58:a2:e1:5e:72:c0)
+		eno3 (30:e1:71:63:2f:06)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno12409np1 (58:a2:e1:5e:72:c1)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens3f0np0 (e0:9d:73:82:65:26)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens3f1np1 (e0:9d:73:82:65:27)
+		eno4 (30:e1:71:63:2f:07)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7A23 48-Core Processor
-ПРОЦЕССОР 02 - AMD EPYC 7A23 48-Core Processor
-ПАМЯТЬ 01 | 32 GB - 2666 - DDR4 2666 - A1
-ПАМЯТЬ 02 | 32 GB - 2666 - DDR4 2666 - A2
-ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - A3
-ПАМЯТЬ 04 | 32 GB - 2666 - DDR4 2666 - A4
-ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - A5
-ПАМЯТЬ 06 | 32 GB - 2666 - DDR4 2666 - A6
-ПАМЯТЬ 07 | 32 GB - 2666 - DDR4 2666 - A7
-ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - A8
-ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - B1
-ПАМЯТЬ 18 | 32 GB - 2666 - DDR4 2666 - B2
-ПАМЯТЬ 19 | 32 GB - 2666 - DDR4 2666 - B3
-ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - B4
-ПАМЯТЬ 21 | 32 GB - 2666 - DDR4 2666 - B5
-ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - B6
-ПАМЯТЬ 23 | 32 GB - 2666 - DDR4 2666 - B7
-ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - B8
-ПЛАТФОРМА PowerEdge R6525 - BGXBZB3
-ДИСК (223.57 GiB)
-ДИСК (223.57 GiB)
-ДИСК (1490.42 GiB)
-ДИСК (1490.42 GiB)
-ДИСК (1490.42 GiB)
-ДИСК (1490.42 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz
+ПАМЯТЬ 01 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 1
+ПАМЯТЬ 04 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 4
+ПАМЯТЬ 09 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 9
+ПАМЯТЬ 12 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
+ПАМЯТЬ 13 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 1
+ПАМЯТЬ 16 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 4
+ПАМЯТЬ 21 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 9
+ПАМЯТЬ 24 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
+ПЛАТФОРМА ProLiant DL360 Gen9 - 6CU724SD3A
+ДИСК (28.65 GiB)
 
 ```
 ---
-2026-09-03 06:01:46
+2026-09-03 08:04:31
