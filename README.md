@@ -3,21 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen9 	(SN: 6CU7433S9H)
+	PowerEdge R740xd 	(SN: FBJD2S2)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	3 September 2026, Thursday, 05:14 (UTC)
+	3 September 2026, Thursday, 05:35 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
-	Sockets: 2, Cores per socket: 8
+	Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+	Sockets: 2, Cores per socket: 18
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.85 0.38 0.14
+	Load Average (1m, 5m, 15m): 0.55 0.24 0.09
 
-	Memory size: 31.26 GiB
-	Memory used: 3.30 GiB
-	Memory free: 27.87 GiB
+	Memory size: 251.51 GiB
+	Memory used: 4.73 GiB
+	Memory free: 247.63 GiB
 
-	No drives attached.
+	Drives:
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,27 +26,30 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (f4:03:43:5b:bf:28)
-		IPv4: 192.168.5.190/24
+		eno1 (e4:43:4b:5b:f3:e0)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno2 (e4:43:4b:5b:f3:e1)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (e4:43:4b:5b:f3:e2)
+		IPv4: 192.168.5.181/24
 		RX: 0.04 GiB, TX: 0.00 GiB
 
-		eno2 (f4:03:43:5b:bf:29)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3 (f4:03:43:5b:bf:2a)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4 (f4:03:43:5b:bf:2b)
+		eno4 (e4:43:4b:5b:f3:e3)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
-ПАМЯТЬ 12 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
-ПАМЯТЬ 24 | 16 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
-ПЛАТФОРМА ProLiant DL360 Gen9 - 6CU7433S9H
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+ПАМЯТЬ 01 | 64 GB - 2933 - DDR4 2933 - A1
+ПАМЯТЬ 02 | 64 GB - 2933 - DDR4 2933 - A2
+ПАМЯТЬ 13 | 64 GB - 2933 - DDR4 2933 - B1
+ПАМЯТЬ 14 | 64 GB - 2933 - DDR4 2933 - B2
+ПЛАТФОРМА PowerEdge R740xd - FBJD2S2
+ДИСК (28.65 GiB)
 
 ```
 ---
-2026-09-03 05:14:43
+2026-09-03 05:35:20
