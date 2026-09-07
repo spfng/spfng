@@ -3,25 +3,23 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7515 	(SN: 20L8D43)
+	ProLiant DL380 Gen10 	(SN: CNX227006T)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	7 September 2026, Monday, 07:19 (UTC)
+	7 September 2026, Monday, 12:59 (UTC)
 
-	AMD EPYC 7773X 64-Core Processor
-	Sockets: 1, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Gold 6152 CPU @ 2.10GHz
+	Sockets: 2, Cores per socket: 22
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.76 0.30 0.12
+	Load Average (1m, 5m, 15m): 0.60 0.17 0.06
 
-	Memory size: 251.29 GiB
-	Memory used: 5.49 GiB
-	Memory free: 247.11 GiB
+	Memory size: 377.54 GiB
+	Memory used: 3.48 GiB
+	Memory free: 375.34 GiB
 
 	Drives:
-		Drive: /dev/sda (447.13 GiB)
-		Drive: /dev/sdb (447.13 GiB)
-		Drive: /dev/sdc (447.13 GiB)
-		Drive: /dev/sdd (447.13 GiB)
+		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sdb (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -29,34 +27,39 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (34:48:ed:ed:0f:c8)
-		IPv4: 192.168.5.129/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno8403 (34:48:ed:ed:0f:c9)
-		IPv4: 192.168.5.114/24
+		eno1 (08:f1:ea:f9:a1:50)
+		IPv4: 192.168.5.147/24
 		RX: 0.04 GiB, TX: 0.00 GiB
 
-		idrac (34:48:ed:ed:0f:c5)
+		eno2 (08:f1:ea:f9:a1:51)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (08:f1:ea:f9:a1:52)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (08:f1:ea:f9:a1:53)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7773X 64-Core Processor
-ПАМЯТЬ 01 | 32 GB - 3200 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 32 GB - 3200 - DDR4 3200 - A2
-ПАМЯТЬ 03 | 32 GB - 3200 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 32 GB - 3200 - DDR4 3200 - A4
-ПАМЯТЬ 05 | 32 GB - 3200 - DDR4 3200 - A5
-ПАМЯТЬ 06 | 32 GB - 3200 - DDR4 3200 - A6
-ПАМЯТЬ 07 | 32 GB - 3200 - DDR4 3200 - A7
-ПАМЯТЬ 08 | 32 GB - 3200 - DDR4 3200 - A8
-ПЛАТФОРМА PowerEdge R7515 - 20L8D43
-ДИСК (447.13 GiB)
-ДИСК (447.13 GiB)
-ДИСК (447.13 GiB)
-ДИСК (447.13 GiB)
+ПАМЯТЬ 01 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 1
+ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 3
+ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 5
+ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
+ПАМЯТЬ 12 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 12
+ПАМЯТЬ 13 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 1
+ПАМЯТЬ 15 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 3
+ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 5
+ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
+ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 12
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6152 CPU @ 2.10GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6152 CPU @ 2.10GHz
+ПЛАТФОРМА ProLiant DL380 Gen10 - CNX227006T
+ДИСК (0.00 GiB)
+ДИСК (28.65 GiB)
 
 ```
 ---
-2026-09-07 07:19:51
+2026-09-07 12:59:45
