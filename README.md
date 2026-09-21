@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	Express5800/T120h 	(SN: JPN830404H)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	21 September 2026, Monday, 08:59 (UTC)
+	21 September 2026, Monday, 09:00 (UTC)
 
 	Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz
 	Sockets: 2, Cores per socket: 12
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.28 0.15 0.08
+	Load Average (1m, 5m, 15m): 0.77 0.32 0.14
 
 	Memory size: 251.55 GiB
-	Memory used: 10.23 GiB
-	Memory free: 242.16 GiB
+	Memory used: 10.56 GiB
+	Memory free: 241.77 GiB
 
 	Drives:
 		Drive: /dev/sda (16764.00 GiB)
@@ -36,7 +36,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno2np1 (ec:eb:b8:9a:48:69)
 		IPv4: 192.168.5.196/24
-		RX: 0.00 GiB, TX: 0.00 GiB
+		RX: 0.03 GiB, TX: 0.00 GiB
 
 		eno3np2 (ec:eb:b8:9a:48:6a)
 		IPv4: 192.168.5.116/24
@@ -46,7 +46,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv4: 192.168.5.115/24
 		RX: 0.03 GiB, TX: 0.00 GiB
 
-	APT: 89 updates available
+	APT: 76 updates available
 
 ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 3
 ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 5
@@ -67,4 +67,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-09-21 08:59:49
+2026-09-21 09:00:30
