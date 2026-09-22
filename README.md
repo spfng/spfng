@@ -3,22 +3,21 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen9 	(SN: 6CU7433S4X)
+	ProLiant DL360 Gen9 	(SN: 6CU815KJC8)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	22 September 2026, Tuesday, 05:47 (UTC)
+	22 September 2026, Tuesday, 06:12 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz
 	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.31 0.49 0.18
+	Load Average (1m, 5m, 15m): 1.96 0.69 0.25
 
 	Memory size: 503.75 GiB
 	Memory used: 6.75 GiB
-	Memory free: 498.82 GiB
+	Memory free: 498.83 GiB
 
-	Drives:
-		Drive: /dev/sda (28.65 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,28 +25,23 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (f4:03:43:5b:66:b8)
-		IPv4: 192.168.5.120/24
-		RX: 0.03 GiB, TX: 0.00 GiB
+		eno1 (ec:eb:b8:8b:b9:ec)
+		IPv4: 192.168.5.166/24
+		RX: 0.04 GiB, TX: 0.00 GiB
 
-		eno2 (f4:03:43:5b:66:b9)
-		IPv4: 192.168.5.134/24
+		eno2 (ec:eb:b8:8b:b9:ed)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (f4:03:43:5b:66:ba)
-		IPv4: 192.168.5.119/24
+		eno3 (ec:eb:b8:8b:b9:ee)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (f4:03:43:5b:66:bb)
-		IPv4: 192.168.5.161/24
-		RX: 0.01 GiB, TX: 0.00 GiB
-
-		eno49 (14:58:d0:50:a8:d0)
-		IPv4: 169.254.122.198/16
+		eno4 (ec:eb:b8:8b:b9:ef)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno50 (14:58:d0:50:a8:d4)
-		IPv4: 169.254.165.225/16
+		eno49 (ec:b1:d7:7d:8c:e0)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno50 (ec:b1:d7:7d:8c:e4)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 89 updates available
@@ -70,9 +64,8 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 21 | 32 GB - 2133 - DDR4 2400 - PROC 2 DIMM 9
 ПАМЯТЬ 23 | 32 GB - 2133 - DDR4 2400 - PROC 2 DIMM 11
 ПАМЯТЬ 24 | 32 GB - 2133 - DDR4 2400 - PROC 2 DIMM 12
-ПЛАТФОРМА ProLiant DL360 Gen9 - 6CU7433S4X
-ДИСК (28.65 GiB)
+ПЛАТФОРМА ProLiant DL360 Gen9 - 6CU815KJC8
 
 ```
 ---
-2026-09-22 05:47:44
+2026-09-22 06:12:39
