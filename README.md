@@ -5,19 +5,21 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	Express5800/T120h 	(SN: JPN830404H)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	24 September 2026, Thursday, 08:08 (UTC)
+	24 September 2026, Thursday, 08:10 (UTC)
 
 	Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz
 	Sockets: 2, Cores per socket: 12
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 48.00 48.00 48.00
+	Load Average (1m, 5m, 15m): 48.13 48.04 48.01
 
 	Memory size: 251.55 GiB
 	Memory used: 10.49 GiB
 	Memory free: 241.84 GiB
 
-	No drives attached.
+	Drives:
+		Drive: /dev/sda (16764.00 GiB)
+		Drive: /dev/sdb (16764.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -51,7 +53,9 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz
 ПЛАТФОРМА Express5800/T120h - JPN830404H
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
 
 ```
 ---
-2026-09-24 08:08:22
+2026-09-24 08:10:45
