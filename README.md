@@ -3,22 +3,46 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	Express5800/T120h 	(SN: JPN830404H)
+	PowerEdge R7515 
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	24 September 2026, Thursday, 04:37 (UTC)
+	24 September 2026, Thursday, 06:05 (UTC)
 
-	Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz
-	Sockets: 2, Cores per socket: 12
-	VMX-Virtualisation
+	AMD EPYC 7773X 64-Core Processor
+	Sockets: 1, Cores per socket: 64
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.37 0.20 0.08
+	Load Average (1m, 5m, 15m): 0.79 0.29 0.11
 
-	Memory size: 251.55 GiB
-	Memory used: 10.26 GiB
-	Memory free: 242.13 GiB
+	Memory size: 125.39 GiB
+	Memory used: 5.79 GiB
+	Memory free: 120.11 GiB
 
 	Drives:
-		Drive: /dev/sda (28.65 GiB)
+		Drive: /dev/sda (447.13 GiB)
+		Drive: /dev/sdb (745.21 GiB)
+		Drive: /dev/sdc (894.25 GiB)
+		Drive: /dev/sdd (894.25 GiB)
+		Drive: /dev/sde (745.21 GiB)
+		Drive: /dev/sdf (447.13 GiB)
+		Drive: /dev/sdg (745.21 GiB)
+		Drive: /dev/sdh (894.25 GiB)
+		Drive: /dev/sdi (745.21 GiB)
+		Drive: /dev/sdj (894.25 GiB)
+		Drive: /dev/sdk (894.25 GiB)
+		Drive: /dev/sdl (894.25 GiB)
+		Drive: /dev/sdm (28.65 GiB)
+		Drive: /dev/nvme1n1 (3726.02 GiB)
+		Drive: /dev/nvme0n1 (3726.02 GiB)
+		Drive: /dev/nvme3n1 (2980.82 GiB)
+		Drive: /dev/nvme2n1 (2980.82 GiB)
+		Drive: /dev/nvme4n1 (3726.02 GiB)
+		Drive: /dev/nvme8n1 (3726.02 GiB)
+		Drive: /dev/nvme9n1 (3726.02 GiB)
+		Drive: /dev/nvme11n1 (3726.02 GiB)
+		Drive: /dev/nvme10n1 (3726.02 GiB)
+		Drive: /dev/nvme7n1 (3726.02 GiB)
+		Drive: /dev/nvme5n1 (3726.02 GiB)
+		Drive: /dev/nvme6n1 (3726.02 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,34 +50,55 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1np0 (ec:eb:b8:9a:48:68)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno2np1 (ec:eb:b8:9a:48:69)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3np2 (ec:eb:b8:9a:48:6a)
-		IPv4: 192.168.5.116/24
+		eno8303 (2c:ea:7f:f1:40:36)
+		IPv4: 192.168.5.143/24
 		RX: 0.04 GiB, TX: 0.00 GiB
 
-		eno4np3 (ec:eb:b8:9a:48:6b)
+		eno8403 (2c:ea:7f:f1:40:37)
+		IPv4: 192.168.5.108/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		idrac (2c:ea:7f:f1:40:33)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 89 updates available
 
-ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
-ПАМЯТЬ 15 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 5
-ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz
-ПЛАТФОРМА Express5800/T120h - JPN830404H
+ПРОЦЕССОР 01 - AMD EPYC 7773X 64-Core Processor
+ПАМЯТЬ 01 | 16 GB - 3200 - DDR4 3200 - A1
+ПАМЯТЬ 02 | 16 GB - 3200 - DDR4 3200 - A2
+ПАМЯТЬ 03 | 16 GB - 3200 - DDR4 3200 - A3
+ПАМЯТЬ 04 | 16 GB - 3200 - DDR4 3200 - A4
+ПАМЯТЬ 05 | 16 GB - 3200 - DDR4 3200 - A5
+ПАМЯТЬ 06 | 16 GB - 3200 - DDR4 3200 - A6
+ПАМЯТЬ 07 | 16 GB - 3200 - DDR4 3200 - A7
+ПАМЯТЬ 08 | 16 GB - 3200 - DDR4 3200 - A8
+ПЛАТФОРМА PowerEdge R7515 - Not Specified
+ДИСК (447.13 GiB)
+ДИСК (745.21 GiB)
+ДИСК (894.25 GiB)
+ДИСК (894.25 GiB)
+ДИСК (745.21 GiB)
+ДИСК (447.13 GiB)
+ДИСК (745.21 GiB)
+ДИСК (894.25 GiB)
+ДИСК (745.21 GiB)
+ДИСК (894.25 GiB)
+ДИСК (894.25 GiB)
+ДИСК (894.25 GiB)
 ДИСК (28.65 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (2980.82 GiB)
+ДИСК (2980.82 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (3726.02 GiB)
 
 ```
 ---
-2026-09-24 04:37:54
+2026-09-24 06:05:27
