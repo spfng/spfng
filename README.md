@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL360 Gen9 	(SN: 6CU814K7JC)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	28 September 2026, Monday, 11:04 (UTC)
+	28 September 2026, Monday, 11:11 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
 	Sockets: 1, Cores per socket: 10
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.87 0.36 0.13
+	Load Average (1m, 5m, 15m): 0.39 0.11 0.03
 
 	Memory size: 31.22 GiB
-	Memory used: 3.14 GiB
-	Memory free: 27.98 GiB
+	Memory used: 1.14 GiB
+	Memory free: 29.84 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -36,18 +36,18 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno3 (ec:eb:b8:8b:8a:ce)
 		IPv4: 192.168.5.109/24
-		RX: 0.00 GiB, TX: 0.00 GiB
+		RX: 0.04 GiB, TX: 0.00 GiB
 
 		eno4 (ec:eb:b8:8b:8a:cf)
 		IPv4: 192.168.5.113/24
-		RX: 0.03 GiB, TX: 0.00 GiB
-
-		eno49 (98:f2:b3:38:48:08)
-		IPv4: 169.254.231.36/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno50 (98:f2:b3:38:48:0c)
-		IPv4: 169.254.113.67/16
+		eno49 (c4:34:6b:b0:a8:e0)
+		IPv4: 169.254.185.147/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno50 (c4:34:6b:b0:a8:e4)
+		IPv4: 169.254.194.158/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 89 updates available
@@ -60,4 +60,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-09-28 11:04:48
+2026-09-28 11:11:17
