@@ -5,29 +5,28 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL360 Gen10 	(SN: CN78100BN3)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	28 September 2026, Monday, 13:59 (UTC)
+	29 September 2026, Tuesday, 03:47 (UTC)
 
 	Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
 	Sockets: 2, Cores per socket: 18
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.69 0.33 0.13
+	Load Average (1m, 5m, 15m): 0.90 0.32 0.11
 
 	Memory size: 377.54 GiB
-	Memory used: 5.93 GiB
-	Memory free: 372.94 GiB
+	Memory used: 5.85 GiB
+	Memory free: 373.02 GiB
 
 	Drives:
-		Drive: /dev/sda (894.25 GiB)
-		Drive: /dev/sdb (447.13 GiB)
+		Drive: /dev/sda (447.13 GiB)
+		Drive: /dev/sdb (894.25 GiB)
 		Drive: /dev/sdc (894.25 GiB)
 		Drive: /dev/sdd (894.25 GiB)
-		Drive: /dev/sde (447.13 GiB)
+		Drive: /dev/sde (745.21 GiB)
 		Drive: /dev/sdf (745.21 GiB)
-		Drive: /dev/sdg (745.21 GiB)
+		Drive: /dev/sdg (447.13 GiB)
 		Drive: /dev/sdh (745.21 GiB)
 		Drive: /dev/sdi (0.00 GiB)
-		Drive: /dev/sdj (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -37,7 +36,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno1 (ec:eb:b8:8a:ee:5c)
 		IPv4: 192.168.5.126/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno2 (ec:eb:b8:8a:ee:5d)
 		IPv4: 192.168.5.145/24
@@ -45,7 +44,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno3 (ec:eb:b8:8a:ee:5e)
 		IPv4: 192.168.5.104/24
-		RX: 0.00 GiB, TX: 0.00 GiB
+		RX: 0.01 GiB, TX: 0.00 GiB
 
 		eno4 (ec:eb:b8:8a:ee:5f)
 		IPv4: 192.168.5.178/24
@@ -76,17 +75,16 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
 ПЛАТФОРМА ProLiant DL360 Gen10 - CN78100BN3
-ДИСК (894.25 GiB)
 ДИСК (447.13 GiB)
 ДИСК (894.25 GiB)
 ДИСК (894.25 GiB)
+ДИСК (894.25 GiB)
+ДИСК (745.21 GiB)
+ДИСК (745.21 GiB)
 ДИСК (447.13 GiB)
-ДИСК (745.21 GiB)
-ДИСК (745.21 GiB)
 ДИСК (745.21 GiB)
 ДИСК (0.00 GiB)
-ДИСК (28.65 GiB)
 
 ```
 ---
-2026-09-28 13:59:09
+2026-09-29 03:47:34
