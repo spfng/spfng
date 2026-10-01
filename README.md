@@ -3,30 +3,26 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: CN781205H2)
+	ProLiant DL360 Gen9 	(SN: MXQ61707YJ)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	1 October 2026, Thursday, 13:08 (UTC)
+	1 October 2026, Thursday, 14:13 (UTC)
 
-	Intel(R) Xeon(R) Gold 6136 CPU @ 3.00GHz
-	Sockets: 2, Cores per socket: 12
+	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.05 0.35 0.12
+	Load Average (1m, 5m, 15m): 1.42 0.55 0.20
 
-	Memory size: 125.55 GiB
-	Memory used: 4.11 GiB
-	Memory free: 121.77 GiB
+	Memory size: 62.75 GiB
+	Memory used: 3.83 GiB
+	Memory free: 58.95 GiB
 
 	Drives:
-		Drive: /dev/sda (447.13 GiB)
-		Drive: /dev/sdb (894.25 GiB)
-		Drive: /dev/sdc (894.25 GiB)
-		Drive: /dev/sdd (894.25 GiB)
-		Drive: /dev/sde (894.25 GiB)
-		Drive: /dev/sdf (894.25 GiB)
-		Drive: /dev/sdg (745.21 GiB)
-		Drive: /dev/sdh (894.25 GiB)
-		Drive: /dev/sdi (0.00 GiB)
+		Drive: /dev/sda (16764.00 GiB)
+		Drive: /dev/sdb (16764.00 GiB)
+		Drive: /dev/sdc (16764.00 GiB)
+		Drive: /dev/sdd (16764.00 GiB)
+		Drive: /dev/sde (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -34,38 +30,32 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (ec:eb:b8:97:9b:84)
-		IPv4: 192.168.5.172/24
+		eno1 (1c:98:ec:22:22:8c)
+		IPv4: 192.168.5.118/24
 		RX: 0.04 GiB, TX: 0.00 GiB
 
-		eno2 (ec:eb:b8:97:9b:85)
+		eno2 (1c:98:ec:22:22:8d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (ec:eb:b8:97:9b:86)
+		eno3 (1c:98:ec:22:22:8e)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (ec:eb:b8:97:9b:87)
+		eno4 (1c:98:ec:22:22:8f)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 89 updates available
 
-ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
-ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6136 CPU @ 3.00GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6136 CPU @ 3.00GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - CN781205H2
-ДИСК (447.13 GiB)
-ДИСК (894.25 GiB)
-ДИСК (894.25 GiB)
-ДИСК (894.25 GiB)
-ДИСК (894.25 GiB)
-ДИСК (894.25 GiB)
-ДИСК (745.21 GiB)
-ДИСК (894.25 GiB)
-ДИСК (0.00 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+ПАМЯТЬ 12 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
+ПАМЯТЬ 24 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
+ПЛАТФОРМА ProLiant DL360 Gen9 - MXQ61707YJ
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (28.65 GiB)
 
 ```
 ---
-2026-10-01 13:08:41
+2026-10-01 14:13:27
