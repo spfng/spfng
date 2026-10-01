@@ -5,21 +5,28 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL360 Gen10 	(SN: CN781205H2)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	1 October 2026, Thursday, 12:52 (UTC)
+	1 October 2026, Thursday, 13:08 (UTC)
 
 	Intel(R) Xeon(R) Gold 6136 CPU @ 3.00GHz
 	Sockets: 2, Cores per socket: 12
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.70 0.22 0.08
+	Load Average (1m, 5m, 15m): 1.05 0.35 0.12
 
-	Memory size: 377.55 GiB
-	Memory used: 3.36 GiB
-	Memory free: 375.45 GiB
+	Memory size: 125.55 GiB
+	Memory used: 4.11 GiB
+	Memory free: 121.77 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (28.65 GiB)
+		Drive: /dev/sda (447.13 GiB)
+		Drive: /dev/sdb (894.25 GiB)
+		Drive: /dev/sdc (894.25 GiB)
+		Drive: /dev/sdd (894.25 GiB)
+		Drive: /dev/sde (894.25 GiB)
+		Drive: /dev/sdf (894.25 GiB)
+		Drive: /dev/sdg (745.21 GiB)
+		Drive: /dev/sdh (894.25 GiB)
+		Drive: /dev/sdi (0.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -42,24 +49,23 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	APT: 89 updates available
 
-ПАМЯТЬ 01 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 1
-ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 5
 ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
 ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
-ПАМЯТЬ 12 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 12
-ПАМЯТЬ 13 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 1
-ПАМЯТЬ 15 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 5
 ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
 ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
-ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 12
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6136 CPU @ 3.00GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6136 CPU @ 3.00GHz
 ПЛАТФОРМА ProLiant DL360 Gen10 - CN781205H2
+ДИСК (447.13 GiB)
+ДИСК (894.25 GiB)
+ДИСК (894.25 GiB)
+ДИСК (894.25 GiB)
+ДИСК (894.25 GiB)
+ДИСК (894.25 GiB)
+ДИСК (745.21 GiB)
+ДИСК (894.25 GiB)
 ДИСК (0.00 GiB)
-ДИСК (28.65 GiB)
 
 ```
 ---
-2026-10-01 12:52:52
+2026-10-01 13:08:41
