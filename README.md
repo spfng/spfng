@@ -3,32 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PR2766GW 2.0c	(SN: PR2766GW1710120001)
-	Running on Linux 6.12.107+deb13-amd64 x86_64
-	2 October 2026, Friday, 09:43 (UTC)
+	ProLiant DL360 Gen9 	(SN: 6CU7433RTJ)
+	Running on Linux 6.12.94+deb13-amd64 x86_64
+	5 October 2026, Monday, 03:51 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
-	Sockets: 2, Cores per socket: 16
+	Intel(R) Xeon(R) CPU E5-2687W v4 @ 3.00GHz
+	Sockets: 2, Cores per socket: 12
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.66 0.35 0.14
+	Load Average (1m, 5m, 15m): 1.16 0.47 0.18
 
-	Memory size: 125.77 GiB
-	Memory used: 4.08 GiB
-	Memory free: 122.03 GiB
+	Memory size: 125.76 GiB
+	Memory used: 4.04 GiB
+	Memory free: 122.05 GiB
 
 	Drives:
-		Drive: /dev/sda (29.30 GiB)
-		Drive: /dev/sdb (745.21 GiB)
-		Drive: /dev/sdc (745.21 GiB)
-		Drive: /dev/sdd (447.13 GiB)
-		Drive: /dev/sde (745.21 GiB)
-		Drive: /dev/sdf (894.25 GiB)
-		Drive: /dev/sdg (894.25 GiB)
-		Drive: /dev/sdh (894.25 GiB)
-		Drive: /dev/sdi (745.21 GiB)
-		Drive: /dev/sdj (894.25 GiB)
-		Drive: /dev/sdk (894.25 GiB)
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -36,39 +26,30 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens1f0 (ac:1f:6b:21:ab:00)
-		IPv4: 192.168.5.139/24
+		eno1 (f4:03:43:5b:cb:b4)
+		IPv4: 192.168.5.138/24
 		RX: 0.04 GiB, TX: 0.00 GiB
 
-		ens1f1 (ac:1f:6b:21:ab:01)
-		IPv4: 192.168.5.160/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		eno2 (f4:03:43:5b:cb:b5)
+		RX: 0.00 GiB, TX: 0.00 GiB
 
-	APT: 1 updates available
+		eno3 (f4:03:43:5b:cb:b6)
+		RX: 0.00 GiB, TX: 0.00 GiB
 
-ПАМЯТЬ 01 | 16 GB - 2400 - DDR4 2400 - P1_DIMMA1
-ПАМЯТЬ 03 | 16 GB - 2400 - DDR4 2400 - P1_DIMMB1
-ПАМЯТЬ 05 | 16 GB - 2400 - DDR4 2400 - P1_DIMMC1
-ПАМЯТЬ 07 | 16 GB - 2400 - DDR4 2400 - P1_DIMMD1
-ПАМЯТЬ 09 | 16 GB - 2400 - DDR4 2400 - P2_DIMME1
-ПАМЯТЬ 11 | 16 GB - 2400 - DDR4 2400 - P2_DIMMF1
-ПАМЯТЬ 13 | 16 GB - 2400 - DDR4 2400 - P2_DIMMG1
-ПАМЯТЬ 15 | 16 GB - 2400 - DDR4 2400 - P2_DIMMH1
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
-ПЛАТФОРМА PR2766GW - PR2766GW1710120001
-ДИСК (29.30 GiB)
-ДИСК (745.21 GiB)
-ДИСК (745.21 GiB)
-ДИСК (447.13 GiB)
-ДИСК (745.21 GiB)
-ДИСК (894.25 GiB)
-ДИСК (894.25 GiB)
-ДИСК (894.25 GiB)
-ДИСК (745.21 GiB)
-ДИСК (894.25 GiB)
-ДИСК (894.25 GiB)
+		eno4 (f4:03:43:5b:cb:b7)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+	APT: 89 updates available
+
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2687W v4 @ 3.00GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2687W v4 @ 3.00GHz
+ПАМЯТЬ 09 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 9
+ПАМЯТЬ 12 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
+ПАМЯТЬ 21 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 9
+ПАМЯТЬ 24 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
+ПЛАТФОРМА ProLiant DL360 Gen9 - 6CU7433RTJ
+ДИСК (28.65 GiB)
 
 ```
 ---
-2026-10-02 09:43:17
+2026-10-05 03:51:36
