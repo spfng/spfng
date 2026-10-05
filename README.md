@@ -3,22 +3,23 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen9 	(SN: 6CU724SWB9)
+	ProLiant DL360 Gen10 	(SN: MXQ00100WF)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	5 October 2026, Monday, 08:26 (UTC)
+	5 October 2026, Monday, 11:44 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
-	Sockets: 2, Cores per socket: 16
+	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.02 0.35 0.12
+	Load Average (1m, 5m, 15m): 0.51 0.13 0.04
 
-	Memory size: 755.75 GiB
-	Memory used: 5.75 GiB
-	Memory free: 752.80 GiB
+	Memory size: 125.55 GiB
+	Memory used: 1.97 GiB
+	Memory free: 123.80 GiB
 
 	Drives:
-		Drive: /dev/sda (28.65 GiB)
+		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sdb (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,57 +27,37 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno49np0 (48:df:37:50:49:70)
-		IPv4: 169.254.206.85/16
+		eno1 (94:40:c9:df:14:70)
+		IPv4: 192.168.5.150/24
+		RX: 0.04 GiB, TX: 0.00 GiB
+
+		eno5np0 (48:df:37:77:b9:b0)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (30:e1:71:6c:23:40)
-		IPv4: 192.168.5.180/24
+		eno2 (94:40:c9:df:14:71)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (30:e1:71:6c:23:41)
-		IPv4: 192.168.5.153/24
-		RX: 0.03 GiB, TX: 0.00 GiB
-
-		eno3 (30:e1:71:6c:23:42)
-		IPv4: 192.168.5.197/24
-		RX: 0.01 GiB, TX: 0.00 GiB
-
-		eno50np1 (48:df:37:50:49:78)
-		IPv4: 169.254.176.55/16
+		eno6np1 (48:df:37:77:b9:b8)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (30:e1:71:6c:23:43)
-		IPv4: 192.168.5.200/24
+		eno3 (94:40:c9:df:14:72)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens2f0np0 (48:df:37:1b:7b:c0)
-		IPv4: 169.254.245.245/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens2f1np1 (48:df:37:1b:7b:c8)
-		IPv4: 169.254.128.94/16
+		eno4 (94:40:c9:df:14:73)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 89 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
-ПАМЯТЬ 01 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 1
-ПАМЯТЬ 04 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 4
-ПАМЯТЬ 08 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 8
-ПАМЯТЬ 09 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 9
-ПАМЯТЬ 11 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 11
-ПАМЯТЬ 12 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
-ПАМЯТЬ 13 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 1
-ПАМЯТЬ 16 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 4
-ПАМЯТЬ 20 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 8
-ПАМЯТЬ 21 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 9
-ПАМЯТЬ 23 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 11
-ПАМЯТЬ 24 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
-ПЛАТФОРМА ProLiant DL360 Gen9 - 6CU724SWB9
+ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
+ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
+ПЛАТФОРМА ProLiant DL360 Gen10 - MXQ00100WF
+ДИСК (0.00 GiB)
 ДИСК (28.65 GiB)
 
 ```
 ---
-2026-10-05 08:26:56
+2026-10-05 11:44:33
