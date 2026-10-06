@@ -3,23 +3,32 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: MXQ00100WF)
-	Running on Linux 6.12.94+deb13-amd64 x86_64
-	5 October 2026, Monday, 11:44 (UTC)
+	PR2766GW 2.0c	(SN: PR2766GW1710120001)
+	Running on Linux 6.12.107+deb13-amd64 x86_64
+	6 October 2026, Tuesday, 05:27 (UTC)
 
-	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-	Sockets: 2, Cores per socket: 8
+	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.51 0.13 0.04
+	Load Average (1m, 5m, 15m): 0.73 0.21 0.07
 
-	Memory size: 125.55 GiB
-	Memory used: 1.97 GiB
-	Memory free: 123.80 GiB
+	Memory size: 125.77 GiB
+	Memory used: 2.22 GiB
+	Memory free: 123.76 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (28.65 GiB)
+		Drive: /dev/sda (447.13 GiB)
+		Drive: /dev/sdb (745.21 GiB)
+		Drive: /dev/sdc (894.25 GiB)
+		Drive: /dev/sdd (894.25 GiB)
+		Drive: /dev/sde (745.21 GiB)
+		Drive: /dev/sdf (447.13 GiB)
+		Drive: /dev/sdg (745.21 GiB)
+		Drive: /dev/sdh (894.25 GiB)
+		Drive: /dev/sdi (894.25 GiB)
+		Drive: /dev/sdj (894.25 GiB)
+		Drive: /dev/sdk (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,37 +36,47 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (94:40:c9:df:14:70)
-		IPv4: 192.168.5.150/24
-		RX: 0.04 GiB, TX: 0.00 GiB
+		ens1f0 (ac:1f:6b:21:ab:00)
+		IPv4: 192.168.5.139/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno5np0 (48:df:37:77:b9:b0)
+		ens1f1 (ac:1f:6b:21:ab:01)
+		IPv4: 192.168.5.160/24
+		RX: 0.03 GiB, TX: 0.00 GiB
+
+		ens5f0 (00:11:0a:6a:27:78)
+		IPv4: 169.254.70.3/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (94:40:c9:df:14:71)
+		ens5f1 (00:11:0a:6a:27:79)
+		IPv4: 169.254.147.139/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno6np1 (48:df:37:77:b9:b8)
-		RX: 0.00 GiB, TX: 0.00 GiB
+	APT: 1 updates available
 
-		eno3 (94:40:c9:df:14:72)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4 (94:40:c9:df:14:73)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-	APT: 89 updates available
-
-ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
-ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - MXQ00100WF
-ДИСК (0.00 GiB)
-ДИСК (28.65 GiB)
+ПАМЯТЬ 01 | 16 GB - 2400 - DDR4 2400 - P1_DIMMA1
+ПАМЯТЬ 03 | 16 GB - 2400 - DDR4 2400 - P1_DIMMB1
+ПАМЯТЬ 05 | 16 GB - 2400 - DDR4 2400 - P1_DIMMC1
+ПАМЯТЬ 07 | 16 GB - 2400 - DDR4 2400 - P1_DIMMD1
+ПАМЯТЬ 09 | 16 GB - 2400 - DDR4 2400 - P2_DIMME1
+ПАМЯТЬ 11 | 16 GB - 2400 - DDR4 2400 - P2_DIMMF1
+ПАМЯТЬ 13 | 16 GB - 2400 - DDR4 2400 - P2_DIMMG1
+ПАМЯТЬ 15 | 16 GB - 2400 - DDR4 2400 - P2_DIMMH1
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+ПЛАТФОРМА PR2766GW - PR2766GW1710120001
+ДИСК (447.13 GiB)
+ДИСК (745.21 GiB)
+ДИСК (894.25 GiB)
+ДИСК (894.25 GiB)
+ДИСК (745.21 GiB)
+ДИСК (447.13 GiB)
+ДИСК (745.21 GiB)
+ДИСК (894.25 GiB)
+ДИСК (894.25 GiB)
+ДИСК (894.25 GiB)
+ДИСК (29.30 GiB)
 
 ```
 ---
-2026-10-05 11:44:33
+2026-10-06 05:27:29
