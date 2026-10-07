@@ -3,24 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: CZ38234T1S)
+	ProLiant DL360 Gen9 	(SN: 6CU812EA54)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	7 October 2026, Wednesday, 05:30 (UTC)
+	7 October 2026, Wednesday, 05:46 (UTC)
 
-	Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
-	Sockets: 2, Cores per socket: 20
+	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+	Sockets: 1, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.83 0.71 0.32
+	Load Average (1m, 5m, 15m): 1.04 0.43 0.16
 
-	Memory size: 188.42 GiB
-	Memory used: 4.76 GiB
-	Memory free: 184.24 GiB
+	Memory size: 15.49 GiB
+	Memory used: 2.90 GiB
+	Memory free: 12.41 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (28.65 GiB)
-		Drive: /dev/nvme0n1 (2980.82 GiB)
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -28,34 +26,27 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (ec:eb:b8:9a:45:5c)
-		IPv4: 192.168.5.136/24
+		eno1 (ec:eb:b8:8a:f2:bc)
+		IPv4: 192.168.5.124/24
 		RX: 0.04 GiB, TX: 0.00 GiB
 
-		eno2 (ec:eb:b8:9a:45:5d)
+		eno2 (ec:eb:b8:8a:f2:bd)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (ec:eb:b8:9a:45:5e)
+		eno3 (ec:eb:b8:8a:f2:be)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (ec:eb:b8:9a:45:5f)
+		eno4 (ec:eb:b8:8a:f2:bf)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 89 updates available
 
-ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
-ПАМЯТЬ 12 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 12
-ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
-ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 12
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - CZ38234T1S
-ДИСК (0.00 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+ПРОЦЕССОР 02 - Not Specified
+ПАМЯТЬ 12 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
+ПЛАТФОРМА ProLiant DL360 Gen9 - 6CU812EA54
 ДИСК (28.65 GiB)
-ДИСК (2980.82 GiB)
 
 ```
 ---
-2026-10-07 05:30:18
+2026-10-07 05:46:59
