@@ -3,38 +3,38 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7525 	(SN: 6606KH3)
-	Running on Linux 6.12.94+deb13-amd64 x86_64
-	8 October 2026, Thursday, 10:45 (UTC)
+	PowerEdge R7525 	(SN: 2506KH3)
+	Running on Linux 6.12.107+deb13-amd64 x86_64
+	8 October 2026, Thursday, 11:01 (UTC)
 
 	AMD EPYC 7252 8-Core Processor
 	Sockets: 2, Cores per socket: 8
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 9.96 2.61 0.91
+	Load Average (1m, 5m, 15m): 1.16 0.48 0.18
 
 	Memory size: 503.50 GiB
-	Memory used: 6.07 GiB
-	Memory free: 499.20 GiB
+	Memory used: 5.67 GiB
+	Memory free: 499.67 GiB
 
 	Drives:
-		Drive: /dev/sda (28.65 GiB)
-		Drive: /dev/nvme8n1 (3726.02 GiB)
-		Drive: /dev/nvme1n1 (2980.82 GiB)
-		Drive: /dev/nvme3n1 (2980.82 GiB)
+		Drive: /dev/sda (29.30 GiB)
+		Drive: /dev/nvme11n1 (2980.82 GiB)
+		Drive: /dev/nvme4n1 (3726.02 GiB)
+		Drive: /dev/nvme1n1 (3726.02 GiB)
 		Drive: /dev/nvme12n1 (3726.02 GiB)
-		Drive: /dev/nvme11n1 (3726.02 GiB)
-		Drive: /dev/nvme4n1 (1490.42 GiB)
-		Drive: /dev/nvme7n1 (3726.02 GiB)
 		Drive: /dev/nvme9n1 (3726.02 GiB)
-		Drive: /dev/nvme6n1 (1490.42 GiB)
 		Drive: /dev/nvme0n1 (1490.42 GiB)
+		Drive: /dev/nvme6n1 (3726.02 GiB)
+		Drive: /dev/nvme8n1 (3726.02 GiB)
 		Drive: /dev/nvme14n1 (3726.02 GiB)
-		Drive: /dev/nvme13n1 (3726.02 GiB)
-		Drive: /dev/nvme5n1 (3726.02 GiB)
+		Drive: /dev/nvme13n1 (2980.82 GiB)
+		Drive: /dev/nvme7n1 (3726.02 GiB)
+		Drive: /dev/nvme5n1 (1490.42 GiB)
+		Drive: /dev/nvme3n1 (1490.42 GiB)
+		Drive: /dev/nvme15n1 (3726.02 GiB)
 		Drive: /dev/nvme10n1 (3726.02 GiB)
 		Drive: /dev/nvme2n1 (1490.42 GiB)
-		Drive: /dev/nvme15n1 (3726.02 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -42,15 +42,14 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (f4:02:70:b9:0a:b0)
-		IPv4: 192.168.5.168/24
+		eno1 (b0:7b:25:dd:fb:66)
+		IPv4: 192.168.5.123/24
 		RX: 0.04 GiB, TX: 0.00 GiB
 
-		eno2 (f4:02:70:b9:0a:b1)
-		IPv4: 192.168.5.152/24
-		RX: 0.04 GiB, TX: 0.00 GiB
+		eno2 (b0:7b:25:dd:fb:67)
+		RX: 0.00 GiB, TX: 0.00 GiB
 
-	APT: 76 updates available
+	APT: 1 updates available
 
 ПРОЦЕССОР 01 - AMD EPYC 7252 8-Core Processor
 ПРОЦЕССОР 02 - AMD EPYC 7252 8-Core Processor
@@ -70,25 +69,25 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 22 | 32 GB - 3200 - DDR4 3200 - B6
 ПАМЯТЬ 23 | 32 GB - 3200 - DDR4 3200 - B7
 ПАМЯТЬ 24 | 32 GB - 3200 - DDR4 3200 - B8
-ПЛАТФОРМА PowerEdge R7525 - 6606KH3
-ДИСК (28.65 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (2980.82 GiB)
+ПЛАТФОРМА PowerEdge R7525 - 2506KH3
+ДИСК (29.30 GiB)
 ДИСК (2980.82 GiB)
 ДИСК (3726.02 GiB)
 ДИСК (3726.02 GiB)
-ДИСК (1490.42 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (1490.42 GiB)
-ДИСК (1490.42 GiB)
-ДИСК (3726.02 GiB)
-ДИСК (3726.02 GiB)
 ДИСК (3726.02 GiB)
 ДИСК (3726.02 GiB)
 ДИСК (1490.42 GiB)
 ДИСК (3726.02 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (2980.82 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (1490.42 GiB)
+ДИСК (1490.42 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (1490.42 GiB)
 
 ```
 ---
-2026-10-08 10:45:36
+2026-10-08 11:01:46
