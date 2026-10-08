@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	PowerEdge R7525 	(SN: 6606KH3)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	8 October 2026, Thursday, 10:44 (UTC)
+	8 October 2026, Thursday, 10:45 (UTC)
 
 	AMD EPYC 7252 8-Core Processor
 	Sockets: 2, Cores per socket: 8
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.08 0.51 0.20
+	Load Average (1m, 5m, 15m): 9.96 2.61 0.91
 
 	Memory size: 503.50 GiB
-	Memory used: 5.66 GiB
-	Memory free: 499.68 GiB
+	Memory used: 6.07 GiB
+	Memory free: 499.20 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -48,9 +48,9 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno2 (f4:02:70:b9:0a:b1)
 		IPv4: 192.168.5.152/24
-		RX: 0.00 GiB, TX: 0.00 GiB
+		RX: 0.04 GiB, TX: 0.00 GiB
 
-	APT: 89 updates available
+	APT: 76 updates available
 
 ПРОЦЕССОР 01 - AMD EPYC 7252 8-Core Processor
 ПРОЦЕССОР 02 - AMD EPYC 7252 8-Core Processor
@@ -91,4 +91,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-10-08 10:44:57
+2026-10-08 10:45:36
