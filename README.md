@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen10 	(SN: SGH223XRX2)
+	ProLiant DL380 Gen10 	(SN: SGH223XR94)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	13 October 2026, Tuesday, 14:43 (UTC)
+	13 October 2026, Tuesday, 14:51 (UTC)
 
 	Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
 	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.62 0.88 0.36
+	Load Average (1m, 5m, 15m): 1.25 0.78 0.33
 
 	Memory size: 755.42 GiB
-	Memory used: 8.28 GiB
-	Memory free: 749.99 GiB
+	Memory used: 8.37 GiB
+	Memory free: 749.91 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -27,13 +27,13 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (48:df:37:09:07:8c)
-		IPv4: 192.168.5.154/24
-		RX: 0.04 GiB, TX: 0.00 GiB
-
-		eno6 (48:df:37:09:07:8d)
-		IPv4: 192.168.5.183/24
+		eno5 (48:df:37:1f:c4:d4)
+		IPv4: 192.168.5.153/24
 		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno6 (48:df:37:1f:c4:d5)
+		IPv4: 192.168.5.138/24
+		RX: 0.04 GiB, TX: 0.00 GiB
 
 	APT: 89 updates available
 
@@ -51,10 +51,10 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 24 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
-ПЛАТФОРМА ProLiant DL380 Gen10 - SGH223XRX2
+ПЛАТФОРМА ProLiant DL380 Gen10 - SGH223XR94
 ДИСК (0.00 GiB)
 ДИСК (28.65 GiB)
 
 ```
 ---
-2026-10-13 14:43:30
+2026-10-13 14:51:09
