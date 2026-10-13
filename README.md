@@ -3,23 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: JPN805005F)
+	ProLiant DL380 Gen9 	(SN: 6CU702NYB1)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	12 October 2026, Monday, 07:13 (UTC)
+	13 October 2026, Tuesday, 04:55 (UTC)
 
-	Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz
-	Sockets: 2, Cores per socket: 12
+	Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
+	Sockets: 2, Cores per socket: 10
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.30 0.82 0.34
+	Load Average (1m, 5m, 15m): 0.54 0.32 0.16
 
-	Memory size: 251.43 GiB
-	Memory used: 5.10 GiB
-	Memory free: 247.18 GiB
+	Memory size: 31.26 GiB
+	Memory used: 3.28 GiB
+	Memory free: 27.89 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (28.65 GiB)
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,35 +26,31 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (98:f2:b3:2b:19:9c)
-		IPv4: 192.168.5.174/24
+		eno1 (94:18:82:77:5e:d4)
+		IPv4: 192.168.5.126/24
 		RX: 0.04 GiB, TX: 0.00 GiB
 
-		eno2 (98:f2:b3:2b:19:9d)
+		eno2 (94:18:82:77:5e:d5)
+		IPv4: 192.168.5.103/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (98:f2:b3:2b:19:9e)
+		eno3 (94:18:82:77:5e:d6)
+		IPv4: 192.168.5.191/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (98:f2:b3:2b:19:9f)
-		RX: 0.00 GiB, TX: 0.00 GiB
+		eno4 (94:18:82:77:5e:d7)
+		IPv4: 192.168.5.193/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
 	APT: 89 updates available
 
-ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
-ПАМЯТЬ 15 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 5
-ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - JPN805005F
-ДИСК (0.00 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
+ПАМЯТЬ 12 | 16 GB - 2133 - DDR4 2133 - PROC 1 DIMM 12
+ПАМЯТЬ 24 | 16 GB - 2133 - DDR4 2133 - PROC 2 DIMM 12
+ПЛАТФОРМА ProLiant DL380 Gen9 - 6CU702NYB1
 ДИСК (28.65 GiB)
 
 ```
 ---
-2026-10-12 07:13:37
+2026-10-13 04:55:42
