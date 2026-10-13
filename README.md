@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: JPN805005F)
+	ProLiant DL380 Gen10 	(SN: SGH214TTBT)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	13 October 2026, Tuesday, 07:00 (UTC)
+	13 October 2026, Tuesday, 14:36 (UTC)
 
-	Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz
-	Sockets: 2, Cores per socket: 12
+	Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
+	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.59 0.53 0.29
+	Load Average (1m, 5m, 15m): 1.48 0.90 0.37
 
-	Memory size: 251.43 GiB
-	Memory used: 4.86 GiB
-	Memory free: 247.41 GiB
+	Memory size: 755.42 GiB
+	Memory used: 7.55 GiB
+	Memory free: 750.73 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -27,38 +27,34 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (98:f2:b3:2b:19:9c)
-		IPv4: 192.168.5.174/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		eno5 (14:02:ec:8d:da:8c)
+		IPv4: 192.168.5.125/24
+		RX: 0.04 GiB, TX: 0.00 GiB
 
-		eno2 (98:f2:b3:2b:19:9d)
-		IPv4: 192.168.5.148/24
-		RX: 0.01 GiB, TX: 0.00 GiB
-
-		eno3 (98:f2:b3:2b:19:9e)
-		IPv4: 192.168.5.157/24
-		RX: 0.01 GiB, TX: 0.00 GiB
-
-		eno4 (98:f2:b3:2b:19:9f)
-		IPv4: 192.168.5.185/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		eno6 (14:02:ec:8d:da:8d)
+		IPv4: 192.168.5.121/24
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 89 updates available
 
-ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
-ПАМЯТЬ 15 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 5
-ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - JPN805005F
+ПАМЯТЬ 01 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 1
+ПАМЯТЬ 03 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 3
+ПАМЯТЬ 05 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 5
+ПАМЯТЬ 08 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 10
+ПАМЯТЬ 12 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
+ПАМЯТЬ 13 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 1
+ПАМЯТЬ 15 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 3
+ПАМЯТЬ 17 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 5
+ПАМЯТЬ 20 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 10
+ПАМЯТЬ 24 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
+ПЛАТФОРМА ProLiant DL380 Gen10 - SGH214TTBT
 ДИСК (0.00 GiB)
 ДИСК (28.65 GiB)
 
 ```
 ---
-2026-10-13 07:00:38
+2026-10-13 14:36:02
