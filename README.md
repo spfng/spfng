@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen9 	(SN: 6CU814K4N9)
+	ProLiant DL360 Gen9 	(SN: 6CU815M84M)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	14 October 2026, Wednesday, 04:48 (UTC)
+	14 October 2026, Wednesday, 05:00 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz
 	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.79 0.72 0.27
+	Load Average (1m, 5m, 15m): 1.30 0.79 0.31
 
 	Memory size: 755.75 GiB
-	Memory used: 8.61 GiB
-	Memory free: 750.00 GiB
+	Memory used: 8.35 GiB
+	Memory free: 750.26 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -26,33 +26,33 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (ec:eb:b8:8a:5d:74)
-		IPv4: 192.168.5.188/24
+		eno1 (ec:eb:b8:96:6b:68)
+		IPv4: 192.168.5.108/24
 		RX: 0.04 GiB, TX: 0.00 GiB
 
-		eno49np0 (48:df:37:9d:05:90)
-		IPv4: 169.254.43.248/16
+		eno49np0 (14:02:ec:7e:02:b0)
+		IPv4: 169.254.202.173/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (ec:eb:b8:8a:5d:75)
+		eno2 (ec:eb:b8:96:6b:69)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (ec:eb:b8:8a:5d:76)
+		eno3 (ec:eb:b8:96:6b:6a)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (ec:eb:b8:8a:5d:77)
+		eno4 (ec:eb:b8:96:6b:6b)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno50np1 (48:df:37:9d:05:98)
-		IPv4: 169.254.14.220/16
+		eno50np1 (14:02:ec:7e:02:b8)
+		IPv4: 169.254.167.202/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens2f0np0 (d4:f5:ef:3e:8f:80)
-		IPv4: 169.254.55.156/16
+		ens2f0np0 (48:df:37:9e:e7:40)
+		IPv4: 169.254.81.235/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens2f1np1 (d4:f5:ef:3e:8f:88)
-		IPv4: 169.254.48.191/16
+		ens2f1np1 (48:df:37:9e:e7:48)
+		IPv4: 169.254.189.129/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 89 updates available
@@ -71,9 +71,9 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 21 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 9
 ПАМЯТЬ 23 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 11
 ПАМЯТЬ 24 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
-ПЛАТФОРМА ProLiant DL360 Gen9 - 6CU814K4N9
+ПЛАТФОРМА ProLiant DL360 Gen9 - 6CU815M84M
 ДИСК (28.65 GiB)
 
 ```
 ---
-2026-10-14 04:48:40
+2026-10-14 05:00:53
