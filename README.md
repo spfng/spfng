@@ -3,24 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: CZ38234T6H)
+	ProLiant DL325 Gen10 Plus 	(SN: CZ22260GMK)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	14 October 2026, Wednesday, 11:51 (UTC)
+	14 October 2026, Wednesday, 12:12 (UTC)
 
-	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-	Sockets: 1, Cores per socket: 8
-	VMX-Virtualisation
+	AMD EPYC 75F3 32-Core Processor
+	Sockets: 1, Cores per socket: 32
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.22 0.81 0.34
+	Load Average (1m, 5m, 15m): 0.90 0.28 0.10
 
-	Memory size: 125.34 GiB
-	Memory used: 3.71 GiB
-	Memory free: 122.21 GiB
+	Memory size: 503.44 GiB
+	Memory used: 6.76 GiB
+	Memory free: 499.11 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (28.65 GiB)
-		Drive: /dev/nvme0n1 (2980.82 GiB)
+		Drive: /dev/sda (28.65 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -28,35 +26,36 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (ec:eb:b8:99:1c:9c)
-		IPv4: 192.168.5.169/24
-		RX: 0.03 GiB, TX: 0.00 GiB
-
-		eno2 (ec:eb:b8:99:1c:9d)
-		IPv4: 192.168.5.132/24
+		ens10f0 (04:32:01:5e:cf:74)
+		IPv4: 192.168.5.136/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (ec:eb:b8:99:1c:9e)
-		IPv4: 192.168.5.155/24
+		ens10f1 (04:32:01:5e:cf:75)
+		IPv4: 192.168.5.140/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (ec:eb:b8:99:1c:9f)
-		IPv4: 192.168.5.111/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		ens10f2 (04:32:01:5e:cf:76)
+		IPv4: 192.168.5.159/24
+		RX: 0.04 GiB, TX: 0.00 GiB
+
+		ens10f3 (04:32:01:5e:cf:77)
+		IPv4: 192.168.5.181/24
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 89 updates available
 
-ПАМЯТЬ 03 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-ПРОЦЕССОР 02 - Not Specified
-ПЛАТФОРМА ProLiant DL360 Gen10 - CZ38234T6H
-ДИСК (0.00 GiB)
+ПАМЯТЬ 01 | 64 GB - 3200 - DDR4 3200 - PROC 1 DIMM 1
+ПАМЯТЬ 03 | 64 GB - 3200 - DDR4 3200 - PROC 1 DIMM 3
+ПАМЯТЬ 05 | 64 GB - 3200 - DDR4 3200 - PROC 1 DIMM 5
+ПАМЯТЬ 07 | 64 GB - 3200 - DDR4 3200 - PROC 1 DIMM 7
+ПАМЯТЬ 10 | 64 GB - 3200 - DDR4 3200 - PROC 1 DIMM 10
+ПАМЯТЬ 12 | 64 GB - 3200 - DDR4 3200 - PROC 1 DIMM 12
+ПАМЯТЬ 14 | 64 GB - 3200 - DDR4 3200 - PROC 1 DIMM 14
+ПАМЯТЬ 16 | 64 GB - 3200 - DDR4 3200 - PROC 1 DIMM 16
+ПРОЦЕССОР 01 - AMD EPYC 75F3 32-Core Processor
+ПЛАТФОРМА ProLiant DL325 Gen10 Plus - CZ22260GMK
 ДИСК (28.65 GiB)
-ДИСК (2980.82 GiB)
 
 ```
 ---
-2026-10-14 11:51:34
+2026-10-14 12:12:37
