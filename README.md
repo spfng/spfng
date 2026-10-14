@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL360 Gen9 	(SN: 6CU814K4N9)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	14 October 2026, Wednesday, 04:35 (UTC)
+	14 October 2026, Wednesday, 04:48 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz
 	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.43 0.12 0.08
+	Load Average (1m, 5m, 15m): 1.79 0.72 0.27
 
 	Memory size: 755.75 GiB
-	Memory used: 7.36 GiB
-	Memory free: 751.25 GiB
+	Memory used: 8.61 GiB
+	Memory free: 750.00 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -47,6 +47,14 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv4: 169.254.14.220/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
+		ens2f0np0 (d4:f5:ef:3e:8f:80)
+		IPv4: 169.254.55.156/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens2f1np1 (d4:f5:ef:3e:8f:88)
+		IPv4: 169.254.48.191/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
 	APT: 89 updates available
 
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz
@@ -68,4 +76,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-10-14 04:35:53
+2026-10-14 04:48:40
