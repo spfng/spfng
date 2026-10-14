@@ -3,22 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL325 Gen10 Plus 	(SN: CZ22260GMK)
-	Running on Linux 6.12.94+deb13-amd64 x86_64
-	14 October 2026, Wednesday, 12:12 (UTC)
+	ProLiant DL380 Gen10 	(SN: 2M282003NG)
+	Running on Linux 6.12.107+deb13-amd64 x86_64
+	14 October 2026, Wednesday, 13:44 (UTC)
 
-	AMD EPYC 75F3 32-Core Processor
-	Sockets: 1, Cores per socket: 32
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz
+	Sockets: 2, Cores per socket: 24
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.90 0.28 0.10
+	Load Average (1m, 5m, 15m): 0.36 0.13 0.07
 
-	Memory size: 503.44 GiB
-	Memory used: 6.76 GiB
-	Memory free: 499.11 GiB
+	Memory size: 377.54 GiB
+	Memory used: 5.41 GiB
+	Memory free: 373.42 GiB
 
 	Drives:
-		Drive: /dev/sda (28.65 GiB)
+		Drive: /dev/sda (0.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,36 +26,32 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens10f0 (04:32:01:5e:cf:74)
-		IPv4: 192.168.5.136/24
+		eno1 (d0:67:26:d6:55:3a)
+		IPv4: 192.168.5.128/24
+		RX: 0.02 GiB, TX: 0.00 GiB
+
+		eno2 (d0:67:26:d6:55:3b)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens10f1 (04:32:01:5e:cf:75)
-		IPv4: 192.168.5.140/24
+		eno3 (d0:67:26:d6:55:3c)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens10f2 (04:32:01:5e:cf:76)
-		IPv4: 192.168.5.159/24
-		RX: 0.04 GiB, TX: 0.00 GiB
-
-		ens10f3 (04:32:01:5e:cf:77)
-		IPv4: 192.168.5.181/24
+		eno4 (d0:67:26:d6:55:3d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-	APT: 89 updates available
+	APT: 1 updates available
 
-ПАМЯТЬ 01 | 64 GB - 3200 - DDR4 3200 - PROC 1 DIMM 1
-ПАМЯТЬ 03 | 64 GB - 3200 - DDR4 3200 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 64 GB - 3200 - DDR4 3200 - PROC 1 DIMM 5
-ПАМЯТЬ 07 | 64 GB - 3200 - DDR4 3200 - PROC 1 DIMM 7
-ПАМЯТЬ 10 | 64 GB - 3200 - DDR4 3200 - PROC 1 DIMM 10
-ПАМЯТЬ 12 | 64 GB - 3200 - DDR4 3200 - PROC 1 DIMM 12
-ПАМЯТЬ 14 | 64 GB - 3200 - DDR4 3200 - PROC 1 DIMM 14
-ПАМЯТЬ 16 | 64 GB - 3200 - DDR4 3200 - PROC 1 DIMM 16
-ПРОЦЕССОР 01 - AMD EPYC 75F3 32-Core Processor
-ПЛАТФОРМА ProLiant DL325 Gen10 Plus - CZ22260GMK
-ДИСК (28.65 GiB)
+ПАМЯТЬ 08 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
+ПАМЯТЬ 12 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 12
+ПАМЯТЬ 20 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
+ПАМЯТЬ 24 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 12
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz
+ПЛАТФОРМА ProLiant DL380 Gen10 - 2M282003NG
+ДИСК (0.00 GiB)
 
 ```
 ---
-2026-10-14 12:12:37
+2026-10-14 13:44:58
