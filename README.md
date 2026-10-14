@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL360 Gen9 	(SN: 6CU815M84M)
 	Running on Linux 6.12.94+deb13-amd64 x86_64
-	14 October 2026, Wednesday, 05:00 (UTC)
+	14 October 2026, Wednesday, 05:16 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz
 	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.30 0.79 0.31
+	Load Average (1m, 5m, 15m): 0.43 0.21 0.08
 
 	Memory size: 755.75 GiB
-	Memory used: 8.35 GiB
-	Memory free: 750.26 GiB
+	Memory used: 5.90 GiB
+	Memory free: 752.65 GiB
 
 	Drives:
 		Drive: /dev/sda (28.65 GiB)
@@ -31,10 +31,12 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		RX: 0.04 GiB, TX: 0.00 GiB
 
 		eno49np0 (14:02:ec:7e:02:b0)
-		IPv4: 169.254.202.173/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno2 (ec:eb:b8:96:6b:69)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno50np1 (14:02:ec:7e:02:b8)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno3 (ec:eb:b8:96:6b:6a)
@@ -43,16 +45,10 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		eno4 (ec:eb:b8:96:6b:6b)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno50np1 (14:02:ec:7e:02:b8)
-		IPv4: 169.254.167.202/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
 		ens2f0np0 (48:df:37:9e:e7:40)
-		IPv4: 169.254.81.235/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		ens2f1np1 (48:df:37:9e:e7:48)
-		IPv4: 169.254.189.129/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 89 updates available
@@ -76,4 +72,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-10-14 05:00:53
+2026-10-14 05:16:47
