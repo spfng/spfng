@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	B7129F83AV8E4HR-N-HE 	(SN: TCO2614G0035)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	16 October 2026, Friday, 08:30 (UTC)
+	16 October 2026, Friday, 09:29 (UTC)
 
 	Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz
 	Sockets: 2, Cores per socket: 28
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.46 0.21 0.08
+	Load Average (1m, 5m, 15m): 0.71 0.44 0.18
 
 	Memory size: 1007.53 GiB
-	Memory used: 8.30 GiB
-	Memory free: 1002.58 GiB
+	Memory used: 8.03 GiB
+	Memory free: 1002.83 GiB
 
 	Drives:
 		Drive: /dev/sda (29.30 GiB)
@@ -28,16 +28,19 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		ens6f0 (50:d3:3b:00:18:fc)
 		IPv4: 192.168.5.106/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		RX: 0.01 GiB, TX: 0.00 GiB
 
 		ens6f1 (50:d3:3b:00:18:fd)
+		IPv4: 192.168.5.130/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		ens6f2 (50:d3:3b:00:18:fe)
+		IPv4: 192.168.5.113/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 		ens6f3 (50:d3:3b:00:18:ff)
-		RX: 0.00 GiB, TX: 0.00 GiB
+		IPv4: 192.168.5.122/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
@@ -64,4 +67,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-10-16 08:30:23
+2026-10-16 09:29:07
