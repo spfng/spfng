@@ -3,36 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen9 	(SN: 6CU702NYML)
+	B7129F83AV8E4HR-N-HE 	(SN: TCO2614G0035)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	16 October 2026, Friday, 06:54 (UTC)
+	16 October 2026, Friday, 08:30 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
-	Sockets: 1, Cores per socket: 14
+	Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz
+	Sockets: 2, Cores per socket: 28
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.04 0.32 0.12
+	Load Average (1m, 5m, 15m): 0.46 0.21 0.08
 
-	Memory size: 62.67 GiB
-	Memory used: 3.31 GiB
-	Memory free: 59.42 GiB
+	Memory size: 1007.53 GiB
+	Memory used: 8.30 GiB
+	Memory free: 1002.58 GiB
 
 	Drives:
-		Drive: /dev/sda (16764.00 GiB)
-		Drive: /dev/sdb (16764.00 GiB)
-		Drive: /dev/sdc (16764.00 GiB)
-		Drive: /dev/sdd (16764.00 GiB)
-		Drive: /dev/sde (16764.00 GiB)
-		Drive: /dev/sdf (16764.00 GiB)
-		Drive: /dev/sdg (16764.00 GiB)
-		Drive: /dev/sdh (16764.00 GiB)
-		Drive: /dev/sdi (745.21 GiB)
-		Drive: /dev/sdj (894.25 GiB)
-		Drive: /dev/sdk (16764.00 GiB)
-		Drive: /dev/sdl (16764.00 GiB)
-		Drive: /dev/sdm (16764.00 GiB)
-		Drive: /dev/sdn (16764.00 GiB)
-		Drive: /dev/sdo (29.30 GiB)
+		Drive: /dev/sda (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -40,53 +26,42 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (94:18:82:77:6e:74)
-		IPv4: 192.168.5.127/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		ens6f0 (50:d3:3b:00:18:fc)
+		IPv4: 192.168.5.106/24
+		RX: 0.02 GiB, TX: 0.00 GiB
 
-		eno2 (94:18:82:77:6e:75)
-		IPv4: 192.168.5.131/24
+		ens6f1 (50:d3:3b:00:18:fd)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (94:18:82:77:6e:76)
-		IPv4: 192.168.5.104/24
+		ens6f2 (50:d3:3b:00:18:fe)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (94:18:82:77:6e:77)
-		IPv4: 192.168.5.176/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno49 (3c:a8:2a:16:eb:80)
-		IPv4: 169.254.207.98/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno50 (3c:a8:2a:16:eb:84)
-		IPv4: 169.254.182.215/16
+		ens6f3 (50:d3:3b:00:18:ff)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
-ПРОЦЕССОР 02 - Not Specified
-ПАМЯТЬ 09 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 9
-ПАМЯТЬ 12 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
-ПЛАТФОРМА ProLiant DL380 Gen9 - 6CU702NYML
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (745.21 GiB)
-ДИСК (894.25 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz
+ПАМЯТЬ 01 | 64 GB - 2933 - DDR4 3200 - CPU0_DIMM_A0
+ПАМЯТЬ 03 | 64 GB - 2933 - DDR4 3200 - CPU0_DIMM_B0
+ПАМЯТЬ 05 | 64 GB - 2933 - DDR4 3200 - CPU0_DIMM_C0
+ПАМЯТЬ 07 | 64 GB - 2933 - DDR4 3200 - CPU0_DIMM_D0
+ПАМЯТЬ 09 | 64 GB - 2933 - DDR4 3200 - CPU0_DIMM_E0
+ПАМЯТЬ 11 | 64 GB - 2933 - DDR4 3200 - CPU0_DIMM_F0
+ПАМЯТЬ 13 | 64 GB - 2933 - DDR4 3200 - CPU0_DIMM_G0
+ПАМЯТЬ 15 | 64 GB - 2933 - DDR4 3200 - CPU0_DIMM_H0
+ПАМЯТЬ 17 | 64 GB - 2933 - DDR4 3200 - CPU1_DIMM_A0
+ПАМЯТЬ 19 | 64 GB - 2933 - DDR4 3200 - CPU1_DIMM_B0
+ПАМЯТЬ 21 | 64 GB - 2933 - DDR4 3200 - CPU1_DIMM_C0
+ПАМЯТЬ 23 | 64 GB - 2933 - DDR4 3200 - CPU1_DIMM_D0
+ПАМЯТЬ 25 | 64 GB - 2933 - DDR4 3200 - CPU1_DIMM_E0
+ПАМЯТЬ 27 | 64 GB - 2933 - DDR4 3200 - CPU1_DIMM_F0
+ПАМЯТЬ 29 | 64 GB - 2933 - DDR4 3200 - CPU1_DIMM_G0
+ПАМЯТЬ 31 | 64 GB - 2933 - DDR4 3200 - CPU1_DIMM_H0
+ПЛАТФОРМА B7129F83AV8E4HR-N-HE - TCO2614G0035
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-10-16 06:54:08
+2026-10-16 08:30:23
