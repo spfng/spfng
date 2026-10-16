@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL380 Gen9 	(SN: 6CU702NYML)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	16 October 2026, Friday, 06:34 (UTC)
+	16 October 2026, Friday, 06:54 (UTC)
 
 	Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
 	Sockets: 1, Cores per socket: 14
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.02 0.35 0.13
+	Load Average (1m, 5m, 15m): 1.04 0.32 0.12
 
 	Memory size: 62.67 GiB
-	Memory used: 3.18 GiB
-	Memory free: 59.55 GiB
+	Memory used: 3.31 GiB
+	Memory free: 59.42 GiB
 
 	Drives:
 		Drive: /dev/sda (16764.00 GiB)
@@ -26,12 +26,13 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		Drive: /dev/sdf (16764.00 GiB)
 		Drive: /dev/sdg (16764.00 GiB)
 		Drive: /dev/sdh (16764.00 GiB)
-		Drive: /dev/sdi (16764.00 GiB)
-		Drive: /dev/sdj (745.21 GiB)
-		Drive: /dev/sdk (894.25 GiB)
+		Drive: /dev/sdi (745.21 GiB)
+		Drive: /dev/sdj (894.25 GiB)
+		Drive: /dev/sdk (16764.00 GiB)
 		Drive: /dev/sdl (16764.00 GiB)
 		Drive: /dev/sdm (16764.00 GiB)
 		Drive: /dev/sdn (16764.00 GiB)
+		Drive: /dev/sdo (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -49,10 +50,18 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno3 (94:18:82:77:6e:76)
 		IPv4: 192.168.5.104/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno4 (94:18:82:77:6e:77)
 		IPv4: 192.168.5.176/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno49 (3c:a8:2a:16:eb:80)
+		IPv4: 169.254.207.98/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno50 (3c:a8:2a:16:eb:84)
+		IPv4: 169.254.182.215/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -70,13 +79,14 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ДИСК (16764.00 GiB)
 ДИСК (16764.00 GiB)
 ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
 ДИСК (745.21 GiB)
 ДИСК (894.25 GiB)
 ДИСК (16764.00 GiB)
 ДИСК (16764.00 GiB)
 ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (29.30 GiB)
 
 ```
 ---
-2026-10-16 06:34:02
+2026-10-16 06:54:08
