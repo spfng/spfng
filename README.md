@@ -11,11 +11,11 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 	Sockets: 2, Cores per socket: 28
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.67 0.33 0.13
+	Load Average (1m, 5m, 15m): 1.16 0.48 0.18
 
 	Memory size: 1007.53 GiB
-	Memory used: 6.31 GiB
-	Memory free: 1004.48 GiB
+	Memory used: 7.44 GiB
+	Memory free: 1003.29 GiB
 
 	Drives:
 		Drive: /dev/sda (29.30 GiB)
@@ -32,7 +32,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		ens6f0 (50:d3:3b:00:18:fc)
 		IPv4: 192.168.5.106/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		RX: 0.03 GiB, TX: 0.00 GiB
 
 		ens6f1 (50:d3:3b:00:18:fd)
 		IPv4: 192.168.5.130/24
@@ -75,4 +75,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-10-16 10:32:21
+2026-10-16 10:32:53
