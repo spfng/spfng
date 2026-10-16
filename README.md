@@ -3,23 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: SGH016S51P)
+	ProLiant DL380 Gen9 	(SN: 6CU651JK2S)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	16 October 2026, Friday, 04:51 (UTC)
+	16 October 2026, Friday, 05:49 (UTC)
 
-	Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
-	Sockets: 2, Cores per socket: 18
+	Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz
+	Sockets: 1, Cores per socket: 14
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.89 0.27 0.10
+	Load Average (1m, 5m, 15m): 0.74 0.32 0.12
 
-	Memory size: 377.54 GiB
-	Memory used: 5.91 GiB
-	Memory free: 372.93 GiB
+	Memory size: 15.49 GiB
+	Memory used: 2.88 GiB
+	Memory free: 12.33 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (29.30 GiB)
+		Drive: /dev/sda (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,42 +26,30 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (ec:eb:b8:97:9b:5c)
-		IPv4: 192.168.5.123/24
+		eno1 (94:18:82:74:ee:18)
+		IPv4: 192.168.5.156/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (ec:eb:b8:97:9b:5d)
-		IPv4: 192.168.5.109/24
+		eno2 (94:18:82:74:ee:19)
+		IPv4: 192.168.5.129/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (ec:eb:b8:97:9b:5e)
-		IPv4: 192.168.5.178/24
+		eno3 (94:18:82:74:ee:1a)
+		IPv4: 192.168.5.164/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (ec:eb:b8:97:9b:5f)
-		IPv4: 192.168.5.145/24
+		eno4 (94:18:82:74:ee:1b)
+		IPv4: 192.168.5.117/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 01 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 1
-ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
-ПАМЯТЬ 12 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 12
-ПАМЯТЬ 13 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 1
-ПАМЯТЬ 15 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 5
-ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
-ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 12
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - SGH016S51P
-ДИСК (0.00 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz
+ПРОЦЕССОР 02 - Not Specified
+ПАМЯТЬ 12 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
+ПЛАТФОРМА ProLiant DL380 Gen9 - 6CU651JK2S
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-10-16 04:51:36
+2026-10-16 05:49:22
