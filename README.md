@@ -3,22 +3,23 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen10 	(SN: SGH926W98S)
+	ProLiant DL380 Gen10 	(SN: SGH926W9FP)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	22 October 2026, Thursday, 13:08 (UTC)
+	22 October 2026, Thursday, 13:19 (UTC)
 
 	Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
 	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.83 0.30 0.11
+	Load Average (1m, 5m, 15m): 0.72 0.25 0.09
 
 	Memory size: 188.54 GiB
-	Memory used: 4.83 GiB
-	Memory free: 184.26 GiB
+	Memory used: 5.06 GiB
+	Memory free: 184.03 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sdb (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,23 +27,23 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (08:f1:ea:ed:d2:f4)
-		IPv4: 192.168.5.170/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		eno1 (08:f1:ea:ed:c6:fa)
+		IPv4: 192.168.5.197/24
+		RX: 0.02 GiB, TX: 0.00 GiB
 
-		eno2 (08:f1:ea:ed:d2:f5)
+		eno2 (08:f1:ea:ed:c6:fb)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (08:f1:ea:ed:d2:f6)
+		eno3 (08:f1:ea:ed:c6:fc)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (08:f1:ea:ed:d2:f7)
+		eno4 (08:f1:ea:ed:c6:fd)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (48:df:37:cd:c1:ac)
+		eno5 (48:df:37:ce:83:66)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno6 (48:df:37:cd:c1:ad)
+		eno6 (48:df:37:ce:83:67)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -55,9 +56,10 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 12
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
-ПЛАТФОРМА ProLiant DL380 Gen10 - SGH926W98S
+ПЛАТФОРМА ProLiant DL380 Gen10 - SGH926W9FP
 ДИСК (0.00 GiB)
+ДИСК (29.30 GiB)
 
 ```
 ---
-2026-10-22 13:08:28
+2026-10-22 13:19:38
