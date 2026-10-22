@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen10 	(SN: SGH926W9FP)
+	ProLiant DL380 Gen10 	(SN: SGH926W98S)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	22 October 2026, Thursday, 07:30 (UTC)
+	22 October 2026, Thursday, 07:58 (UTC)
 
 	Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz
 	Sockets: 2, Cores per socket: 18
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.56 0.22 0.08
+	Load Average (1m, 5m, 15m): 0.85 0.39 0.15
 
 	Memory size: 188.54 GiB
-	Memory used: 4.93 GiB
-	Memory free: 184.17 GiB
+	Memory used: 4.85 GiB
+	Memory free: 184.24 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -27,28 +27,28 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (08:f1:ea:ed:c6:fa)
-		IPv4: 192.168.5.197/24
+		eno1 (08:f1:ea:ed:d2:f4)
+		IPv4: 192.168.5.170/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (08:f1:ea:ed:c6:fb)
-		IPv4: 192.168.5.161/24
+		eno2 (08:f1:ea:ed:d2:f5)
+		IPv4: 192.168.5.141/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (08:f1:ea:ed:c6:fc)
-		IPv4: 192.168.5.115/24
+		eno3 (08:f1:ea:ed:d2:f6)
+		IPv4: 192.168.5.132/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (08:f1:ea:ed:c6:fd)
-		IPv4: 192.168.5.134/24
+		eno4 (08:f1:ea:ed:d2:f7)
+		IPv4: 192.168.5.100/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (48:df:37:ce:83:66)
-		IPv4: 192.168.5.105/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		eno5 (48:df:37:cd:c1:ac)
+		IPv4: 192.168.5.155/24
+		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno6 (48:df:37:ce:83:67)
-		IPv4: 192.168.5.196/24
+		eno6 (48:df:37:cd:c1:ad)
+		IPv4: 192.168.5.173/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -61,10 +61,10 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 12
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz
-ПЛАТФОРМА ProLiant DL380 Gen10 - SGH926W9FP
+ПЛАТФОРМА ProLiant DL380 Gen10 - SGH926W98S
 ДИСК (0.00 GiB)
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-10-22 07:30:58
+2026-10-22 07:58:31
