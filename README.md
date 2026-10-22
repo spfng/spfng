@@ -3,7 +3,7 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: MXQ00100R9)
+	ProLiant DL360 Gen10 	(SN: MXQ00405PF)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
 	22 October 2026, Thursday, 07:23 (UTC)
 
@@ -14,8 +14,8 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 	Load Average (1m, 5m, 15m): 96.00 96.00 96.00
 
 	Memory size: 755.54 GiB
-	Memory used: 7.66 GiB
-	Memory free: 750.64 GiB
+	Memory used: 7.72 GiB
+	Memory free: 750.58 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -28,18 +28,18 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (08:f1:ea:74:11:30)
-		IPv4: 192.168.5.153/24
-		RX: 0.10 GiB, TX: 0.00 GiB
+		eno1 (08:f1:ea:7c:06:7c)
+		IPv4: 192.168.5.142/24
+		RX: 0.12 GiB, TX: 0.00 GiB
 
-		eno2 (08:f1:ea:74:11:31)
+		eno2 (08:f1:ea:7c:06:7d)
+		RX: 0.02 GiB, TX: 0.00 GiB
+
+		eno3 (08:f1:ea:7c:06:7e)
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno3 (08:f1:ea:74:11:32)
+		eno4 (08:f1:ea:7c:06:7f)
 		RX: 0.03 GiB, TX: 0.00 GiB
-
-		eno4 (08:f1:ea:74:11:33)
-		RX: 0.01 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
@@ -57,11 +57,11 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 24 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 12
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - MXQ00100R9
+ПЛАТФОРМА ProLiant DL360 Gen10 - MXQ00405PF
 ДИСК (0.00 GiB)
 ДИСК (447.13 GiB)
 ДИСК (447.13 GiB)
 
 ```
 ---
-2026-10-22 07:23:26
+2026-10-22 07:23:53
