@@ -3,22 +3,25 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7525 	(SN: 5506KH3)
+	ProLiant DL360 Gen10 	(SN: SGH016S5H4)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	23 October 2026, Friday, 10:40 (UTC)
+	23 October 2026, Friday, 11:04 (UTC)
 
-	AMD EPYC 7402P 24-Core Processor
-	Sockets: 1, Cores per socket: 24
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
+	Sockets: 2, Cores per socket: 24
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.55 0.47 0.16
+	Load Average (1m, 5m, 15m): 96.11 96.04 96.01
 
-	Memory size: 125.40 GiB
-	Memory used: 4.00 GiB
-	Memory free: 121.88 GiB
+	Memory size: 377.54 GiB
+	Memory used: 5.99 GiB
+	Memory free: 372.81 GiB
 
 	Drives:
-		Drive: /dev/sda (29.30 GiB)
+		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sdb (3576.98 GiB)
+		Drive: /dev/sdc (3576.98 GiB)
+		Drive: /dev/sdd (3576.98 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,28 +29,35 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (ec:2a:72:32:f7:20)
-		IPv4: 192.168.5.174/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		eno5 (48:df:37:ce:79:46)
+		IPv4: 192.168.5.133/24
+		RX: 0.17 GiB, TX: 0.00 GiB
 
-		eno2 (ec:2a:72:32:f7:21)
+		eno6 (48:df:37:ce:79:47)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7402P 24-Core Processor
-ПРОЦЕССОР 02 - Not Specified
-ПАМЯТЬ 01 | 16 GB - 3200 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 16 GB - 3200 - DDR4 3200 - A2
-ПАМЯТЬ 03 | 16 GB - 3200 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 16 GB - 3200 - DDR4 3200 - A4
-ПАМЯТЬ 05 | 16 GB - 3200 - DDR4 3200 - A5
-ПАМЯТЬ 06 | 16 GB - 3200 - DDR4 3200 - A6
-ПАМЯТЬ 07 | 16 GB - 3200 - DDR4 3200 - A7
-ПАМЯТЬ 08 | 16 GB - 3200 - DDR4 3200 - A8
-ПЛАТФОРМА PowerEdge R7525 - 5506KH3
-ДИСК (29.30 GiB)
+ПАМЯТЬ 01 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 1
+ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 3
+ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 5
+ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
+ПАМЯТЬ 12 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 12
+ПАМЯТЬ 13 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 1
+ПАМЯТЬ 15 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 3
+ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 5
+ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
+ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 12
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
+ПЛАТФОРМА ProLiant DL360 Gen10 - SGH016S5H4
+ДИСК (0.00 GiB)
+ДИСК (3576.98 GiB)
+ДИСК (3576.98 GiB)
+ДИСК (3576.98 GiB)
 
 ```
 ---
-2026-10-23 10:40:40
+2026-10-23 11:04:44
