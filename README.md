@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant ML350 Gen10 	(SN: JPN9360071)
+	ProLiant DL380 Gen10 	(SN: SGH926W98S)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	22 October 2026, Thursday, 13:40 (UTC)
+	23 October 2026, Friday, 05:04 (UTC)
 
-	Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
+	Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
 	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.83 0.27 0.10
+	Load Average (1m, 5m, 15m): 0.46 0.52 0.36
 
-	Memory size: 377.53 GiB
-	Memory used: 11.81 GiB
-	Memory free: 367.03 GiB
+	Memory size: 188.54 GiB
+	Memory used: 4.82 GiB
+	Memory free: 184.27 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -27,39 +27,39 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1np0 (80:30:e0:43:9c:68)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno2np1 (80:30:e0:43:9c:69)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3np2 (80:30:e0:43:9c:6a)
-		IPv4: 192.168.5.119/24
+		eno1 (08:f1:ea:ed:d2:f4)
+		IPv4: 192.168.5.170/24
 		RX: 0.02 GiB, TX: 0.00 GiB
 
-		eno4np3 (80:30:e0:43:9c:6b)
+		eno2 (08:f1:ea:ed:d2:f5)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (08:f1:ea:ed:d2:f6)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (08:f1:ea:ed:d2:f7)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno5 (48:df:37:cd:c1:ac)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno6 (48:df:37:cd:c1:ad)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 01 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 1
-ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 5
 ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
 ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
 ПАМЯТЬ 12 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 12
-ПАМЯТЬ 13 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 1
-ПАМЯТЬ 15 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 5
 ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
 ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
 ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 12
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
-ПЛАТФОРМА ProLiant ML350 Gen10 - JPN9360071
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
+ПЛАТФОРМА ProLiant DL380 Gen10 - SGH926W98S
 ДИСК (0.00 GiB)
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-10-22 13:40:05
+2026-10-23 05:04:30
