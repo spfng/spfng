@@ -3,22 +3,23 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R6525 	(SN: 2FB0014)
+	ProLiant DL360 Gen10 	(SN: SGH015YQC2)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	24 October 2026, Saturday, 07:02 (UTC)
+	24 October 2026, Saturday, 08:13 (UTC)
 
-	AMD EPYC 7C13 64-Core Processor
-	Sockets: 1, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz
+	Sockets: 2, Cores per socket: 18
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.11 0.33 0.12
+	Load Average (1m, 5m, 15m): 0.79 0.34 0.12
 
-	Memory size: 251.29 GiB
-	Memory used: 6.81 GiB
-	Memory free: 245.75 GiB
+	Memory size: 377.54 GiB
+	Memory used: 5.90 GiB
+	Memory free: 372.95 GiB
 
 	Drives:
-		Drive: /dev/sda (29.30 GiB)
+		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sdb (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,40 +27,34 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (c4:cb:e1:b2:fe:b0)
-		IPv4: 192.168.5.144/24
+		eno5 (48:df:37:ac:1a:f4)
+		IPv4: 192.168.5.167/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno8403 (c4:cb:e1:b2:fe:b1)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno12399np0 (14:23:f2:3d:94:90)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno12409np1 (14:23:f2:3d:94:91)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno12419np2 (14:23:f2:3d:94:92)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno12429np3 (14:23:f2:3d:94:93)
+		eno6 (48:df:37:ac:1a:f5)
+		IPv4: 192.168.5.152/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7C13 64-Core Processor
-ПРОЦЕССОР 02 - Not Specified
-ПАМЯТЬ 01 | 32 GB - 3200 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 32 GB - 3200 - DDR4 3200 - A2
-ПАМЯТЬ 03 | 32 GB - 3200 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 32 GB - 3200 - DDR4 3200 - A4
-ПАМЯТЬ 05 | 32 GB - 3200 - DDR4 3200 - A5
-ПАМЯТЬ 06 | 32 GB - 3200 - DDR4 3200 - A6
-ПАМЯТЬ 07 | 32 GB - 3200 - DDR4 3200 - A7
-ПАМЯТЬ 08 | 32 GB - 3200 - DDR4 3200 - A8
-ПЛАТФОРМА PowerEdge R6525 - 2FB0014
+ПАМЯТЬ 01 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 1
+ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 3
+ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 5
+ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
+ПАМЯТЬ 12 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 12
+ПАМЯТЬ 13 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 1
+ПАМЯТЬ 15 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 3
+ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 5
+ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
+ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 12
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz
+ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015YQC2
+ДИСК (0.00 GiB)
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-10-24 07:02:06
+2026-10-24 08:13:14
