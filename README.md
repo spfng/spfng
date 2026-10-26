@@ -3,22 +3,35 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R6525 	(SN: FB8T314)
+	PowerEdge R740xd 	(SN: 747NHQ2)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	26 October 2026, Monday, 12:46 (UTC)
+	26 October 2026, Monday, 13:18 (UTC)
 
-	AMD EPYC 7C13 64-Core Processor
-	Sockets: 2, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Silver 4216 CPU @ 2.10GHz
+	Sockets: 1, Cores per socket: 16
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.57 0.32 0.14
+	Load Average (1m, 5m, 15m): 1.35 0.60 0.23
 
-	Memory size: 219.94 GiB
-	Memory used: 7.66 GiB
-	Memory free: 212.93 GiB
+	Memory size: 92.94 GiB
+	Memory used: 3.72 GiB
+	Memory free: 89.47 GiB
 
 	Drives:
-		Drive: /dev/sda (29.30 GiB)
+		Drive: /dev/sda (16764.00 GiB)
+		Drive: /dev/sdb (16764.00 GiB)
+		Drive: /dev/sdc (16764.00 GiB)
+		Drive: /dev/sdd (16764.00 GiB)
+		Drive: /dev/sde (16764.00 GiB)
+		Drive: /dev/sdf (16764.00 GiB)
+		Drive: /dev/sdg (16764.00 GiB)
+		Drive: /dev/sdh (16764.00 GiB)
+		Drive: /dev/sdi (16764.00 GiB)
+		Drive: /dev/sdj (16764.00 GiB)
+		Drive: /dev/sdk (16764.00 GiB)
+		Drive: /dev/sdl (16764.00 GiB)
+		Drive: /dev/sdm (29.30 GiB)
+		Drive: /dev/nvme0n1 (349.32 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,53 +39,48 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (c4:cb:e1:b5:4d:3e)
-		IPv4: 192.168.5.124/24
+		eno1 (90:b1:1c:0f:5f:79)
+		IPv4: 192.168.5.112/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8403 (c4:cb:e1:b5:4d:3f)
-		IPv4: 192.168.5.189/24
+		eno2 (90:b1:1c:0f:5f:7b)
+		IPv4: 192.168.5.101/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (90:b1:1c:0f:5f:7d)
+		IPv4: 192.168.5.164/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		ens1f0np0 (88:e9:a4:c4:d3:a2)
-		IPv4: 169.254.177.75/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens1f1np1 (88:e9:a4:c4:d3:a3)
-		IPv4: 169.254.52.155/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno12399np0 (10:70:fd:88:fe:3c)
-		IPv4: 169.254.232.79/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno12409np1 (10:70:fd:88:fe:3d)
-		IPv4: 169.254.170.24/16
+		eno4 (90:b1:1c:0f:5f:7f)
+		IPv4: 192.168.5.135/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7C13 64-Core Processor
-ПРОЦЕССОР 02 - AMD EPYC 7C13 64-Core Processor
-ПАМЯТЬ 01 | 16 GB - 2400 - DDR4 Unknown - A1
-ПАМЯТЬ 02 | 16 GB - 2400 - DDR4 Unknown - A2
-ПАМЯТЬ 03 | 16 GB - 2400 - DDR4 Unknown - A3
-ПАМЯТЬ 04 | 16 GB - 2400 - DDR4 Unknown - A4
-ПАМЯТЬ 05 | 16 GB - 2400 - DDR4 2666 - A5
-ПАМЯТЬ 06 | 16 GB - 2400 - DDR4 Unknown - A6
-ПАМЯТЬ 07 | 16 GB - 2400 - DDR4 Unknown - A7
-ПАМЯТЬ 08 | 16 GB - 2400 - DDR4 Unknown - A8
-ПАМЯТЬ 17 | 16 GB - 2400 - DDR4 Unknown - B1
-ПАМЯТЬ 18 | 16 GB - 2400 - DDR4 Unknown - B2
-ПАМЯТЬ 19 | 16 GB - 2400 - DDR4 Unknown - B3
-ПАМЯТЬ 20 | 16 GB - 2400 - DDR4 Unknown - B4
-ПАМЯТЬ 21 | 16 GB - 2400 - DDR4 2666 - B5
-ПАМЯТЬ 22 | 16 GB - 2400 - DDR4 Unknown - B6
-ПАМЯТЬ 23 | 16 GB - 2400 - DDR4 Unknown - B7
-ПАМЯТЬ 24 | 16 GB - 2400 - DDR4 Unknown - B8
-ПЛАТФОРМА PowerEdge R6525 - FB8T314
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Silver 4216 CPU @ 2.10GHz
+ПРОЦЕССОР 02 - Not Specified
+ПАМЯТЬ 01 | 16 GB - 2400 - DDR4 2400 - A1
+ПАМЯТЬ 02 | 16 GB - 2400 - DDR4 2400 - A2
+ПАМЯТЬ 03 | 16 GB - 2400 - DDR4 2400 - A3
+ПАМЯТЬ 04 | 16 GB - 2400 - DDR4 2400 - A4
+ПАМЯТЬ 05 | 16 GB - 2400 - DDR4 2400 - A5
+ПАМЯТЬ 06 | 16 GB - 2400 - DDR4 2400 - A6
+ПЛАТФОРМА PowerEdge R740xd - 747NHQ2
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
 ДИСК (29.30 GiB)
+ДИСК (349.32 GiB)
 
 ```
 ---
-2026-10-26 12:46:38
+2026-10-26 13:18:33
