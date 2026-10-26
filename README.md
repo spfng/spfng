@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R740xd 	(SN: 2ZQH8F3)
+	PowerEdge R740xd 	(SN: CVXV8F3)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	26 October 2026, Monday, 09:51 (UTC)
+	26 October 2026, Monday, 10:14 (UTC)
 
 	Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
 	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.77 0.25 0.09
+	Load Average (1m, 5m, 15m): 0.40 0.11 0.04
 
 	Memory size: 754.53 GiB
-	Memory used: 7.41 GiB
-	Memory free: 749.90 GiB
+	Memory used: 4.93 GiB
+	Memory free: 752.31 GiB
 
 	Drives:
 		Drive: /dev/sda (16764.00 GiB)
@@ -30,9 +30,9 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		Drive: /dev/sdj (16764.00 GiB)
 		Drive: /dev/sdk (16764.00 GiB)
 		Drive: /dev/sdl (16764.00 GiB)
-		Drive: /dev/sdm (29.30 GiB)
+		Drive: /dev/sdm (16764.00 GiB)
 		Drive: /dev/sdn (16764.00 GiB)
-		Drive: /dev/sdo (16764.00 GiB)
+		Drive: /dev/sdo (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -40,23 +40,20 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (14:18:77:38:0a:b1)
-		IPv4: 192.168.5.117/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno2 (14:18:77:38:0a:b2)
-		IPv4: 192.168.5.184/24
+		eno1 (44:a8:42:0c:4a:14)
+		IPv4: 192.168.5.145/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno3 (14:18:77:38:0a:b3)
-		IPv4: 192.168.5.122/24
+		eno2 (44:a8:42:0c:4a:15)
+		IPv4: 192.168.5.127/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno4 (14:18:77:38:0a:b4)
-		IPv4: 192.168.5.113/24
+		eno3 (44:a8:42:0c:4a:16)
+		IPv4: 192.168.5.106/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		idrac (2c:ea:7f:b0:3a:de)
+		eno4 (44:a8:42:0c:4a:17)
+		IPv4: 192.168.5.147/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -75,7 +72,9 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 16 | 64 GB - 2933 - DDR4 3200 - B4
 ПАМЯТЬ 17 | 64 GB - 2933 - DDR4 3200 - B5
 ПАМЯТЬ 18 | 64 GB - 2933 - DDR4 3200 - B6
-ПЛАТФОРМА PowerEdge R740xd - 2ZQH8F3
+ПЛАТФОРМА PowerEdge R740xd - CVXV8F3
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
 ДИСК (16764.00 GiB)
 ДИСК (16764.00 GiB)
 ДИСК (16764.00 GiB)
@@ -89,9 +88,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ДИСК (16764.00 GiB)
 ДИСК (16764.00 GiB)
 ДИСК (29.30 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
 
 ```
 ---
-2026-10-26 09:51:14
+2026-10-26 10:14:34
