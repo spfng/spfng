@@ -3,35 +3,23 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R740xd 	(SN: 747NHQ2)
+	ProLiant DL360 Gen10 	(SN: CZ38234T58)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	27 October 2026, Tuesday, 12:09 (UTC)
+	27 October 2026, Tuesday, 13:15 (UTC)
 
-	Intel(R) Xeon(R) Silver 4216 CPU @ 2.10GHz
-	Sockets: 1, Cores per socket: 16
+	Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
+	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.30 0.41 0.15
+	Load Average (1m, 5m, 15m): 0.97 0.37 0.14
 
-	Memory size: 92.94 GiB
-	Memory used: 4.01 GiB
-	Memory free: 89.18 GiB
+	Memory size: 188.54 GiB
+	Memory used: 4.53 GiB
+	Memory free: 184.57 GiB
 
 	Drives:
-		Drive: /dev/sda (13039.00 GiB)
-		Drive: /dev/sdb (13039.00 GiB)
-		Drive: /dev/sdc (13039.00 GiB)
-		Drive: /dev/sdd (13039.00 GiB)
-		Drive: /dev/sde (13039.00 GiB)
-		Drive: /dev/sdf (13039.00 GiB)
-		Drive: /dev/sdg (13039.00 GiB)
-		Drive: /dev/sdh (13039.00 GiB)
-		Drive: /dev/sdi (13039.00 GiB)
-		Drive: /dev/sdj (13039.00 GiB)
-		Drive: /dev/sdk (13039.00 GiB)
-		Drive: /dev/sdl (13039.00 GiB)
-		Drive: /dev/sdm (29.30 GiB)
-		Drive: /dev/nvme0n1 (349.32 GiB)
+		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sdb (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -39,49 +27,33 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (90:b1:1c:0f:5f:79)
-		IPv4: 192.168.5.112/24
+		eno1 (ec:eb:b8:99:1c:48)
+		IPv4: 192.168.5.198/24
+		RX: 0.02 GiB, TX: 0.00 GiB
+
+		eno2 (ec:eb:b8:99:1c:49)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno2 (90:b1:1c:0f:5f:7b)
+		eno3 (ec:eb:b8:99:1c:4a)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (90:b1:1c:0f:5f:7d)
-		IPv4: 192.168.5.164/24
-		RX: 0.01 GiB, TX: 0.00 GiB
-
-		eno4 (90:b1:1c:0f:5f:7f)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		enp179s0np0 (24:8a:07:95:a7:8c)
+		eno4 (ec:eb:b8:99:1c:4b)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Silver 4216 CPU @ 2.10GHz
-ПРОЦЕССОР 02 - Not Specified
-ПАМЯТЬ 01 | 16 GB - 2400 - DDR4 2400 - A1
-ПАМЯТЬ 02 | 16 GB - 2400 - DDR4 2400 - A2
-ПАМЯТЬ 03 | 16 GB - 2400 - DDR4 2400 - A3
-ПАМЯТЬ 04 | 16 GB - 2400 - DDR4 2400 - A4
-ПАМЯТЬ 05 | 16 GB - 2400 - DDR4 2400 - A5
-ПАМЯТЬ 06 | 16 GB - 2400 - DDR4 2400 - A6
-ПЛАТФОРМА PowerEdge R740xd - 747NHQ2
-ДИСК (13039.00 GiB)
-ДИСК (13039.00 GiB)
-ДИСК (13039.00 GiB)
-ДИСК (13039.00 GiB)
-ДИСК (13039.00 GiB)
-ДИСК (13039.00 GiB)
-ДИСК (13039.00 GiB)
-ДИСК (13039.00 GiB)
-ДИСК (13039.00 GiB)
-ДИСК (13039.00 GiB)
-ДИСК (13039.00 GiB)
-ДИСК (13039.00 GiB)
+ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
+ПАМЯТЬ 12 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 12
+ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
+ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 12
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
+ПЛАТФОРМА ProLiant DL360 Gen10 - CZ38234T58
+ДИСК (0.00 GiB)
 ДИСК (29.30 GiB)
-ДИСК (349.32 GiB)
 
 ```
 ---
-2026-10-27 12:09:42
+2026-10-27 13:15:49
