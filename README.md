@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	PowerEdge R740xd 	(SN: 747NHQ2)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	27 October 2026, Tuesday, 06:44 (UTC)
+	27 October 2026, Tuesday, 12:09 (UTC)
 
 	Intel(R) Xeon(R) Silver 4216 CPU @ 2.10GHz
 	Sockets: 1, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.91 0.26 0.09
+	Load Average (1m, 5m, 15m): 1.30 0.41 0.15
 
 	Memory size: 92.94 GiB
-	Memory used: 3.72 GiB
-	Memory free: 89.46 GiB
+	Memory used: 4.01 GiB
+	Memory free: 89.18 GiB
 
 	Drives:
 		Drive: /dev/sda (13039.00 GiB)
@@ -41,19 +41,20 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno1 (90:b1:1c:0f:5f:79)
 		IPv4: 192.168.5.112/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno2 (90:b1:1c:0f:5f:7b)
-		IPv4: 192.168.5.101/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 		eno3 (90:b1:1c:0f:5f:7d)
 		IPv4: 192.168.5.164/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
 		eno4 (90:b1:1c:0f:5f:7f)
-		IPv4: 192.168.5.135/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		enp179s0np0 (24:8a:07:95:a7:8c)
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
@@ -83,4 +84,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-10-27 06:44:15
+2026-10-27 12:09:42
