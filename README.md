@@ -3,22 +3,24 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7525 	(SN: 9S9Q4T3)
+	ProLiant DL380 Gen9 	(SN: 6CU735DFD9)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	2 November 2026, Monday, 08:46 (UTC)
+	2 November 2026, Monday, 13:06 (UTC)
 
-	AMD EPYC 7742 64-Core Processor
-	Sockets: 2, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
+	Sockets: 2, Cores per socket: 10
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.00 0.30 0.11
+	Load Average (1m, 5m, 15m): 1.14 0.39 0.14
 
-	Memory size: 503.43 GiB
-	Memory used: 7.49 GiB
-	Memory free: 497.72 GiB
+	Memory size: 31.26 GiB
+	Memory used: 3.81 GiB
+	Memory free: 27.26 GiB
 
 	Drives:
-		Drive: /dev/sda (29.30 GiB)
+		Drive: /dev/sda (223.57 GiB)
+		Drive: /dev/sdb (223.57 GiB)
+		Drive: /dev/sdc (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,36 +28,41 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (c4:cb:e1:a0:ff:3c)
-		IPv4: 192.168.5.154/24
+		eno1 (f4:03:43:4b:3e:00)
+		IPv4: 192.168.5.117/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (c4:cb:e1:a0:ff:3d)
+		eno2 (f4:03:43:4b:3e:01)
+		IPv4: 192.168.5.168/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (f4:03:43:4b:3e:02)
+		IPv4: 192.168.5.176/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (f4:03:43:4b:3e:03)
+		IPv4: 192.168.5.122/24
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno49 (98:f2:b3:d8:6b:10)
+		IPv4: 169.254.81.153/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno49d1 (98:f2:b3:d8:6b:11)
+		IPv4: 169.254.137.3/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7742 64-Core Processor
-ПРОЦЕССОР 02 - AMD EPYC 7742 64-Core Processor
-ПАМЯТЬ 01 | 32 GB - 3200 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 32 GB - 3200 - DDR4 3200 - A2
-ПАМЯТЬ 03 | 32 GB - 3200 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 32 GB - 3200 - DDR4 3200 - A4
-ПАМЯТЬ 05 | 32 GB - 3200 - DDR4 3200 - A5
-ПАМЯТЬ 06 | 32 GB - 3200 - DDR4 3200 - A6
-ПАМЯТЬ 07 | 32 GB - 3200 - DDR4 3200 - A7
-ПАМЯТЬ 08 | 32 GB - 3200 - DDR4 3200 - A8
-ПАМЯТЬ 17 | 32 GB - 3200 - DDR4 3200 - B1
-ПАМЯТЬ 18 | 32 GB - 3200 - DDR4 3200 - B2
-ПАМЯТЬ 19 | 32 GB - 3200 - DDR4 3200 - B3
-ПАМЯТЬ 20 | 32 GB - 3200 - DDR4 3200 - B4
-ПАМЯТЬ 21 | 32 GB - 3200 - DDR4 3200 - B5
-ПАМЯТЬ 22 | 32 GB - 3200 - DDR4 3200 - B6
-ПАМЯТЬ 23 | 32 GB - 3200 - DDR4 3200 - B7
-ПАМЯТЬ 24 | 32 GB - 3200 - DDR4 3200 - B8
-ПЛАТФОРМА PowerEdge R7525 - 9S9Q4T3
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz
+ПАМЯТЬ 12 | 16 GB - 2133 - DDR4 2133 - PROC 1 DIMM 12
+ПАМЯТЬ 24 | 16 GB - 2133 - DDR4 2133 - PROC 2 DIMM 12
+ПЛАТФОРМА ProLiant DL380 Gen9 - 6CU735DFD9
+ДИСК (223.57 GiB)
+ДИСК (223.57 GiB)
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-11-02 08:46:30
+2026-11-02 13:06:23
