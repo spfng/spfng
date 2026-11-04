@@ -3,23 +3,25 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: SGH016S5H4)
+	ProLiant DL360 Gen10 	(SN: CZ38234WWW)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	4 November 2026, Wednesday, 06:25 (UTC)
+	4 November 2026, Wednesday, 06:59 (UTC)
 
-	Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
-	Sockets: 2, Cores per socket: 24
+	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
+	Sockets: 2, Cores per socket: 8
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.14 0.37 0.13
+	Load Average (1m, 5m, 15m): 0.78 0.26 0.09
 
-	Memory size: 377.54 GiB
-	Memory used: 6.03 GiB
-	Memory free: 372.80 GiB
+	Memory size: 377.56 GiB
+	Memory used: 5.54 GiB
+	Memory free: 373.32 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (29.30 GiB)
+		Drive: /dev/sda (9314.00 GiB)
+		Drive: /dev/sdb (16764.00 GiB)
+		Drive: /dev/sdc (0.00 GiB)
+		Drive: /dev/sdd (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,11 +29,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (48:df:37:ce:79:46)
-		IPv4: 192.168.5.133/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		eno1 (ec:eb:b8:9a:09:98)
+		IPv4: 192.168.5.109/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno6 (48:df:37:ce:79:47)
+		eno2 (ec:eb:b8:9a:09:99)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (ec:eb:b8:9a:09:9a)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (ec:eb:b8:9a:09:9b)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -48,12 +56,14 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
 ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
 ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 12
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - SGH016S5H4
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
+ПЛАТФОРМА ProLiant DL360 Gen10 - CZ38234WWW
+ДИСК (9314.00 GiB)
+ДИСК (16764.00 GiB)
 ДИСК (0.00 GiB)
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-11-04 06:25:00
+2026-11-04 06:59:38
