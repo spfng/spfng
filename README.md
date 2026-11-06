@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	1288H V5 Purley	(SN: 2102312DFF10K5001513)
+	PowerEdge R7525 	(SN: 8S9Q4T3)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	5 November 2026, Thursday, 09:15 (UTC)
+	6 November 2026, Friday, 04:58 (UTC)
 
-	Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz
-	Sockets: 2, Cores per socket: 12
-	VMX-Virtualisation
+	AMD EPYC 7A23 48-Core Processor
+	Sockets: 2, Cores per socket: 48
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.84 0.58 0.24
+	Load Average (1m, 5m, 15m): 0.78 0.29 0.11
 
-	Memory size: 251.48 GiB
-	Memory used: 8.43 GiB
-	Memory free: 243.79 GiB
+	Memory size: 1007.46 GiB
+	Memory used: 9.15 GiB
+	Memory free: 1001.61 GiB
 
 	Drives:
 		Drive: /dev/sda (29.30 GiB)
@@ -26,41 +26,36 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1np0 (7c:1c:f1:3f:3a:7a)
-		IPv4: 192.168.5.112/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno2np1 (7c:1c:f1:3f:3a:7b)
-		IPv4: 192.168.5.114/24
+		eno8303 (70:b5:e8:ef:e0:9c)
+		IPv4: 192.168.5.126/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno3np2 (7c:1c:f1:3f:3a:7c)
-		IPv4: 192.168.5.179/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4np3 (7c:1c:f1:3f:3a:7d)
-		IPv4: 192.168.5.198/24
-		RX: 0.01 GiB, TX: 0.00 GiB
-
-		ens2f0 (48:df:37:02:78:c8)
-		IPv4: 169.254.25.33/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens2f1 (48:df:37:02:78:c9)
-		IPv4: 169.254.192.222/16
+		eno8403 (70:b5:e8:ef:e0:9d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz
-ПАМЯТЬ 01 | 64 GB - 2666 - DDR4 2666 - DIMM000 J22
-ПАМЯТЬ 03 | 64 GB - 2666 - DDR4 2666 - DIMM010 J24
-ПАМЯТЬ 13 | 64 GB - 2666 - DDR4 2666 - DIMM100 J34
-ПАМЯТЬ 15 | 64 GB - 2666 - DDR4 2666 - DIMM110 J36
-ПЛАТФОРМА 1288H V5 - 2102312DFF10K5001513
+ПРОЦЕССОР 01 - AMD EPYC 7A23 48-Core Processor
+ПРОЦЕССОР 02 - AMD EPYC 7A23 48-Core Processor
+ПАМЯТЬ 01 | 64 GB - 2933 - DDR4 3200 - A1
+ПАМЯТЬ 02 | 64 GB - 2933 - DDR4 3200 - A2
+ПАМЯТЬ 03 | 64 GB - 2933 - DDR4 3200 - A3
+ПАМЯТЬ 04 | 64 GB - 2933 - DDR4 3200 - A4
+ПАМЯТЬ 05 | 64 GB - 2933 - DDR4 3200 - A5
+ПАМЯТЬ 06 | 64 GB - 2933 - DDR4 3200 - A6
+ПАМЯТЬ 07 | 64 GB - 2933 - DDR4 3200 - A7
+ПАМЯТЬ 08 | 64 GB - 2933 - DDR4 3200 - A8
+ПАМЯТЬ 17 | 64 GB - 2933 - DDR4 3200 - B1
+ПАМЯТЬ 18 | 64 GB - 2933 - DDR4 3200 - B2
+ПАМЯТЬ 19 | 64 GB - 2933 - DDR4 3200 - B3
+ПАМЯТЬ 20 | 64 GB - 2933 - DDR4 3200 - B4
+ПАМЯТЬ 21 | 64 GB - 2933 - DDR4 3200 - B5
+ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 3200 - B6
+ПАМЯТЬ 23 | 64 GB - 2933 - DDR4 3200 - B7
+ПАМЯТЬ 24 | 64 GB - 2933 - DDR4 3200 - B8
+ПЛАТФОРМА PowerEdge R7525 - 8S9Q4T3
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-11-05 09:15:48
+2026-11-06 04:58:20
