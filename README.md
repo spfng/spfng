@@ -3,25 +3,21 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: CZ38234WWW)
+	PowerEdge R7525 	(SN: 5506KH3)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	6 November 2026, Friday, 10:12 (UTC)
+	7 November 2026, Saturday, 10:12 (UTC)
 
-	Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-	Sockets: 2, Cores per socket: 8
-	VMX-Virtualisation
+	AMD EPYC 7B13 64-Core Processor
+	Sockets: 2, Cores per socket: 64
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.70 0.25 0.09
+	Load Average (1m, 5m, 15m): 0.49 0.21 0.08
 
-	Memory size: 377.56 GiB
-	Memory used: 6.08 GiB
-	Memory free: 372.78 GiB
+	Memory size: 503.44 GiB
+	Memory used: 7.75 GiB
+	Memory free: 497.46 GiB
 
-	Drives:
-		Drive: /dev/sda (16764.00 GiB)
-		Drive: /dev/sdb (9314.00 GiB)
-		Drive: /dev/sdc (0.00 GiB)
-		Drive: /dev/sdd (29.30 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -29,41 +25,35 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (ec:eb:b8:9a:09:98)
-		IPv4: 192.168.5.109/24
+		eno8303 (ec:2a:72:32:f7:20)
+		IPv4: 192.168.5.199/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (ec:eb:b8:9a:09:99)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3 (ec:eb:b8:9a:09:9a)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4 (ec:eb:b8:9a:09:9b)
+		eno8403 (ec:2a:72:32:f7:21)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 01 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 1
-ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
-ПАМЯТЬ 12 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 12
-ПАМЯТЬ 13 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 1
-ПАМЯТЬ 15 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 5
-ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
-ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 12
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - CZ38234WWW
-ДИСК (16764.00 GiB)
-ДИСК (9314.00 GiB)
-ДИСК (0.00 GiB)
-ДИСК (29.30 GiB)
+ПРОЦЕССОР 01 - AMD EPYC 7B13 64-Core Processor
+ПРОЦЕССОР 02 - AMD EPYC 7B13 64-Core Processor
+ПАМЯТЬ 01 | 32 GB - 3200 - DDR4 3200 - A1
+ПАМЯТЬ 02 | 32 GB - 3200 - DDR4 3200 - A2
+ПАМЯТЬ 03 | 32 GB - 3200 - DDR4 3200 - A3
+ПАМЯТЬ 04 | 32 GB - 3200 - DDR4 3200 - A4
+ПАМЯТЬ 05 | 32 GB - 3200 - DDR4 3200 - A5
+ПАМЯТЬ 06 | 32 GB - 3200 - DDR4 3200 - A6
+ПАМЯТЬ 07 | 32 GB - 3200 - DDR4 3200 - A7
+ПАМЯТЬ 08 | 32 GB - 3200 - DDR4 3200 - A8
+ПАМЯТЬ 17 | 32 GB - 3200 - DDR4 3200 - B1
+ПАМЯТЬ 18 | 32 GB - 3200 - DDR4 3200 - B2
+ПАМЯТЬ 19 | 32 GB - 3200 - DDR4 3200 - B3
+ПАМЯТЬ 20 | 32 GB - 3200 - DDR4 3200 - B4
+ПАМЯТЬ 21 | 32 GB - 3200 - DDR4 3200 - B5
+ПАМЯТЬ 22 | 32 GB - 3200 - DDR4 3200 - B6
+ПАМЯТЬ 23 | 32 GB - 3200 - DDR4 3200 - B7
+ПАМЯТЬ 24 | 32 GB - 3200 - DDR4 3200 - B8
+ПЛАТФОРМА PowerEdge R7525 - 5506KH3
 
 ```
 ---
-2026-11-06 10:12:04
+2026-11-07 10:12:39
