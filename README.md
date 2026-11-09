@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant XL420 Gen10 	(SN: SGH935X80Z)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	9 November 2026, Monday, 07:03 (UTC)
+	9 November 2026, Monday, 07:17 (UTC)
 
 	Intel(R) Xeon(R) Silver 4216 CPU @ 2.10GHz
 	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.50 0.16 0.09
+	Load Average (1m, 5m, 15m): 0.01 0.02 0.03
 
 	Memory size: 377.55 GiB
-	Memory used: 6.22 GiB
-	Memory free: 372.61 GiB
+	Memory used: 5.76 GiB
+	Memory free: 373.06 GiB
 
 	Drives:
 		Drive: /dev/sda (0.00 GiB)
@@ -24,6 +24,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		Drive: /dev/sdd (447.13 GiB)
 		Drive: /dev/sde (3576.98 GiB)
 		Drive: /dev/sdf (894.25 GiB)
+		Drive: /dev/sdg (14902.00 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -33,11 +34,11 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno1 (ec:eb:b8:8d:b7:1c)
 		IPv4: 192.168.5.132/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		RX: 0.02 GiB, TX: 0.00 GiB
 
 		eno2 (ec:eb:b8:8d:b7:1d)
 		IPv4: 192.168.5.193/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		RX: 0.04 GiB, TX: 0.00 GiB
 
 		ens1f0np0 (88:e9:a4:92:8a:ca)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -68,7 +69,8 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ДИСК (447.13 GiB)
 ДИСК (3576.98 GiB)
 ДИСК (894.25 GiB)
+ДИСК (14902.00 GiB)
 
 ```
 ---
-2026-11-09 07:03:23
+2026-11-09 07:17:23
