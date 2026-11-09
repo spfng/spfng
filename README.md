@@ -5,31 +5,31 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant XL420 Gen10 	(SN: SGH935X80Z)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	9 November 2026, Monday, 07:24 (UTC)
+	9 November 2026, Monday, 08:43 (UTC)
 
 	Intel(R) Xeon(R) Silver 4216 CPU @ 2.10GHz
 	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 38.65 10.91 3.74
+	Load Average (1m, 5m, 15m): 2.47 1.20 0.46
 
 	Memory size: 377.55 GiB
-	Memory used: 6.16 GiB
-	Memory free: 372.60 GiB
+	Memory used: 4.02 GiB
+	Memory free: 374.71 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (29.30 GiB)
-		Drive: /dev/sdc (447.13 GiB)
-		Drive: /dev/sdd (447.13 GiB)
-		Drive: /dev/sde (3576.98 GiB)
-		Drive: /dev/sdf (894.25 GiB)
+		Drive: /dev/sda (447.13 GiB)
+		Drive: /dev/sdb (447.13 GiB)
+		Drive: /dev/sdc (14902.00 GiB)
+		Drive: /dev/sdd (14902.00 GiB)
+		Drive: /dev/sde (14902.00 GiB)
+		Drive: /dev/sdf (14902.00 GiB)
 		Drive: /dev/sdg (14902.00 GiB)
 		Drive: /dev/sdh (14902.00 GiB)
-		Drive: /dev/sdi (14902.00 GiB)
-		Drive: /dev/sdj (14902.00 GiB)
-		Drive: /dev/sdk (14902.00 GiB)
-		Drive: /dev/sdl (14902.00 GiB)
+		Drive: /dev/sdi (16764.00 GiB)
+		Drive: /dev/sdj (16764.00 GiB)
+		Drive: /dev/sdk (16764.00 GiB)
+		Drive: /dev/sdl (16764.00 GiB)
 		Drive: /dev/sdm (16764.00 GiB)
 		Drive: /dev/sdn (16764.00 GiB)
 		Drive: /dev/sdo (16764.00 GiB)
@@ -40,14 +40,16 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		Drive: /dev/sdt (16764.00 GiB)
 		Drive: /dev/sdu (16764.00 GiB)
 		Drive: /dev/sdv (16764.00 GiB)
-		Drive: /dev/sdw (16764.00 GiB)
+		Drive: /dev/sdw (0.00 GiB)
 		Drive: /dev/sdx (16764.00 GiB)
 		Drive: /dev/sdy (16764.00 GiB)
 		Drive: /dev/sdz (16764.00 GiB)
 		Drive: /dev/sdaa (16764.00 GiB)
-		Drive: /dev/sdab (16764.00 GiB)
-		Drive: /dev/sdac (16764.00 GiB)
-		Drive: /dev/sdad (16764.00 GiB)
+		Drive: /dev/sdab (3576.98 GiB)
+		Drive: /dev/sdac (3576.98 GiB)
+		Drive: /dev/sdad (894.25 GiB)
+		Drive: /dev/sdae (238.47 GiB)
+		Drive: /dev/sdaf (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -61,7 +63,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno2 (ec:eb:b8:8d:b7:1d)
 		IPv4: 192.168.5.193/24
-		RX: 0.05 GiB, TX: 0.00 GiB
+		RX: 0.02 GiB, TX: 0.00 GiB
 
 		ens1f0np0 (88:e9:a4:92:8a:ca)
 		IPv4: 169.254.1.14/16
@@ -88,37 +90,39 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПРОЦЕССОР 01 - Intel(R) Xeon(R) Silver 4216 CPU @ 2.10GHz
 ПРОЦЕССОР 02 - Intel(R) Xeon(R) Silver 4216 CPU @ 2.10GHz
 ПЛАТФОРМА ProLiant XL420 Gen10 - SGH935X80Z
+ДИСК (447.13 GiB)
+ДИСК (447.13 GiB)
+ДИСК (14902.00 GiB)
+ДИСК (14902.00 GiB)
+ДИСК (14902.00 GiB)
+ДИСК (14902.00 GiB)
+ДИСК (14902.00 GiB)
+ДИСК (14902.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
 ДИСК (0.00 GiB)
-ДИСК (29.30 GiB)
-ДИСК (447.13 GiB)
-ДИСК (447.13 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (16764.00 GiB)
+ДИСК (3576.98 GiB)
 ДИСК (3576.98 GiB)
 ДИСК (894.25 GiB)
-ДИСК (14902.00 GiB)
-ДИСК (14902.00 GiB)
-ДИСК (14902.00 GiB)
-ДИСК (14902.00 GiB)
-ДИСК (14902.00 GiB)
-ДИСК (14902.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
+ДИСК (238.47 GiB)
+ДИСК (29.30 GiB)
 
 ```
 ---
-2026-11-09 07:24:09
+2026-11-09 08:43:20
