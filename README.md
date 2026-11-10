@@ -3,23 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL380 Gen10 	(SN: 2M282003NR)
+	PowerEdge R640 	(SN: 7RC2G43)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	10 November 2026, Tuesday, 17:43 (UTC)
+	10 November 2026, Tuesday, 17:45 (UTC)
 
-	Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
-	Sockets: 2, Cores per socket: 18
+	Intel(R) Xeon(R) Platinum 8276L CPU @ 2.20GHz
+	Sockets: 2, Cores per socket: 28
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.78 0.25 0.09
+	Load Average (1m, 5m, 15m): 1.15 0.39 0.14
 
-	Memory size: 188.54 GiB
-	Memory used: 5.32 GiB
-	Memory free: 183.77 GiB
+	Memory size: 503.49 GiB
+	Memory used: 7.40 GiB
+	Memory free: 497.89 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (29.30 GiB)
+		Drive: /dev/sda (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,45 +26,43 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (d0:67:26:d6:5a:68)
-		IPv4: 192.168.5.141/24
+		eno1 (14:18:77:56:c4:b3)
+		IPv4: 192.168.5.189/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (d0:67:26:d6:5a:69)
+		eno2 (14:18:77:56:c4:b4)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (d0:67:26:d6:5a:6a)
+		eno3 (14:18:77:56:c4:b5)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (d0:67:26:d6:5a:6b)
+		eno4 (14:18:77:56:c4:b6)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5np0 (b8:83:03:89:7f:8c)
+		ens1f0 (8c:dc:d4:af:89:50)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno6np1 (b8:83:03:89:7f:8d)
+		idrac (34:48:ed:ef:4e:07)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens1f1 (8c:dc:d4:af:89:51)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 01 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 1
-ПАМЯТЬ 03 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 3
-ПАМЯТЬ 05 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 5
-ПАМЯТЬ 08 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
-ПАМЯТЬ 12 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 12
-ПАМЯТЬ 13 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 1
-ПАМЯТЬ 15 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 3
-ПАМЯТЬ 17 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 5
-ПАМЯТЬ 20 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
-ПАМЯТЬ 24 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 12
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
-ПЛАТФОРМА ProLiant DL380 Gen10 - 2M282003NR
-ДИСК (0.00 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Platinum 8276L CPU @ 2.20GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Platinum 8276L CPU @ 2.20GHz
+ПАМЯТЬ 01 | 64 GB - 2666 - DDR4 2666 - A1
+ПАМЯТЬ 02 | 64 GB - 2666 - DDR4 2666 - A2
+ПАМЯТЬ 04 | 64 GB - 2666 - DDR4 2666 - A4
+ПАМЯТЬ 05 | 64 GB - 2666 - DDR4 2666 - A5
+ПАМЯТЬ 13 | 64 GB - 2666 - DDR4 2666 - B1
+ПАМЯТЬ 14 | 64 GB - 2666 - DDR4 2666 - B2
+ПАМЯТЬ 16 | 64 GB - 2666 - DDR4 2666 - B4
+ПАМЯТЬ 17 | 64 GB - 2666 - DDR4 2666 - B5
+ПЛАТФОРМА PowerEdge R640 - 7RC2G43
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-11-10 17:43:57
+2026-11-10 17:45:34
