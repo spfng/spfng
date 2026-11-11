@@ -3,22 +3,23 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7525 	(SN: 5506KH3)
+	ProLiant DL380 Gen10 	(SN: 2M282003NR)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	11 November 2026, Wednesday, 01:24 (UTC)
+	11 November 2026, Wednesday, 08:38 (UTC)
 
-	AMD EPYC 7B13 64-Core Processor
-	Sockets: 2, Cores per socket: 64
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+	Sockets: 2, Cores per socket: 18
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.47 0.18 0.07
+	Load Average (1m, 5m, 15m): 0.82 0.27 0.10
 
-	Memory size: 503.44 GiB
-	Memory used: 7.35 GiB
-	Memory free: 497.86 GiB
+	Memory size: 188.54 GiB
+	Memory used: 5.29 GiB
+	Memory free: 183.79 GiB
 
 	Drives:
-		Drive: /dev/sda (29.30 GiB)
+		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sdb (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,36 +27,45 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (ec:2a:72:32:f7:20)
-		IPv4: 192.168.5.88/24
+		eno1 (d0:67:26:d6:5a:68)
+		IPv4: 192.168.5.141/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno8403 (ec:2a:72:32:f7:21)
+		eno2 (d0:67:26:d6:5a:69)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (d0:67:26:d6:5a:6a)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (d0:67:26:d6:5a:6b)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno5np0 (b8:83:03:89:7f:8c)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno6np1 (b8:83:03:89:7f:8d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7B13 64-Core Processor
-ПРОЦЕССОР 02 - AMD EPYC 7B13 64-Core Processor
-ПАМЯТЬ 01 | 32 GB - 3200 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 32 GB - 3200 - DDR4 3200 - A2
-ПАМЯТЬ 03 | 32 GB - 3200 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 32 GB - 3200 - DDR4 3200 - A4
-ПАМЯТЬ 05 | 32 GB - 3200 - DDR4 3200 - A5
-ПАМЯТЬ 06 | 32 GB - 3200 - DDR4 3200 - A6
-ПАМЯТЬ 07 | 32 GB - 3200 - DDR4 3200 - A7
-ПАМЯТЬ 08 | 32 GB - 3200 - DDR4 3200 - A8
-ПАМЯТЬ 17 | 32 GB - 3200 - DDR4 3200 - B1
-ПАМЯТЬ 18 | 32 GB - 3200 - DDR4 3200 - B2
-ПАМЯТЬ 19 | 32 GB - 3200 - DDR4 3200 - B3
-ПАМЯТЬ 20 | 32 GB - 3200 - DDR4 3200 - B4
-ПАМЯТЬ 21 | 32 GB - 3200 - DDR4 3200 - B5
-ПАМЯТЬ 22 | 32 GB - 3200 - DDR4 3200 - B6
-ПАМЯТЬ 23 | 32 GB - 3200 - DDR4 3200 - B7
-ПАМЯТЬ 24 | 32 GB - 3200 - DDR4 3200 - B8
-ПЛАТФОРМА PowerEdge R7525 - 5506KH3
+ПАМЯТЬ 01 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 1
+ПАМЯТЬ 03 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 3
+ПАМЯТЬ 05 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 5
+ПАМЯТЬ 08 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
+ПАМЯТЬ 12 | 16 GB - 2933 - DDR4 2933 - PROC 1 DIMM 12
+ПАМЯТЬ 13 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 1
+ПАМЯТЬ 15 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 3
+ПАМЯТЬ 17 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 5
+ПАМЯТЬ 20 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
+ПАМЯТЬ 24 | 16 GB - 2933 - DDR4 2933 - PROC 2 DIMM 12
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+ПЛАТФОРМА ProLiant DL380 Gen10 - 2M282003NR
+ДИСК (0.00 GiB)
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-11-11 01:24:34
+2026-11-11 08:38:36
