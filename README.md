@@ -3,22 +3,21 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R640 	(SN: 7RC2G43)
+	ProLiant DL360 Gen9 	(SN: 6CU7433RT3)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	10 November 2026, Tuesday, 17:45 (UTC)
+	11 November 2026, Wednesday, 01:18 (UTC)
 
-	Intel(R) Xeon(R) Platinum 8276L CPU @ 2.20GHz
-	Sockets: 2, Cores per socket: 28
+	Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz
+	Sockets: 2, Cores per socket: 20
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.15 0.39 0.14
+	Load Average (1m, 5m, 15m): 1.83 0.52 0.18
 
-	Memory size: 503.49 GiB
-	Memory used: 7.40 GiB
-	Memory free: 497.89 GiB
+	Memory size: 755.75 GiB
+	Memory used: 8.57 GiB
+	Memory free: 749.99 GiB
 
-	Drives:
-		Drive: /dev/sda (29.30 GiB)
+	No drives attached.
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,43 +25,45 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (14:18:77:56:c4:b3)
-		IPv4: 192.168.5.189/24
+		eno1 (f4:03:43:5b:db:1c)
+		IPv4: 192.168.5.148/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (14:18:77:56:c4:b4)
+		eno2 (f4:03:43:5b:db:1d)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (14:18:77:56:c4:b5)
+		eno3 (f4:03:43:5b:db:1e)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (14:18:77:56:c4:b6)
+		eno4 (f4:03:43:5b:db:1f)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens1f0 (8c:dc:d4:af:89:50)
+		eno49 (c4:34:6b:b0:5b:d8)
+		IPv4: 169.254.110.27/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		idrac (34:48:ed:ef:4e:07)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens1f1 (8c:dc:d4:af:89:51)
+		eno50 (c4:34:6b:b0:5b:dc)
+		IPv4: 169.254.204.140/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Platinum 8276L CPU @ 2.20GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Platinum 8276L CPU @ 2.20GHz
-ПАМЯТЬ 01 | 64 GB - 2666 - DDR4 2666 - A1
-ПАМЯТЬ 02 | 64 GB - 2666 - DDR4 2666 - A2
-ПАМЯТЬ 04 | 64 GB - 2666 - DDR4 2666 - A4
-ПАМЯТЬ 05 | 64 GB - 2666 - DDR4 2666 - A5
-ПАМЯТЬ 13 | 64 GB - 2666 - DDR4 2666 - B1
-ПАМЯТЬ 14 | 64 GB - 2666 - DDR4 2666 - B2
-ПАМЯТЬ 16 | 64 GB - 2666 - DDR4 2666 - B4
-ПАМЯТЬ 17 | 64 GB - 2666 - DDR4 2666 - B5
-ПЛАТФОРМА PowerEdge R640 - 7RC2G43
-ДИСК (29.30 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz
+ПАМЯТЬ 01 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 1
+ПАМЯТЬ 04 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 4
+ПАМЯТЬ 08 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 8
+ПАМЯТЬ 09 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 9
+ПАМЯТЬ 11 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 11
+ПАМЯТЬ 12 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
+ПАМЯТЬ 13 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 1
+ПАМЯТЬ 16 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 4
+ПАМЯТЬ 20 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 8
+ПАМЯТЬ 21 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 9
+ПАМЯТЬ 23 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 11
+ПАМЯТЬ 24 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
+ПЛАТФОРМА ProLiant DL360 Gen9 - 6CU7433RT3
 
 ```
 ---
-2026-11-10 17:45:34
+2026-11-11 01:18:03
