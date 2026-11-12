@@ -3,24 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: SGH016S48R)
+	ProLiant DL360p Gen8 	(SN: 6CU33021VG      )
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	12 November 2026, Thursday, 13:40 (UTC)
+	12 November 2026, Thursday, 14:15 (UTC)
 
-	Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
-	Sockets: 2, Cores per socket: 24
+	Intel(R) Xeon(R) CPU E5-2609 0 @ 2.40GHz
+	Sockets: 2, Cores per socket: 4
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.45 0.22 0.10
+	Load Average (1m, 5m, 15m): 1.65 0.57 0.21
 
-	Memory size: 125.54 GiB
-	Memory used: 4.44 GiB
-	Memory free: 121.35 GiB
+	Memory size: 125.77 GiB
+	Memory used: 1.50 GiB
+	Memory free: 124.59 GiB
 
 	Drives:
-		Drive: /dev/sda (894.25 GiB)
-		Drive: /dev/sdb (0.00 GiB)
-		Drive: /dev/sdc (29.30 GiB)
+		Drive: /dev/sda (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -28,30 +26,34 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		enp1s0f4u4 (b6:7e:15:74:e2:c8)
-		IPv4: 16.1.15.2/30
+		eno1 (48:df:37:ca:fc:d0)
+		IPv4: 192.168.5.247/24
+		RX: 0.02 GiB, TX: 0.00 GiB
+
+		eno2 (48:df:37:ca:fc:d1)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (48:df:37:ce:79:90)
-		IPv4: 192.168.5.187/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		eno3 (48:df:37:ca:fc:d2)
+		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno6 (48:df:37:ce:79:91)
+		eno4 (48:df:37:ca:fc:d3)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 08 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
-ПАМЯТЬ 10 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
-ПАМЯТЬ 20 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
-ПАМЯТЬ 22 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - SGH016S48R
-ДИСК (894.25 GiB)
-ДИСК (0.00 GiB)
+ПРОЦЕССОР 01 -  Intel(R) Xeon(R) CPU E5-2609 0 @ 2.40GHz
+ПРОЦЕССОР 02 -  Intel(R) Xeon(R) CPU E5-2609 0 @ 2.40GHz
+ПАМЯТЬ 01 | 16 GB - 1067 - DDR3 1866 - PROC  1 DIMM  1
+ПАМЯТЬ 04 | 16 GB - 1067 - DDR3 1866 - PROC  1 DIMM  4
+ПАМЯТЬ 09 | 16 GB - 1067 - DDR3 1866 - PROC  1 DIMM  9
+ПАМЯТЬ 12 | 16 GB - 1067 - DDR3 1866 - PROC  1 DIMM 12
+ПАМЯТЬ 13 | 16 GB - 1067 - DDR3 1866 - PROC  2 DIMM  1
+ПАМЯТЬ 16 | 16 GB - 1067 - DDR3 1866 - PROC  2 DIMM  4
+ПАМЯТЬ 21 | 16 GB - 1067 - DDR3 1866 - PROC  2 DIMM  9
+ПАМЯТЬ 24 | 16 GB - 1067 - DDR3 1866 - PROC  2 DIMM 12
+ПЛАТФОРМА ProLiant DL360p Gen8 - 6CU33021VG
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-11-12 13:40:07
+2026-11-12 14:15:19
