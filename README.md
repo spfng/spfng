@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	ProLiant DL360 Gen9 	(SN: 6CU814K7XN)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	12 November 2026, Thursday, 14:48 (UTC)
+	12 November 2026, Thursday, 14:59 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2697 v4 @ 2.30GHz
-	Sockets: 2, Cores per socket: 18
+	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+	Sockets: 2, Cores per socket: 16
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.59 0.22 0.08
+	Load Average (1m, 5m, 15m): 0.93 0.29 0.10
 
 	Memory size: 503.75 GiB
 	Memory used: 6.70 GiB
-	Memory free: 498.84 GiB
+	Memory free: 498.83 GiB
 
 	Drives:
 		Drive: /dev/sda (29.30 GiB)
@@ -40,12 +40,12 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno4 (ec:eb:b8:8b:79:93)
 		IPv4: 192.168.5.235/24
-		RX: 0.00 GiB, TX: 0.00 GiB
+		RX: 0.01 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2697 v4 @ 2.30GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2697 v4 @ 2.30GHz
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
 ПАМЯТЬ 01 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 1
 ПАМЯТЬ 04 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 4
 ПАМЯТЬ 09 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 9
@@ -59,4 +59,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-11-12 14:48:30
+2026-11-12 14:59:38
