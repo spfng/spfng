@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen9 	(SN: 6CU814K7XN)
+	PowerEdge R7525 	(SN: 5506KH3)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	13 November 2026, Friday, 04:11 (UTC)
+	13 November 2026, Friday, 04:20 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
-	Sockets: 2, Cores per socket: 16
-	VMX-Virtualisation
+	AMD EPYC 7B13 64-Core Processor
+	Sockets: 2, Cores per socket: 64
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.03 0.30 0.11
+	Load Average (1m, 5m, 15m): 0.76 0.24 0.08
 
-	Memory size: 251.75 GiB
-	Memory used: 4.67 GiB
-	Memory free: 247.87 GiB
+	Memory size: 503.44 GiB
+	Memory used: 7.51 GiB
+	Memory free: 497.69 GiB
 
 	Drives:
 		Drive: /dev/sda (29.30 GiB)
@@ -26,33 +26,36 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (ec:eb:b8:8b:79:90)
-		IPv4: 192.168.5.232/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno2 (ec:eb:b8:8b:79:91)
-		IPv4: 192.168.5.233/24
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3 (ec:eb:b8:8b:79:92)
-		IPv4: 192.168.5.234/24
+		eno8303 (ec:2a:72:32:f7:20)
+		IPv4: 192.168.5.88/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno4 (ec:eb:b8:8b:79:93)
-		IPv4: 192.168.5.235/24
+		eno8403 (ec:2a:72:32:f7:21)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
-ПАМЯТЬ 09 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 9
-ПАМЯТЬ 12 | 64 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
-ПАМЯТЬ 21 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 9
-ПАМЯТЬ 24 | 64 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
-ПЛАТФОРМА ProLiant DL360 Gen9 - 6CU814K7XN
+ПРОЦЕССОР 01 - AMD EPYC 7B13 64-Core Processor
+ПРОЦЕССОР 02 - AMD EPYC 7B13 64-Core Processor
+ПАМЯТЬ 01 | 32 GB - 3200 - DDR4 3200 - A1
+ПАМЯТЬ 02 | 32 GB - 3200 - DDR4 3200 - A2
+ПАМЯТЬ 03 | 32 GB - 3200 - DDR4 3200 - A3
+ПАМЯТЬ 04 | 32 GB - 3200 - DDR4 3200 - A4
+ПАМЯТЬ 05 | 32 GB - 3200 - DDR4 3200 - A5
+ПАМЯТЬ 06 | 32 GB - 3200 - DDR4 3200 - A6
+ПАМЯТЬ 07 | 32 GB - 3200 - DDR4 3200 - A7
+ПАМЯТЬ 08 | 32 GB - 3200 - DDR4 3200 - A8
+ПАМЯТЬ 17 | 32 GB - 3200 - DDR4 3200 - B1
+ПАМЯТЬ 18 | 32 GB - 3200 - DDR4 3200 - B2
+ПАМЯТЬ 19 | 32 GB - 3200 - DDR4 3200 - B3
+ПАМЯТЬ 20 | 32 GB - 3200 - DDR4 3200 - B4
+ПАМЯТЬ 21 | 32 GB - 3200 - DDR4 3200 - B5
+ПАМЯТЬ 22 | 32 GB - 3200 - DDR4 3200 - B6
+ПАМЯТЬ 23 | 32 GB - 3200 - DDR4 3200 - B7
+ПАМЯТЬ 24 | 32 GB - 3200 - DDR4 3200 - B8
+ПЛАТФОРМА PowerEdge R7525 - 5506KH3
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-11-13 04:11:32
+2026-11-13 04:21:01
