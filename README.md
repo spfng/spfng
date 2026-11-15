@@ -3,22 +3,24 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen9 	(SN: 6CU7433SBA)
+	ProLiant DL360 Gen10 	(SN: SGH016S48R)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	15 November 2026, Sunday, 07:26 (UTC)
+	15 November 2026, Sunday, 08:41 (UTC)
 
-	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
-	Sockets: 2, Cores per socket: 8
+	Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+	Sockets: 2, Cores per socket: 24
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.68 0.22 0.08
+	Load Average (1m, 5m, 15m): 1.14 0.36 0.13
 
-	Memory size: 125.76 GiB
-	Memory used: 4.20 GiB
-	Memory free: 121.83 GiB
+	Memory size: 125.54 GiB
+	Memory used: 4.54 GiB
+	Memory free: 121.26 GiB
 
 	Drives:
-		Drive: /dev/sda (29.30 GiB)
+		Drive: /dev/sda (894.25 GiB)
+		Drive: /dev/sdb (0.00 GiB)
+		Drive: /dev/sdc (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,34 +28,30 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (f4:03:43:5b:af:fc)
-		IPv4: 192.168.5.175/24
-		RX: 0.01 GiB, TX: 0.00 GiB
+		eno5 (48:df:37:ce:79:90)
+		IPv4: 192.168.5.187/24
+		RX: 0.02 GiB, TX: 0.00 GiB
 
-		eno2 (f4:03:43:5b:af:fd)
+		enp1s0f4u4 (36:f0:88:85:43:ea)
+		IPv4: 16.1.15.2/30
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (f4:03:43:5b:af:fe)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4 (f4:03:43:5b:af:ff)
+		eno6 (48:df:37:ce:79:91)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
-ПАМЯТЬ 01 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 1
-ПАМЯТЬ 04 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 4
-ПАМЯТЬ 09 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 9
-ПАМЯТЬ 12 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
-ПАМЯТЬ 13 | 16 GB - 2400 - DDR4 2400 - PROC 2 DIMM 1
-ПАМЯТЬ 16 | 16 GB - 2400 - DDR4 2400 - PROC 2 DIMM 4
-ПАМЯТЬ 21 | 16 GB - 2400 - DDR4 2400 - PROC 2 DIMM 9
-ПАМЯТЬ 24 | 16 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
-ПЛАТФОРМА ProLiant DL360 Gen9 - 6CU7433SBA
+ПАМЯТЬ 08 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
+ПАМЯТЬ 20 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+ПЛАТФОРМА ProLiant DL360 Gen10 - SGH016S48R
+ДИСК (894.25 GiB)
+ДИСК (0.00 GiB)
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-11-15 07:26:32
+2026-11-15 08:41:53
