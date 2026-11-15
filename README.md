@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7525 	(SN: 8506KH3)
+	PowerEdge R7525 	(SN: 7506KH3)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	15 November 2026, Sunday, 09:58 (UTC)
+	15 November 2026, Sunday, 10:01 (UTC)
 
 	AMD EPYC 7A23 48-Core Processor
 	Sockets: 2, Cores per socket: 48
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.83 0.40 0.16
+	Load Average (1m, 5m, 15m): 1.28 0.35 0.12
 
 	Memory size: 2003.65 GiB
-	Memory used: 12.46 GiB
-	Memory free: 1996.51 GiB
+	Memory used: 12.27 GiB
+	Memory free: 1996.71 GiB
 
 	Drives:
 		Drive: /dev/sda (29.30 GiB)
@@ -26,11 +26,11 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (b0:7b:25:dd:fb:ac)
-		IPv4: 192.168.5.28/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		eno8303 (b0:7b:25:dd:fb:26)
+		IPv4: 192.168.5.143/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno8403 (b0:7b:25:dd:fb:ad)
+		eno8403 (b0:7b:25:dd:fb:27)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
@@ -53,9 +53,9 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 22 | 128 GB - 3200 - DDR4 3200 - B6
 ПАМЯТЬ 23 | 128 GB - 3200 - DDR4 3200 - B7
 ПАМЯТЬ 24 | 128 GB - 3200 - DDR4 3200 - B8
-ПЛАТФОРМА PowerEdge R7525 - 8506KH3
+ПЛАТФОРМА PowerEdge R7525 - 7506KH3
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-11-15 09:58:12
+2026-11-15 10:01:46
