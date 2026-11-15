@@ -3,22 +3,38 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7525 	(SN: 7506KH3)
+	PowerEdge R7525 	(SN: 8406KH3)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	15 November 2026, Sunday, 10:01 (UTC)
+	15 November 2026, Sunday, 10:10 (UTC)
 
 	AMD EPYC 7A23 48-Core Processor
 	Sockets: 2, Cores per socket: 48
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.28 0.35 0.12
+	Load Average (1m, 5m, 15m): 0.96 0.28 0.10
 
 	Memory size: 2003.65 GiB
-	Memory used: 12.27 GiB
-	Memory free: 1996.71 GiB
+	Memory used: 13.70 GiB
+	Memory free: 1995.26 GiB
 
 	Drives:
 		Drive: /dev/sda (29.30 GiB)
+		Drive: /dev/nvme11n1 (3726.02 GiB)
+		Drive: /dev/nvme7n1 (3726.02 GiB)
+		Drive: /dev/nvme10n1 (2980.82 GiB)
+		Drive: /dev/nvme0n1 (894.25 GiB)
+		Drive: /dev/nvme5n1 (3726.02 GiB)
+		Drive: /dev/nvme3n1 (3726.02 GiB)
+		Drive: /dev/nvme8n1 (3726.02 GiB)
+		Drive: /dev/nvme13n1 (3726.02 GiB)
+		Drive: /dev/nvme9n1 (3726.02 GiB)
+		Drive: /dev/nvme1n1 (2980.82 GiB)
+		Drive: /dev/nvme12n1 (2980.82 GiB)
+		Drive: /dev/nvme15n1 (2980.82 GiB)
+		Drive: /dev/nvme14n1 (3726.02 GiB)
+		Drive: /dev/nvme2n1 (3576.98 GiB)
+		Drive: /dev/nvme4n1 (3576.98 GiB)
+		Drive: /dev/nvme6n1 (3576.98 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,12 +42,13 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (b0:7b:25:dd:fb:26)
-		IPv4: 192.168.5.143/24
-		RX: 0.01 GiB, TX: 0.00 GiB
-
-		eno8403 (b0:7b:25:dd:fb:27)
+		eno8303 (b4:45:06:e5:43:22)
+		IPv4: 192.168.5.87/24
 		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno8403 (b4:45:06:e5:43:23)
+		IPv4: 192.168.5.89/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
@@ -53,9 +70,25 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 ПАМЯТЬ 22 | 128 GB - 3200 - DDR4 3200 - B6
 ПАМЯТЬ 23 | 128 GB - 3200 - DDR4 3200 - B7
 ПАМЯТЬ 24 | 128 GB - 3200 - DDR4 3200 - B8
-ПЛАТФОРМА PowerEdge R7525 - 7506KH3
+ПЛАТФОРМА PowerEdge R7525 - 8406KH3
 ДИСК (29.30 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (2980.82 GiB)
+ДИСК (894.25 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (2980.82 GiB)
+ДИСК (2980.82 GiB)
+ДИСК (2980.82 GiB)
+ДИСК (3726.02 GiB)
+ДИСК (3576.98 GiB)
+ДИСК (3576.98 GiB)
+ДИСК (3576.98 GiB)
 
 ```
 ---
-2026-11-15 10:01:46
+2026-11-15 10:10:32
