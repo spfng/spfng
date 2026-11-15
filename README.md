@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7525 	(SN: 8S9Q4T3)
+	ProLiant DL360 Gen9 	(SN: 6CU7433SBA)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	15 November 2026, Sunday, 05:47 (UTC)
+	15 November 2026, Sunday, 07:26 (UTC)
 
-	AMD EPYC 7A23 48-Core Processor
-	Sockets: 2, Cores per socket: 48
-	SVM-Virtualisation
+	Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+	Sockets: 2, Cores per socket: 8
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.84 0.26 0.09
+	Load Average (1m, 5m, 15m): 0.68 0.22 0.08
 
-	Memory size: 1007.46 GiB
-	Memory used: 9.34 GiB
-	Memory free: 1001.41 GiB
+	Memory size: 125.76 GiB
+	Memory used: 4.20 GiB
+	Memory free: 121.83 GiB
 
 	Drives:
 		Drive: /dev/sda (29.30 GiB)
@@ -26,36 +26,34 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (70:b5:e8:ef:e0:9c)
-		IPv4: 192.168.5.176/24
+		eno1 (f4:03:43:5b:af:fc)
+		IPv4: 192.168.5.175/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno8403 (70:b5:e8:ef:e0:9d)
+		eno2 (f4:03:43:5b:af:fd)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (f4:03:43:5b:af:fe)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (f4:03:43:5b:af:ff)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7A23 48-Core Processor
-ПРОЦЕССОР 02 - AMD EPYC 7A23 48-Core Processor
-ПАМЯТЬ 01 | 64 GB - 2933 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 64 GB - 2933 - DDR4 3200 - A2
-ПАМЯТЬ 03 | 64 GB - 2933 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 64 GB - 2933 - DDR4 3200 - A4
-ПАМЯТЬ 05 | 64 GB - 2933 - DDR4 3200 - A5
-ПАМЯТЬ 06 | 64 GB - 2933 - DDR4 3200 - A6
-ПАМЯТЬ 07 | 64 GB - 2933 - DDR4 3200 - A7
-ПАМЯТЬ 08 | 64 GB - 2933 - DDR4 3200 - A8
-ПАМЯТЬ 17 | 64 GB - 2933 - DDR4 3200 - B1
-ПАМЯТЬ 18 | 64 GB - 2933 - DDR4 3200 - B2
-ПАМЯТЬ 19 | 64 GB - 2933 - DDR4 3200 - B3
-ПАМЯТЬ 20 | 64 GB - 2933 - DDR4 3200 - B4
-ПАМЯТЬ 21 | 64 GB - 2933 - DDR4 3200 - B5
-ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 3200 - B6
-ПАМЯТЬ 23 | 64 GB - 2933 - DDR4 3200 - B7
-ПАМЯТЬ 24 | 64 GB - 2933 - DDR4 3200 - B8
-ПЛАТФОРМА PowerEdge R7525 - 8S9Q4T3
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz
+ПАМЯТЬ 01 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 1
+ПАМЯТЬ 04 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 4
+ПАМЯТЬ 09 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 9
+ПАМЯТЬ 12 | 16 GB - 2400 - DDR4 2400 - PROC 1 DIMM 12
+ПАМЯТЬ 13 | 16 GB - 2400 - DDR4 2400 - PROC 2 DIMM 1
+ПАМЯТЬ 16 | 16 GB - 2400 - DDR4 2400 - PROC 2 DIMM 4
+ПАМЯТЬ 21 | 16 GB - 2400 - DDR4 2400 - PROC 2 DIMM 9
+ПАМЯТЬ 24 | 16 GB - 2400 - DDR4 2400 - PROC 2 DIMM 12
+ПЛАТФОРМА ProLiant DL360 Gen9 - 6CU7433SBA
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-11-15 05:47:04
+2026-11-15 07:26:32
