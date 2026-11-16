@@ -3,21 +3,27 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	R640 vSAN Ready Node 	(SN: 8PWPX53)
+	ProLiant DL360 Gen10 	(SN: SGH015Y4GZ)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	16 November 2026, Monday, 10:45 (UTC)
+	16 November 2026, Monday, 11:28 (UTC)
 
-	Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
-	Sockets: 2, Cores per socket: 20
+	Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz
+	Sockets: 2, Cores per socket: 18
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.84 0.28 0.10
+	Load Average (1m, 5m, 15m): 2.07 0.62 0.21
 
-	Memory size: 754.52 GiB
-	Memory used: 8.13 GiB
-	Memory free: 749.16 GiB
+	Memory size: 251.54 GiB
+	Memory used: 3.35 GiB
+	Memory free: 248.91 GiB
 
-	No drives attached.
+	Drives:
+		Drive: /dev/sda (3576.98 GiB)
+		Drive: /dev/sdb (3576.98 GiB)
+		Drive: /dev/sdc (3576.98 GiB)
+		Drive: /dev/sdd (3576.98 GiB)
+		Drive: /dev/sde (0.00 GiB)
+		Drive: /dev/sdf (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,40 +31,37 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (24:6e:96:be:1f:fc)
-		IPv4: 192.168.5.38/24
+		ens2f0 (00:1b:21:c2:80:70)
+		IPv4: 169.254.156.192/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens2f1 (00:1b:21:c2:80:72)
+		IPv4: 169.254.107.71/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno5 (48:df:37:ac:19:fe)
+		IPv4: 192.168.5.6/24
 		RX: 0.02 GiB, TX: 0.00 GiB
 
-		eno4 (24:6e:96:be:1f:fd)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno1 (24:6e:96:be:1f:f8)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno2 (24:6e:96:be:1f:fa)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		idrac (2c:ea:7f:ef:10:a9)
+		eno6 (48:df:37:ac:19:ff)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz
-ПАМЯТЬ 01 | 64 GB - 2666 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 64 GB - 2666 - DDR4 3200 - A2
-ПАМЯТЬ 03 | 64 GB - 2666 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 64 GB - 2666 - DDR4 3200 - A4
-ПАМЯТЬ 05 | 64 GB - 2666 - DDR4 3200 - A5
-ПАМЯТЬ 06 | 64 GB - 2666 - DDR4 3200 - A6
-ПАМЯТЬ 13 | 64 GB - 2666 - DDR4 3200 - B1
-ПАМЯТЬ 14 | 64 GB - 2666 - DDR4 3200 - B2
-ПАМЯТЬ 15 | 64 GB - 2666 - DDR4 3200 - B3
-ПАМЯТЬ 16 | 64 GB - 2666 - DDR4 3200 - B4
-ПАМЯТЬ 17 | 64 GB - 2666 - DDR4 3200 - B5
-ПАМЯТЬ 18 | 64 GB - 2666 - DDR4 3200 - B6
-ПЛАТФОРМА R640 vSAN Ready Node - 8PWPX53
+ПАМЯТЬ 08 | 64 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 64 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
+ПАМЯТЬ 20 | 64 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 64 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz
+ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015Y4GZ
+ДИСК (3576.98 GiB)
+ДИСК (3576.98 GiB)
+ДИСК (3576.98 GiB)
+ДИСК (3576.98 GiB)
+ДИСК (0.00 GiB)
+ДИСК (29.30 GiB)
 
 ```
 ---
-2026-11-16 10:45:13
+2026-11-16 11:28:41
