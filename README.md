@@ -3,23 +3,24 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: MXQ01905NZ)
+	ProLiant DL360 Gen10 	(SN: SGH016S48R)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	16 November 2026, Monday, 06:34 (UTC)
+	16 November 2026, Monday, 06:46 (UTC)
 
-	Intel(R) Xeon(R) Platinum 8280 CPU @ 2.70GHz
-	Sockets: 2, Cores per socket: 28
+	Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+	Sockets: 2, Cores per socket: 24
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.78 0.24 0.08
+	Load Average (1m, 5m, 15m): 1.01 0.33 0.12
 
-	Memory size: 1511.53 GiB
-	Memory used: 11.76 GiB
-	Memory free: 1505.13 GiB
+	Memory size: 125.54 GiB
+	Memory used: 4.48 GiB
+	Memory free: 121.31 GiB
 
 	Drives:
-		Drive: /dev/sda (0.00 GiB)
-		Drive: /dev/sdb (29.30 GiB)
+		Drive: /dev/sda (894.25 GiB)
+		Drive: /dev/sdb (0.00 GiB)
+		Drive: /dev/sdc (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -27,57 +28,30 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (08:f1:ea:85:45:88)
-		IPv4: 192.168.5.161/24
+		enp1s0f4u4 (ca:74:e4:7f:5b:86)
+		IPv4: 16.1.15.2/30
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno5 (48:df:37:ce:79:90)
+		IPv4: 192.168.5.187/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno5np0 (48:df:37:77:d0:30)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno2 (08:f1:ea:85:45:89)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno3 (08:f1:ea:85:45:8a)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno6np1 (48:df:37:77:d0:38)
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		eno4 (08:f1:ea:85:45:8b)
+		eno6 (48:df:37:ce:79:91)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 01 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 1
-ПАМЯТЬ 02 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 2
-ПАМЯТЬ 03 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 3
-ПАМЯТЬ 04 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 4
-ПАМЯТЬ 05 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 5
-ПАМЯТЬ 06 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 6
-ПАМЯТЬ 07 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 7
-ПАМЯТЬ 08 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
-ПАМЯТЬ 09 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 9
-ПАМЯТЬ 10 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
-ПАМЯТЬ 11 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 11
-ПАМЯТЬ 12 | 64 GB - 2933 - DDR4 2933 - PROC 1 DIMM 12
-ПАМЯТЬ 13 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 1
-ПАМЯТЬ 14 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 2
-ПАМЯТЬ 15 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 3
-ПАМЯТЬ 16 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 4
-ПАМЯТЬ 17 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 5
-ПАМЯТЬ 18 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 6
-ПАМЯТЬ 19 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 7
-ПАМЯТЬ 20 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
-ПАМЯТЬ 21 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 9
-ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
-ПАМЯТЬ 23 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 11
-ПАМЯТЬ 24 | 64 GB - 2933 - DDR4 2933 - PROC 2 DIMM 12
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Platinum 8280 CPU @ 2.70GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Platinum 8280 CPU @ 2.70GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - MXQ01905NZ
+ПАМЯТЬ 08 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 32 GB - 2933 - DDR4 2933 - PROC 1 DIMM 10
+ПАМЯТЬ 20 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 32 GB - 2933 - DDR4 2933 - PROC 2 DIMM 10
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+ПЛАТФОРМА ProLiant DL360 Gen10 - SGH016S48R
+ДИСК (894.25 GiB)
 ДИСК (0.00 GiB)
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-11-16 06:34:37
+2026-11-16 06:46:42
