@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7525 	(SN: 8S9Q4T3)
+	PowerEdge R6525 	(SN: 8DG2344)
 	Running on Linux 6.12.107+deb13-amd64 x86_64
-	23 November 2026, Monday, 04:42 (UTC)
+	23 November 2026, Monday, 08:57 (UTC)
 
-	AMD EPYC 7A23 48-Core Processor
-	Sockets: 2, Cores per socket: 48
+	AMD EPYC 7763 64-Core Processor
+	Sockets: 1, Cores per socket: 64
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.85 0.25 0.09
+	Load Average (1m, 5m, 15m): 0.70 0.25 0.09
 
-	Memory size: 1007.46 GiB
-	Memory used: 9.37 GiB
-	Memory free: 1001.44 GiB
+	Memory size: 30.93 GiB
+	Memory used: 3.99 GiB
+	Memory free: 26.84 GiB
 
 	Drives:
 		Drive: /dev/sda (29.30 GiB)
@@ -26,36 +26,22 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (70:b5:e8:ef:e0:9c)
-		IPv4: 192.168.5.176/24
+		eno8303 (c4:cb:e1:cf:8f:6e)
+		IPv4: 192.168.5.175/24
 		RX: 0.04 GiB, TX: 0.00 GiB
 
-		eno8403 (70:b5:e8:ef:e0:9d)
+		eno8403 (c4:cb:e1:cf:8f:6f)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 55 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7A23 48-Core Processor
-ПРОЦЕССОР 02 - AMD EPYC 7A23 48-Core Processor
-ПАМЯТЬ 01 | 64 GB - 2933 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 64 GB - 2933 - DDR4 3200 - A2
-ПАМЯТЬ 03 | 64 GB - 2933 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 64 GB - 2933 - DDR4 3200 - A4
-ПАМЯТЬ 05 | 64 GB - 2933 - DDR4 3200 - A5
-ПАМЯТЬ 06 | 64 GB - 2933 - DDR4 3200 - A6
-ПАМЯТЬ 07 | 64 GB - 2933 - DDR4 3200 - A7
-ПАМЯТЬ 08 | 64 GB - 2933 - DDR4 3200 - A8
-ПАМЯТЬ 17 | 64 GB - 2933 - DDR4 3200 - B1
-ПАМЯТЬ 18 | 64 GB - 2933 - DDR4 3200 - B2
-ПАМЯТЬ 19 | 64 GB - 2933 - DDR4 3200 - B3
-ПАМЯТЬ 20 | 64 GB - 2933 - DDR4 3200 - B4
-ПАМЯТЬ 21 | 64 GB - 2933 - DDR4 3200 - B5
-ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 3200 - B6
-ПАМЯТЬ 23 | 64 GB - 2933 - DDR4 3200 - B7
-ПАМЯТЬ 24 | 64 GB - 2933 - DDR4 3200 - B8
-ПЛАТФОРМА PowerEdge R7525 - 8S9Q4T3
+ПРОЦЕССОР 01 - AMD EPYC 7763 64-Core Processor
+ПРОЦЕССОР 02 - Not Specified
+ПАМЯТЬ 03 | 16 GB - 3200 - DDR4 3200 - A3
+ПАМЯТЬ 04 | 16 GB - 3200 - DDR4 3200 - A4
+ПЛАТФОРМА PowerEdge R6525 - 8DG2344
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-11-23 04:42:29
+2026-11-23 08:57:38
