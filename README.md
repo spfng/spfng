@@ -3,22 +3,23 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R740xd 	(SN: 2T0X0W2)
+	ProLiant DL380 Gen10 	(SN: CZ382568C7)
 	Running on Linux 6.12.117+deb13-amd64 x86_64
-	25 November 2026, Wednesday, 12:10 (UTC)
+	25 November 2026, Wednesday, 13:54 (UTC)
 
-	Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
+	Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
 	Sockets: 2, Cores per socket: 18
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.07 0.33 0.12
+	Load Average (1m, 5m, 15m): 1.77 1.03 0.43
 
-	Memory size: 1510.52 GiB
-	Memory used: 9.94 GiB
-	Memory free: 1504.93 GiB
+	Memory size: 377.42 GiB
+	Memory used: 5.53 GiB
+	Memory free: 373.19 GiB
 
 	Drives:
-		Drive: /dev/sda (29.30 GiB)
+		Drive: /dev/sda (0.00 GiB)
+		Drive: /dev/sdb (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -26,69 +27,50 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1 (e4:43:4b:64:b6:88)
-		IPv4: 192.168.5.246/24
+		eno1 (b8:83:03:46:69:d6)
+		IPv4: 192.168.5.40/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2 (e4:43:4b:64:b6:89)
-		IPv4: 192.168.5.247/24
+		eno2 (b8:83:03:46:69:d7)
+		IPv4: 192.168.5.39/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens5f0np0 (48:df:37:1b:87:20)
-		IPv4: 169.254.162.32/16
+		eno3 (b8:83:03:46:69:d8)
+		IPv4: 192.168.5.42/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno3 (e4:43:4b:64:b6:8a)
-		IPv4: 192.168.5.248/24
+		eno4 (b8:83:03:46:69:d9)
+		IPv4: 192.168.5.41/24
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4 (e4:43:4b:64:b6:8b)
-		IPv4: 192.168.5.249/24
-		RX: 0.01 GiB, TX: 0.00 GiB
-
-		ens5f1np1 (48:df:37:1b:87:28)
-		IPv4: 169.254.230.13/16
+		eno5 (48:df:37:29:be:84)
+		IPv4: 169.254.82.172/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		ens4f0 (38:ea:a7:37:ab:74)
-		IPv4: 169.254.66.105/16
-		RX: 0.00 GiB, TX: 0.00 GiB
-
-		ens4f1 (38:ea:a7:37:ab:75)
-		IPv4: 169.254.37.65/16
+		eno6 (48:df:37:29:be:85)
+		IPv4: 169.254.248.228/16
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
-ПАМЯТЬ 01 | 64 GB - 2666 - DDR4 2666 - A1
-ПАМЯТЬ 02 | 64 GB - 2666 - DDR4 2666 - A2
-ПАМЯТЬ 03 | 64 GB - 2666 - DDR4 2666 - A3
-ПАМЯТЬ 04 | 64 GB - 2666 - DDR4 2666 - A4
-ПАМЯТЬ 05 | 64 GB - 2666 - DDR4 2666 - A5
-ПАМЯТЬ 06 | 64 GB - 2666 - DDR4 2666 - A6
-ПАМЯТЬ 07 | 64 GB - 2666 - DDR4 2666 - A7
-ПАМЯТЬ 08 | 64 GB - 2666 - DDR4 2666 - A8
-ПАМЯТЬ 09 | 64 GB - 2666 - DDR4 2666 - A9
-ПАМЯТЬ 10 | 64 GB - 2666 - DDR4 2666 - A10
-ПАМЯТЬ 11 | 64 GB - 2666 - DDR4 2666 - A11
-ПАМЯТЬ 12 | 64 GB - 2666 - DDR4 2666 - A12
-ПАМЯТЬ 13 | 64 GB - 2666 - DDR4 2666 - B1
-ПАМЯТЬ 14 | 64 GB - 2666 - DDR4 2666 - B2
-ПАМЯТЬ 15 | 64 GB - 2666 - DDR4 2666 - B3
-ПАМЯТЬ 16 | 64 GB - 2666 - DDR4 2666 - B4
-ПАМЯТЬ 17 | 64 GB - 2666 - DDR4 2666 - B5
-ПАМЯТЬ 18 | 64 GB - 2666 - DDR4 2666 - B6
-ПАМЯТЬ 19 | 64 GB - 2666 - DDR4 2666 - B7
-ПАМЯТЬ 20 | 64 GB - 2666 - DDR4 2666 - B8
-ПАМЯТЬ 21 | 64 GB - 2666 - DDR4 2666 - B9
-ПАМЯТЬ 22 | 64 GB - 2666 - DDR4 2666 - B10
-ПАМЯТЬ 23 | 64 GB - 2666 - DDR4 2666 - B11
-ПАМЯТЬ 24 | 64 GB - 2666 - DDR4 2666 - B12
-ПЛАТФОРМА PowerEdge R740xd - 2T0X0W2
+ПАМЯТЬ 01 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 1
+ПАМЯТЬ 03 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 3
+ПАМЯТЬ 05 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 5
+ПАМЯТЬ 08 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 8
+ПАМЯТЬ 10 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 10
+ПАМЯТЬ 12 | 32 GB - 2666 - DDR4 2666 - PROC 1 DIMM 12
+ПАМЯТЬ 13 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 1
+ПАМЯТЬ 15 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 3
+ПАМЯТЬ 17 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 5
+ПАМЯТЬ 20 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 8
+ПАМЯТЬ 22 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 10
+ПАМЯТЬ 24 | 32 GB - 2666 - DDR4 2666 - PROC 2 DIMM 12
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+ПЛАТФОРМА ProLiant DL380 Gen10 - CZ382568C7
+ДИСК (0.00 GiB)
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-11-25 12:10:15
+2026-11-25 13:54:16
