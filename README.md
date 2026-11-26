@@ -3,19 +3,19 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7525 	(SN: 8S9Q4T3)
+	PowerEdge R740xd 	(SN: 2T0X0W2)
 	Running on Linux 6.12.117+deb13-amd64 x86_64
-	26 November 2026, Thursday, 03:01 (UTC)
+	26 November 2026, Thursday, 03:59 (UTC)
 
-	AMD EPYC 7A23 48-Core Processor
-	Sockets: 2, Cores per socket: 48
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
+	Sockets: 2, Cores per socket: 18
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.80 0.23 0.08
+	Load Average (1m, 5m, 15m): 1.12 0.37 0.13
 
-	Memory size: 1007.46 GiB
-	Memory used: 9.72 GiB
-	Memory free: 1001.04 GiB
+	Memory size: 1510.52 GiB
+	Memory used: 10.13 GiB
+	Memory free: 1504.74 GiB
 
 	Drives:
 		Drive: /dev/sda (29.30 GiB)
@@ -26,36 +26,64 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (70:b5:e8:ef:e0:9c)
-		IPv4: 192.168.5.176/24
+		eno1 (e4:43:4b:64:b6:88)
+		IPv4: 192.168.5.246/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno8403 (70:b5:e8:ef:e0:9d)
+		ens5f0np0 (48:df:37:1b:87:20)
+		IPv4: 169.254.162.32/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno2 (e4:43:4b:64:b6:89)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno3 (e4:43:4b:64:b6:8a)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (e4:43:4b:64:b6:8b)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens5f1np1 (48:df:37:1b:87:28)
+		IPv4: 169.254.230.13/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens4f0 (38:ea:a7:37:ab:74)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens4f1 (38:ea:a7:37:ab:75)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7A23 48-Core Processor
-ПРОЦЕССОР 02 - AMD EPYC 7A23 48-Core Processor
-ПАМЯТЬ 01 | 64 GB - 2933 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 64 GB - 2933 - DDR4 3200 - A2
-ПАМЯТЬ 03 | 64 GB - 2933 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 64 GB - 2933 - DDR4 3200 - A4
-ПАМЯТЬ 05 | 64 GB - 2933 - DDR4 3200 - A5
-ПАМЯТЬ 06 | 64 GB - 2933 - DDR4 3200 - A6
-ПАМЯТЬ 07 | 64 GB - 2933 - DDR4 3200 - A7
-ПАМЯТЬ 08 | 64 GB - 2933 - DDR4 3200 - A8
-ПАМЯТЬ 17 | 64 GB - 2933 - DDR4 3200 - B1
-ПАМЯТЬ 18 | 64 GB - 2933 - DDR4 3200 - B2
-ПАМЯТЬ 19 | 64 GB - 2933 - DDR4 3200 - B3
-ПАМЯТЬ 20 | 64 GB - 2933 - DDR4 3200 - B4
-ПАМЯТЬ 21 | 64 GB - 2933 - DDR4 3200 - B5
-ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 3200 - B6
-ПАМЯТЬ 23 | 64 GB - 2933 - DDR4 3200 - B7
-ПАМЯТЬ 24 | 64 GB - 2933 - DDR4 3200 - B8
-ПЛАТФОРМА PowerEdge R7525 - 8S9Q4T3
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
+ПАМЯТЬ 01 | 64 GB - 2666 - DDR4 2666 - A1
+ПАМЯТЬ 02 | 64 GB - 2666 - DDR4 2666 - A2
+ПАМЯТЬ 03 | 64 GB - 2666 - DDR4 2666 - A3
+ПАМЯТЬ 04 | 64 GB - 2666 - DDR4 2666 - A4
+ПАМЯТЬ 05 | 64 GB - 2666 - DDR4 2666 - A5
+ПАМЯТЬ 06 | 64 GB - 2666 - DDR4 2666 - A6
+ПАМЯТЬ 07 | 64 GB - 2666 - DDR4 2666 - A7
+ПАМЯТЬ 08 | 64 GB - 2666 - DDR4 2666 - A8
+ПАМЯТЬ 09 | 64 GB - 2666 - DDR4 2666 - A9
+ПАМЯТЬ 10 | 64 GB - 2666 - DDR4 2666 - A10
+ПАМЯТЬ 11 | 64 GB - 2666 - DDR4 2666 - A11
+ПАМЯТЬ 12 | 64 GB - 2666 - DDR4 2666 - A12
+ПАМЯТЬ 13 | 64 GB - 2666 - DDR4 2666 - B1
+ПАМЯТЬ 14 | 64 GB - 2666 - DDR4 2666 - B2
+ПАМЯТЬ 15 | 64 GB - 2666 - DDR4 2666 - B3
+ПАМЯТЬ 16 | 64 GB - 2666 - DDR4 2666 - B4
+ПАМЯТЬ 17 | 64 GB - 2666 - DDR4 2666 - B5
+ПАМЯТЬ 18 | 64 GB - 2666 - DDR4 2666 - B6
+ПАМЯТЬ 19 | 64 GB - 2666 - DDR4 2666 - B7
+ПАМЯТЬ 20 | 64 GB - 2666 - DDR4 2666 - B8
+ПАМЯТЬ 21 | 64 GB - 2666 - DDR4 2666 - B9
+ПАМЯТЬ 22 | 64 GB - 2666 - DDR4 2666 - B10
+ПАМЯТЬ 23 | 64 GB - 2666 - DDR4 2666 - B11
+ПАМЯТЬ 24 | 64 GB - 2666 - DDR4 2666 - B12
+ПЛАТФОРМА PowerEdge R740xd - 2T0X0W2
 ДИСК (29.30 GiB)
 
 ```
 ---
-2026-11-26 03:01:50
+2026-11-26 03:59:06
