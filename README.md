@@ -3,37 +3,22 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	2288H V5 Purley	(SN: 2102312DKP10J4000046)
+	PowerEdge R740xd 	(SN: 2T0X0W2)
 	Running on Linux 6.12.117+deb13-amd64 x86_64
-	26 November 2026, Thursday, 04:19 (UTC)
+	26 November 2026, Thursday, 06:36 (UTC)
 
-	Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
-	Sockets: 2, Cores per socket: 26
+	Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
+	Sockets: 2, Cores per socket: 18
 	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 1.56 0.59 0.22
+	Load Average (1m, 5m, 15m): 1.21 0.35 0.12
 
-	Memory size: 187.40 GiB
-	Memory used: 10.87 GiB
-	Memory free: 177.06 GiB
+	Memory size: 1510.52 GiB
+	Memory used: 10.16 GiB
+	Memory free: 1504.71 GiB
 
 	Drives:
-		Drive: /dev/sda (13039.00 GiB)
-		Drive: /dev/sdb (13039.00 GiB)
-		Drive: /dev/sdc (13039.00 GiB)
-		Drive: /dev/sdd (13039.00 GiB)
-		Drive: /dev/sde (16764.00 GiB)
-		Drive: /dev/sdf (16764.00 GiB)
-		Drive: /dev/sdg (16764.00 GiB)
-		Drive: /dev/sdh (16764.00 GiB)
-		Drive: /dev/sdi (16764.00 GiB)
-		Drive: /dev/sdj (16764.00 GiB)
-		Drive: /dev/sdk (16764.00 GiB)
-		Drive: /dev/sdl (16764.00 GiB)
-		Drive: /dev/sdm (16764.00 GiB)
-		Drive: /dev/sdn (16764.00 GiB)
-		Drive: /dev/sdo (29.30 GiB)
-		Drive: /dev/nvme0n1 (238.47 GiB)
+		Drive: /dev/sda (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -41,56 +26,62 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno1np0 (58:f9:87:74:bc:99)
-		IPv4: 192.168.5.175/24
+		eno1 (e4:43:4b:64:b6:88)
+		IPv4: 192.168.5.246/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno2np1 (58:f9:87:74:bc:9a)
-		IPv4: 192.168.5.179/24
-		RX: 0.01 GiB, TX: 0.00 GiB
-
-		eno3np2 (58:f9:87:74:bc:9b)
-		IPv4: 192.168.5.177/24
+		eno2 (e4:43:4b:64:b6:89)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno4np3 (58:f9:87:74:bc:9c)
-		IPv4: 192.168.5.178/24
+		eno3 (e4:43:4b:64:b6:8a)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno4 (e4:43:4b:64:b6:8b)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens5f0np0 (48:df:37:1b:87:20)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens5f1np1 (48:df:37:1b:87:28)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens4f0 (38:ea:a7:37:ab:74)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		ens4f1 (38:ea:a7:37:ab:75)
 		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
-ПАМЯТЬ 01 | 16 GB - 2666 - DDR4 3200 - DIMM000 J22
-ПАМЯТЬ 03 | 16 GB - 2666 - DDR4 3200 - DIMM010 J24
-ПАМЯТЬ 05 | 16 GB - 2666 - DDR4 3200 - DIMM020 J26
-ПАМЯТЬ 07 | 16 GB - 2666 - DDR4 3200 - DIMM030 J28
-ПАМЯТЬ 09 | 16 GB - 2666 - DDR4 3200 - DIMM040 J30
-ПАМЯТЬ 11 | 16 GB - 2666 - DDR4 3200 - DIMM050 J32
-ПАМЯТЬ 13 | 16 GB - 2666 - DDR4 3200 - DIMM100 J34
-ПАМЯТЬ 15 | 16 GB - 2666 - DDR4 3200 - DIMM110 J36
-ПАМЯТЬ 17 | 16 GB - 2666 - DDR4 3200 - DIMM120 J72
-ПАМЯТЬ 19 | 16 GB - 2666 - DDR4 3200 - DIMM130 J40
-ПАМЯТЬ 21 | 16 GB - 2666 - DDR4 3200 - DIMM140 J42
-ПАМЯТЬ 23 | 16 GB - 2666 - DDR4 3200 - DIMM150 J44
-ПЛАТФОРМА 2288H V5 - 2102312DKP10J4000046
-ДИСК (13039.00 GiB)
-ДИСК (13039.00 GiB)
-ДИСК (13039.00 GiB)
-ДИСК (13039.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
-ДИСК (16764.00 GiB)
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
+ПАМЯТЬ 01 | 64 GB - 2666 - DDR4 2666 - A1
+ПАМЯТЬ 02 | 64 GB - 2666 - DDR4 2666 - A2
+ПАМЯТЬ 03 | 64 GB - 2666 - DDR4 2666 - A3
+ПАМЯТЬ 04 | 64 GB - 2666 - DDR4 2666 - A4
+ПАМЯТЬ 05 | 64 GB - 2666 - DDR4 2666 - A5
+ПАМЯТЬ 06 | 64 GB - 2666 - DDR4 2666 - A6
+ПАМЯТЬ 07 | 64 GB - 2666 - DDR4 2666 - A7
+ПАМЯТЬ 08 | 64 GB - 2666 - DDR4 2666 - A8
+ПАМЯТЬ 09 | 64 GB - 2666 - DDR4 2666 - A9
+ПАМЯТЬ 10 | 64 GB - 2666 - DDR4 2666 - A10
+ПАМЯТЬ 11 | 64 GB - 2666 - DDR4 2666 - A11
+ПАМЯТЬ 12 | 64 GB - 2666 - DDR4 2666 - A12
+ПАМЯТЬ 13 | 64 GB - 2666 - DDR4 2666 - B1
+ПАМЯТЬ 14 | 64 GB - 2666 - DDR4 2666 - B2
+ПАМЯТЬ 15 | 64 GB - 2666 - DDR4 2666 - B3
+ПАМЯТЬ 16 | 64 GB - 2666 - DDR4 2666 - B4
+ПАМЯТЬ 17 | 64 GB - 2666 - DDR4 2666 - B5
+ПАМЯТЬ 18 | 64 GB - 2666 - DDR4 2666 - B6
+ПАМЯТЬ 19 | 64 GB - 2666 - DDR4 2666 - B7
+ПАМЯТЬ 20 | 64 GB - 2666 - DDR4 2666 - B8
+ПАМЯТЬ 21 | 64 GB - 2666 - DDR4 2666 - B9
+ПАМЯТЬ 22 | 64 GB - 2666 - DDR4 2666 - B10
+ПАМЯТЬ 23 | 64 GB - 2666 - DDR4 2666 - B11
+ПАМЯТЬ 24 | 64 GB - 2666 - DDR4 2666 - B12
+ПЛАТФОРМА PowerEdge R740xd - 2T0X0W2
 ДИСК (29.30 GiB)
-ДИСК (238.47 GiB)
 
 ```
 ---
-2026-11-26 04:19:22
+2026-11-26 06:36:48
