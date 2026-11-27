@@ -3,24 +3,24 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	ProLiant DL360 Gen10 	(SN: SGH015Y4GZ)
+	PowerEdge R6525 	(SN: 8DG2344)
 	Running on Linux 6.12.117+deb13-amd64 x86_64
-	27 November 2026, Friday, 07:37 (UTC)
+	27 November 2026, Friday, 07:50 (UTC)
 
-	Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz
-	Sockets: 2, Cores per socket: 18
-	VMX-Virtualisation
+	AMD EPYC 7763 64-Core Processor
+	Sockets: 2, Cores per socket: 64
+	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 0.31 0.09 0.07
+	Load Average (1m, 5m, 15m): 0.96 0.36 0.13
 
-	Memory size: 62.54 GiB
-	Memory used: 3.93 GiB
-	Memory free: 58.58 GiB
+	Memory size: 503.44 GiB
+	Memory used: 9.08 GiB
+	Memory free: 496.13 GiB
 
 	Drives:
-		Drive: /dev/sda (894.25 GiB)
-		Drive: /dev/sdb (0.00 GiB)
-		Drive: /dev/sdc (29.30 GiB)
+		Drive: /dev/sda (447.07 GiB)
+		Drive: /dev/sdb (29.30 GiB)
+		Drive: /dev/nvme0n1 (2980.82 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -28,25 +28,45 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno5 (48:df:37:ac:19:fe)
-		IPv4: 192.168.5.6/24
+		eno8303 (f4:02:70:b9:44:e8)
+		IPv4: 192.168.5.187/24
 		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno6 (48:df:37:ac:19:ff)
-		IPv4: 192.168.5.7/24
-		RX: 0.02 GiB, TX: 0.00 GiB
+		eno8403 (f4:02:70:b9:44:e9)
+		IPv4: 192.168.5.188/24
+		RX: 0.01 GiB, TX: 0.00 GiB
+
+		eno12399np0 (6c:b3:11:98:51:88)
+		IPv4: 169.254.138.180/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno12409np1 (6c:b3:11:98:51:8a)
+		IPv4: 169.254.12.123/16
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno12419np2 (6c:b3:11:98:51:8c)
+		RX: 0.00 GiB, TX: 0.00 GiB
+
+		eno12429np3 (6c:b3:11:98:51:8e)
+		RX: 0.00 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПАМЯТЬ 08 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 8
-ПАМЯТЬ 20 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 8
-ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz
-ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz
-ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015Y4GZ
-ДИСК (894.25 GiB)
-ДИСК (0.00 GiB)
+ПРОЦЕССОР 01 - AMD EPYC 7763 64-Core Processor
+ПРОЦЕССОР 02 - AMD EPYC 7763 64-Core Processor
+ПАМЯТЬ 01 | 64 GB - 2933 - DDR4 3200 - A1
+ПАМЯТЬ 02 | 64 GB - 2933 - DDR4 3200 - A2
+ПАМЯТЬ 03 | 64 GB - 2933 - DDR4 3200 - A3
+ПАМЯТЬ 04 | 64 GB - 2933 - DDR4 3200 - A4
+ПАМЯТЬ 17 | 64 GB - 2933 - DDR4 3200 - B1
+ПАМЯТЬ 18 | 64 GB - 2933 - DDR4 3200 - B2
+ПАМЯТЬ 19 | 64 GB - 2933 - DDR4 3200 - B3
+ПАМЯТЬ 20 | 64 GB - 2933 - DDR4 3200 - B4
+ПЛАТФОРМА PowerEdge R6525 - 8DG2344
+ДИСК (447.07 GiB)
 ДИСК (29.30 GiB)
+ДИСК (2980.82 GiB)
 
 ```
 ---
-2026-11-27 07:37:31
+2026-11-27 07:50:02
