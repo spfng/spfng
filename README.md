@@ -3,21 +3,24 @@
 ```
 NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
-	PowerEdge R7525 	(SN: 8S9Q4T3)
+	ProLiant DL360 Gen10 	(SN: SGH015Y4GZ)
 	Running on Linux 6.12.117+deb13-amd64 x86_64
-	27 November 2026, Friday, 07:36 (UTC)
+	27 November 2026, Friday, 07:37 (UTC)
 
-	AMD EPYC 7A23 48-Core Processor
-	Sockets: 2, Cores per socket: 48
-	SVM-Virtualisation
+	Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz
+	Sockets: 2, Cores per socket: 18
+	VMX-Virtualisation
 
-	Load Average (1m, 5m, 15m): 191.99 164.50 89.25
+	Load Average (1m, 5m, 15m): 0.31 0.09 0.07
 
-	Memory size: 1007.46 GiB
-	Memory used: 9.14 GiB
-	Memory free: 1001.57 GiB
+	Memory size: 62.54 GiB
+	Memory used: 3.93 GiB
+	Memory free: 58.58 GiB
 
-	No drives attached.
+	Drives:
+		Drive: /dev/sda (894.25 GiB)
+		Drive: /dev/sdb (0.00 GiB)
+		Drive: /dev/sdc (29.30 GiB)
 
 	Network Interfaces:
 		lo (00:00:00:00:00:00)
@@ -25,35 +28,25 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 		IPv6: ::1/128
 		RX: 0.00 GiB, TX: 0.00 GiB
 
-		eno8303 (70:b5:e8:ef:e0:9c)
-		IPv4: 192.168.5.177/24
-		RX: 0.07 GiB, TX: 0.00 GiB
+		eno5 (48:df:37:ac:19:fe)
+		IPv4: 192.168.5.6/24
+		RX: 0.01 GiB, TX: 0.00 GiB
 
-		eno8403 (70:b5:e8:ef:e0:9d)
-		RX: 0.00 GiB, TX: 0.00 GiB
+		eno6 (48:df:37:ac:19:ff)
+		IPv4: 192.168.5.7/24
+		RX: 0.02 GiB, TX: 0.00 GiB
 
 	APT: 1 updates available
 
-ПРОЦЕССОР 01 - AMD EPYC 7A23 48-Core Processor
-ПРОЦЕССОР 02 - AMD EPYC 7A23 48-Core Processor
-ПАМЯТЬ 01 | 64 GB - 2933 - DDR4 3200 - A1
-ПАМЯТЬ 02 | 64 GB - 2933 - DDR4 3200 - A2
-ПАМЯТЬ 03 | 64 GB - 2933 - DDR4 3200 - A3
-ПАМЯТЬ 04 | 64 GB - 2933 - DDR4 3200 - A4
-ПАМЯТЬ 05 | 64 GB - 2933 - DDR4 3200 - A5
-ПАМЯТЬ 06 | 64 GB - 2933 - DDR4 3200 - A6
-ПАМЯТЬ 07 | 64 GB - 2933 - DDR4 3200 - A7
-ПАМЯТЬ 08 | 64 GB - 2933 - DDR4 3200 - A8
-ПАМЯТЬ 17 | 64 GB - 2933 - DDR4 3200 - B1
-ПАМЯТЬ 18 | 64 GB - 2933 - DDR4 3200 - B2
-ПАМЯТЬ 19 | 64 GB - 2933 - DDR4 3200 - B3
-ПАМЯТЬ 20 | 64 GB - 2933 - DDR4 3200 - B4
-ПАМЯТЬ 21 | 64 GB - 2933 - DDR4 3200 - B5
-ПАМЯТЬ 22 | 64 GB - 2933 - DDR4 3200 - B6
-ПАМЯТЬ 23 | 64 GB - 2933 - DDR4 3200 - B7
-ПАМЯТЬ 24 | 64 GB - 2933 - DDR4 3200 - B8
-ПЛАТФОРМА PowerEdge R7525 - 8S9Q4T3
+ПАМЯТЬ 08 | 32 GB - 2400 - DDR4 2400 - PROC 1 DIMM 8
+ПАМЯТЬ 20 | 32 GB - 2400 - DDR4 2400 - PROC 2 DIMM 8
+ПРОЦЕССОР 01 - Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz
+ПРОЦЕССОР 02 - Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz
+ПЛАТФОРМА ProLiant DL360 Gen10 - SGH015Y4GZ
+ДИСК (894.25 GiB)
+ДИСК (0.00 GiB)
+ДИСК (29.30 GiB)
 
 ```
 ---
-2026-11-27 07:36:48
+2026-11-27 07:37:31
