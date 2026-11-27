@@ -5,17 +5,17 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 	PowerEdge R7525 	(SN: 8S9Q4T3)
 	Running on Linux 6.12.117+deb13-amd64 x86_64
-	27 November 2026, Friday, 07:33 (UTC)
+	27 November 2026, Friday, 07:36 (UTC)
 
 	AMD EPYC 7A23 48-Core Processor
 	Sockets: 2, Cores per socket: 48
 	SVM-Virtualisation
 
-	Load Average (1m, 5m, 15m): 191.73 140.03 65.90
+	Load Average (1m, 5m, 15m): 191.99 164.50 89.25
 
 	Memory size: 1007.46 GiB
-	Memory used: 9.18 GiB
-	Memory free: 1001.53 GiB
+	Memory used: 9.14 GiB
+	Memory free: 1001.57 GiB
 
 	No drives attached.
 
@@ -27,7 +27,7 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 		eno8303 (70:b5:e8:ef:e0:9c)
 		IPv4: 192.168.5.177/24
-		RX: 0.06 GiB, TX: 0.00 GiB
+		RX: 0.07 GiB, TX: 0.00 GiB
 
 		eno8403 (70:b5:e8:ef:e0:9d)
 		RX: 0.00 GiB, TX: 0.00 GiB
@@ -56,4 +56,4 @@ NETBOOT.RU PROJECT COPYRIGHT (C) Spoofing <spoofing@spfng.com>, 2026
 
 ```
 ---
-2026-11-27 07:33:38
+2026-11-27 07:36:48
